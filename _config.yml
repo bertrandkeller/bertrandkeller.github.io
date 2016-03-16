@@ -1,0 +1,77 @@
+# Site settings
+title: bertrandkeller
+email: bertrand.keller@gmail.com
+description: Découvrir des choses et d'autres
+
+baseurl: ""
+permalink: /:year/:month/:day/:title
+#url: "http://sagefemmenormandie.github.io"
+github_username:  bertrandkeller
+# gems:
+#   - jekyll-assets
+
+# Build settings
+markdown: kramdown
+#markdown_ext: "markdown,mkdown,mkdn,mkd,md,txt"
+paginate: 1
+paginate_path: "/page:num/"
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+defaults:
+  - scope:
+      type: "posts"
+    values:
+      layout: "post"
+
+text:
+  pagination:
+    newer: 'Précédent'
+    older: 'Suivant'
+
+exclude:
+  - .editorconfig
+  - .gitattributes
+  - .gitignore
+  - .ruby-version
+  - .travis.yml
+  - Gemfile
+  - Gemfile.lock
+  - Procfile
+  - script
+  - vendor
+  - gems
+  - tmp
+  - LICENSE
+  - README.md
+  - notes-integration.md
+  - script
+  # - 2005
+  # - 2006
+  # - 2007
+  # - 2008
+  # - 2009
+  # - 2010
+  # - 2011
+  # - 2012
+  # - 2013
+  # - 2014
+  # - 2015
+
+# Plugin: jekyll-assets
+
+# assets:
+#   sources:
+#     - assets/js
+#     - assets/css
+#     - _sass
+#   autoprefixer:
+#     browsers: ["last 2 versions","> 5%","IE 9"]

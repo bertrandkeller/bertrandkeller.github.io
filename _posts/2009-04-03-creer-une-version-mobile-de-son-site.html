@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'TYPO3 : créer une version mobile de son site'
+date: 2009-04-03 14:57:47.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- typo3
+tags:
+- interface
+- plateforme
+- typo3
+- W3C
+meta:
+  btc_comment_summary: a:0:{}
+  btc_comment_counts: a:0:{}
+author:
+  login: bertrand
+  email: bertrand.keller@gmail.com
+  display_name: bertrand keller
+  first_name: bertrand
+  last_name: keller
+---
+<h3>Comment réaliser une version mobile de son site</h3>
+<ul>
+<li>Un gabarit dédié</li>
+<li>Une feuille de style spéciale</li>
+<li>Une version modifiée (patch) de TemplaVoila</li>
+<li>Une gabarit TemplaVoila spécifique à la version mobile</li>
+<li>Un fichier PHP avec les fonction suivantes :
+<ul>
+<li>Détection de l'agent "mobile"</li>
+<li>Instruction TemplaVoila pour afficher le gabarit dédié</li>
+</ul>
+</li>
+<li>Conditions TypoScript pour affichage d'un contenu particulier pour l'user agents "mobile"</li>
+</ul>
+<p>Dmitry Dulepov nous livre ses petites trouvailles pour le développement d'un site mobile : <a href="http://dmitry-dulepov.com/article/creating-a-mobile-version-of-a-web-site.html">Creating a mobile version of a web site</a>.</p>

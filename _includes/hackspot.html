@@ -1,0 +1,189 @@
+
+{% raw %}
+<script id="hackSpotsTable" type="text/html">
+    <table>
+        <tr>
+            <th class="tHeader">Name</th>
+            <th class="tHeader">Address</th>
+            <th class="tHeader">City</th>
+            <th class="tHeader">State</th>
+            <th class="tHeader">Country</th>
+            <th class="">Elsewhere</th>
+        </tr>
+        {{#rows}}
+        <tr id="{{rowNumber}}" class="spotRow">
+            <td>{{name}}</td>
+            <td>{{address}}</td>
+            <td>{{city}}</td>
+            <td>{{state}}</td>
+            <td>{{country}}</td>
+            <td><a class="button" href="https://maps.google.com/maps?q={{address}},{{city}},{{state}}" target="_blank">G Map</a> <a class="button" href="http://www.yelp.com/search?find_desc={{name}}&find_loc={{city}},{{state}}" target="_blank">Yelp</a></td>
+        </tr>
+        {{/rows}}
+    </table>
+</script>
+
+<script id="latestSpot" type="text/html">
+    {{#rows}}
+    <h4 class="fauxButton">MOST RECENT SPOT</h4>
+    <h2>{{name}}</h2>
+    <p class="colorText">{{address}}
+        <p>
+            <p class="colorText">{{city}}{{#state}}, {{state}}{{/state}}{{#postcode}}, {{postcode}}{{/postcode}}</p>
+            <ul>
+                <li><span class="category">Wifi:</span> {{wifipassword}}</li>
+                <li><span class="category">Outlets:</span> {{outlets}}</li>
+                <li><span class="category">Couch:</span> {{couch}}</li>
+                <li><span class="category">Large Table:</span> {{largetable}}</li>
+                <li><span class="category">Outdoor Seating:</span> {{outdoorseating}}</li>
+                <li><span class="category">Brewing:</span> {{brewing}}</li>
+                <li><span class="category">Contributed By:</span> <a href="http://www.twitter.com/{{contributerstwitter}}" target="_blank">@{{contributerstwitter}}</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://maps.google.com/maps?q={{address}},{{city}},{{state}}" target="_blank">View in Google Maps</a></li>
+                <li><a href="http://www.yelp.com/search?find_desc={{name}}&find_loc={{city}},{{state}}" target="_blank">Find on Yelp</a></li>
+            </ul>
+            {{/rows}}
+</script>
+
+<script id="theNumberofSpots" type="text/html">
+  <p><strong><span class="red-text">{{numberOfSpots}}</span> hack spots strong!</p>
+</script>
+
+<script id="selectedSpot" type="text/html">
+    {{#rows}}
+        <h4 class="fauxButton">SELECTED SPOT</h4>
+        <h2>{{name}}</h2>
+        <p class="colorText">{{address}}<p>
+        <p class="colorText">{{city}}{{#state}}, {{state}}{{/state}}{{#postcode}}, {{postcode}}{{/postcode}}</p>
+        <ul>
+            <li><span class="category">Wifi:</span> {{wifipassword}}</li>
+            <li><span class="category">Outlets:</span> {{outlets}}</li>
+            <li><span class="category">Couch:</span> {{couch}}</li>
+            <li><span class="category">Large Table:</span> {{largetable}}</li>
+            <li><span class="category">Outdoor Seating:</span> {{outdoorseating}}</li>
+            <li><span class="category">Brewing:</span> {{brewing}}</li>
+        </ul>
+        <ul>
+            <li><a href="https://maps.google.com/maps?q={{address}},{{city}},{{state}}" target="_blank">View in Google Maps</a></li>
+            <li><a href="http://www.yelp.com/search?find_desc={{name}}&find_loc={{city}},{{state}}" target="_blank">Find on Yelp</a></li>
+        </ul>
+    {{/rows}}
+</script>
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+        var gData
+        var URL = "1hnfQcggYcBYimuO_UOMvwoOi_I9vUvFpkMt4wjrrpLE"
+            Tabletop.init({ key: URL, callback: showInfo, simpleSheet: true })
+    })
+
+    // so long, so messy
+    function showInfo(gData) {
+        tableOptions = {
+            "data": gData,
+            "tableDiv": "#hackSpotsTable",
+            "filterDiv": "#tableFilter"
+        }
+        // make the table, and the search bar
+        Sheetsee.makeTable(tableOptions)
+        Sheetsee.initiateTableFilter(tableOptions)
+
+        // create geoJSON with coordinates and other
+        // useful bits from the original data
+        var optionsJSON = ["name", "address", "city", "rowNumber"]
+        var geoJSON = Sheetsee.createGeoJSON(gData, optionsJSON)
+
+        // create map, tilelayer (map background), markers and popups
+        var map = Sheetsee.loadMap("map")
+        Sheetsee.addTileLayer(map, 'jllord.n7aml2bc')
+        var markerLayer = Sheetsee.addMarkerLayer(geoJSON, map, "<h2>{{ name }}</h2>", true)
+
+        // find the latest spot with the most important
+        // info filled in (to prevent map breaking if
+        // someone is currently editing spreadsheet)
+        var theLatestSpot = findLatestCompleteSpot(gData)
+        var latestSpot = Sheetsee.ich.latestSpot({
+            rows: theLatestSpot
+        })
+        // set it and pan to it
+        $('#latestSpot').html(latestSpot)
+        map.setView([theLatestSpot.lat, theLatestSpot.long], 14)
+
+        // when someone clicks on a row, highlight it and
+        // re-center the map
+        // TODO show popup, change marker color
+        $('.spotRow').live("click", function(event) {
+            $('.spotRow').removeClass("selectedRow")
+            var rowNumber = $(this).closest("tr").attr("id")
+            $('#' + rowNumber).addClass("selectedRow")
+            var dataElement = Sheetsee.getMatches(gData, rowNumber, "rowNumber")
+            var selectedSpot = Sheetsee.ich.selectedSpot({
+                rows: dataElement
+            })
+            $('#latestSpot').css("display", "none")
+            $('#selectedSpot').html(selectedSpot).css("display", "inline")
+            var selectedCoords = [dataElement[0].lat, dataElement[0].long]
+            map.setView(selectedCoords, 14)
+        })
+
+        // so that the first map and info that loads
+        // is complete and doesn't show rows that are
+        // actively being edited by folk
+        function findLatestCompleteSpot(data) {
+            var latestCompleteSpot = []
+            var startWithLatestRow = data.reverse()
+            startWithLatestRow.forEach(function(row){
+                if (!row.lat || !row.long || !row.name || !row.address || !row.city || !row.state ) return
+                else latestCompleteSpot.push(row)
+            })
+            return latestCompleteSpot[0]
+        }
+
+        // Add click listener to the markerLayer
+        markerLayer.on('click', function(e) {
+            // clear any selected rows
+            $('.spotRow').removeClass("selectedRow")
+            // get row number of selected marker
+            var rowNumber = e.layer.feature.opts.rowNumber
+            // find that row in the table and make consider it selected
+            $('#' + rowNumber).addClass("selectedRow")
+            // using row number, get the data for the selected spot
+            var dataElement = Sheetsee.getMatches(gData, rowNumber.toString(), "rowNumber")
+            // take those details and re-write the selected spot section
+            var selectedSpot = Sheetsee.ich.selectedSpot({
+                rows: dataElement
+            })
+            // center the map on the selected element
+            map.panTo([dataElement[0].lat, dataElement[0].long])
+            // update the spot listing
+            $('#latestSpot').css("display", "none")
+            $('#selectedSpot').html(selectedSpot).css("display", "inline")
+        })
+
+        // reset the map, zoom out, and recenter on 0,0
+        $('.resetMap').click(function() {
+            $('.spotRow').removeClass("selectedRow")
+            $('#latestSpot').css("display", "inline")
+            $('#selectedSpot').css("display", "none")
+            map.setView([0,0], 1)
+        })
+
+        // find total number of spots added
+        var theNumberofSpots = Sheetsee.ich.theNumberofSpots({
+            numberOfSpots: gData.length
+        })
+        $('#theNumberofSpots').html(theNumberofSpots)
+
+        if(window.location.hash) {
+            $('#tableFilter').val(window.location.hash.substring(1)).keyup()
+            $('.spotRow').first().click()
+        }
+    }
+
+    $(document).on('keyup', '#tableFilter', function() {
+        window.location.hash = $(this).val()
+        $('.spotRow').first().click()
+    })
+</script>
+{% endraw %}

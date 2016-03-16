@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+<div class="members-list">
+  <h2>Trouver une sage femme libérale qui pratique cette activité</h2>
+  {% for row in site.data.google_sheet limit:3 offset:2 %}
+    {% for col in row %}
+      {% if col == page.title  %}{% assign activitycolnumber = forloop.index0 %}{% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% for row in site.data.google_sheet offset:3 %}
+  {% if row[3] contains '2016' %}
+  {% if row[activitycolnumber] == '1' %}
+    {% include members.html %}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+</div>
+
+
+
+
+

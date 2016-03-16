@@ -1,0 +1,53 @@
+---
+layout: post
+title: Tester ses applications pour iPhone et iPad
+date: 2010-04-12 15:27:38.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- CSS + HTML
+tags:
+- configuration
+- interface
+meta:
+  _edit_last: '2'
+author:
+  login: bertrand
+  email: bertrand.keller@gmail.com
+  display_name: bertrand keller
+  first_name: bertrand
+  last_name: keller
+---
+<p>Difficile de résister à l'effet de mode insufflé par la marque à la pomme. La sortie de leurs appareils iPhone et iPad pousse les entreprises à assurer la compatibilité des sites gérés pour ne pas se voir clouer au pilori par la presse nationale.</p>
+<p>Apple vient donc de relancer la guerre avec les grandes entreprises du marché en espérant capter un auditoire intégralement menotté par leur terminal de lecture. Pendant ce temps, les développeurs doivent mettre à jour leur outils de tests et de vérification pour la déclinaison.</p>
+<h3>Les outils de tests</h3>
+<p>Voici un exemple de trois outils permettant des tests avec iPhone et iPad :</p>
+<ul>
+<li><a href="http://www.genuitec.com/mobile/" title="iPhone Emulator">iPhone Emulator - tester l'iPhone ou le Palm sur son bureau</a></li>
+<li><a href="http://iphonetester.com/" title="iPhone tester - tester le rendu iPhone en ligne">iPhone tester - tester le rendu iPhone en ligne</a></li>
+<li><a href="http://ipadpeek.com/" title="iPad peek - tester le rendu iPad en ligne">iPad peek - tester le rendu iPad en ligne</a></li>
+</ul>
+<p>Des pages bien pratiques, mais j'ai l'impression qu'elles ne prennent pas en compte les feuilles de style conditionnelles pour iPhone.</p>
+<h3>Le développement sous iPad</h3>
+<p>Pour le développement iPad, Jin Yang vient d'écrire un article très complet sur les indices à prendre en compte pour la compatibilité iPad. Je vous laisse lire les explications et vous liste les points importants.</p>
+<h4>iPad Ready</h4>
+<ul>
+<li>Flash</li>
+<li>Événements de la souris (Mouse Events)</li>
+<li>Contenu scrollable (Scrolling Content)</li>
+<li>Éviter les éléments fixes (Fixed Positioning)</li>
+<li>Attribut contenteditable (contenteditable)</li>
+<li>Désactiver le Copier/Coller (Disabling Cut/Copy/Paste Dialog)</li>
+</ul>
+<h4>iPad Optimisé</h4>
+<ul>
+<li>Détection Agent utilisateur (User-agent String)</li>
+<li>Les requêtes Média (Media Query)</li>
+<li>Détection du format (Format Detection)</li>
+<li>Configuration de la fenêtre de visualisation (Viewport setting)</li>
+<li>Désactiver la correction automatique (Disable Automatic Format)</li>
+<li>Désigner les champs (Keyboard Types)</li>
+<li>Adapter la navigation avec un doigt ou deux doigts (Multi-Touch Event Handling)</li>
+</ul>
+<p>Lire <a href="http://www.8164.org/designing-for-the-ipad/" title="Jin Yang -Designing for the iPad">Designing for the iPad</a>.</p>

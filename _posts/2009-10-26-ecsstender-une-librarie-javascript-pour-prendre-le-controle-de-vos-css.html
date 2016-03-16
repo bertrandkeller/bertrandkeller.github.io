@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'eCSStender : une librarie JavaScript pour prendre le contrôle de vos CSS'
+date: 2009-10-26 17:28:42.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- content management system
+tags:
+- accessibilité
+- extensions
+- interface
+meta:
+  _edit_last: '2'
+  btc_comment_summary: a:0:{}
+  btc_comment_counts: a:0:{}
+author:
+  login: bertrand
+  email: bertrand.keller@gmail.com
+  display_name: bertrand keller
+  first_name: bertrand
+  last_name: keller
+---
+<p>Extender est une librairie JavaScript Open Source qui tient compte du code de vos feuilles de style en CSS.</p>
+<h3>Principe</h3>
+<p>L'objectif est d'éviter le code l'écriture de propriétés ou hacks spécifiques à certains navigateurs (ex : moz-radius) et de permettre certains comportement CSS3, non supportés par des navigateurs dépassés.</p>
+<div class="center"><a style="font:12px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/AaronGustafson/solving-css-problems-with-ecsstender-an-event-apart-chicago-2009" title="Solving CSS Problems With eCSStender - An Event Apart - Chicago 2009">Solving CSS Problems With eCSStender - An Event Apart - Chicago 2009</a><object style="margin:0px" width="535" height="446"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=solvingcssproblemswithecsstender-aneventapart-chicago2009-091010211244-phpapp02&stripped_title=solving-css-problems-with-ecsstender-an-event-apart-chicago-2009" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=solvingcssproblemswithecsstender-aneventapart-chicago2009-091010211244-phpapp02&stripped_title=solving-css-problems-with-ecsstender-an-event-apart-chicago-2009" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="535" height="446"></embed></object>
+<div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">documents</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/AaronGustafson">Aaron Gustafson</a>.</div>
+</div>
+<h3>Fonctionnement</h3>
+<ul>
+<li>Boucle sur les fichiers css et collecte les informations</li>
+<li>Parse les règles qu'il comprend</li>
+<li>Vérifie que les règles parsées sont supportées par les extensions</li>
+<li>Applique les règles supportées au document HTML à travers le JavaScript</li>
+</ul>
+<p>Extender possède un support API ainsi que des extensions comme CSS3 selectors, @font-face, rotation déjà disponibles.</p>
+<p>Voir le site de <a href="http://ecsstender.org/" title="eCSStender ">eCSStender</a>.</p>

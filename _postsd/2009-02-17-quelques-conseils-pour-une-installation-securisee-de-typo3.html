@@ -1,0 +1,33 @@
+---
+layout: post
+title: Quelques conseils pour une installation sécurisée de TYPO3
+date: 2009-02-17 11:06:53.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- typo3
+tags:
+- pirates
+meta:
+  btc_comment_summary: a:0:{}
+  btc_comment_counts: a:0:{}
+author:
+  login: bertrand
+  email: bertrand.keller@gmail.com
+  display_name: bertrand keller
+  first_name: bertrand
+  last_name: keller
+---
+<p>Les administrateurs de sites TYPO3 sont sur le pied de guerre depuis quelques semaines. Chaque instant, l'information d'un site piraté peut survenir. Voici quelques conseils pour sécuriser une installation.</p>
+<ol>
+<li>S'abonner aux informations de l'équipe de sécurité : <a href="http://news.typo3.org/news/teams/security/atom.xml">flux RSS de l'équipe de sécurité</a>.</li>
+<li>N'installer que des extensions utiles et sécurisées.</li>
+<li>Mettre à jour régulièrement les extensions.</li>
+<li>Privilégier un hébergement de qualité.</li>
+<li>Encrypter les mots de passe utilisateurs.</li>
+<li>Suivre les conseils de développement de la communauté.</li>
+<li>Ne pas négliger la connexion en SSL pour l'identification backend.</li>
+<li>Activer les alertes pour les interventions dans le typo3conf/localconf.php :: ($TYPO3_CONF_VARS['BE']['warning_email_addr'] = 'admin@exemple.fr'; $TYPO3_CONF_VARS['BE']['warning_mode'] = '0';).</li>
+</ol>
+<p>Les détails complet de ces conseils sur <a href="http://t3n.yeebase.com/aktuell/news/newspost/10-tipps-zur-absicherung-der-eigenen-typo3-installation/2477/">10 Tipps zur Absicherung der eigenen TYPO3-Installation</a>. Comme il est indiqué à la fin de l'article, la sécurité d'une installation ne se limite pas à ces quelques petits conseils, il est important de parfaire ses connaissances sur le sujet et surtout d'effectuer des sauvegardes régulièrement.</p>

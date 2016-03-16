@@ -1,0 +1,7 @@
+bk:
+    host: s141294312.onlinehome.fr
+    user: u39024423
+    pass: Qkg3OXNwbmc=
+    path:
+        local: _site/
+        remote: public_html/

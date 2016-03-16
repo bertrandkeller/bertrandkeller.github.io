@@ -1,0 +1,16 @@
+---
+layout: default
+title: accueil
+---
+
+<div class="posts">
+{% for post in paginator.posts %}
+  <section class="post">
+    <h1>{{ post.title }}</h1>
+    <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+    {{ post.content }}
+  </section>
+{% endfor %}
+</div>
+
+{% include pagination.html %}
