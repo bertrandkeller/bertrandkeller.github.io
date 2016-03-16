@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+
+  <head itemscope itemtype="http://schema.org/WebSite">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="alternate" type="application/rss+xml" title="bertrandkeller RSS Feed" href="http://www.bertrandkeller.info/feed/"/>
+
+  <title>Qui sera l'élu?</title>
+  <meta name="description" content="+ Dis papa, c'est quoi un destroyer? - Un gros bateau, un navire de guerre capable de défendre un groupe de bâtiments (militaire ou civil) contre toute menac...">
+
+  <style type="text/css">
+    
+    @media screen and (min-width: 0){head{font-family:"usn-small 0"}body:after{content:"usn-small - min-width: 0"}}@media screen and (min-width: 48.063em){head{font-family:"usn-medium 48.063em"}body:after{content:"usn-medium - min-width: 48.063em"}}@media screen and (min-width: 64.063em){head{font-family:"usn-large 64.063em"}body:after{content:"usn-large - min-width: 64.063em"}}head{clear:both}head title{font-family:"usn-small 0,usn-medium 48.063em,usn-large 64.063em"}body:after{display:none}*[data-usn-if]{display:none}body{font-family:Overpass,Helvetica,Arial,sans-serif;font-size:1.2em;font-weight:400;line-height:1.44}h3,h2{line-height:1.2}h1{line-height:1}h6,.h6{font-size:.83333em}h5,.h5{font-size:1em}h4,.h4{font-size:1.2em}h3,.h3{font-size:1.44em}h2,.h2{font-size:1.728em}h1,.h1{font-size:2.0736em}@media only screen and (min-width: 48.063em){h3{font-size:1.728em}h2{font-size:2.0736em}h1{font-size:2.48832em}}@media only screen and (min-width: 64.063em){h2{font-size:2.48832em}h1{font-size:2.98598em}}@media only screen and (min-width: 90.063em){h1{font-size:3.58318em}}h1,.h1,h2,.h2,h3,.h3{margin-top:1em;margin-bottom:.5em}h1 small,h1 .small,.h1 small,.h1 .small,h2 small,h2 .small,.h2 small,.h2 .small,h3 small,h3 .small,.h3 small,.h3 .small{font-size:65%}h4,.h4,h5,.h5,h6,.h6{margin-top:.5em;margin-bottom:.5em}h4 small,h4 .small,.h4 small,.h4 .small,h5 small,h5 .small,.h5 small,.h5 .small,h6 small,h6 .small,.h6 small,.h6 .small{font-size:75%}h1,h1 a,h2,h2 a,h3,h3 a,h4,h4 a,h5,h5 a,h6,h6 a{text-decoration:none}p{margin:0 0 .5em}ul,ol{margin-top:0;margin-bottom:.5em}ul ul,ul ol,ol ul,ol ol{margin-bottom:0}.list-unstyled,.list-inline{padding-left:0;list-style:none}.list-inline{margin-left:-5px}.list-inline>li{display:inline-block;padding-left:5px;padding-right:5px}dl{margin-top:0;margin-bottom:1em}dt,dd{line-height:1.44}dt{font-weight:bold}dd{margin-left:0}html,body{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}a{text-decoration:underline;color:#000}img{max-width:100%;vertical-align:middle}figure>img{display:block}figcaption{font-size:14px}a{text-decoration:none;color:#000}a:visited{color:#4d4d4d}a:hover{text-decoration:underline;color:#000}blockquote{padding-left:.5em;font-size:18px;font-style:italic;letter-spacing:-1px;color:#828282;border-left:4px solid #e8e8e8}blockquote>:last-child{margin-bottom:0}pre,code{font-size:15px;border:1px solid #e8e8e8;border-radius:3px;background-color:#eef}code{padding:1px 5px}pre{overflow-x:scroll;padding:8px 12px}pre>code{padding-right:0;padding-left:0;border:0}table{width:100%;table-layout:fixed;border-collapse:collapse;border:1px solid #ccc}table>thead>tr>th,table>thead>tr>td,table>tbody>tr>th,table>tbody>tr>td,table>tfoot>tr>th,table>tfoot>tr>td{border:1px solid #ccc}table>thead>tr>th,table>thead>tr>td{border-bottom-width:2px}
+
+  </style>
+  <script>
+    /*
+loadCSS: load a CSS file asynchronously.
+[c]2015 @scottjehl, Filament Group, Inc.
+Licensed MIT
+*/
+(function(w){
+  "use strict";
+  /* exported loadCSS */
+  w.loadCSS = function( href, before, media ){
+    // Arguments explained:
+    // `href` [REQUIRED] is the URL for your CSS file.
+    // `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+      // By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+    // `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+    var ss = w.document.createElement( "link" );
+    var ref;
+    if( before ){
+      ref = before;
+    }
+    else if( w.document.querySelectorAll ){
+      var refs = w.document.querySelectorAll(  "style,link[rel=stylesheet],script" );
+      // No need to check length. This script has a parent element, at least
+      ref = refs[ refs.length - 1];
+    }
+    else {
+      ref = w.document.getElementsByTagName( "script" )[ 0 ];
+    }
+
+    var sheets = w.document.styleSheets;
+    ss.rel = "stylesheet";
+    ss.href = href;
+    // temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+    ss.media = "only x";
+
+    // Inject link
+      // Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+      // Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+    ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
+    // A method (exposed on return object for external use) that mimics onload by polling until document.styleSheets until it includes the new sheet.
+    ss.onloadcssdefined = function( cb ){
+      var defined;
+      for( var i = 0; i < sheets.length; i++ ){
+        if( sheets[ i ].href && sheets[ i ].href === ss.href ){
+          defined = true;
+        }
+      }
+      if( defined ){
+        cb();
+      } else {
+        setTimeout(function() {
+          ss.onloadcssdefined( cb );
+        });
+      }
+    };
+
+    // once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+    ss.onloadcssdefined(function() {
+      ss.media = media || "all";
+    });
+    return ss;
+  };
+}(this));
+
+    loadCSS("/assets/css/style.css");
+    !function(){"use strict";function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))c(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(c(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var a=document.createElement("link");a.href=o,a.rel="stylesheet",a.type="text/css",document.getElementsByTagName("head")[0].appendChild(a),document.cookie="font_css_cache"}}function c(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="/assets/css/font.css";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(window,"load",n)}();
+
+  </script>
+  <noscript><link rel="stylesheet" href="/assets/css/style.css"></noscript>
+  <noscript><link rel="stylesheet" href="/assets/css/font.css"></noscript>
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/favicons/manifest.json">
+<link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#000">
+<meta name="msapplication-TileImage" content="/assets/favicons/mstile-144x144.png">
+<meta name="msapplication-config" content="/browserconfig.xml">
+<meta name="theme-color" content="#000">
+
+
+
+
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <div class="site-logo">
+      <a class="site-title" href="/">bertrandkeller</a>
+    </div>
+
+    <nav class="nav-main">
+      <ul>
+        
+          
+        
+          
+        
+          
+          <li><a class="page-link" href="/archives">Archives</a></li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page">
+      <div class="wrapper">
+        <article class="post">
+  <h1 class="post-title">Qui sera l'élu?</h1>
+  <p class="post-meta"></p>
+  <p>+ Dis papa, c'est quoi un destroyer?</p>
+<p> - Un gros bateau, un <a href="http://fr.wikipedia.org/wiki/Destroyer">navire de guerre capable de défendre un groupe de bâtiments (militaire ou civil) contre toute menace</a>.</p>
+<p> + Et un porte-avions?</p>
+<p> - Un <a href="http://fr.wikipedia.org/wiki/Porte-avions">porte-avions est un navire de guerre permettant de transporter et de mettre en œuvre des avions de combat</a>.</p>
+<p> + Ah... et une bombe à sous-munition, ça sert à quoi?</p>
+<p> - Cette <a href="http://fr.wikipedia.org/wiki/Bombe_%C3%A0_sous-munitions">munition "anti-matériel" ou "anti-personnel" permet de traiter des cibles étendues en demandant</a>... Mais attend pourquoi tu me poses toutes ces questions ? Sur quel site es-tu encore allé ? Je t'avais dis...</p>
+<p> + Non, c'est mon ami Toufik sur internet, son oncle il surveille les bâteaux sur une <a href="http://www.associationlesseps.org/fr/suez_plan.html">rivière en Egypte</a> et il dit qu'il a vu des navires des Etats-Unis passer avec plein d'avions de chasse dessus.</p>
+<p> - Ah bon? Euh... quand ?</p>
+<p> + Pas cette semaine là, mais celle d'avant.</p>
+<p> - Oh... Excuses moi, j'ai quelque chose à demander à ta mère, Chéri?</p>
+<p> + Pourquoi ils envoient tout ces hommes l'amérique papa?</p>
+<p> - Je sais pas sûrement pour visiter, enfin pour se défendre ; Chéri, tu as entendu parler de <a href="http://contreinfo.info/article.php3?id_article=586">navires américains se dirigeant vers le golfe persique</a>?</p>
+<p> + Se défendre de quoi papa ?</p>
+<p> - Chéri ?</p>
+<p> + Se défendre de quoi papa ?</p>
+<p> * Ouiii... des navires américains? Euh, non, j'ai regardé <a href="http://corinnelepage.hautetfort.com/archive/2007/02/21/corinne-lepage-programme-presidentiel.html">Corinne Lepage</a> sur la chaîne parlementaire...</p>
+<p> - Corinne Lepage...</p>
+<p> * J'en ai pas entendu parlé, tu disais?</p>
+<p> - Non rien, je me parlais à moi-même, je disais est-ce très sage...</p>
+<p> + Papa pour se défendre de quoi, les américains ils envoient des bâteaux?</p>
+<p> - ...d'envoyer ces navires de guerre.</p>
+<p> + Papaaaaaaa ?</p>
+<p> - Mais se défendre, de, de... des mulsulmans bien-sûr, des arabes, non pas des arabes, mais des extrémistes, des extrémistes très dangereux, très méchants qui font <a href="http://www.manar-fr.com/article.php3?id_article=593">du mal partout</a>, tu vois.</p>
+<p> + Pourquoi, ils sont méchants ?</p>
+<p> - Mais je sais pas, tu m'agaces à la fin...</p>
+<p> * Ne lui parle pas comme ça explique lui un peu, au lieu de hausser le ton.</p>
+<p> - Tu crois vraiment qu'un enfant de cet âge est capable de comprendre les ressorts d'un conflit international dans lequel la désinformation est la première des armes.</p>
+<p> * Je ne sais pas mais tu peux sûrement lui expliquer simplement...</p>
+<p> - Lui expliquer simplement quoi?</p>
+<p> * La situation...</p>
+<p> - La situation? Que l'<a href="http://www.lemonde.fr/web/article/0,1-0@2-3218,36-875522@51-875622,0.html">armée syrienne est en train de renforcer ses effectifs à la frontière israëlienne</a> qui elle-même <a href="http://www.cyberpresse.ca/article/20070224/CPACTUALITES/70224004/1014/CPMONDE">négocie un couloir aérien</a> en Irak pour toucher l'Iran, que les <a href="http://www.liberation.fr/actualite/monde/237182.FR.php">soldats américains</a> ont obtenu le <a href="http://carnetsdenuit.typepad.com/carnets_de_nuit/2007/01/licence_to_kill.html">droit de tuer</a>, qu'ils sont au moins <a href="http://www2.dw-world.de/french/nachrichten/3.232478.1.html">30 000 à être attendus en renfort</a>. Il ne manque qu'une <a href="http://www.cawa.fr/vers-une-guerre-etats-unis-iran-article00948.html">étincelle</a> pour le <a href="http://contreinfo.info/article.php3?id_article=603">déclenchement d'une guerre</a>. Les <a href="http://contreinfo.info/article.php3?id_article=594">Etats-Unis sont à la dérive</a>, je te le rappelle.</p>
+<p> * S'il te plaît arrête, je n'aime pas quand tu t'emportes de la sorte. Tu as dit toi même que la désinformation était la première des armes, ces mouvements armés peuvent n'être que des <a href="http://www.iran-resist.org/article3140">provocations</a>, des moyens pour légitimer le pouvoir de chacun, tu le sais. </p>
+<p> - ...Oui.</p>
+<p> * Je ne te demande pas de lui expliquer tous <a href="http://www.mondialisation.ca/index.php?context=viewArticle&code=CHO20070207&articleId=4711">les tenants et les aboutissants</a> mais de lui permettre de ne pas se retrouver noyer par l'information. Tu peux faire ça non? Ce serait quand même le comble de tout lui cacher et que plus tard il n'en ait plus rien à faire ; au point de gober tout ce qu'on lui dit. Si tout le monde était comme ça je me demande comment la terre tournerait. Non mais desfois, L'Iran, les Etats-Unis, l'Angleterre, le Pakistan, l'Afghanistan, la bible, le coran, le pétrole... vas-y que je te montre la puissance de mon artillerie, que je te bombarde tes civils... Et que je te bloque tes comptes à l'étranger, et que je te motive une petite insurrection...</p>
+<p> + Elle parle à qui maman, papa ?</p>
+
+</article>
+
+<div class="pagination">
+  
+  <div class="left">
+    <a class="pagination-item" href="/2007/02/14/mapdream-wiki-sur-la-cartographie">
+      Mapdream - wiki sur la cartographie
+    </a>
+  </div>
+  
+
+  
+  <div class="right">
+    <a class="pagination-item" href="/2007/03/17/typo3-et-l-externalisation-de-des-fichiers-de-configuration">
+      Typo3 et l'externalisation des fichiers de configuration
+    </a>
+  </div>
+  
+</div>
+
+
+      </div>
+    </div>
+    <script src="/assets/js/upup.sw.min.js" data-no-instant></script>
+    <script src="/assets/js/instantclick.min.js" data-no-instant></script>
+    <script data-no-instant>
+      InstantClick.init();
+      UpUp.start({
+            'content-url': '20070224qui-sera-elu',
+            'assets':
+              ['/assets/css/style.css',]
+          });
+    </script>
+</script>
+  </body>
+
+</html>
+

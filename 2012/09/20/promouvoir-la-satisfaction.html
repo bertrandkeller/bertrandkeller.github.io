@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+
+  <head itemscope itemtype="http://schema.org/WebSite">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="alternate" type="application/rss+xml" title="bertrandkeller RSS Feed" href="http://www.bertrandkeller.info/feed/"/>
+
+  <title>Promouvoir la satisfaction</title>
+  <meta name="description" content="Connaissez vous l'effet IKEA ? Le principe de l'attachement à un objet, une réalisation, parce qu'on l'a exécuté soit même ?Les plus grands rassemblement de ...">
+
+  <style type="text/css">
+    
+    @media screen and (min-width: 0){head{font-family:"usn-small 0"}body:after{content:"usn-small - min-width: 0"}}@media screen and (min-width: 48.063em){head{font-family:"usn-medium 48.063em"}body:after{content:"usn-medium - min-width: 48.063em"}}@media screen and (min-width: 64.063em){head{font-family:"usn-large 64.063em"}body:after{content:"usn-large - min-width: 64.063em"}}head{clear:both}head title{font-family:"usn-small 0,usn-medium 48.063em,usn-large 64.063em"}body:after{display:none}*[data-usn-if]{display:none}body{font-family:Overpass,Helvetica,Arial,sans-serif;font-size:1.2em;font-weight:400;line-height:1.44}h3,h2{line-height:1.2}h1{line-height:1}h6,.h6{font-size:.83333em}h5,.h5{font-size:1em}h4,.h4{font-size:1.2em}h3,.h3{font-size:1.44em}h2,.h2{font-size:1.728em}h1,.h1{font-size:2.0736em}@media only screen and (min-width: 48.063em){h3{font-size:1.728em}h2{font-size:2.0736em}h1{font-size:2.48832em}}@media only screen and (min-width: 64.063em){h2{font-size:2.48832em}h1{font-size:2.98598em}}@media only screen and (min-width: 90.063em){h1{font-size:3.58318em}}h1,.h1,h2,.h2,h3,.h3{margin-top:1em;margin-bottom:.5em}h1 small,h1 .small,.h1 small,.h1 .small,h2 small,h2 .small,.h2 small,.h2 .small,h3 small,h3 .small,.h3 small,.h3 .small{font-size:65%}h4,.h4,h5,.h5,h6,.h6{margin-top:.5em;margin-bottom:.5em}h4 small,h4 .small,.h4 small,.h4 .small,h5 small,h5 .small,.h5 small,.h5 .small,h6 small,h6 .small,.h6 small,.h6 .small{font-size:75%}h1,h1 a,h2,h2 a,h3,h3 a,h4,h4 a,h5,h5 a,h6,h6 a{text-decoration:none}p{margin:0 0 .5em}ul,ol{margin-top:0;margin-bottom:.5em}ul ul,ul ol,ol ul,ol ol{margin-bottom:0}.list-unstyled,.list-inline{padding-left:0;list-style:none}.list-inline{margin-left:-5px}.list-inline>li{display:inline-block;padding-left:5px;padding-right:5px}dl{margin-top:0;margin-bottom:1em}dt,dd{line-height:1.44}dt{font-weight:bold}dd{margin-left:0}html,body{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}a{text-decoration:underline;color:#000}img{max-width:100%;vertical-align:middle}figure>img{display:block}figcaption{font-size:14px}a{text-decoration:none;color:#000}a:visited{color:#4d4d4d}a:hover{text-decoration:underline;color:#000}blockquote{padding-left:.5em;font-size:18px;font-style:italic;letter-spacing:-1px;color:#828282;border-left:4px solid #e8e8e8}blockquote>:last-child{margin-bottom:0}pre,code{font-size:15px;border:1px solid #e8e8e8;border-radius:3px;background-color:#eef}code{padding:1px 5px}pre{overflow-x:scroll;padding:8px 12px}pre>code{padding-right:0;padding-left:0;border:0}table{width:100%;table-layout:fixed;border-collapse:collapse;border:1px solid #ccc}table>thead>tr>th,table>thead>tr>td,table>tbody>tr>th,table>tbody>tr>td,table>tfoot>tr>th,table>tfoot>tr>td{border:1px solid #ccc}table>thead>tr>th,table>thead>tr>td{border-bottom-width:2px}
+
+  </style>
+  <script>
+    /*
+loadCSS: load a CSS file asynchronously.
+[c]2015 @scottjehl, Filament Group, Inc.
+Licensed MIT
+*/
+(function(w){
+  "use strict";
+  /* exported loadCSS */
+  w.loadCSS = function( href, before, media ){
+    // Arguments explained:
+    // `href` [REQUIRED] is the URL for your CSS file.
+    // `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+      // By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+    // `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+    var ss = w.document.createElement( "link" );
+    var ref;
+    if( before ){
+      ref = before;
+    }
+    else if( w.document.querySelectorAll ){
+      var refs = w.document.querySelectorAll(  "style,link[rel=stylesheet],script" );
+      // No need to check length. This script has a parent element, at least
+      ref = refs[ refs.length - 1];
+    }
+    else {
+      ref = w.document.getElementsByTagName( "script" )[ 0 ];
+    }
+
+    var sheets = w.document.styleSheets;
+    ss.rel = "stylesheet";
+    ss.href = href;
+    // temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+    ss.media = "only x";
+
+    // Inject link
+      // Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+      // Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+    ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
+    // A method (exposed on return object for external use) that mimics onload by polling until document.styleSheets until it includes the new sheet.
+    ss.onloadcssdefined = function( cb ){
+      var defined;
+      for( var i = 0; i < sheets.length; i++ ){
+        if( sheets[ i ].href && sheets[ i ].href === ss.href ){
+          defined = true;
+        }
+      }
+      if( defined ){
+        cb();
+      } else {
+        setTimeout(function() {
+          ss.onloadcssdefined( cb );
+        });
+      }
+    };
+
+    // once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+    ss.onloadcssdefined(function() {
+      ss.media = media || "all";
+    });
+    return ss;
+  };
+}(this));
+
+    loadCSS("/assets/css/style.css");
+    !function(){"use strict";function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))c(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(c(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var a=document.createElement("link");a.href=o,a.rel="stylesheet",a.type="text/css",document.getElementsByTagName("head")[0].appendChild(a),document.cookie="font_css_cache"}}function c(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="/assets/css/font.css";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(window,"load",n)}();
+
+  </script>
+  <noscript><link rel="stylesheet" href="/assets/css/style.css"></noscript>
+  <noscript><link rel="stylesheet" href="/assets/css/font.css"></noscript>
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/favicons/manifest.json">
+<link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#000">
+<meta name="msapplication-TileImage" content="/assets/favicons/mstile-144x144.png">
+<meta name="msapplication-config" content="/browserconfig.xml">
+<meta name="theme-color" content="#000">
+
+
+
+
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <div class="site-logo">
+      <a class="site-title" href="/">bertrandkeller</a>
+    </div>
+
+    <nav class="nav-main">
+      <ul>
+        
+          
+        
+          
+        
+          
+          <li><a class="page-link" href="/archives">Archives</a></li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page">
+      <div class="wrapper">
+        <article class="post">
+  <h1 class="post-title">Promouvoir la satisfaction</h1>
+  <p class="post-meta"></p>
+  <p>Connaissez vous l'effet IKEA ? Le principe de l'attachement à un objet, une réalisation, parce qu'on l'a exécuté soit même ?</p>
+<p>Les plus grands rassemblement de ressources humaines doivent comporter une sorte de thématique nommée "bouger le cul de ses employés" autrement appelée "la productivité dans les entreprises de la connaissance" ; un lieu dans lequel on parle des success stories de Apple, Google ou Zara et des leviers sociaux pour inciter les employés à donner le meilleur d'eux-même.</p>
+<p>Pour des gens qui n'ont jamais vraiment travaillé de leur mains, le sujet peut s'étendre sur de nombreuses années, les conversation s'éterniser, sans que ceux-ci ne satisfassent l'homme en bout de chaîne. Pourtant, les chercheurs ont décelé un principe simple, celui de l'IKEA effect.</p>
+<h3>L'effet Ikea</h3>
+<p>Partant de la question de savoir pourquoi certaines personnes étaient particulièrement attachées à une armoire Billy à 30€, tellement attachées qu'elles pouvaient la déménager d'appartement en appartement, alors qu'elles pouvaient en racheter une neuve, toute faite pour moi cher ; des chercheurs ont entamé un série d'étude sur avec des meubles, des origamis, des legos pour évaluer l'impact du "fait par soit même".</p>
+<blockquote cite="http://www.sciencedirect.com/science/article/pii/S1057740811000829"><p>Participants saw their amateurish creations as similar in value to experts' creations, and expected others to share their opinions. We show that labor leads to love only when labor results in successful completion of tasks; when participants built and then destroyed their creations, or failed to complete them, the IKEA effect dissipated. Finally, we show that labor increases valuation for both “do-it-yourselfers” and novices.</p>
+</blockquote>
+<p>En gros, vous l'avez tous vécu la première fois que vous fait une mayonnaise vous êtes pris pour un dieux, même un peu ratée. Puis, ensuite, seule la réussite de celle-ci arrive à vous satisfaire, la moindre erreur vous faisant retourner à la table des convives en baissant la tête, un peu moins que si vous vous étiez contenté d'acheter un bon pot industriel (faites maison monsieur !!!).</p>
+<p>Ainsi, la satisfaction et la mise en confiance résultent de la capacité à exécuter une série de tâches et arriver à obtenir un résultat fonctionnel.</p>
+<h3>Satisfaire les développeurs</h3>
+<p>Dans le cas de projets web, nous ne sommes pas exactement dans le domaine industriel de meubles en série ; vous pouvez choisir de vous y approcher ou pas du tout.</p>
+<p>Soit vous vendez du générique (avec quelques spécificités pré-établies), dans ce cas les développeurs déclinent avec une joie sans pareil les diverses projets en essayant, de manière permanente, d'améliorer leur méthodologie ; soit vous êtes dans le tout spécifique et alors ce sont les développeurs qui doivent concevoir (plus ou moins) le cahier des charges fonctionnel.</p>
+<p>Pour les projets spécifiques, on connait la méthode Agile, par exemple, qui propose une organisation permettant de se placer dans ce cas de figure alors que le cahier des charges du site n'est pas déjà pré-établi précisément. La méthode Agile permet, en effet, en décomposant le projet en sprint puis en fonctionnalités, de se positionner dans une dynamique dans laquelle un participant va pouvoir exécuter une série de tâches et atteindre un résultat tangible pour chaque sprint.</p>
+<h3>Conclusion</h3>
+<p>Il n'est pas rare de voir les pôles techniques (comme on dit chez nous), les développeurs être cyniques, faire un peu la tronche, ne pas être satisfaits. Si la satisfaction peut venir de bonnes conditions de travail, de reconnaissance, elle peut aussi venir du sentiment d'accomplissement personnel.</p>
+<p>L'accomplissement personnel passe par la réalisation d'objets virtuels ou réels qu'on a fait par soit même seul ou en équipe. Si ce n'est pas le cas, si le savoir est dans la machine (la machine fait, on est un simple exécutant), on est face à un phénomène de prolétarisation, le moral des troupes baisse.</p>
+<p>Pour mettre le sourire et la joie de vivre au goût du jour :</p>
+<p>Pour la réalisation des projets, sur du générique ne demandez pas des choses spécifiques ou farfelues, forcément ça va gueuler ; sur du spécifique ne demandez pas de réaliser les volontés du client en faisant rédiger le cahier des charges par un chef de projets (incompétent), le résultat ne sera pas fonctionnel et les développeurs auront la rage (phénomène de turnover et de fuite des cerveaux). Il faut mettre l'équipe dans une situation où elle est satisfaite de sa réalisation et les rendre autonomes, responsables et fiers.</p>
+<p>Pour le quotidien, encore mieux, organiser des ateliers de conception créatifs sur les projets de l'agence, pour l'amélioration des lieux de vie ou pour des projets personnels. Le principe des Fablab, notamment, apporte ce principe de faire par soit même.</p>
+<p>Lire <a href="http://www.sciencedirect.com/science/article/pii/S1057740811000829">The IKEA effect: When labor leads to love</a>.</p>
+
+</article>
+
+<div class="pagination">
+  
+  <div class="left">
+    <a class="pagination-item" href="/2012/09/07/lart-de-la-gestion-de-la-liste-de-taches">
+      L'art de la gestion de la liste de tâches
+    </a>
+  </div>
+  
+
+  
+  <div class="right">
+    <a class="pagination-item" href="/2012/10/22/mon-paris-web-2012">
+      Mon paris Web 2012
+    </a>
+  </div>
+  
+</div>
+
+
+      </div>
+    </div>
+    <script src="/assets/js/upup.sw.min.js" data-no-instant></script>
+    <script src="/assets/js/instantclick.min.js" data-no-instant></script>
+    <script data-no-instant>
+      InstantClick.init();
+      UpUp.start({
+            'content-url': '20120920promouvoir-la-satisfaction',
+            'assets':
+              ['/assets/css/style.css',]
+          });
+    </script>
+</script>
+  </body>
+
+</html>
+

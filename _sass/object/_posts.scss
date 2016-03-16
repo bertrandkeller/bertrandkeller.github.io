@@ -5,12 +5,16 @@
 .posts {
   padding-bottom: $line-height-base;
 }
+
 .posts-archive {
   @include list-inline();
-}
-.posts-archive__links:not(:last-child) {
-
-  &:after {
-    content: ' - ';
-  }
+  > li {
+    &:after {
+      content: ' - ';
+    }
  }
+}
+
+.post-meta {
+  font-weight: 700;
+}

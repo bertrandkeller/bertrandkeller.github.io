@@ -1,0 +1,12 @@
+/* ABOUT */
+
+  Twitter:
+  Location:     Rouen
+  Front-End:    bertrandkeller
+
+/* SITE */
+
+  Language:     French
+  Built with:   Jekyll <http://jekyllrb.com>
+                Github Pages <https://pages.github.com/>
+

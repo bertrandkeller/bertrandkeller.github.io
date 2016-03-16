@@ -27,10 +27,11 @@ build/Release
 node_modules
 
 # Jekyll
-_site/
+#_site/
 .sass-cache/
 .asset-cache/
 .jekyll-metadata
 
 # node-waf configuration
 .DS_Store
+dploy.yaml

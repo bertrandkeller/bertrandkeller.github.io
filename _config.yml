@@ -12,9 +12,6 @@ github_username:  bertrandkeller
 
 # Build settings
 markdown: kramdown
-#markdown_ext: "markdown,mkdown,mkdn,mkd,md,txt"
-paginate: 1
-paginate_path: "/page:num/"
 
 # HTML Compression
 compress_html:
@@ -25,12 +22,6 @@ compress_html:
 sass:
   sass_dir: _sass
   style: compressed
-
-defaults:
-  - scope:
-      type: "posts"
-    values:
-      layout: "post"
 
 text:
   pagination:

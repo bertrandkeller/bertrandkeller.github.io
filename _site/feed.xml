@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bertrandkeller</title>
+    <description>Découvrir des choses et d&#39;autres</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 Mar 2016 15:48:39 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Mar 2016 15:48:39 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>ParisWeb - c&#39;est quoi les métiers du web ?</title>
+        <description>&lt;p&gt;Depuis 3 semaines, j&#39;ai repris les cours à l&#39;IUT d&#39;Elbeuf. Je repropose les mêmes cours que l&#39;année précédente et notamment la première séance concernant les &lt;a href=&quot;http://bertrandkeller.info/2015/02/12/3951-cours-iut-cerner-les-metiers-du-web-et-savoir-ce-quest-un-cms/&quot;&gt;métiers du web&lt;/a&gt; ; à vrai dire je me demande ce qu&#39;il en est vraiment.&lt;/p&gt;
+&lt;h2&gt;Le formatage de l&#39;éducation national&lt;/h2&gt;
+&lt;p&gt;En guise de premier cours, je propose des petits ateliers aux élèves afin de briser le travail derrière un ordinateur et de les faire réfléchir sur le processus de production d&#39;un site web. Hormis le fait qu&#39;aucun d&#39;eux ne sait quand a été inventé le web (un programme militaire américain des années 70, pour un grand nombre) ; je me suis fait une frayeur en voyant qu&#39;une entreprise avait toujours un chef de d&#39;agence et que le chef de projets était au centre de tout.&lt;/p&gt;
+&lt;p&gt;On retrouve aussi le modèle avec d&#39;une part un client qui a un besoin et de l&#39;autre une équipe qui va répondre à la demande en proposant des solutions (en passant par une maquette). Le client dit oui/non et on enchaine les développements.&lt;/p&gt;
+&lt;p&gt;Certes l&#39;exercice est biaisé, mais quand on évoque les méthodes agiles ou les itérations personne n&#39;en a entendu parlé. Les élèves des IUT français vivent dans le monde des applications mais n&#39;ont absolument aucune idée de la manière dont elles sont imaginées. A croire que leurs plus grand désir est de réaliser des sites plaquettes pour des agences de communication.&lt;/p&gt;
+&lt;p&gt;Là où moi même je me perds c&#39;est que je voudrais leur expliquer que c&#39;est pas parce qu&#39;on est comptable d&#39;une boîte web qu&#39;on travaille dans le web ou encore qu&#39;il y a plein de métiers qui vont apparaître dans les prochaines années. Seulement moi même, je n&#39;arrive plus à faire le tri.&lt;/p&gt;
+&lt;h2&gt;Des nouveaux métiers observés à Paris Web&lt;/h2&gt;
+&lt;p&gt;Je regardais donc cette semaine, les conférences de Paris web en streaming. J&#39;ai pu voir différents types d&#39;orateurs et en particulier des personnes travaillant dans de grandes sociétés comme FaceBook ou Pinterest.&lt;/p&gt;
+&lt;p&gt;La programmation faisait la part belle à la sécurité. On a donc pu voir plusieurs personnes travaillant dans ce secteur ; à la fin de son intervention &lt;a href=&quot;http://www.paris-web.fr/2015/conferences/quoi-de-neuf-sous-le-ciel-de-la-securite-du-web-et-des-internets.php&quot;&gt;Virginie Galindo&lt;/a&gt; nous disait que le secteur de la sécurité sur le web était un domaine délaissé et qu&#39;au vu de son importance future, on avait tout intérêt à se spécialiser dans ce secteur.&lt;/p&gt;
+&lt;p&gt;Ce qu&#39;on observe c&#39;est une &quot;industrialisation&quot; du secteur du web. Les entreprises grossissent, deviennent plus importantes et on donc besoin d&#39;une grande diversité de spécialités. On découvre qu&#39;il y aurait des responsables nécrologie ou encore des chargés de politiques de la gestion des données chez de grand acteurs du web.&lt;/p&gt;
+&lt;p&gt;Si on ajoute à celà, les UX designers, UI designers, data designers, ethics designers ou que sais-je, cela commence à être bien segmenté.&lt;/p&gt;
+&lt;p&gt;Entre la performance, l&#39;accessibilité, la sécurité, la préservation des données, la qualité du code, ça commence à devenir bien complexe à gérer.&lt;/p&gt;
+&lt;h2&gt;Les métiers web ?&lt;/h2&gt;
+&lt;p&gt;Entre les 2000 et 2015, les domaines de compétences à maîtriser pour gérer un site web ont bien changé. La petite équipe de graphistes, développeurs et intégrateurs s&#39;est transformé.&lt;/p&gt;
+&lt;p&gt;Aujourd&#39;hui, ce qui me derange c&#39;est qu&#39;au niveau des processus nous louons la création collaborative, l&#39;évidence que chacun est &quot;designer&quot; et pourtant, au quotidien, chacun se raccroche derrière un dénominatif de plus en plus obscure et spécifique. Un dénominatif qui ne résume jamais assez les multiples facettes de notre personnalité et de nos envies.&lt;/p&gt;
+&lt;p&gt;Du coup, je leur dis quoi à mes élèves ? Qu&#39;on a pas su créer les métiers de nos rêves ? Que demain ils seront un rouage d&#39;une grande machine à collecter de la donnée ? Où que le web reste une utopie un espoir de reconstruction du présent ?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Oct 2015 10:16:26 +0200</pubDate>
+        <link>/2015/10/03/parisweb-cest-quoi-les-metiers-du-web</link>
+        <guid isPermaLink="true">/2015/10/03/parisweb-cest-quoi-les-metiers-du-web</guid>
+        
+        <category>conférence</category>
+        
+        
+        <category>conception web</category>
+        
+      </item>
+    
+      <item>
+        <title>Summer festival NWX - réunions collaboratives pour un meilleur business plan</title>
+        <description>&lt;p&gt;Je serai demain au &lt;a href=&quot;http://summer-festival.nwx.fr/&quot;&gt;summer festival NWX de l&#39;été à Rouen&lt;/a&gt; pour présenter un retour d&#39;expérience sur la réalisation de réunions collaboratives créatives sur le site &lt;a href=&quot;http://fendzy.com&quot;&gt;Fendzy&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;center&quot;&gt;&lt;a href=&quot;http://bertrandkeller.github.io/collaboration-pour-meilleur-business/&quot;&gt;&lt;img src=&quot;/assets/collaboration-pour-meilleur-business.png&quot; alt=&quot;Réunions collaboratives pour un meilleur business plan&quot; width=&quot;600&quot; height=&quot;450&quot; class=&quot;aligncenter size-full wp-image-3970&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;http://bertrandkeller.github.io/collaboration-pour-meilleur-business/&quot;&gt;Slides de la conférence &lt;br /&gt;réunions collaboratives pour un meilleur business plan&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;La présentation parlera du protocole mis en place ainsi que du phasage des réunions afin de réaliser des parcours de navigation, des personas, et des structures de pages en collaboration avec le client.&lt;/p&gt;
+&lt;p&gt;Ce projet est générateur de beaucoup de satisfactions à l&#39;intérieur de l&#39;équipe et surtout de beaucoup d&#39;envie grâce à la mise en place d&#39;une vision sur le long terme.&lt;/p&gt;
+&lt;p&gt;Je sais après l&#39;argent à Sudweb et maintenant le business à Rouen, je tourne vers le commercial, mais faut assister aux présentations pour savoir qu&#39;il s&#39;agit avant tout d&#39;humain.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jun 2015 17:06:42 +0200</pubDate>
+        <link>/2015/06/24/summer-festival-nwx-reunions-collaboratives-pour-un-meilleur-business-plan</link>
+        <guid isPermaLink="true">/2015/06/24/summer-festival-nwx-reunions-collaboratives-pour-un-meilleur-business-plan</guid>
+        
+        <category>ergonomie</category>
+        
+        
+        <category>création numérique</category>
+        
+      </item>
+    
+      <item>
+        <title>Pas de vue, pas de prix à Sudweb 2015</title>
+        <description>&lt;p&gt;Les semaines avancent sans sortir les articles qui mériteraient une publication. Comme chaque printemps, je suis surtout concentré sur des présentations.&lt;/p&gt;
+&lt;p&gt;Les sujets ne traitent pas des nouvelles technologies qui vont permettrent de sauver l&#39;humanité et nous amener vers un avenir meilleur. Non, comme toujours je parle du présent et de la difficile tâche de création de valeur.&lt;/p&gt;
+&lt;h2&gt;Choisir sa grille CSS&lt;/h2&gt;
+&lt;p&gt;Pour les &lt;a href=&quot;http://www.nwx.fr/evenements/conference-web-design-2&quot;&gt;NWX conférence web design&lt;/a&gt;, j&#39;ai décidé de présenter un état des lieux sur les grilles CSS. Comment elles ont évolué depuis 5 ans dans leur usage.&lt;/p&gt;
+&lt;div class=&quot;center&quot;&gt;&lt;a href=&quot;http://bertrandkeller.github.io/choisir-sa-grille-css/&quot;&gt;&lt;img src=&quot;/assets/presentation-choisir-sa-grille-css.png&quot; alt=&quot;Conférence pas de vue — pas de prix pour sudweb 2015&quot; width=&quot;600&quot; height=&quot;450&quot; class=&quot;aligncenter size-full wp-image-3970&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;http://bertrandkeller.github.io/choisir-sa-grille-css/&quot;&gt;Slides de la conférence pas de vue — pas de prix pour sudweb 2015&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;La conclusion ouvre sur le besoin de maîtriser ses outils de réalisation de grilles afin de pouvoir composer des interfaces optimisés pour chaque type d&#39;écran.&lt;/p&gt;
+&lt;h2&gt;Pas de vue — pas de prix&lt;/h2&gt;
+&lt;p&gt;5 minutes pour parler de l&#39;état d&#39;esprit qui permet de passer du forfait à la régie.&lt;/p&gt;
+&lt;div class=&quot;center&quot;&gt;&lt;a href=&quot;http://bertrandkeller.github.io/pas-de-vue-pas-de-prix/&quot;&gt;&lt;img src=&quot;/assets/presentation-pas-de-vue-pas-de-prix.png&quot; alt=&quot;conférence choisir sa grille CSS pour NWX design&quot; width=&quot;600&quot; height=&quot;450&quot; class=&quot;aligncenter size-full wp-image-3971&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://bertrandkeller.github.io/pas-de-vue-pas-de-prix/&quot;&gt;Slides de la conférence choisir sa grille CSS pour NWX design&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;5 minutes pour montrer que l&#39;objectif d&#39;un client est d&#39;en avoir pour son argent. Et que c&#39;est avec celui qui a conscience de la valeur qu&#39;il faut travailler.&lt;/p&gt;
+&lt;p&gt;Le &lt;a href=&quot;http://sudweb.fr/2015/programme.html&quot;&gt;programme de Sudweb 2015&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 May 2015 13:59:24 +0200</pubDate>
+        <link>/2015/05/21/conference-pas-de-vue-pas-de-prix-a-sudweb-2015</link>
+        <guid isPermaLink="true">/2015/05/21/conference-pas-de-vue-pas-de-prix-a-sudweb-2015</guid>
+        
+        <category>conférence</category>
+        
+        
+        <category>Management de la qualité</category>
+        
+      </item>
+    
+      <item>
+        <title>Cours IUT - environnement de développement</title>
+        <description>&lt;p&gt;En arrivant, je présente le contexte.&lt;/p&gt;
+&lt;p&gt;Vous arrivez dans une agence. C&#39;est votre premier jour. On vous donne une machine vierge sur Linux. Votre premier projet commence demain. Vous devez installer votre environnement de développement qui vous permettra de développer votre premier maquette HTML/CSS.&lt;/p&gt;
+&lt;h2&gt;Idée et contrainte&lt;/h2&gt;
+&lt;p&gt;L&#39;idée de cette session est de préparer les élèves à installer leur environnement de développement ; comprendre que la configuration de la machine est essentielle pour travailler avec l&#39;équipe en place.&lt;/p&gt;
+&lt;p&gt;Le choix est motivé par la décision d&#39;enseigner Git et par l&#39;impossibilité de pouvoir configurer leur machine à cause des droits administrateur. Je profite qu&#39;ils disposent d&#39;une machine virtuelle installée lors d&#39;un autre cours.&lt;/p&gt;
+&lt;h2&gt;Les conditions&lt;/h2&gt;
+&lt;p&gt;L&#39;exercice est collectif. Tout le monde a les points à condition que chacun ait répondu à l&#39;exercice ; c&#39;est-à-dire que chacun ait une page github.&lt;/p&gt;
+&lt;p&gt;Le principe n&#39;est pas banal et contraire aux préceptes de l&#39;éducation nationale qui demande une évaluation individuelle. Seulement, le premier jour en entreprise, tout se joue sur sa faculté à lever les fesses de sa chaise et aller discuter avec les autres.&lt;/p&gt;
+&lt;p&gt;Ils doivent se débrouiller seuls, je suis là pour les guider et répondre à leur question. Je ne donne pas de procédure.&lt;/p&gt;
+&lt;h2&gt;L&#39;installation&lt;/h2&gt;
+&lt;h3&gt;Apache&lt;/h3&gt;
+&lt;p&gt;Je leur demande d&#39;installer Apache et de modifier leur répertoire de travail. L&#39;exercice va se révéler complétement inutile puisque nous n&#39;utiliserons pas Apache, mais il permet de comprendre la complexité de la chose.&lt;/p&gt;
+&lt;p&gt;Dès cette phase, nous avons des élèves qui se soutiennent entre eux, et des élèves qui soutienne un peu le professeur, car il ne connait pas assez linux.&lt;/p&gt;
+&lt;h2&gt;Ruby / Jekyll&lt;/h2&gt;
+&lt;p&gt;Après avoir installé Apache, nous passons à Ruby / Jekyll. Les commandes ne sont pas les mêmes, il faut essayer d&#39;expliquer ce qu&#39;est Ruby et le principe des Gems. Il n&#39;y a pas que PHP dans la vie.&lt;/p&gt;
+&lt;p&gt;Les élèves comprennent bien le copier/collé. Ils y arrivent surtout quand ils copient sur les bons articles ; leur capacité de recherche ne sont pas toujours au point. Ils pratiquent le &quot;je teste, je verrai bien&quot; ; ce qui n&#39;est pas une mauvaise chose.&lt;/p&gt;
+&lt;p&gt;Les aptget sont plutôt faciles à faire sur Linux. On commence à essayer à mettre en place Jekyll. Mais, je découvre après recherches que l&#39;installation de la dernière version n&#39;est pas si évidente. Cela ne marche que si on installe une version dev de Ruby (documentée sur un article). Grosse panique derrière mes 14 élèves mais on peut dire que ça fait partie de l&#39;exercice (on apprend en apprenant aux autres).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;C&#39;est à peu près à se niveau, en fonction des classes, que la première partie du cours se termine. Il faut 3 heures pour arriver à avoir un Jekyll fonctionnel. Cet article décrit donc 6 heures d&#39;ateliers&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Jekyll et Git&lt;/h2&gt;
+&lt;p&gt;Pour voir Jekyll est fonctionnel, on crée un petit fichier index.html et on lance le serveur. Rien de compliqué en soit mais avec 14 configurations différentes, il faut faire pas mal de pédagogie et de débuguage.&lt;/p&gt;
+&lt;p&gt;On teste les commande Git.&lt;/p&gt;
+&lt;h2&gt;Github Pages&lt;/h2&gt;
+&lt;p&gt;Un des points phare du cours, la création de leur compte Github et la configuration d&#39;un Github Pages pour la réalisation de leur éventuel portefolio professionnel.&lt;/p&gt;
+&lt;p&gt;Un par un, je les aide à comprendre à se retrouver dans le tutoriel. Il faut créer le dépôt avec le nom approprié (penser au readme) et récupérer ce même dépôt sur leur machine.&lt;/p&gt;
+&lt;p&gt;L&#39;excercice n&#39;est validé qu&#39;à condition que je sois collaborateur de leur dépôt.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;La première expérience de cet exercice donne pas mal de sueurs froides car on se lance dans un exercice dans lequel pas mal de paramètres ne sont pas maîtrisés. Ce qui m&#39;a poussé à faire ça a été qu&#39;ils disposent d&#39;un compte Github, élément essentiel à la recherche de stages et d&#39;emplois.&lt;/p&gt;
+&lt;p&gt;Ça aura certainement été le cours le plus difficile à préparer ; seulement maintenant, je vais pouvoir enseigner le fonctionnement des &quot;templates&quot; et &quot;moteurs de template&quot; avec Jekyll.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Apr 2015 15:45:10 +0200</pubDate>
+        <link>/2015/04/15/cours-iut-environnement-de-developpement</link>
+        <guid isPermaLink="true">/2015/04/15/cours-iut-environnement-de-developpement</guid>
+        
+        <category>configuration web</category>
+        
+        
+        <category>formation</category>
+        
+      </item>
+    
+      <item>
+        <title>Cours IUT - instancier un Tumblr</title>
+        <description>&lt;p&gt;Le deuxième cours s&#39;est penché sur la réalisation d&#39;un blog sur Tumblr. L&#39;objectif étant de découvrir ce service et d&#39;analyser les types de contenu qu&#39;il propose.&lt;/p&gt;
+&lt;h2&gt;Exercice 1 : Découverte&lt;/h2&gt;
+&lt;p&gt;Pendant une dizaine de minutes, les élèves doivent parcourir plusieurs sites de la plateforme pour voir comment il est utilisé par ses différents acteurs.&lt;/p&gt;
+&lt;p&gt;Si cette étape permet de faire un peu de découverte, j&#39;ai été un peu déçu par la capacité des élèves à noter les principes stratégiques. Pour moi, ils auraient dû essayer de voir quelques partis pris pour savoir comment valoriser leur contenu, mais la suite m&#39;a montrer ce principe ne leur est pas familié. Si une petite partie d&#39;entre eux est intéressé par le web, la passion n&#39;est pas ce qui les caractérise.&lt;/p&gt;
+&lt;p&gt;L&#39;exercice reste néamoins important au niveau de la démarche ; pour qu&#39;ils apprennent à ne pas se jeter trop vite dans le code.&lt;/p&gt;
+&lt;h2&gt;Exercice 2 : réalisation d&#39;un corpus documentaire&lt;/h2&gt;
+&lt;p&gt;Suite à cette petite découverte. J&#39;ai pris un petit quart d&#39;heure pour leur expliquer comment fonctionne le service. Le principe du mur de publication et ses différents types de contenu, ses paramètres, etc…&lt;/p&gt;
+&lt;p&gt;Dans Tumblr, il est possible de publier des contenus en fonction de leur type : billet, citation, image, vidéo,… Pour que le concept (primordial) de type de contenu rentre bien chez les élèves (c&#39;est-à-dire que la forme, le fond et la structure sur le web sont liés), je leur ai demandé de trouver un thème pour la réalisation d&#39;un blog et de chercher sur le web les types de contenus pour éditer leur site.&lt;/p&gt;
+&lt;p&gt;Cet exercice consiste à comprendre que la réflexion sur le contenu qu&#39;on veut publier passe avant la réalisation graphique ou fonctionnelle qu&#39;on espère avoir. Ainsi, les élèves doivent d&#39;un côté rédiger une fiche de définition avec leur différents paramètres, plus leurs mots clefs de recherche, et d&#39;un autre côté collecter des données qu&#39;ils devront ranger et renommer dans des répertoires.&lt;/p&gt;
+&lt;p&gt;C&#39;est aussi une manière de les mettre dans la peau d&#39;un rédacteur web ou d&#39;un community manager.&lt;/p&gt;
+&lt;h2&gt;Exercice 3 : intégration et étude du code&lt;/h2&gt;
+&lt;p&gt;Une fois la définition du site et le corpus établis ; il est temps d&#39;intégrer tout cela au site pour obtenir le résultat le plus propre et le plus cohérent possible.&lt;/p&gt;
+&lt;p&gt;Avant de commencer, je leur présente la fonctionnalité d&#39;édition du code source du thème que propose Tumblr. Cette présentation est un moyen de les familiariser avec un premier moteur de template ; une manière d&#39;enlever certaines peurs ou appréhensions que certains pouvaient avoir en voyant toutes ces couleurs et bouts de codes inconnus.&lt;/p&gt;
+&lt;p&gt;Une fois l&#39;intégration finie, je leur demande de me trouver certains éléments du code ; de trouver où il est possible de changer l&#39;aspect de la citation par exemple. Et je leur propose, ensuite, de me rendre ce fichier de templating en commentant chaque grande zone définies dans le code.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;L&#39;exercice est plutôt sympa, car avec Tumblr on peut aborder les principes de configuration et de templating ; c&#39;est-à-dire un point de vue intégrateur/r&quot;dacteur de contenu ; sans avoir à installer une grosse machine. Les élèves partent tous de la même base.&lt;/p&gt;
+&lt;p&gt;La réalisation d&#39;un site est largement possible en 3 heures. On a même eu l&#39;occasion de faire un petit tour sur la plateforme de wordpress pour comparer les 2 services.&lt;/p&gt;
+&lt;p&gt;Pour moi, l&#39;essentiel tenait dans la réalisation du corpus doccumentaire. J&#39;ai insisté sur la rédaction de ces paramètres dans un fichier au format txt. Je ne sais pas s&#39;il vont garder la pratique, mais j&#39;ai insisté plusieurs fois pour dire que sans ce type d&#39;informations, on ne pouvait pas commencer à intégrer un site (un blog dans notre cas.).&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Feb 2015 11:11:24 +0100</pubDate>
+        <link>/2015/02/27/cours-iut-instancier-un-tumblr</link>
+        <guid isPermaLink="true">/2015/02/27/cours-iut-instancier-un-tumblr</guid>
+        
+        <category>CMS</category>
+        
+        <category>configuration web</category>
+        
+        
+        <category>formation</category>
+        
+      </item>
+    
+      <item>
+        <title>Cours IUT - Cerner les métiers du web et savoir ce qu&#39;est un CMS</title>
+        <description>&lt;p&gt;Pour le premier cours, j&#39;ai décidé de casser un peu l&#39;espace de travail en proposant aux éléves du travail de groupe. Mon objectif  a été de leur permettre d&#39;avoir une vision des différents métiers et d&#39;essayer de savoir ce qu&#39;on pouvait entendre par le mot CMS.&lt;/p&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Quelques semaines avant ma première intervention, on m&#39;a donné l&#39;intitulé de mon cours : CMS et E-commerce. Je me demandais bien comment aborder ce vaste sujet qui peut être un peu fourre tout. Au milieu d&#39;un couloir, j&#39;ai pu croiser la personne chargée du même cours l&#39;année précédente ; en quelques mots elle m&#39;a dit qu&#39;elle avait fait installer un Wordpress et un Prestashop.&lt;/p&gt;
+&lt;p&gt;Je comprenais que l&#39;objectif de la formation était que les élèves puissent savoir utiliser ce qu&#39;on appelle un système de gestion de contenu (au sens large) pour éditer un petit site de type blog et mettre en place une boutique E-commerce. Un peu à la manière des lignes sur un CV.&lt;/p&gt;
+&lt;p&gt;Étant donnée ma grande exprience du métier, soit je pratiquais la même logique et je limitais leur maîtrise à 2 outils très spécifiques, soit je leur donnais des connaissance plus large de maîtrise de ces outils afin de pouvoir intégrer une équipe de développement.&lt;/p&gt;
+&lt;p&gt;Le problème est que former des éléves à WordPress et Prestashop est complétement improductif. Car cela ne leur donne aucune plus value sur le &quot;marché&quot; de l&#39;emploi. Avec des pauvres connaissances, ils seront en concurrence directe avec des centaines de développeurs qui maîtrisent le sujet bien mieux qu&#39;eux, d&#39;une part ; et d&#39;autre part, cela peut leur fermer des portes pour postuler à des postes dans des structures qui ne pratiquent pas ces CMS ou même les CMS tout cours.&lt;/p&gt;
+&lt;h2&gt;Les objectifs&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Atelier 1 : lister les métiers du web&lt;/li&gt;
+&lt;li&gt;Atelier 2 : dessiner un diagramme de l&#39;organisation d&#39;une agence&lt;/li&gt;
+&lt;li&gt;Atelier 3 : dessiner un processus de déroulement projet web&lt;/li&gt;
+&lt;li&gt;Atelier 4 : comparatif de CMS (recherche web) / définir les critères qui permettent de définir un CMS ?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Atelier 1&lt;/h3&gt;
+&lt;p&gt;L&#39;atelier 1 est un travail en groupe de 4 ou 5. Les élèves doivent d&#39;abord lister les métiers qui peuvent exister dans une agence de 20 personnes.&lt;/p&gt;
+&lt;p&gt;On demande à chaque groupe de donner leur propositions pour les noter au tableau. Avec des informations, on met des chiffres à côté de chacun des métiers pour montrer de quels métiers on a besoin dans une structure de 1 à 3 personne / 3 à 10 personnes / 10 à 25 personnes.&lt;/p&gt;
+&lt;p&gt;On indique ainsi que les métiers essentiels du web ne sont pas directeur financier, directeur artistique ou chef de projets mais au choix graphiste, intégrateur ou développeur. En insistant bien pour dire que celui qui est indispensable pour un projet réussi c&#39;est l&#39;intégrateur car c&#39;est vraiment le meilleur, tout le monde le sait (là tu soulignes qu&#39;on défend toujours les siens).&lt;/p&gt;
+&lt;h3&gt;Atelier 2&lt;/h3&gt;
+&lt;p&gt;Comme pour le premier atelier, les élèves doivent travailler en groupe avec du papier et un stylo. Là, il faut les faire dessiner pour les sortir de cette machine devant laquelle ils passent toute la semaine.&lt;/p&gt;
+&lt;p&gt;Faites moi un diagramme relationnel entre les différents métiers listés au tableau. Cet excercice permet de mesurer leur vision du monde du travail, de casser une vision qui peut être parfois trop pyramidale et de leur montrer le chemin d&#39;une structure plus applatie de type &quot;Agile&quot;.&lt;/p&gt;
+&lt;p&gt;J&#39;ai eu un peu de tout comme diagramme, des choses très structurées, d&#39;autres très étirées. Ce qui est constant c&#39;est que les développeurs, les graphistes ou les graphistes sont aussi nombreux que les comptables, c&#39;est-à-dire 1 (une case dans le diagramme). Pour une société de 20 personnes, on a donc 1 seul développeur, ça fait peu de matière productive.&lt;/p&gt;
+&lt;p&gt;Sur les 2 classes, j&#39;ai eu 1 seul graphe un peu original qui utilisait des boules avec les différents pôles et des flèches pour les relier. Bien entendu avec ce système on avait un chef de projets et un intégrateur qui se baladaient tout seul au milieu de tout ça.&lt;/p&gt;
+&lt;h3&gt;Atelier 3&lt;/h3&gt;
+&lt;p&gt;Encore plus dur, il fallait me dessiner un processus de déroulement d&#39;un projet web. Le principe étant d&#39;indiquer des étapes de projet et de placer les métiers selon ces étapes.&lt;/p&gt;
+&lt;p&gt;Encore une fois, on a eu des choses assez diverses et très en relation avec ce qu&#39;on a aujourd&#39;hui dans les agences.&lt;/p&gt;
+&lt;p&gt;Sans pouvoir leur évoquer une plétore de processus d&#39;organisation possible, cet exercice permet de pointer le besoin de faire intervenir les métiers dit &quot;techniques&quot; au niveau de la phase de conception. Éviter de penser que le dévelopeur n&#39;a qu&#39;une fonction d&#39;exécutant.&lt;/p&gt;
+&lt;h3&gt;Atelier 4&lt;/h3&gt;
+&lt;p&gt;Pour finir, je leur ai demandé de chercher des CMS sur le web, de m&#39;en faire un tableau et d&#39;essayer de me rédiger une petite défintion du mot CMS.&lt;/p&gt;
+&lt;p&gt;Le premier objectif est de comprendre ce qu&#39;est l&#39;Open Source et pourquoi certains systèmes ont pris le monopole de certains marchés. Le second objectif est de leur montrer que l&#39;usage d&#39;un mot peut avoir des significations différentes en fonction des personnes à qui ils parlent et que parfois certains mots sont utilisés à mauvais escient.&lt;/p&gt;
+&lt;p&gt;Ainsi, ils peuvent faire une différence entre un moteur de blog (WordPress), un CMS (Drupal) et une boutique E-commerce (Prestashop).&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Ces exercices sous forme d&#39;ateliers de groupe sont très instructifs pour le professeur qui peut, à partir d&#39;un premier dialogue, estimer le type d&#39;élève auxquels il a affaire.&lt;/p&gt;
+&lt;p&gt;Ensuite, les ateliers permettent d&#39;obliger les élèves à se représenter visuellement dans une structure d&#39;entreprise ou dans une équipe. C&#39;est pour moi essentiel pour qu&#39;ils puissent se positionner lors de leur recherche de stages.&lt;/p&gt;
+&lt;p&gt;De plus, on le verra par la suite, cela va me permettre de scénariser les exercices des cours suivants en leur donnant des rôles précis : rédacteur, graphiste, intégrateur, sysadmin…&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Feb 2015 10:20:54 +0100</pubDate>
+        <link>/2015/02/12/cours-iut-cerner-les-metiers-du-web-et-savoir-ce-quest-un-cms</link>
+        <guid isPermaLink="true">/2015/02/12/cours-iut-cerner-les-metiers-du-web-et-savoir-ce-quest-un-cms</guid>
+        
+        <category>intelligence collective</category>
+        
+        <category>wordpress</category>
+        
+        
+        <category>formation</category>
+        
+      </item>
+    
+      <item>
+        <title>Piège en haute mer</title>
+        <description>&lt;p&gt;A propos des cours en IUT, j&#39;ai souvent de grandes conversations avec mon collègue Steve Beau qui lui aussi est intervenant. Je lui expliquais les limites d&#39;exigences technique sur les élèves par rapport à mon manque d&#39;emprise sur l&#39;ensemble de la formation.&lt;/p&gt;
+&lt;h2&gt;L&#39;exigence&lt;/h2&gt;
+&lt;p&gt;La formation de jeunes apprentis demande une certaine capacité à pouvoir faire se concentrer des élèves à la réalisation de tâches immédiates, répétitives ou fastidieuses et en même temps à les projeter dans des conditions probables de production in the &quot;real life&quot;.&lt;/p&gt;
+&lt;p&gt;La question étant de jongler entre le besoin de leur faire maîtriser correctement certains concepts et leur capacité à s&#39;intégrer à une équipe. Le but étant qu&#39;ils sachent estimer où peu se situer un blocage dans le processus afin de demander de l&#39;aide à la bonne personne.&lt;/p&gt;
+&lt;p&gt;Avec Steve, on parlait des préprocesseurs en me signifiant que ses élèves ne voyaient pas leur utilité puisque, pour l&#39;exercice, il fallait écrire plus de mixins que ce qui était nécessaire en CSS classique ; il y avait plus de code dans les fonctions que dasn le code qui était généré.&lt;/p&gt;
+&lt;p&gt;Steve de soutenir qu&#39;il importait de leur expliquer que dans un cas de production, cela s&#39;avérait bien utile car le code pouvait être très complexe. Mais à moi de lui répondre que le cas de production n&#39;étant pas précédement vécu (l&#39;expérience), ce discours restait difficile à appréhender pour la majorité des élèves.&lt;/p&gt;
+&lt;h2&gt;Vents et marées&lt;/h2&gt;
+&lt;p&gt;Steve n&#39;a pas tord de soutenir qu&#39;il faut les préparer à la complexité de leur furtur métier en leur expliquant les cas pratiques. Cependant, cette conversation m&#39;a amené à développer l&#39;idée que la classe était un peu comme de l&#39;entraînement en piscine.&lt;/p&gt;
+&lt;p&gt;Dans un cours, les exercices sont préparés, le déroulement normé afin de permettre de garder un niveau homogène entre des élèves différents qu&#39;il faut évaluer selon une grille de manière régulière. En gros, on a pas le droit d&#39;en perdre et de les laisser se noyer. Pour plus de sûreté et étant donnée le niveau de l&#39;éducation nationale dans le domaine du numérique (en IUT en tout cas), on va rester sur de bonnes bases en natation mais peu de connaissances du grand large.&lt;/p&gt;
+&lt;p&gt;En effet, la formation est basée sur l&#39;organisation de modules tel que le PHP, le CSS, le HTML, Photoshop, les CMS,… Ce qui peut être assez intéressant pour dissocier/faire comprendre les différents métiers et domaines mais qui est totalement contreproductif pour apprendre le web qui consiste à la réalisation complexe de tâches.&lt;/p&gt;
+&lt;p&gt;Ceci a pour effet qu&#39;il est assez difficile d&#39;approfondir un cas pratique (la gestion d&#39;une grille dans tel CMS, utiliser github pour héberger un site statique), car cela mord sur le programme des autres cours (CSS, HTML ou Administration). Ainsi, on reste sybillin sur le grand large en restant sur l&#39;exercice de sa discipline (faites moi dix longeurs).&lt;/p&gt;
+&lt;p&gt;Il existe quand même ce qu&#39;on appelle des projets tutorés (cas réel de réalisation d&#39;un site), ou des cas d&#39;élèves en alternance, cependant la différence qualité de ces personnes ne va pas régler le problème d&#39;homogénéité.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Le cursus en IUT n&#39;est pas si mal pensé, mais je pense qu&#39;il tient sur la capacité des entreprises ou professeurs à bien former nos futurs collaborateurs, c&#39;est-à-dire avoir du temps. Sauf que d&#39;un côté nous avons des professeurs qui ne connaissent peut-être pas suffisamment les processus de production et de l&#39;autre côté des tuteurs qui n&#39;ont pas beaucoup de temps pour former leurs stagiaires (et au milieu des vacataires).&lt;/p&gt;
+&lt;p&gt;Qu&#39;on garde cette mise en place pour les 2 premières années de cursus d&#39;IUT pour apprendre à maîtriser correctement le code, très bien. Mais on devrait peut-être faire évoluer le programme de licence pour être plus adapté à des élèves en bac+3. Ils n&#39;ont plus vraiment l&#39;âge d&#39;être notés individuellement, ni de devoir faire leur gamme sur des exercices d&#39;école. Mon avis est qu&#39;il faut les pousser vers le monde professionel à travers l&#39;apprentissage de méthodes de conception et de travail collaboratif.&lt;/p&gt;
+&lt;p&gt;En gros développer le mode de travail sous forme d&#39;ateliers.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Jan 2015 13:13:14 +0100</pubDate>
+        <link>/2015/01/29/piege-en-haute-mer</link>
+        <guid isPermaLink="true">/2015/01/29/piege-en-haute-mer</guid>
+        
+        <category>création numérique</category>
+        
+        
+        <category>formation</category>
+        
+      </item>
+    
+      <item>
+        <title>Transmettre le savoir, organiser des cours de web</title>
+        <description>&lt;p&gt;Mon année 2014 s&#39;est emballée à partir du mois de septembre, trop de contrats en parallèles et mes débuts comme professeur à l&#39;IUT d&#39;Elbeuf m&#39;ont pris pas mal de mon temps. Pendant ces 3 heures de cours par semaine, j&#39;ai pu expérimenter l&#39;apprentissage de Git, de la struture de fichiers et de la conception web.&lt;/p&gt;
+&lt;p&gt;En juillet 2014, je suis appelé pour donner des cours à l&#39;IUT d&#39;Elbeuf en Licence Multimedia pour des cours de CMS/Ecommerce. En Septembre 2014, je reçois mon emploi du temps, sans préparation, sans modèle, sans guide, je suis jeté dans le bain.&lt;/p&gt;
+&lt;p&gt;Le programme original était d&#39;apprendre à cliquer dans WordPress et d&#39;installer un Prestashop. Étant donné la difficulté à installer des bases de données sur des machines sans droits administrateurs et surtout par choix personnel, j&#39;ai entamé des cours sur la réalisation d&#39;un tumblr, d&#39;un site sous Git/Jekyll et une boutique shopify.&lt;/p&gt;
+&lt;p&gt;Je vais essayer de vous donner dans les billets suivants les retours sur quelques ateliers.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Jan 2015 17:49:20 +0100</pubDate>
+        <link>/2015/01/21/transmettre-le-savoir-organiser-des-cours-de-web</link>
+        <guid isPermaLink="true">/2015/01/21/transmettre-le-savoir-organiser-des-cours-de-web</guid>
+        
+        <category>CMS</category>
+        
+        
+        <category>formation</category>
+        
+      </item>
+    
+      <item>
+        <title>La précarisation des graphistes</title>
+        <description>&lt;p&gt;Les évolutions des web en général et l&#39;apparition de nouveaux types d&#39;organisation pour la réalisation de produits ou d&#39;applications web amène à une modification des structures relationnels entre nos métiers. Nous passons d&#39;équipes web organisées autour de la publication d&#39;informations (type agence) à de la conception de produits spécifiques (type startup).&lt;/p&gt;
+&lt;h2&gt;La nécessité des realeases&lt;/h2&gt;
+&lt;p&gt;La possibilité de développement de sites applicatifs (webapp) dans le navigateur a provoqué l&#39;arrivé de prises de conscience de principes comme : le développement guidé par les tests, l&#39;agilité ou encore le monitoring.&lt;/p&gt;
+&lt;p&gt;Le besoin de mise en production fréquente de modifications a petit à petit amené les intervenants à se familiariser avec ces notions. Les membres typiques d&#39;une équipe de dev se doivent de maîtriser les commandes du terminal pour lancer des processus, versionner leur travail ou configurer une fonctionnalité.&lt;/p&gt;
+&lt;p&gt;Dans cette chaîne de participation, nous trouvons principalement les métiers du développement, intégrateurs, développeurs, sysadmin… mais peu de graphistes.&lt;/p&gt;
+&lt;h2&gt;Le renversement de modèle&lt;/h2&gt;
+&lt;p&gt;Dans une agence web, qui s&#39;assimile parfois plus à une agence de communication, la mise en forme est très importante. On va vendre à un client un univers graphique et fonctionnel qui va le différencier de ses concurrents.&lt;br /&gt;
+Dans ce système qui a prévalu entre les années 2000 et 2010, le graphiste est présent en avant vente, c&#39;est lui qui va créer la &quot;plus value&quot; d&#39;un site qui va permettre de se différencier d&#39;un client (on l&#39;appelle parfois designer).&lt;br /&gt;
+Comme le visuel et la conception de ce visuel sont mis au centre, les autres métiers sont en quelques sortes relégués à la périphérie. Celui qui est le moins reconnu dans ce système est l&#39;intégrateur ; dont le rôle se limite à la traduction de la composition graphique en code, il est en bout de chaine.&lt;/p&gt;
+&lt;p&gt;Dans une équipe de type développement applicatif en revanche, on va s&#39;intéresser (en théorie) plus au domaine technique. On ne va pas forcément chercher à se différencier graphiquement mais plutôt chercher à améliorer le service proposé.&lt;/p&gt;
+&lt;p&gt;On se concentrera sur la modélisation technique et la manière dont on va stabiliser les développements. Ceci impliquant d&#39;avoir du code qualité donc une personne compétente à chaque poste, donc un &quot;développeur front&quot; (qui peut-être dans certains cas un intégrateur).&lt;br /&gt;
+L&#39;objectif sera que chacun respecte au maximum les contraintes de la production afin de garantir la meilleure disponibilité de l&#39;application.&lt;/p&gt;
+&lt;h2&gt;La précarisation du graphiste&lt;/h2&gt;
+&lt;p&gt;En raison de la complexité de développement d&#39;une application, il est compréhensible que la réflexion sur le graphisme ne soit pas prioritaire. Par facilité, pour la partie interface, on passera par l&#39;utilisation d&#39;un Framework HTML/CSS, on développera une première version assez rapidement et en fonction des retours, on fera appel à un graphiste pour mettre un peu de couleur dans tout ça.&lt;/p&gt;
+&lt;p&gt;Or, vous le savez aussi bien que moi, l&#39;équipe idéale doit comporter un certain nombre de compétences et la compétence graphique (UX) est aussi essentielle que les autres. Les équipe d&#39;expérience pensent bien évidemment à valoriser ce métier.&lt;/p&gt;
+&lt;p&gt;Sauf que si dans un cas extrême de la boîte de communication c&#39;est l&#39;intégrateur qui a priori va être considéré comme le métier ayant le moins de valeur. Dans le cas d&#39;une équipe d&#39;application, c&#39;est le graphiste qui va être déconsidéré.&lt;/p&gt;
+&lt;h2&gt;Une question de compréhension&lt;/h2&gt;
+&lt;p&gt;J&#39;explique ce phénomène par le langage.&lt;/p&gt;
+&lt;p&gt;Dans une agence de communication, on va valoriser l&#39;image. Le graphiste va particulièrement bien s&#39;intégrer à ce milieu en terme de domaine. On parle de qualité visuel, de grain, d&#39;émotions, de couleurs…&lt;br /&gt;
+L&#39;intégrateur est, dans ce domaine, une personne qui parle même langage mais mal car ce n&#39;est pas sa formation et que son navigateur ne lui permet (permettait) pas de tout faire.&lt;/p&gt;
+&lt;p&gt;Dans une entreprise technique, on va parler disponibilité de contenus. Le langage sera basé sur la capacité à mettre à jour un dépôt de données et de savoir à quel moment on le transfert d&#39;une plateforme à une autre.&lt;br /&gt;
+Le graphiste est, dans ce domaine, une personne qui ne parle pas du tout le même langage que les autres. Il n&#39;est pas intégré à la discussion sur la gestion de versions.&lt;/p&gt;
+&lt;h2&gt;Sauvons les graphistes&lt;/h2&gt;
+&lt;p&gt;C&#39;est vrai que les besoins grandissant de conseils dans la conception d&#39;interface donnent à une partie des intégrateurs une plus grande considération. C&#39;est avec délectation que nous dirigeons les affaires et que, pour ma part, j&#39;ai participé à l&#39;éviction d&#39;un (mauvais) graphiste sur un projet : &quot;il est nul en web, on ne veut pas travailler avec lui&quot;.&lt;br /&gt;
+Vengeance !!!&lt;/p&gt;
+&lt;p&gt;Mais je ne crois pas que la dominance d&#39;un métier sur un autre permette de prendre plaisir au travail et de réaliser des interfaces de qualité.&lt;br /&gt;
+Il faut prendre donc conscience que si on a des exigences, il faut inciter le maximum de compétences à échanger leurs points de vue.&lt;/p&gt;
+&lt;p&gt;Pour cela, il faut que tout le monde parle le même langage. La formation de la plupart des graphistes ne leur apprend pas les contraintes techniques du web. Ils ont donc énormément de mal à savoir comment et à quel moment participer à l&#39;amélioration des interfaces.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sauvons les graphistes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour cela :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Imposons des réunions de co-création multicompétence en amont de projet&lt;/li&gt;
+&lt;li&gt;Réfléchissons à quelle peut-être l&#39;utilité de Git pour un graphiste&lt;/li&gt;
+&lt;li&gt;Mettons en place des cours pour former les graphistes à Git&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 25 Nov 2014 18:56:33 +0100</pubDate>
+        <link>/2014/11/25/la-precarisation-des-graphistes</link>
+        <guid isPermaLink="true">/2014/11/25/la-precarisation-des-graphistes</guid>
+        
+        <category>ergonomie</category>
+        
+        
+        <category>entreprise 2.0</category>
+        
+      </item>
+    
+      <item>
+        <title>Les budgets miroirs</title>
+        <description>&lt;p&gt;La relation client reste une sorte de maîtrise empirique de la manière dont on arrive à vendre une réalisation pour une certaine somme. Personnellement, je tente au maximum de réduire au maximum l&#39;enveloppe et le périmètre afin d&#39;être sûr que mon interlocuteur garde de la réserve pour des évolutions ou des corrections.&lt;/p&gt;
+&lt;h2&gt;Le mode projet&lt;/h2&gt;
+&lt;p&gt;Vous connaissez les chefs de projets ? Maintenant, demandez à un de vos chef de projets de vous définir ce qu&#39;est un projet.&lt;/p&gt;
+&lt;p&gt;Je donne ma main à couper que 98% de ceux-ci ne sont pas capables de vous donner une définition juste de ce que le mot projet relève. Si on se réfère à wikipédia, on trouve :&lt;/p&gt;
+&lt;blockquote cite=&quot;https://fr.wikipedia.org/wiki/Projet&quot;&gt;&lt;p&gt;Le fonctionnement en « mode projet » se distingue du fonctionnement en mode processus en ce sens qu&#39;une activité conduite en mode projet n&#39;est généralement pas destinée à être répétée : son côté « inédit et unique » souligne la probabilité d&#39;être confronté à un environnement incertain, du fait de l&#39;absence plus ou moins grande d&#39;expériences ou de pratiques antérieures. Par ailleurs, un processus est destiné à durer et n&#39;a pas, en général de date de fin prévue.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Le mode projet est « inédit et unique », il n&#39;est pas destiné à être répété, il s&#39;oppose au mode processus.&lt;/p&gt;
+&lt;h2&gt;Le mode processus&lt;/h2&gt;
+&lt;p&gt;La définition du mode processus :&lt;/p&gt;
+&lt;blockquote cite=&quot;https://fr.wikipedia.org/wiki/Processus_%28gestion_de_la_qualit%C3%A9%29&quot;&gt;&lt;p&gt;Un processus est un ensemble d&#39;activités corrélées ou interactives qui transforme des éléments d&#39;entrée en éléments de sortie. Ces éléments sont soit des objets matériels (pouvant être perçus comme des flux par la logistique à des fins d&#39;évaluation) soit des informations, soit les deux.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Le mode processus permet de transformer des informations en d&#39;autres informations : un cahier des charges en pages HTML par exemple.&lt;/p&gt;
+&lt;h2&gt;Un projet web&lt;/h2&gt;
+&lt;p&gt;Il semble que l&#39;inculture généralisée sévit dans les équipes web. Certains de transformer le monde et de participer à un avenir radieux, plutôt que de garder un regard cohérent sur sa situation, chacun se donne des &quot;airs&quot; en prenant pour un statut de poste le plus valorisant.&lt;br /&gt;Nous connaissons d&#39;ailleurs le ridicule de celui de chef de projets ; une personne qui ne dirige pas des hommes mais ces choses très immatériels que sont des projets.&lt;/p&gt;
+&lt;p&gt;Pour commencer à défricher le sujet admettons que le projet web ne désigne rien de précis et commençons par distinguer 2 choses : le mode projet (le développement) et le mode processus (la maintenance et édition du site).&lt;/p&gt;
+&lt;h2&gt;Les budgets miroirs&lt;/h2&gt;
+&lt;p&gt;Puisque nous savons tous qu&#39;un &quot;projet&quot; rentable est avant tout un &quot;projet&quot; bien vendu. Posons seulement la question de ce qui est vendu lors d&#39;un développement.&lt;/p&gt;
+&lt;p&gt;Comme nous pensons tous &quot;projets&quot; (transformation du monde), au moment de discuter budget, tout le monde parle du budget de transformation.&lt;/p&gt;
+&lt;p&gt;Ne vous êtes vous jamais dit : cette fonctionnalité ne sert à rien, cette fonctionnalité ne sera jamais utilisé… le client aurait mieux fait d&#39;investir autrement.&lt;/p&gt;
+&lt;p&gt;On parle d&#39;agilité, de manière de vendre, de saucissonnage en sprint ; mais avez vous seulement effectué cette opération simple : mettre en regard le budget de transformation avec le budget de maintenance.&lt;/p&gt;
+&lt;p&gt;Le budget de maintenance est le budget qui sera nécessaire pour faire vivre le site, améliorer des fonctionnalités, communiquer…&lt;/p&gt;
+&lt;p&gt;Essayer de présenter d&#39;un côté les fonctionnalités que désire votre client et ce qu&#39;il faudra qu&#39;il débourse pour faire vivre le site : un salaire de rédacteur, un budget de maintenance avec vous…&lt;/p&gt;
+&lt;p&gt;A priori, si vous arrivez à présenter à votre client la gestion de son site avec une vision stratégique pour qu&#39;il dure dans le temps, il est fort possible que vous arriviez soit à faire baisser la voilure du projet initial pour qu&#39;il se concentre sur ce qui a de la valeur ou à mettre plus d&#39;argent afin que les développements rentre dans un processus élargie d&#39;édition de contenus.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Oct 2014 14:13:47 +0200</pubDate>
+        <link>/2014/10/15/les-budget-miroirs</link>
+        <guid isPermaLink="true">/2014/10/15/les-budget-miroirs</guid>
+        
+        <category>budget</category>
+        
+        
+        <category>conception web</category>
+        
+      </item>
+    
+  </channel>
+</rss>
