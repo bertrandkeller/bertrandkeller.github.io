@@ -6,7 +6,7 @@ description: Découvrir des choses et d'autres
 baseurl: ""
 permalink: /:year/:month/:day/:title
 url: "http://bertrandkeller.info"
-github_username:  bertrandkeller
+github_username: bertrandkeller
 # gems:
 #   - jekyll-assets
 

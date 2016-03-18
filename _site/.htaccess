@@ -109,46 +109,6 @@ AddType application/octet-stream       safariextz
 
 
 
-# ----------------------------------------------------------------------
-# gzip compression
-# ----------------------------------------------------------------------
-
-<IfModule mod_deflate.c>
-
-
-# force deflate for mangled headers developer.yahoo.com/blogs/ydn/posts/2010/12/pushing-beyond-gzipping/
-<IfModule mod_setenvif.c>
-  <IfModule mod_headers.c>
-    SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s,?\s(gzip|deflate)?|X{4,13}|~{4,13}|-{4,13})$ HAVE_Accept-Encoding
-    RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
-  </IfModule>
-</IfModule>
-# html, txt, css, js, json, xml, htc:
-<IfModule filter_module>
-  FilterDeclare   COMPRESS
-  FilterProvider  COMPRESS  DEFLATE resp=Content-Type /text/(html|css|javascript|plain|x(ml|-component))/
-  FilterProvider  COMPRESS  DEFLATE resp=Content-Type /application/(javascript|json|xml|x-javascript)/
-  FilterChain     COMPRESS
-  FilterProtocol  COMPRESS  change=yes;byteranges=no
-</IfModule>
-
-<IfModule !mod_filter.c>
-  # Legacy versions of Apache
-  AddOutputFilterByType DEFLATE text/html text/plain text/css application/json
-  AddOutputFilterByType DEFLATE text/javascript application/javascript application/x-javascript
-  AddOutputFilterByType DEFLATE text/xml application/xml text/x-component
-</IfModule>
-
-# webfonts and svg:
-  <FilesMatch "\.(ttf|otf|eot|svg)$" >
-    SetOutputFilter DEFLATE
-  </FilesMatch>
-</IfModule>
-
-<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|swf|xml|txt|css|js)$">
-  Header set Cache-Control "max-age=864000, proxy-revalidate"
-  Header append Vary Accept-Encoding
-</FilesMatch>
 
 
 # ----------------------------------------------------------------------
@@ -218,28 +178,7 @@ AddType application/octet-stream       safariextz
 
 </IfModule>
 
-<IfModule mod_headers.c>
-  ## CUSTOM CODE
-  # Header set Access-Control-Allow-Origin "*"
-  # Header set Access-Control-Allow-Origin: http://fendzy.com
-  Header set Access-Control-Allow-Credentials true
-  Header add Access-Control-Allow-Headers "origin, x-requested-with, content-type"
-  Header add Access-Control-Allow-Methods "PUT, GET, POST, DELETE, OPTIONS"
 
-  # Only allow JavaScript from the same domain to be run.
-
-  # Don't allow inline JavaScript to run.
-  Header always append X-Frame-Options SAMEORIGIN
-  Header set Content-Security-Policy "script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.google.com http://www.google-analytics.com https://apis.google.com"
-
-  # prevent mime based attacks
-  Header set X-Content-Type-Options: 'nosniff'
-  Header set X-Content-Type-Options nosniff
-
-  # Turn on IE8-IE9 XSS prevention tools
-  Header set X-XSS-Protection "1; mode=block"
-  ## END CUSTOM CODE
-</IfModule>
 
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>
@@ -476,6 +415,7 @@ FileETag None
   RedirectMatch 301 ([0-9]{4}/[0-9]{2}/[0-9]{2}/)[0-9]+-(.*)$  http://bertrandkeller.info/$1$2/
   RewriteRule ([0-9]{4}/[0-9]{2}/[0-9]{2}/)[0-9]+-(.*)$  http://bertrandkeller.info/$1$2/ [R=301,L]
   RewriteRule ^/feed/$ /feed.xml [R=301]
+  RedirectMatch 301 ^/feed/$ /feed.xml
 </IfModule>
 
 # ----------------------------------------------------------------------
@@ -484,7 +424,7 @@ FileETag None
 # Rewrite "domain.com/foo/ -> domain.com/foo"
 
 #<IfModule mod_rewrite.c>
-#  RewriteRule ^(.*)/$ /$1 [R=301,L]
+ RewriteRule ^(.*)/$ /$1 [R=301,L]
 #</IfModule>
 
 
@@ -531,7 +471,7 @@ FileETag None
 # without -MultiViews, Apache will give a 404 for a rewrite if a folder of the same name does not exist
 #   e.g. /blog/hello : webmasterworld.com/apache/3808792.htm
 
-Options -MultiViews
+#Options -MultiViews
 
 
 

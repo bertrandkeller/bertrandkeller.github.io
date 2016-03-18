@@ -3,25 +3,36 @@
   <channel>
     <title>bertrandkeller</title>
     <description>Découvrir des choses et d&#39;autres</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Mar 2016 11:41:16 +0100</pubDate>
-    <lastBuildDate>Thu, 17 Mar 2016 11:41:16 +0100</lastBuildDate>
+    <link>http://bertrandkeller.info/</link>
+    <atom:link href="http://bertrandkeller.info/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 18 Mar 2016 15:36:16 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Mar 2016 15:36:16 +0100</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
         <title>Transmutation</title>
-        <description>Après quelques mois de silence pour à la fois des raisons personnelles et professionnelles, je reviens éditer pour vous quelques articles afin d&#39;agayer vos mornes vies.
+        <description>&lt;p&gt;Après quelques mois de silence, à la fois des raisons personnelles et professionnelles, je reviens éditer pour vous quelques articles afin d’agayer vos mornes vies.&lt;/p&gt;
 
-Je ne sais pas ce que je vais vraiment éditer mais je sais comment je vais éditer. Le web professionnel anime vos pâles journées, vous êtes à la recherche de textes pour vous titiller l&#39;esprit ? Et bien, bertrandkeller va éditer des notes sur des choses et d&#39;autres.
+&lt;p&gt;Je ne sais pas ce que je vais vraiment éditer mais je sais comment je vais éditer. La rédaction web professionnalisée anime vos pâles journées, vous êtes à la recherche de textes pour vous titiller l’esprit ? Et bien, bertrandkeller va éditer des notes sur des choses et d’autres.&lt;/p&gt;
 
-##Comment est-ce sensé se passer ?##
+&lt;h2 id=&quot;comment-est-ce-sens-se-passer-&quot;&gt;Comment est-ce sensé se passer ?&lt;/h2&gt;
 
-Ce blog vient de migrer d&#39;un wordpress à un jekyll avec le contenu en markdown ; j&#39;ai synchronisé mon logiciel de notes avec le répertoire de billet. Ainsi j&#39;espère travailler quelques textes sous forme de brouillon et peut-être les faire évoluer dans le temps.
+&lt;p&gt;Ce blog vient de migrer d’un wordpress à un jekyll avec le contenu en markdown ; j’ai synchronisé mon logiciel de notes avec le répertoire de billet. Ainsi j’espère travailler quelques textes sous forme de brouillon et peut-être les faire évoluer dans le temps.&lt;/p&gt;
+
+&lt;p&gt;Les anciens billets sont toujours accessibles dans la page archive mais plus aucune recherche n’est disponible.&lt;/p&gt;
+
+&lt;h2 id=&quot;victime-de-la-mode&quot;&gt;Victime de la mode&lt;/h2&gt;
+
+&lt;p&gt;Après plusieurs années à tester l’utilisation des gestionnaires de pages statiques, je me suis décidé à pratiquer cette technologie au jour le jour. Ce blog est désormais propulsé par Jekyll. Le gestionnaire de pages statiques présent sur github pages.&lt;/p&gt;
+
+&lt;p&gt;Un de mes objectifs est de redonner quelques lettres de noblesses au verbe et la verbe (malgré les coquilles et fautes d’orthographes). Le passage à la simplicité, et la suppression des menus de navigation propres aux CMS, redonne de l’espace à l’écriture.&lt;/p&gt;
+
+&lt;p&gt;Une écriture qui nous manque sérieusement sur ces médias sociaux bouffeurs de temps de cerveaux et de contemplation ; une écriture qui pourrait revenir sous forme de micro édition grâce à ces gestionnaires de pages statiques et l’export possible à des formats de lectures appropriées.&lt;/p&gt;
+
 </description>
         <pubDate>Wed, 16 Mar 2016 00:00:00 +0100</pubDate>
-        <link>/2016/03/16/transmutation</link>
-        <guid isPermaLink="true">/2016/03/16/transmutation</guid>
+        <link>http://bertrandkeller.info/2016/03/16/transmutation</link>
+        <guid isPermaLink="true">http://bertrandkeller.info/2016/03/16/transmutation</guid>
         
         
       </item>
