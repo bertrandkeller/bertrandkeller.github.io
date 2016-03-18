@@ -4,8 +4,9 @@ layout: default
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <p class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</p>
+  <p class="post-meta">{{ page.date | date: "%d/%m/%Y" }}</p>
   {{ content }}
 </article>
 
 {% include pagination.html %}
+

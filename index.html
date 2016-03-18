@@ -8,7 +8,7 @@ title: accueil
 <section class="post">
   <h1>{{ post.title }}</h1>
   <p class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</p>
-  {{ post.content }}
+  {{ post.content | markdownify }}
 </section>
 
 <div class="pagination">
@@ -16,6 +16,14 @@ title: accueil
   <div class="left">
     <a class="pagination-item" href="{{ post.previous.url }}">
       {{ post.previous.title }}
+    </a>
+  </div>
+  {% endif %}
+
+  {% if post.title == 'Transmutation' %}
+  <div class="left">
+    <a class="pagination-item" href="/2015/10/03/parisweb-cest-quoi-les-metiers-du-web">
+      ParisWeb - c'est quoi les métiers du web ?
     </a>
   </div>
   {% endif %}
@@ -28,3 +36,4 @@ title: accueil
   </div>
   {% endif %}
 </div>
+

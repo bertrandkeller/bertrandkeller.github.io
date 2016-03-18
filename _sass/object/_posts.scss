@@ -9,7 +9,7 @@
 .posts-archive {
   @include list-inline();
   > li {
-    &:after {
+    &:not(:last-child):after {
       content: ' - ';
     }
  }

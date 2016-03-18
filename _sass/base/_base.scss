@@ -58,10 +58,10 @@ figcaption {
  */
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: palette(primary);
   &:visited {
-    color: palette(primary, light);
+    color: palette(primary);
   }
   &:hover {
     text-decoration: underline;
