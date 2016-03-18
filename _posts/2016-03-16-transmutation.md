@@ -12,7 +12,7 @@ Les anciens billets sont toujours accessibles dans la page archive mais plus auc
 
 Après plusieurs années à tester l'utilisation des gestionnaires de pages statiques, je me suis décidé à pratiquer cette technologie au jour le jour. Ce blog est désormais propulsé par Jekyll. Le gestionnaire de pages statiques présent sur github pages.
 
-Un de mes objectifs est de redonner quelques lettres de noblesses au verbe et la verbe (malgré les coquilles et fautes d'orthographes). Le passage à la simplicité, et la suppression des menus de navigation propres aux CMS, redonne de l'espace à l'écriture.
+Un de mes objectifs est de redonner quelques lettres de noblesses au verbe et la verve (malgré les coquilles et fautes d'orthographes). Le passage à la simplicité, et la suppression des menus de navigation propres aux CMS, redonne de l'espace à l'écriture.
 
 Une écriture qui nous manque sérieusement sur ces médias sociaux bouffeurs de temps de cerveaux et de contemplation ; une écriture qui pourrait revenir sous forme de micro édition grâce à ces gestionnaires de pages statiques et l'export possible à des formats de lectures appropriées.
 
