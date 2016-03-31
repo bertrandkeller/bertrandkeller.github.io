@@ -35,3 +35,7 @@ node_modules
 # node-waf configuration
 .DS_Store
 dploy.yaml
+
+#
+_posts/*
+!_post/[0-9]
