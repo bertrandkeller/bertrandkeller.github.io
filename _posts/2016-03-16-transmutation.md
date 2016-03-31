@@ -1,7 +1,3 @@
----
-title: transmutation
----
-
 Après quelques mois de silence, à la fois des raisons personnelles et professionnelles, je reviens éditer pour vous quelques articles afin d'agayer vos mornes vies.
 
 Je ne sais pas ce que je vais vraiment éditer mais je sais comment je vais éditer. La rédaction web professionnalisée anime vos pâles journées, vous êtes à la recherche de textes pour vous titiller l'esprit ? Et bien, bertrandkeller va éditer des notes sur des choses et d'autres.
