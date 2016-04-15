@@ -9,6 +9,8 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
+    autoprefixer-rails (6.3.6)
+      execjs
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -53,10 +55,10 @@ GEM
       octokit (~> 4.0)
       public_suffix (~> 1.4)
       typhoeus (~> 0.7)
-    html-pipeline (2.3.0)
+    html-pipeline (2.4.0)
       activesupport (>= 2, < 5)
       nokogiri (>= 1.4)
-    html-proofer (3.0.4)
+    html-proofer (3.0.5)
       activesupport (~> 4.2)
       addressable (~> 2.3)
       colored (~> 1.2)
@@ -107,7 +109,7 @@ GEM
     listen (3.0.6)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
-    mercenary (0.3.5)
+    mercenary (0.3.6)
     mini_portile2 (2.0.0)
     minitest (5.8.4)
     multipart-post (2.0.0)
@@ -116,9 +118,12 @@ GEM
       mini_portile2 (~> 2.0.0.rc2)
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
+    octopress-autoprefixer (2.0.0)
+      autoprefixer-rails
+      jekyll (~> 3.0)
     parallel (1.8.0)
     public_suffix (1.5.3)
-    rake (11.1.2)
+    rake (11.0.1)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
@@ -145,11 +150,11 @@ PLATFORMS
 DEPENDENCIES
   foreman
   github-pages (= 67)
-  html-proofer
+  html-proofer (~> 3.0.0)
   jekyll (= 3.0.3)
-  jekyll-paginate
   json
-  rake
+  octopress-autoprefixer
+  rake (~> 11.0.0)
 
 BUNDLED WITH
    1.11.2

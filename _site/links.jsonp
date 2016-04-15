@@ -8,6 +8,11 @@ callback([
   {
     "text": "Mon processus d'édition",
     "href": "/2016/03/31/processus-edition"
+  } ,
+
+  {
+    "text": "Entre vérité et réalité",
+    "href": "/2016/04/15/verite-realite"
   } 
 
 ])

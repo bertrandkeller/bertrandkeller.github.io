@@ -1,96 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>bertrandkeller</title>
-    <description>Découvrir des choses et d&#39;autres</description>
-    <link>http://bertrandkeller.info/</link>
-    <atom:link href="http://bertrandkeller.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Mar 2016 17:46:19 +0200</pubDate>
-    <lastBuildDate>Thu, 31 Mar 2016 17:46:19 +0200</lastBuildDate>
-    <generator>Jekyll v3.0.3</generator>
-    
-      <item>
-        <title>Mon processus d&#39;édition</title>
-        <description>&lt;p&gt;Ce site a vu sa fréquence d’édition baisser depuis presque 2 ans. La vérité c’est que mon changement de statut et de vie m’a peu laissé temps et de raison d’écrire. Comment vais-je essayer de mettre à jour ma pratique ?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="http://bertrandkeller.info/feed.xml" rel="self" type="application/atom+xml" /><link href="http://bertrandkeller.info/" rel="alternate" type="text/html" /><updated>2016-04-15T11:27:01+02:00</updated><id>http://bertrandkeller.info/</id><title>bertrandkeller</title><subtitle>Découvrir des choses et d&#39;autres</subtitle><entry><title>Entre vérité et réalité</title><link href="http://bertrandkeller.info/2016/04/15/verite-realite" rel="alternate" type="text/html" title="Entre vérité et réalité" /><published>2016-04-15T00:00:00+02:00</published><updated>2016-04-15T00:00:00+02:00</updated><id>http://bertrandkeller.info/2016/04/15/verite-realite</id><content type="html" xml:base="http://bertrandkeller.info/2016/04/15/verite-realite">&lt;p&gt;J’ai commencé la lecture d’n nouveau livre de Jacques Ellul. C’est toujours un plaisir de lire cet auteur dont les propos n’ont pas pris de rides avec les années : &lt;a href=&quot;http://www.gallimard.fr/Catalogue/Table-Ronde/La-petite-vermillon/La-Parole-humiliee&quot;&gt;La parole humiliée&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;changement-de-vie&quot;&gt;Changement de vie&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Voici venus des temps redoutables : ceux de la «pensée molle» et de la parole humiliée. Une indifférence empoisonnée s’élève lentement, comme un mauvais brouillard, des tumultes du moment et des querelles spectaculaires. Les discours modernes ont basculé dans l’enflure et le dérisoire. Rien ne serait plus vrai ni faux, tout deviendrait «égal» dans un monde du bavardage et du soupçon.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Depuis maintenant 3 ans, je ne travaille plus dans une entreprise. Je n’ai plus de poste fixe avec une pratique exécutive récurante et déterminée.&lt;/p&gt;
+&lt;h2&gt;Vérité et réalité&lt;/h2&gt;
+
+&lt;p&gt;Ellul expose le principe d’opposition entre vérité et réalité. La vérité c’est ce qu’on peut estimer comme révélée (par dieu par exemple), elle est unique ; alors que la réalité concerne l’infinité des événements qui se produisent avec leurs particularités.&lt;/p&gt;
+
+&lt;h2&gt;Les indicateurs qualités&lt;/h2&gt;
+
+&lt;p&gt;Dans un projet web, les données d’indicateurs représentent la vérité. Les réferentiels d’accessibilité, par exemple, sont porteurs de la vérité de la manière dont devrait se comporter un site pour n’importe quel utilisateur puisse avoir accès au contenu.&lt;/p&gt;
+
+&lt;p&gt;Cependant, dans la réalité, il s’avère que des cas particuliers ne permettent pas de mettre en pratique cette vérité. Une interface va recouvrir plusieurs problématiques en parallèles qui ne va pas empêcher un module de respecter la “bonne parole”.&lt;/p&gt;
+
+&lt;h2&gt;La direction de projets&lt;/h2&gt;
+
+&lt;p&gt;Dans la plupart des conférences, des personnes vous dictent la vérité ; la meilleure manière de faire. J’ai souvent été gêné par l’envie que j’avais de mettre en pratique cette vérité et la réalité de mon quotidien dans la réalisation d’interfaces.&lt;/p&gt;
+
+&lt;p&gt;En effet, il n’est pas possible de respecter la vérité au sens strict, au plus prêt des textes ; ceux qui prétendent le faire sont des fanatiques pour qui seule la parole compte.&lt;/p&gt;
+
+&lt;p&gt;La vie est faite d’interprétations. L’art de la direction de projets est de connaître la vérité et de voir en quoi elle peut aider à réaliser ou maintenir des choses dans la réalité. Il faut certainement éviter d’être dogmatique.&lt;/p&gt;</content><summary>J’ai commencé la lecture d’n nouveau livre de Jacques Ellul. C’est toujours un plaisir de lire cet auteur dont les propos n’ont pas pris de rides avec les années : La parole humiliée</summary></entry><entry><title>Mon processus d’édition</title><link href="http://bertrandkeller.info/2016/03/31/processus-edition" rel="alternate" type="text/html" title="Mon processus d&#39;édition" /><published>2016-03-31T00:00:00+02:00</published><updated>2016-03-31T00:00:00+02:00</updated><id>http://bertrandkeller.info/2016/03/31/processus-edition</id><content type="html" xml:base="http://bertrandkeller.info/2016/03/31/processus-edition">&lt;p&gt;Ce site a vu sa fréquence d’édition baisser depuis presque 2 ans. La vérité c’est que mon changement de statut et de vie m’a peu laissé de temps et de raisons d’écrire. Comment vais-je essayer de mettre à jour ma pratique ?&lt;/p&gt;
+
+&lt;h2&gt;Changement de vie&lt;/h2&gt;
+
+&lt;p&gt;Depuis maintenant 3 ans, je ne travaille plus dans une entreprise. Je n’ai plus de poste fixe avec une pratique exécutive récurrente et déterminée.&lt;/p&gt;
 
 &lt;p&gt;La pratique professionnelle est toujours présente mais reste comprise dans un tout qui est la gestion d’un quotidien qui comporte bien d’autres choses.&lt;/p&gt;
 
 &lt;p&gt;À changement de vie, changement de pratique éditoriale. C’est pour ça que je suis passé d’un site wordpress éditorialisé autour de l’intégration web à un site beaucoup plus personnel basé sur l’affichage de notes.&lt;/p&gt;
 
-&lt;h2 id=&quot;la-prise-de-notes&quot;&gt;La prise de notes&lt;/h2&gt;
+&lt;h2&gt;La prise de notes&lt;/h2&gt;
 
-&lt;p&gt;Si les moteurs de blog et autres CMS ont permis la mise en ligne de nombreux blogs et sites d’actualités. L’utilisation d’une base de données et d’un site multifonctions se révèle trop complexe pour la simple prise de notes.&lt;/p&gt;
+&lt;p&gt;Si les moteurs de blog et autres CMS ont permis la mise en ligne de nombreux blogs et sites d’actualités, l’utilisation d’une base de données et d’un site multifonctions se révèle trop complexe pour la simple prise de notes.&lt;/p&gt;
 
-&lt;p&gt;La consultation mobile a eu pour effet de modifier la manière d’accéder au contenu. Alors qu’il y a encore peu la presque totalité de la lecture se faisait sur des écrans assis à un bureau (comme on le faisait pour un journal). Désormais, les journaux s’affichent sur des interfaces plus petites sur lesquels le lecteurs ne désirent pas être perturbé par informations secondaires.&lt;/p&gt;
+&lt;p&gt;La consultation mobile a eu pour effet de modifier la manière d’accéder au contenu. Alors qu’il y a encore peu la presque totalité de la lecture se faisait sur des écrans assis à un bureau (comme on le faisait pour un journal). Désormais, les journaux s’affichent sur des interfaces plus petites sur lesquelles les lecteurs ne désirent pas être perturbés par des informations secondaires.&lt;/p&gt;
 
-&lt;p&gt;Il y aurait donc un désir à la fois d’accéder à du contenu clair et précis. Mais aussi un besoin de pouvoir soit même éditer des idées ou des observations qu’on aurait eu en situation nomade.&lt;/p&gt;
+&lt;p&gt;Il y aurait donc un désir à la fois d’accéder à du contenu clair et précis, mais aussi un besoin de pouvoir soi-même éditer des idées ou des observations qu’on aurait eu en situation nomade.&lt;/p&gt;
 
-&lt;p&gt;C’est pour ces raisons que je travaille sur des méthodologies de mise en ligne de notes mais aussi que je me lance dasn la mise en ligne de mes propres réflexions.&lt;/p&gt;
+&lt;p&gt;C’est pour ces raisons que je travaille sur des méthodologies de mise en ligne de notes mais aussi que je me lance dans la mise en ligne de mes propres réflexions.&lt;/p&gt;
 
-&lt;h2 id=&quot;le-processus-actuel-ddition&quot;&gt;Le processus actuel d’édition&lt;/h2&gt;
+&lt;h2&gt;Le processus actuel d&#39;édition&lt;/h2&gt;
 
 &lt;p&gt;Au niveau technique, j’ai migré le contenu de mon blog sur Jekyll.&lt;/p&gt;
 
-&lt;p&gt;J’ai plus ou moins archivé mes anciens billets. Le principe a été de générer des pages HTML et de les générer ensuite directement en tant que page HTML plutôt que les générer en tant que billets (gain de rapidité de génération). Le désavantage et que si les menus du site changent je dois tout régénérer pour mettre à jour les header et footer.
-Mais ces billets n’ont plus pour beaucoup qu’une utilité historique que pratique car passés de mode.&lt;/p&gt;
+&lt;p&gt;J’ai plus ou moins archivé mes anciens billets. Le principe a été de générer des pages HTML et de les générer ensuite directement en tant que page HTML plutôt que les générer en tant que billets (gain de rapidité de génération). Le désavantage est que si les menus du site changent, je dois tout régénérer pour mettre à jour les header et footer.&lt;br /&gt;
+Mais ces billets n’ont plus pour beaucoup qu’une utilité historique, que pratique car passés de mode.&lt;/p&gt;
 
 &lt;p&gt;Ensuite, j’ai décidé de cloner le répertoire de notes sur une Dropbox pour être sûr de ne pas les perdre en cas de vol matériel. L’utilisation d’un lien symbolique vers le répertoire de travail permet cette manipulation.&lt;/p&gt;
 
-&lt;p&gt;Les répertoires des billets comporte toutes mes notes. J’utilise Nvalt sur macosx. Celui-ci me permet d’éditer des fichiers .md et de les synchroniser avec Simplenote. 
-L’application Simplenote va me permettre d’éditer mes notes sur mon mobile ou ma tablette, ou sur n’importe quel ordinateur sur le service en ligne.&lt;/p&gt;
+&lt;p&gt;Les répertoires des billets comportent toutes mes notes. J’utilise Nvalt sur macosx. Celui-ci me permet d’éditer des fichiers .md et de les synchroniser avec Simplenote. &lt;br /&gt;
+L’application Simplenote va me permettre d’éditer mes notes sur mon mobile ou sur ma tablette, ou sur n’importe quel ordinateur sur le service en ligne.&lt;/p&gt;
 
-&lt;p&gt;Jekyll ne compile les billets de blogs en fonction de leur nommage (date+titre:YYYY-MM-JJ-titre-de-mon-billet). Si j’édite une note avec un titre lambda, il n’est pas compilé. Si je rédige un article avec le bon titre, il sera compilé.&lt;/p&gt;
+&lt;p&gt;Jekyll ne compile les billets de blogs qu’en fonction de leur nommage (date+titre:YYYY-MM-JJ-titre-de-mon-billet). Si j’édite une note avec un titre lambda, il n’est pas compilé. Si je rédige un article avec le bon titre, il sera compilé.&lt;/p&gt;
 
-&lt;p&gt;Pour finir, si je veux héberger le site sur github (par exemple), j’indique dans le .gitignore de ne pas versionner les notes dont le titre ne commence pas un chiffre. Ainsi, mes notes personnelles ne seront pas disponibles à tout le monde (mais seront bien sauvegardés grâce à Dropbox).&lt;/p&gt;
+&lt;p&gt;Pour finir, si je veux héberger le site sur github (par exemple), j’indique dans le .gitignore de ne pas versionner les notes dont le titre ne commence pas un chiffre. Ainsi, mes notes personnelles ne seront pas disponibles à tout le monde (mais seront bien sauvegardées grâce à Dropbox).&lt;/p&gt;
 
-&lt;h2 id=&quot;en-pratique&quot;&gt;En pratique&lt;/h2&gt;
+&lt;h2&gt;En pratique&lt;/h2&gt;
 
-&lt;p&gt;Le système que j’ai mis en place n’est pas forcément des plus propre. Je mélange des billets à compiler et des billets à ne pas compiler. Mais on peut considérer que pour un usage personnel c’est acceptable.&lt;/p&gt;
+&lt;p&gt;Le système que j’ai mis en place n’est pas forcément des plus propres. Je mélange des billets à compiler et des billets à ne pas compiler. Mais on peut considérer que pour un usage personnel c’est acceptable.&lt;/p&gt;
 
-&lt;p&gt;Simplenote n’enregistre pas directement les billets en .md. Cependant, Nvalt modifie l’extension lors de son édition. De plus, je suis obligé de passer par mon ordinateur principal  pour mettre en ligne les billets. Je ne peux pas passer par Simplenote directement. 
+&lt;p&gt;Simplenote n’enregistre pas directement les billets en .md. Cependant, Nvalt modifie l’extension lors de son édition. De plus, je suis obligé de passer par mon ordinateur principal pour mettre en ligne les billets. Je ne peux pas passer par Simplenote directement. &lt;br /&gt;
 On ne peut pas tout avoir.&lt;/p&gt;
 
-&lt;p&gt;Autre avantage, je peux partager des notes sur simplenote et donc soit rédiger un article à quatre mains soit publier une proposition d’article d’une autre personne. C’est une option intéressante pour l’écriture collaborative.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 31 Mar 2016 00:00:00 +0200</pubDate>
-        <link>http://bertrandkeller.info/2016/03/31/processus-edition</link>
-        <guid isPermaLink="true">http://bertrandkeller.info/2016/03/31/processus-edition</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Transmutation</title>
-        <description>&lt;p&gt;Après quelques mois de silence, à la fois des raisons personnelles et professionnelles, je reviens éditer pour vous quelques articles afin d’agayer vos mornes vies.&lt;/p&gt;
+&lt;p&gt;Autre avantage, je peux partager des notes sur simplenote et donc soit rédiger un article à quatre mains soit publier une proposition d’article d’une autre personne. C’est une option intéressante pour l’écriture collaborative.&lt;/p&gt;</content><summary>Ce site a vu sa fréquence d’édition baisser depuis presque 2 ans. La vérité c’est que mon changement de statut et de vie m’a peu laissé de temps et de raisons d’écrire. Comment vais-je essayer de mettre à jour ma pratique ?</summary></entry><entry><title>Transmutation</title><link href="http://bertrandkeller.info/2016/03/16/transmutation" rel="alternate" type="text/html" title="Transmutation" /><published>2016-03-16T00:00:00+01:00</published><updated>2016-03-16T00:00:00+01:00</updated><id>http://bertrandkeller.info/2016/03/16/transmutation</id><content type="html" xml:base="http://bertrandkeller.info/2016/03/16/transmutation">&lt;p&gt;Après quelques mois de silence, à la fois pour des raisons personnelles et professionnelles, je reviens éditer pour vous quelques articles afin d’agayer vos mornes vies.&lt;/p&gt;
 
 &lt;p&gt;Je ne sais pas ce que je vais vraiment éditer mais je sais comment je vais éditer. La rédaction web professionnalisée anime vos pâles journées, vous êtes à la recherche de textes pour vous titiller l’esprit ? Et bien, bertrandkeller va éditer des notes sur des choses et d’autres.&lt;/p&gt;
 
-&lt;h2 id=&quot;comment-est-ce-sens-se-passer-&quot;&gt;Comment est-ce sensé se passer ?&lt;/h2&gt;
+&lt;h2&gt;Comment est-ce censé se passer ?&lt;/h2&gt;
 
 &lt;p&gt;Ce blog vient de migrer d’un wordpress à un jekyll avec le contenu en markdown ; j’ai synchronisé mon logiciel de notes avec le répertoire de billet. Ainsi j’espère travailler quelques textes sous forme de brouillon et peut-être les faire évoluer dans le temps.&lt;/p&gt;
 
 &lt;p&gt;Les anciens billets sont toujours accessibles dans la page archive mais plus aucune recherche n’est disponible.&lt;/p&gt;
 
-&lt;h2 id=&quot;victime-de-la-mode&quot;&gt;Victime de la mode&lt;/h2&gt;
+&lt;h2&gt;Victime de la mode&lt;/h2&gt;
 
 &lt;p&gt;Après plusieurs années à tester l’utilisation des gestionnaires de pages statiques, je me suis décidé à pratiquer cette technologie au jour le jour. Ce blog est désormais propulsé par Jekyll. Le gestionnaire de pages statiques présent sur github pages.&lt;/p&gt;
 
-&lt;p&gt;Un de mes objectifs est de redonner quelques lettres de noblesses au verbe et la verve (malgré les coquilles et fautes d’orthographes). Le passage à la simplicité, et la suppression des menus de navigation propres aux CMS, redonne de l’espace à l’écriture.&lt;/p&gt;
+&lt;p&gt;Un de mes objectifs est de redonner quelques lettres de noblesses au verbe et la verve (malgré les coquilles et fautes d’orthographe). Le passage à la simplicité et la suppression des menus de navigation propres aux CMS redonnent de l’espace à l’écriture.&lt;/p&gt;
 
-&lt;p&gt;Une écriture qui nous manque sérieusement sur ces médias sociaux bouffeurs de temps de cerveaux et de contemplation ; une écriture qui pourrait revenir sous forme de micro édition grâce à ces gestionnaires de pages statiques et l’export possible à des formats de lectures appropriées.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 16 Mar 2016 00:00:00 +0100</pubDate>
-        <link>http://bertrandkeller.info/2016/03/16/transmutation</link>
-        <guid isPermaLink="true">http://bertrandkeller.info/2016/03/16/transmutation</guid>
-        
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Une écriture qui nous manque sérieusement sur ces médias sociaux bouffeurs de temps de cerveaux et de contemplation ; une écriture qui pourrait revenir sous forme de micro édition grâce à ces gestionnaires de pages statiques et l’export possible à des formats de lectures appropriés.&lt;/p&gt;</content><summary>Après quelques mois de silence, à la fois pour des raisons personnelles et professionnelles, je reviens éditer pour vous quelques articles afin d’agayer vos mornes vies.</summary></entry></feed>

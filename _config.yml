@@ -1,17 +1,37 @@
-# Site settings
+# Site informations
+name: 'Bertrand Keller'
 title: bertrandkeller
 email: bertrand.keller@gmail.com
 description: Découvrir des choses et d'autres
 
+# Site settings
 baseurl: ""
 permalink: /:year/:month/:day/:title
 url: "http://bertrandkeller.info"
-github_username: bertrandkeller
-# gems:
-#   - jekyll-assets
+lang: fr
+timezone: Europe/Paris
+mainColor: '#000000'
+incremental: true
+profile: true
+encoding: utf-8
+twitter:
+  username: bertrandkeller
+
+twitter:
+    username: bertrandkeller
+github:
+     username: bertrandkeller
+
+social:
+  type: personn
+  links:
+    - https://twitter.com/bertrandkeller
+    - https://github.com/bertrandkeller
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 
 defaults:
   -
@@ -36,6 +56,7 @@ text:
     older: 'Suivant'
 
 exclude:
+  - .cache
   - .editorconfig
   - .gitattributes
   - .gitignore
@@ -48,13 +69,15 @@ exclude:
   - vendor
   - gems
   - tmp
-  - LICENSE
+  - LICENSE.md
   - README.md
-  - notes-integration.md
-  - script
+
+gems:
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
 
 # Plugin: jekyll-assets
-
 # assets:
 #   sources:
 #     - assets/js
