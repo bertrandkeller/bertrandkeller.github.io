@@ -5,6 +5,10 @@ title: Formations Jekyll et aux gestionnaires de site statique
 
 # Formations Jekyll
 
+**Contacts**
+@bertrandkeller
+bertrand.keller(@)gmail.com
+
 ## Pourquoi apprendre Jekyll ?
 
 Jekyll permet de générer des sites web à partir de quelques lignes de codes. Pour de petits sites éditoriaux, il est très peu coûteux et facile à faire évoluer. Il n‘utilise pas de bases de données.
@@ -15,7 +19,7 @@ Son usage offre aussi l‘avantage de s‘initier à son rythme avec du code et 
 
 ## Exemple de formations
 
-### Initiation rédacteur
+### Initiation rédacteurs
 
  1. Initiation aux commandes Git et découverte de Github Pages ;
  2. Notion de conception de sites web et rédaction d‘un fichier de configuration (_config.yml) ;
