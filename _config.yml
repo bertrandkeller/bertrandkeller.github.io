@@ -55,6 +55,11 @@ text:
     newer: 'Précédent'
     older: 'Suivant'
 
+#gems:
+  #- jekyll-sitemap
+  #- jekyll-feed
+  #- jekyll-seo-tag
+
 exclude:
   - .cache
   - .editorconfig
@@ -72,10 +77,6 @@ exclude:
   - LICENSE.md
   - README.md
 
-gems:
-- jekyll-sitemap
-- jekyll-feed
-- jekyll-seo-tag
 
 # Plugin: jekyll-assets
 # assets:
