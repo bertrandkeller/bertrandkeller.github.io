@@ -55,10 +55,10 @@ text:
     newer: 'Précédent'
     older: 'Suivant'
 
-#gems:
-  #- jekyll-sitemap
-  #- jekyll-feed
-  #- jekyll-seo-tag
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
 exclude:
   - .cache
