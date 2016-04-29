@@ -13,6 +13,11 @@ callback([
   {
     "text": "Entre vérité et réalité",
     "href": "/2016/04/15/verite-realite"
+  } ,
+
+  {
+    "text": "La communauté Jekyll",
+    "href": "/2016/04/29/communaute-jekyll"
   } 
 
 ])

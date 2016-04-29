@@ -79,5 +79,11 @@
     clear: both;
     width: 100%;
   }
+  a {
+    color: #fff;
+    &:hover {
+      text-decoration: none;
+    }
+  }
   background: #000;
 }
