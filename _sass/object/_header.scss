@@ -68,3 +68,16 @@
     }
   }
 }
+
+.exergue {
+  padding: 1rem;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  small {
+    display: block;
+    clear: both;
+    width: 100%;
+  }
+  background: #000;
+}
