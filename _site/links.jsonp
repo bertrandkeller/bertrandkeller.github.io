@@ -18,6 +18,16 @@ callback([
   {
     "text": "La communauté Jekyll",
     "href": "/2016/04/29/communaute-jekyll"
+  } ,
+
+  {
+    "text": "Sud-Web et la technique",
+    "href": "/2016/06/08/Sudweb-et-la-technique"
+  } ,
+
+  {
+    "text": "Agile pour petits projets à la Kiwi Party",
+    "href": "/2016/06/13/Agile-pour-petits-projets-kiwi-party"
   } 
 
 ])
