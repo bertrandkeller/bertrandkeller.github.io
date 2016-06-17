@@ -38,4 +38,4 @@ dploy.yaml
 
 #
 _posts/*
-!_post/[0-9]
+!_posts/[0-9]*
