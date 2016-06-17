@@ -8,11 +8,11 @@ Connaissez vous la classe inversée, ce principe qui consiste à ce que les él�
 
 ## La classe inversée
 
-La classe inversée part du principe qu'énormément de contenu, cours, exemple sont disponibles sur le web. 
+La classe inversée part du principe qu'énormément de contenus, cours, exemples sont disponibles sur le web. 
 
-Par exemple, pour les petits sportifs en herbe, on trouve beaucoup de vidéo avec les techniques de jongles ou de dribbles. Nos jeunes poussent reproduisent ces gestes chez eux ou dans leur cours de récréation.
+Par exemple, pour les petits sportifs en herbe, on trouve beaucoup de vidéos avec les techniques de jongles ou de dribbles. Nos jeunes poussent reproduisent ces gestes chez eux ou dans leur cours de récréation.
 
-Donc pas besoin de leur apprendre le geste, plutôt passer du temps à leur apprendre à faire le geste. Mieux vaut les mettre en condition de pratiquer une activité que d'apprendre l'activité elle-même. On est gagnant sur les 2 tableaux car le temps de est plus important et la discipline de groupe lors d'une activité de pratique est toujours plus facile que pour de la théorie.
+Donc pas besoin de leur apprendre le geste, plutôt passer du temps à leur apprendre à faire le geste. Mieux vaut les mettre en condition de pratiquer une activité que d'apprendre l'activité elle-même. On est gagnant sur les 2 tableaux car le temps de pratique est plus important, mais aussi la discipline de groupe lors d'une activité de pratique est toujours plus facile que pour de la théorie.
 
 ## L'entreprise inversée
 
@@ -20,7 +20,7 @@ Et pourquoi pas faire la même chose pour les entreprises ? les savoirs de nombr
 
 L'entreprise n'est plus que le lieux de la mise en pratique de ces savoirs. Et la pratique est d'autant meilleures que les savoirs sont divers.
 
-Cet emploi du temps c'est celui que j'exerce en tant que freelance. Je ne me prive pas d'aller à des conférences (seule des contraintes familiales me freinent), je discute le plus possible entre deux paliers. Je me nourris d'activités extra-professionnelles pour apprendre des gens que je côtoies.
+Cet emploi du temps c'est celui que j'exerce en tant que freelance. Je ne me prive pas d'aller à des conférences (seule des contraintes familiales me freinent). Je discute le plus possible entre deux paliers. Je me nourris d'activités extra-professionnelles pour apprendre des gens que je côtoies.
 
 Finalement, je passe peu de temps à mon bureau et encore moins à coder. La majeure partie du temps, je lis, je compile, je partage et je discute. Et je n'ai pas de problème de synchronisation de groupe car je suis discipliné.
 
