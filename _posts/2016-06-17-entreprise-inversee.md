@@ -10,7 +10,7 @@ Connaissez vous la classe inversée, ce principe qui consiste à ce que les él�
 
 La classe inversée part du principe qu'énormément de contenus, cours, exemples sont disponibles sur le web. 
 
-Par exemple, pour les petits sportifs en herbe, on trouve beaucoup de vidéos avec les techniques de jongles ou de dribbles. Nos jeunes poussent reproduisent ces gestes chez eux ou dans leur cours de récréation.
+Par exemple, pour les petits sportifs en herbe, on trouve beaucoup de vidéos avec les techniques de jongles ou de dribbles. Nos jeunes pousses reproduisent ces gestes chez eux ou dans leur cours de récréation.
 
 Donc pas besoin de leur apprendre le geste, plutôt passer du temps à leur apprendre à faire le geste. Mieux vaut les mettre en condition de pratiquer une activité que d'apprendre l'activité elle-même. On est gagnant sur les 2 tableaux car le temps de pratique est plus important, mais aussi la discipline de groupe lors d'une activité de pratique est toujours plus facile que pour de la théorie.
 
