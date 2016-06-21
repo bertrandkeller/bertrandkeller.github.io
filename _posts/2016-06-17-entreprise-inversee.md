@@ -18,9 +18,9 @@ Donc pas besoin de leur apprendre le geste, plutôt passer du temps à leur appr
 
 Et pourquoi pas faire la même chose pour les entreprises ? les savoirs de nombreuses professions évoluent en permanence, beaucoup sont déjà acquis à la maison ou lors de rencontres extra-professionnelles.
 
-L'entreprise n'est plus que le lieux de la mise en pratique de ces savoirs. Et la pratique est d'autant meilleures que les savoirs sont divers.
+L'entreprise n'est plus que le lieu de la mise en pratique de ces savoirs. Et la pratique est d'autant meilleure que les savoirs sont divers.
 
-Cet emploi du temps c'est celui que j'exerce en tant que freelance. Je ne me prive pas d'aller à des conférences (seule des contraintes familiales me freinent). Je discute le plus possible entre deux paliers. Je me nourris d'activités extra-professionnelles pour apprendre des gens que je côtoies.
+Cet emploi du temps c'est celui que j'exerce en tant que freelance. Je ne me prive pas d'aller à des conférences (seule des contraintes familiales me freinent). Je discute le plus possible entre deux paliers. Je me nourris d'activités extra-professionnelles pour apprendre des gens que je côtoie.
 
 Finalement, je passe peu de temps à mon bureau et encore moins à coder. La majeure partie du temps, je lis, je compile, je partage et je discute. Et je n'ai pas de problème de synchronisation de groupe car je suis discipliné.
 
