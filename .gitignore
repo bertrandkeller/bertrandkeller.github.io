@@ -27,7 +27,7 @@ build/Release
 node_modules
 
 # Jekyll
-#_site/
+_site/
 .sass-cache/
 .asset-cache/
 .jekyll-metadata
@@ -36,6 +36,6 @@ node_modules
 .DS_Store
 dploy.yaml
 
-#
+# Jekyll
 _posts/*
 !_posts/[0-9]*
