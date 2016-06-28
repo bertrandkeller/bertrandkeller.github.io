@@ -14,7 +14,7 @@ Le principe de la classe inversée (de s'intéresser à la mise en pratique et l
 
 ## L‘entreprise inversée
 
-L'objectif de l'entreprise inversée doit donc être de donner le plus d'autonomie à des participants. Ce qui est bien inverse de l'entreprise productiviste qui est de rendre l'employé remplaçable et dépendant au fonctionnement prévisionniste de son entreprise.
+L'objectif de l'[entreprise inversée](/2016/06/17/entreprise-inversee) doit donc être de donner le plus d'autonomie à des participants. Ce qui est bien inverse de l'entreprise productiviste qui est de rendre l'employé remplaçable et dépendant au fonctionnement prévisionniste de son entreprise.
 
 L'autonomie pour une entreprise inversée n'est pas de s'intéresser au(x) produit(s) et la manière avec laquelle le produit peut générer la plus grande marge opérationnelle.
 Mais plutôt de voir comment le principe de production peut-être la plus fluide et logique pour les personnes.
@@ -26,14 +26,6 @@ Ce qui est pertinent c'est d'avoir une connaissance de divers modes de collabora
 
 ## Conclusion
 
-Au niveau de l'autonomie, l'entreprise inversée se distingue d'une entreprise "classique" car elle n'impose pas une manière unique (effet de mode) de voir les méthodologies de travail.
+Au niveau de l'autonomie, l'[entreprise inversée](/2016/06/17/entreprise-inversee) se distingue d'une entreprise "classique" car elle n'impose pas une manière unique (effet de mode) de voir les méthodologies de travail.
 
 Elle part du principe que les personnes ont pour objectif leur subsistance ; elle propose donc des remises en cause personnelles et de groupes afin d'innover dans leur manière de s'organiser et de s'individuer.
-
-
-
-
-
-
-
-
