@@ -14,7 +14,6 @@
   > li {
     &:not(:last-child):after {
       content: ' - ';
-      margin-right: 0.4rem;
     }
  }
 }
