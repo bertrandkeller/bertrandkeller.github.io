@@ -69,6 +69,15 @@ a {
   }
 }
 
+/**
+ * Lists
+ */
+
+ul,ol {
+  li {
+    margin-bottom: 0.5rem;
+  }
+}
 
 /**
  * Blockquotes
@@ -76,11 +85,10 @@ a {
 
 blockquote {
   padding-left: $base-line / 2;
-  font-size: 18px;
-  font-style: italic;
+  font-size: $base-em * $ms1;
   letter-spacing: -1px;
   color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  border-left: 4px solid $grey-color;
   > :last-child {
     margin-bottom: 0;
   }
