@@ -16,4 +16,4 @@ Pour sortir de cette sacralisation de la technique, Jacques Ellul propose un pro
  4. "la réduction drastique du temps de travail";
  5. la construction d‘un système socio-économique dual (rf André Gorz)
  
- Je vous laisse méditer ces propositions.‘
+ Je vous laisse méditer ces propositions.
