@@ -21,12 +21,11 @@ layout: compress
     <script data-no-instant>
       InstantClick.init();
       UpUp.start({
-        'content-url': '{{ page.url | replace:'/','' }}',
+        'content-url': '{{ page.url | remove_first: '/' }}',
         'assets':
           ['{{ site.baseurl }}/assets/css/style.css',]
       });
     </script>
-</script>
   </body>
 
 </html>
