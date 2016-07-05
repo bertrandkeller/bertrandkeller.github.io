@@ -27,7 +27,7 @@ Il n'y a aucune révolution dans les modes de gestion des entreprises, on change
 
 Malgré la révolution du support, la distance ne change pas. Les outils numériques sont vendus comme sensés nous faire gagner ou libérer du temps et au lieu de ça ils nous asservissent (=> Burnout).
 
-L'entreprise doit savoir changer cette notion de distance. Mettre de la distance avec les employés, l'entreprise n'est pas une famille. Pour cela être capable de permettre le travail à distance (qui n'est pas du télétravail).
+L'entreprise doit savoir changer cette notion de distance. Mettre de la distance avec les employés, l'entreprise n'est pas une famille. Pour cela il est nécessaire d‘être capable de permettre le travail à distance (qui n'est pas du télétravail).
 
 Si un collaborateur s'engage à participer à une entreprise à lui de proposer la manière dont il peut le mieux aider la réalisation de tâches. Inutile de le contraindre à venir sur un lieu, il devra rendre des comptes à son groupe et faire des retours sur son engagement et ce qu'il a mis en œuvre (dans le cadre d'une prise en considération constante de son apport citoyen).
 
