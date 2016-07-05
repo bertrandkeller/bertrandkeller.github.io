@@ -1,5 +1,5 @@
 ---
-title: L‘entreprise inversée la distance
+title: L‘entreprise inversée - la distance
 ---
 
 ## Le lieu de travail
