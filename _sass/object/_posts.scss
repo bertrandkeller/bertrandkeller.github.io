@@ -2,10 +2,13 @@
 /// Post
 ////
 
-.posts {
+.post {
   padding-bottom: $line-height-base;
+  figure {
+    text-align: center;
+  }
   img {
-    margin: 0.5em 0 1.5em;
+    margin: 0.5em auto 1.5em;
   }
 }
 
