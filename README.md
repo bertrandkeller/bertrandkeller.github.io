@@ -1,4 +1,4 @@
-# Association des Sages Femmes de Normandie
+# bertrandkeller
 
 ## Pré-requis
 Le site est géré via [Github Pages](https://pages.github.com/) et [Jekyll](http://jekyllrb.com/) et nécessite Ruby 2.1.x
