@@ -1,16 +1,11 @@
+{% if page.previous || page.next %}
+
 <div class="pagination">
+
   {% if page.previous %}
   <div class="left">
     <a class="pagination-item" href="{{ page.previous.url }}">
       {{ page.previous.title }}
-    </a>
-  </div>
-  {% endif %}
-
-  {% if page.title == 'Transmutation' %}
-  <div class="left">
-    <a class="pagination-item" href="/2015/10/03/parisweb-cest-quoi-les-metiers-du-web">
-      ParisWeb - c'est quoi les métiers du web ?
     </a>
   </div>
   {% endif %}
@@ -23,11 +18,5 @@
   </div>
   {% endif %}
 
-  {% if page.title == 'ParisWeb - c'est quoi les métiers du web ?' %}
-  <div class="right">
-    <a class="pagination-item" href="2016/03/16/transmutation">
-      Transmutation
-    </a>
-  </div>
-  {% endif %}
 </div>
+{% endif %}

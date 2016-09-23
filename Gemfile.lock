@@ -124,7 +124,6 @@ GEM
     octopress-autoprefixer (2.0.0)
       autoprefixer-rails
       jekyll (~> 3.0)
-    overkyll-jekyll-theme (0.2)
     parallel (1.9.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
@@ -161,7 +160,6 @@ DEPENDENCIES
   jekyll (= 3.2.1)
   json
   octopress-autoprefixer
-  overkyll-jekyll-theme
   rake (~> 11.0.0)
 
 BUNDLED WITH
