@@ -5,6 +5,7 @@ email: bertrand.keller@gmail.com
 description: Découvrir des choses et d'autres
 
 # Site settings
+theme: overkyll-jekyll-theme
 baseurl: ""
 permalink: /:year/:month/:day/:title
 url: "http://bertrandkeller.info"
