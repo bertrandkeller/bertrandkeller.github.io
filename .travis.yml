@@ -1,27 +1,23 @@
 language: ruby
 cache: bundler
-sudo: false
 rvm:
 - 2.1
 matrix:
     include:
-        - rvm: 2.1
-          env: JEKYLL_VERSION=2.4
+        - rvm: 2.2
     fast_finish: true
 
-# branch whitelist, only for GitHub Pages
-branches:
-    only:
-        - master
+script: bundle exec jekyll build
 
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-install:
-    - travis_retry script/bootstrap
+before_deploy:
+  - chmod +x deploy.sh
 
-script: script/cibuild
+deploy:
+  provider: script
+  script: ./deploy.sh
+  skip_cleanup: true
 
 env:
     global:
         - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-        - secure: 50bdb4830d18d5de1d3a2e0a2f70a9cc393afaef
+        # - secure: 3a712a9ca3116172be1200bfdac52ff5499f489f
