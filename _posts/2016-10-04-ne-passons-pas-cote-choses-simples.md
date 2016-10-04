@@ -28,7 +28,7 @@ Tout d’abord le travail collaboratif à distance avec Frank a été véritable
 
 L‘interaction sur scène a été très bonne. Même si nous avions des tentés des formes plus provocatrices, nous avons trouvé le moyen de ne pas nous marcher sur les pieds. Il fallait que Frank puisse être à l’aise et poser son discours sans grandes digressions (difficiles à caler dans une conférence de 15 minutes) et conserver de la fluidité dans nos propos.
 
-Pour que ça marche nous nous sommes résolus au rôle tenir 2 rôles : celui qui explique la théorie, celui qui donne un retour d’expérience. Après tous nos tâtonnements, ce fut une sage décision pour plus de clarté dans le déroulé.
+Pour que ça marche nous nous sommes résolus à tenir 2 rôles : celui qui explique la théorie, celui qui donne un retour d’expérience. Après tous nos tâtonnements, ce fut une sage décision pour plus de clarté dans le déroulé.
 
 Résultat, quelques personnes sont venues nous voir pour nous faire part de leur envie de tenter un générateur statique plutôt qu’un wordpress. Pour que cela arrive, il ne fallait pas qu’on donne l‘impression que ce soit compliqué.
 
@@ -40,7 +40,7 @@ Pondre 10 kilomètres de raisonnement, 12 heures de discussion, 18 répétitions
 
 En effet, nous avions plein de choses à dire, nous avions trouvé le schéma narratif mais le but était de dire que c’était super cool les générateurs de site statique. Qu‘on pouvait faire des trucs avec ses potes et reprendre plaisir à pondre des lignes de code. On a posé les concepts, mais nous avons manqué d’enthousiasme et oublié de se faire (plus) plaisir.
 
-Alors peut-être qu’il nous aurait fallu 20 minutes, c’est-à-dire 5 minutes pour les exemples. Exemples précisément choisis pour revenir sur les notions que nous n’avions volontairement fait qu‘effleurer dans la première partie. La présentation auraient été tellement plus équilibrée. On se serait plus lâché, la salle aurait chanter un air pour nous soutenir… tu aurais fait ça cher lecteur ?
+Alors peut-être qu’il nous aurait fallu 20 minutes, c’est-à-dire 5 minutes pour les exemples. Exemples précisément choisis pour revenir sur les notions que nous n’avions volontairement fait qu‘effleurer dans la première partie. La présentation auraient été tellement plus équilibrée. On se serait plus lâché, la salle aurait chanté un air pour nous soutenir… tu aurais fait ça cher lecteur, non ?
 
 ## Conclusion ##
 
