@@ -3,21 +3,17 @@ cache: bundler
 rvm:
 - 2.2
 matrix:
-    include:
-        - rvm: 2.2
-    fast_finish: true
-
+  include:
+  - rvm: 2.2
+  fast_finish: true
 script: bundle exec jekyll build
-
 before_deploy:
-  - chmod +x script/deploy.sh
-
+- chmod +x script/deploy.sh
 deploy:
   provider: script
-  script: ./script/deploy.sh
+  script: "./script/deploy.sh"
   skip_cleanup: true
-
 env:
-    global:
-        - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-        # - secure: 3a712a9ca3116172be1200bfdac52ff5499f489f
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - secure: hWXT+rVqOpTxqEJD49+bSaH75IWVbVNS17Teu6EDzpJQyfF3Bf3t2wHmZZlzqlMZrxWsNJe4noYbQrPAF/sS61kQWhzFu01OsFKjeV4rN1nHRmneyu3cgQ8Xd3mkfcoWd92VclkSG7RBww+nLunjCJThNhxZML9/jL7RwLPMBt8pRM93V3FQuQ3ymGkgdGdqZ35Iwo2We7lox9cEXLLGFyICMf/Pq5rj2nR23kFNWVknaH3kOt38IjBeRuswkb325u7LwsrYLOdeVH1TVUDSM/Ahf9lqN1PZ6XG+2mnlGwRcE7MYDW8EWGUa/7qRfXev8yK3FNPYmrMp2MjU/R9KOgHvOf740+yt9723TnIUF9FptobVBJThsg7PEcuyJzCoKFlbVN+rDJqLL0Z18JFeQSojEVv6OU/mkZJ19THmHs34HnAvGpcPNL5M2UBOqCloe0r5dW7aCgP24O+md5IGymitRJEEGyiLBuzl1ZLt1LNdllJcU6zjiVZz1r2+68Flt+cPv3VYPidbORge+xcZWLalRLE4BnJ8PX29WmSekiNjkM4ftb/EfXZqfcBLZQMmaIFKv08N1/SlOjEP6gWeRYfDCXQ2SqDT05UkA1+UdmcgpafK3GB4w5j0u41CKDdEFcfFoAejvzXMI9a8IXcWX3cjko5BfnCppMLMXaD7t8o=
