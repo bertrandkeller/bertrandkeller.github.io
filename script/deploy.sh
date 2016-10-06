@@ -6,7 +6,7 @@
 
 # set your build information here, the script will take care of anything else
 SOURCE_BRANCH="master"
-TARGET_BRANCH="master"
+TARGET_BRANCH="gh-pages"
 DIRECTORY="_site"
 GH_REF="github.com/bertrandkeller/bertrandkeller.github.io"
 GH_USERNAME="bertrandkeller"
