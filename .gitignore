@@ -35,6 +35,7 @@ _site/
 # node-waf configuration
 .DS_Store
 dploy.yaml
+*.lock
 
 # Jekyll
 _posts/*
