@@ -7,8 +7,6 @@ matrix:
   - rvm: 2.2
   fast_finish: true
 script: bundle exec jekyll build
-before_deploy:
-- chmod +x script/deploy.sh
 deploy:
   provider: script
   script: "./script/deploy.sh"
