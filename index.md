@@ -17,7 +17,7 @@ title: accueil
   {{ post.content | markdownify }}
 </section>
 
-<div class="pagination">
+<div class="pagination"  role="navigation">
   {% if post.previous %}
   <div class="left">
     <a class="pagination-item" href="{{ post.previous.url }}">
