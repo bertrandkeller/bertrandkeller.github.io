@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Formations Jekyll et aux gestionnaires de site statique
+title: Formations Jekyll et aux générateurs de site statique
 ---
 
 # Formations Jekyll
@@ -13,7 +13,7 @@ bertrand.keller(@)gmail.com
 
 Jekyll permet de générer des sites web à partir de quelques lignes de codes. Pour de petits sites éditoriaux, il est très peu coûteux et facile à faire évoluer. Il n‘utilise pas de bases de données.
 
-Grâce à des espaces d‘hébergements gratuit (Github Pages, Netlifly…), il est possible de publier des informations en ligne que ce soit pour le site d‘une entreprise, un blog ou encore pour partager de l‘information pour un groupe de travail.
+Grâce à des espaces d‘hébergements gratuit (Github Pages, Netlify…), il est possible de publier des informations en ligne que ce soit pour le site d‘une entreprise, un blog ou encore pour partager de l‘information pour un groupe de travail.
 
 Son usage offre aussi l‘avantage de s‘initier à son rythme avec du code et de gagner en autonomie sur la publication web.
 
@@ -44,6 +44,10 @@ Mon expérience porte sur plus de 10 ans de pratique de développement d‘inter
 J‘enseigne Jekyll depuis 3 ans à l‘IUT d‘Elbeuf à des élèves de license. Les cours se déroulent sous forme d‘ateliers durant lesquels des objectifs sont à atteindre afin de réaliser soit même son propre site. Parfois seuls ou en groupe, les élèves peuvent s‘entraider afin d‘avancer dans la construction de leur site.
 
 Le principe est de permettre à chaucun d‘avancer à son rythme dans une ambiance chaleureuse. L‘atelier permet aussi d‘apporter un soutien personnalisé à ceux qui auraient des questions.
+
+### Quelques interventions sur Jekyll
+[Kiwi Party 2016](https://vimeo.com/179314577)  
+[Paris Web 2016](http://frank.taillandier.me/2016/10/02/ne-passons-pas-a-cote-des-choses-simples/)
 
 ## Comment ça s‘organise ?
 

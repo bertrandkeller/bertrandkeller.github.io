@@ -51,6 +51,3 @@ Mais à l‘heure de la complexification de notre monde, vous savez celui qui no
 Frank et moi ne vous avons pas fait passer le message que : toucher à de simples fichiers HTML et CSS, ce retour aux bases, c‘était retrouver le plaisir simple de communiquer avec le monde, d‘échanger et construire avec d‘autres êtres humains, de laisser vagabonder ses idées… un peu comme quand vous construisez des barrages sur un cours d’eau pendant vos vacances d‘été…
 
 Un plaisir (qui peut être partagé) !
-
-
-

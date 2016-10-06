@@ -9,7 +9,7 @@ SOURCE_BRANCH="master"
 TARGET_BRANCH="master"
 DIRECTORY="_site"
 GH_REF="github.com/bertrandkeller/bertrandkeller.github.io"
-GH_USERNAME="Bertrandkeller"
+GH_USERNAME="bertrandkeller"
 GH_USERMAIL="bertrand.keller@gmail.com"
 
 # set your build commands here
