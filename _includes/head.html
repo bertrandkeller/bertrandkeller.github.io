@@ -19,7 +19,8 @@
     loadCSS("{{ "/css/main.css" | prepend: site.url }}");
     {% include localfont.js %}
   </script>
-  <noscript><link rel="stylesheet" href="/assets/css/font.css"></noscript>
+  <link rel="stylesheet" href="/css/main.css">
+  <noscript><link rel="stylesheet" href="/css/main.css"></noscript>
   {% include favicons.html %}
 
 </head>
