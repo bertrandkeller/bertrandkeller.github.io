@@ -37,6 +37,34 @@ permalink: .htaccess
 #    Header set Access-Control-Allow-Origin "*"
 #  </IfModule>
 
+<IfModule mod_headers.c>
+
+    Header set Connection keep-alive
+
+    ## CUSTOM CODE
+    Header set Access-Control-Allow-Origin "*"
+    #Header set Access-Control-Allow-Origin: http://bertrandkeller.info
+    Header set Access-Control-Allow-Credentials true
+    Header add Access-Control-Allow-Headers "origin, x-requested-with, content-type"
+    Header add Access-Control-Allow-Methods "PUT, GET, POST, DELETE, OPTIONS"
+    Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains"
+
+    # Only allow JavaScript from the same domain to be run.
+
+    # Don't allow inline JavaScript to run.
+    Header always append X-Frame-Options SAMEORIGIN
+    Header set Content-Security-Policy "script-src 'self' 'unsafe-eval' 'unsafe-inline'"
+
+    # prevent mime based attacks
+    Header set X-Content-Type-Options: 'nosniff'
+    Header set X-Content-Type-Options nosniff
+
+    # Turn on IE8-IE9 XSS prevention tools
+    Header set X-XSS-Protection "1; mode=block"
+    ## END CUSTOM CODE
+
+</IfModule>
+
 
 
 # ----------------------------------------------------------------------
