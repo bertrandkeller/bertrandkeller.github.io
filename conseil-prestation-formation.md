@@ -88,7 +88,7 @@ navigation: true
     flex-direction: column;
     flex: 0 0 48%;
     margin: 0 auto 1rem;
-    max-width: 40em;
+    max-width: 40em; 
   }
 
   .gallery-module h3 {
