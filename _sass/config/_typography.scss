@@ -5,8 +5,6 @@
 // Our variables
 //-------------------------------------
 $base-font-family:        Overpass, Helvetica, Arial, sans-serif;
-$base-font-size:          16px;
-$small-font-size:         $base-font-size * 0.875;
 
 $ratio:                   1.20;
 $base:                    1;
@@ -35,7 +33,7 @@ $base-line:               $line-height-computed;
 
 body {
   font-family: $base-font-family;
-  font-weight: normal;
+  font-weight: 400;
   font-size: $base-em * $ms0;
   line-height: $base * $ms2;
 }
@@ -53,18 +51,14 @@ h1, .h1 { font-size: $title1; }
 
 @media #{$medium-up} {
   body { font-size: $base-em * $ms1; }
-  h3, .h3 { font-size: $base-em * $ms3; }
-  h2, .h2 { font-size: $base-em * $ms4; }
-  h1, .h1 { font-size: $base-em * $ms5; }
 }
 
 @media #{$large-up} {
-  h2, .h2 { font-size: $base-em * $ms5; }
-  h1, .h1 { font-size: $base-em * $ms6; }
+  body { font-size: $base-em * $ms2; }
 }
 
 @media #{$xlarge-up} {
-  h1, .h1 { font-size: $base-em * $ms7; }
+  body { font-size: $base-em * $ms3; }
 }
 
 h1, .h1,
@@ -72,7 +66,7 @@ h2, .h2,
 h3, .h3 {
   word-wrap: break-word;
   margin-top: $line-height-computed;
-  margin-bottom: ($line-height-computed / 2);
+  margin-bottom: ($line-height-computed);
 
   small,
   .small {

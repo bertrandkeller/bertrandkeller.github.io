@@ -49,9 +49,9 @@ navigation: true
   }
 
   .panel-first h1 {
-    font-size: 10vw;
-    margin-top: 15vh;
-    margin-bottom: 10vh;
+    font-size: 9vw;
+    margin-top: 8vh;
+    margin-bottom: 8vh;
   }
 
   .panel-first h2 {
@@ -87,7 +87,8 @@ navigation: true
     display: flex;
     flex-direction: column;
     flex: 0 0 48%;
-    margin-bottom: 1rem;
+    margin: 0 auto 1rem;
+    max-width: 40em;
   }
 
   .gallery-module h3 {
@@ -112,10 +113,10 @@ navigation: true
 
   @media screen and (min-width: 60.063em) {
     .panel-first h1 {
-      font-size: 6.5vw
+      font-size: 6.1vw
     }
     .panel-first h2 {
-      font-size: 2.5vw;
+      font-size: 2.3vw;
     }
     .gallery-module {
       flex: 0 0 22%;
