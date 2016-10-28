@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pensée d'un écrivain numérique de sites web à Rouen
+title: Pensées d'un écrivain numérique de sites web à Rouen
 ---
 
 <div class="exergue">
