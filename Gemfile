@@ -20,5 +20,4 @@ end
 
 group 'jekyll-plugins' do
   gem "jekyll-assets"
-  gem 'jekyll-offline', :git => 'git://github.com/jeremiak/jekyll-offline.git'
 end

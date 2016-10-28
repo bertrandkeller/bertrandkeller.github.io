@@ -60,7 +60,6 @@ gems:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-assets
-  - jekyll-offline
 
 exclude:
   - .cache

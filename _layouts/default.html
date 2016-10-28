@@ -13,5 +13,14 @@
       </div>
     </main>
     <script src="{{ site.baseurl }}/assets/js/instantclick.min.js" data-no-instant></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/UpUp/0.3.0/upup.min.js" ></script>
+    <script data-no-instant>
+      InstantClick.init();
+      UpUp.start({
+        'content-url': '{{ page.url | remove_first: '/' }}',
+        'assets': ['{{ site.baseurl }}/css/main.css'],
+        'service-worker-url': '/upup.sw.min.js'
+      });
+    </script>
   </body>
 </html>

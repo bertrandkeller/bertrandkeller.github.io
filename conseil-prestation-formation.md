@@ -392,4 +392,12 @@ navigation: true
 })(window);
 
 </script>
-{% register_service_worker %}
+<script src="//cdnjs.cloudflare.com/ajax/libs/UpUp/0.3.0/upup.min.js" ></script>
+<script data-no-instant>
+  InstantClick.init();
+  UpUp.start({
+    'content-url': '{{ page.url | remove_first: '/' }}',
+    'assets': ['{{ site.baseurl }}/css/main.css'],
+    'service-worker-url': '/upup.sw.min.js'
+  });
+</script>
