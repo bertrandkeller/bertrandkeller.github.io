@@ -17,3 +17,8 @@ group :test do
     gem 'jekyll', versions['jekyll']
     gem 'html-proofer', '~> 3.0.0'
 end
+
+group 'jekyll-plugins' do
+  gem "jekyll-assets"
+  gem 'jekyll-offline', :git => 'git://github.com/jeremiak/jekyll-offline.git'
+end
