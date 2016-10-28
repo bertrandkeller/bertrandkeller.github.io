@@ -392,3 +392,4 @@ navigation: true
 })(window);
 
 </script>
+{% register_service_worker %}

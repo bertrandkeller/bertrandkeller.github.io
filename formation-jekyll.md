@@ -62,12 +62,3 @@ Le lieu est libre, si possible permettant de la circulation des participants. Ce
 
 **Pour combien ?**
 À vous de négocier, je me laisse facilement attendrir et m‘adapte aux structures. Mais même si je ne suis pas cher ; je ne ferai rien gratuit.
-
-
-
-
-
-
-
-
-
