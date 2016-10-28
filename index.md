@@ -1,6 +1,6 @@
 ---
 layout: default
-title: accueil
+title: Pensée d'un écrivain numérique de sites web à Rouen
 ---
 
 <div class="exergue">
@@ -26,7 +26,7 @@ title: accueil
   </div>
   {% endif %}
 
-  {% if post.title == 'Transmutation' %}
+  {% if post.title == 'Transmutation' %} 
   <div class="left">
     <a class="pagination-item" href="/2015/10/03/parisweb-cest-quoi-les-metiers-du-web">
       ParisWeb - c'est quoi les métiers du web ?
