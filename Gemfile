@@ -20,4 +20,5 @@ end
 
 group 'jekyll-plugins' do
   gem "jekyll-assets"
+  gem 'jekyll-feed'
 end
