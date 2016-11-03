@@ -131,7 +131,7 @@ navigation: true
 
 <section class="panel panel-first bg-black">
   <a href="/" class="nav-back">Accueil</a>
-  <h1>bertrandkeller<br><small>Sites Web à Rouen</small></h1>
+  <h1>bertrandkeller<br><small>Sites Web à Rouen : bertrand.keller(@)gmail.com</small></h1>
   <h2><a href="#id-conseil">Conseil Stratégique</a></h2>
   <h2><a href="#id-integration">Intégration web</a></h2>
   <h2><a href="#id-jekyll">Formation Jekyll</a></h2>
