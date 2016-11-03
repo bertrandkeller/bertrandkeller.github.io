@@ -52,12 +52,16 @@ navigation: true
   .panel-first h1 {
     font-size: 9vw;
     margin-top: 8vh;
-    margin-bottom: 8vh;
+    margin-bottom: 6vh;
   }
 
-  .panel-first h2 {
+  .panel-first p.anchor {
     margin: 0 0 0.5rem;
-    font-size: 5vw;
+    font-size: 2.5vw;
+  }
+
+  .panel-first p.anchor a{
+    text-decoration: none;
   }
 
   .bg-black {
@@ -131,14 +135,15 @@ navigation: true
 
 <section class="panel panel-first bg-black">
   <a href="/" class="nav-back">Accueil</a>
-  <h1>bertrandkeller<br><small>Sites Web à Rouen : bertrand.keller(@)gmail.com</small></h1>
-  <h2><a href="#id-conseil">Conseil Stratégique</a></h2>
-  <h2><a href="#id-integration">Intégration web</a></h2>
-  <h2><a href="#id-jekyll">Formation Jekyll</a></h2>
+  <h1>bertrandkeller<br><small>Sites Web à Rouen</small></h1>
+  <p>bertrand.keller(@)gmail.com</p>
+  <p class="anchor"><a href="#id-conseil">Conseil Stratégique</a></p>
+  <p class="anchor"><a href="#id-integration">Intégration web</a></p>
+  <p class="anchor"><a href="#id-jekyll">Formation Jekyll</a></p>
   <p>-</p>
-  <h2><a href="#id-benevolat">Bénévolat</a></h2>
-  <h2><a href="#id-presentation">Présentations</a></h2>
-  <h2><a href="#id-portfolio">Portfolio</a></h2>
+  <p class="anchor"><a href="#id-benevolat">Bénévolat</a></p>
+  <p class="anchor"><a href="#id-presentation">Présentations</a></p> 
+  <p class="anchor"><a href="#id-portfolio">Portfolio</a></p> 
 </section>
 
 <section id="id-conseil" class="panel">
