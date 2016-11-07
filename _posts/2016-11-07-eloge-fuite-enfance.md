@@ -1,4 +1,6 @@
-# L‘éloge de la fuite l‘enfance
+---
+title: "L‘éloge de la fuite l‘enfance"
+---
 
 Il est bien sûr que l‘enfant est l‘entière expression de son milieu le plus souvent, même lorsqu‘il se révolte contre lui puisque alors il n‘en représente que la face inverse, contestataire ; Il se comporte dans tous les cas par rapport aux critères des automatismes qui lui ont été imposés. Comment d‘ailleurs un groupe social quel qu‘il soit, s‘il veut survivre, peut-il se comporter, si ce n‘est en maintenant sa structure ou en tentant de s‘approprier celle qui lui semble plus favorisée ? Comment un tel groupe social peut-il « élever » ses enfants, si ce n‘est dans le conformisme ou le conformisme-anti ?
 
