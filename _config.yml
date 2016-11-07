@@ -7,7 +7,7 @@ description: Découvrir des choses et d'autres
 # Site settings
 baseurl: ""
 permalink: /:year/:month/:day/:title
-url: "http://bertrandkeller.info"
+url: "https://bertrandkeller.info"
 lang: fr
 timezone: Europe/Paris
 mainColor: '#000000'
