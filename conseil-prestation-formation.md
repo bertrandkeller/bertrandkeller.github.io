@@ -1,7 +1,7 @@
 ---
 layout: default
-title: L'offre
-description: Expert en stratégie web & création de sites Internet 
+title: L‘offre
+description: Expert en stratégie web & sites Internet 
 navigation: true
 ---
 
@@ -57,7 +57,7 @@ navigation: true
 
   .panel-first p.anchor {
     margin: 0 0 0.5rem;
-    font-size: 2.5vw;
+    font-size: 2vw;
   }
 
   .panel-first p.anchor a{
@@ -396,13 +396,4 @@ navigation: true
     };
 })(window);
 
-</script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/UpUp/0.3.0/upup.min.js" ></script>
-<script data-no-instant>
-  InstantClick.init();
-  UpUp.start({
-    'content-url': '{{ page.url | remove_first: '/' }}',
-    'assets': ['{{ site.baseurl }}/css/main.css'],
-    'service-worker-url': '/upup.sw.min.js'
-  });
 </script>
