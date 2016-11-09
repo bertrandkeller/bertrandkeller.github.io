@@ -10,7 +10,6 @@ title: Pensées d'un écrivain numérique de sites web à Rouen
 </div>
 
 {% assign post = site.posts.first %}
-
 <section class="post">
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</p>

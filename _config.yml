@@ -14,6 +14,7 @@ mainColor: '#000000'
 incremental: true
 profile: true
 encoding: utf-8
+environment: production
 twitter:
   username: bertrandkeller
 
