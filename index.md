@@ -8,7 +8,7 @@ title: Pensées d'un écrivain numérique de sites web à Rouen
   <small>La monnaie locale de Rouen</small>
   <a href="/conseil-prestation-formation">Voir la page offre</a>
 </div>
-
+ 
 {% assign post = site.posts.first %}
 <section class="post">
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
