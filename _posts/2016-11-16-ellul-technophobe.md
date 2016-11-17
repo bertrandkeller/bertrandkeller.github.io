@@ -26,13 +26,13 @@ Sauf que le discours d‘Éllul ne se limite pas à ses retenus. Il dit simpleme
 
 > L'obsession de l'efficacité conduit à prendre des risques toujours plus graves en espérant y échapper
 
-C’est un constat. Les capacités de l’homme sont en réalité trop limités. Le « réchauffement » climatique en est une preuve.
+C’est un constat. Les capacités de l’homme sont en réalité trop limitées. Le « réchauffement » climatique en est une preuve.
 
 ## La dimension transcendentale
 
 Pour Éllul, la société moderne est caractérisée par le fait que : la technique ne sert plus l‘homme mais l‘homme sert la technique.
 
-Il pense que les hommes ont sacralisé la technique. Qu‘avant le 18ème siècle, les sociétés humaines partaient du principe que Dieux était à l’origine de tout. Qu‘avec la fin de cette croyance, l‘homme a dû remplacer Dieu par quelque chose et que ce quelque chose c‘est la technique : tout est technique, la technique est partout, l‘homme a besoin de la technique.
+Il pense que les hommes ont sacralisé la technique. Qu‘avant le 18ème siècle, les sociétés humaines partaient du principe que Dieu était à l’origine de tout. Qu‘avec la fin de cette croyance, l‘homme a dû remplacer Dieu par quelque chose et que ce quelque chose c‘est la technique : tout est technique, la technique est partout, l‘homme a besoin de la technique.
 
 Sauf que l‘homme a besoin de croyances, de rêves… l‘idéal de la technique ne répond pas à ses attentes transcendentales.
 
@@ -44,7 +44,7 @@ Les techniciens peuvent très bien utiliser cette citation, sans jamais se l’a
 
 Je suis allé voir la présentation de Christian Fauré sur les digitales Studies pour Octo et il utilisait l’exemple du cheval de Troie.
 
-Le cheval de Troie serait un objet technique avancée militaire pour conquérir Troie. Peut-être, mais le cheval de Troie est avant tout un objet de culte. C’est parce qu’il avait été perçu comme tel par les Troyens qu‘ils ont décidé de la ramener dans leur cité. Ils se sont fait tromper à cause de leur croyance.
+Le cheval de Troie serait un objet technique avancée militaire pour conquérir Troie. Peut-être, mais le cheval de Troie est avant tout un objet de culte. C’est parce qu’il avait été perçu comme tel par les Troyens qu‘ils ont décidé de la ramener dans leur cité. Ils se sont fait tromper à cause de leurs croyances.
 
 > A trop voir l’histoire de l’homme comme celle de la technique, vous tendez à voir tous les hommes comme des robots.
 
@@ -54,7 +54,7 @@ Ellul disait qu’on reconnaissait facilement un adorateur de la technique à sa
 
 > Comment peut-on parler d‘égalité quand le pouvoir, qui crée les inégalités de toutes les espèces, s‘acquiert par l‘efficacité dans la production, la gestion et la vente des marchandises ?
     
-La technophilie, la technophobie ou la neutralité n’est donc pas le sujet. La technique crée des inégalités entre les hommes.
+La technophilie, la technophobie ou la neutralité ne sont donc pas le sujet. La technique crée des inégalités entre les hommes.
 
 Une grande partie des patrons de la Silicon Valley pensaient participer à un monde meilleur ? Aujourd’hui, ils se rendent compte que c’est probablement pire.
 
