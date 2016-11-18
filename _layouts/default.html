@@ -13,12 +13,12 @@
       </div>
     </main>
     <script src="/assets/js/instantclick.min.js" data-no-instant></script>
-    {% if !site.environment %}
+    {% if site.environment != 'development' %}
     <script src="//cdnjs.cloudflare.com/ajax/libs/UpUp/0.3.0/upup.min.js" ></script>
     {% endif %}
     <script data-no-instant>
       InstantClick.init();
-      {% if !site.environment %}
+      {% if site.environment != 'development' %}
       UpUp.start({
         'content-url': '{{ page.url | remove_first: '/' }}',
         'assets': ['{{ site.baseurl }}/css/main.css'],
