@@ -50,17 +50,17 @@ navigation: true
   }
 
   .panel-first h1 {
-    font-size: 3.2em;
+    font-size: 3.5rem;
     margin-top: 1.2em;
     margin-bottom: 0.5em;
   }
 
   .panel-first p.anchor {
     margin: 0 0 0.5rem;
-    font-size: 1.3em; 
+    font-size: 1.7rem; 
   }
 
-  .panel-first p.anchor a{
+  .panel-first p.anchor a {
     text-decoration: none;
   }
 
