@@ -98,7 +98,7 @@ navigation: true
 
   .gallery-module h3 {
     order: 3;
-    font-size: 1.225em;
+    font-size: 1.025em;
   }
 
   .gallery-module > a {
