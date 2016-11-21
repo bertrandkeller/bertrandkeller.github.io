@@ -91,7 +91,7 @@ navigation: true
     display: -o-flex;
     display: flex;
     flex-direction: column;
-    flex: 0 0 48%;
+    flex: 0 0 75%;
     margin: 0 auto 1rem;
     max-width: 40em; 
   }
@@ -114,6 +114,12 @@ navigation: true
     max-height: 23em;
     object-fit: cover;
     border: 1px solid #ccc;
+  }
+
+  @media screen and (min-width: 60.063em) {
+    .gallery-module {
+      flex: 0 0 48%;
+    }
   }
 
   @media screen and (min-width: 60.063em) {
