@@ -20,10 +20,10 @@ $ms5:                     $ratio * $ms4; /* 2.488 */
 $ms6:                     $ratio * $ms5; /* 2.986 */
 $ms7:                     $ratio * $ms6; /* 3.583 */
 
-$small:                   $base-em / $ms1;
+$smaller:                 $base-em / $ms1;
 $normal:                  $base-em * $ms0;
-$big:                     $base-em * $ms1;
-$bigger:                  $base-em * $ms2;
+$bigger:                  $base-em * $ms1;
+$title3:                  $base-em * $ms2;
 $title2:                  $base-em * $ms3;
 $title1:                  $base-em * $ms4;
 
@@ -44,21 +44,36 @@ h1 { line-height: $base * $ms0; }
 
 h6, .h6 { font-size: $small; }
 h5, .h5 { font-size: $normal; }
-h4, .h4 { font-size: $big; }
-h3, .h3 { font-size: $bigger; }
+h4, .h4 { font-size: $bigger; }
+h3, .h3 { font-size: $title3; }
 h2, .h2 { font-size: $title2; }
 h1, .h1 { font-size: $title1; }
 
 @media #{$medium-up} {
-  body { font-size: $base-em * $ms1; }
+  body {
+    font-size: $base-em * $ms1;
+    font-size: calc( 100% + .3456 * (100vw - #{$medium}rem) / (#{$large} - #{$medium}) ); // from https://fvsch.com/code/css-locks/
+  }
 }
 
 @media #{$large-up} {
-  body { font-size: $base-em * $ms2; }
+  body {
+    font-size: $base-em * $ms2;
+    font-size: calc( 100% + 0.5 * (100vw - #{$medium}rem) / (#{$xlarge} - #{$large}) ); // from https://fvsch.com/code/css-locks/
+  }
 }
 
 @media #{$xlarge-up} {
-  body { font-size: $base-em * $ms3; }
+  body {
+    font-size: $base-em * $ms3;
+    font-size: calc( 100% + 0.71 * (100vw - #{$medium}rem) / (#{$xxlarge} - #{$xlarge}) ); // from https://fvsch.com/code/css-locks/
+  }
+}
+
+@media #{$xxlarge-up} {
+  body {
+    font-size: $base-em * $ms4;
+  }
 }
 
 h1, .h1,

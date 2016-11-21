@@ -32,7 +32,7 @@ navigation: true
     top: 0.5em;
     left: 0.5em;
     padding: 0 0.2em;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
     text-decoration: none;
     color: #000 !important;
@@ -50,14 +50,14 @@ navigation: true
   }
 
   .panel-first h1 {
-    font-size: 9vw;
-    margin-top: 8vh;
-    margin-bottom: 6vh;
+    font-size: 3.2em;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
   }
 
   .panel-first p.anchor {
     margin: 0 0 0.5rem;
-    font-size: 2vw;
+    font-size: 1.3em; 
   }
 
   .panel-first p.anchor a{
@@ -98,7 +98,7 @@ navigation: true
 
   .gallery-module h3 {
     order: 3;
-    font-size: 1.225rem;
+    font-size: 1.225em;
   }
 
   .gallery-module > a {
@@ -111,23 +111,18 @@ navigation: true
   .gallery img {
     margin: 0 auto;
     width: 100%;
-    max-height: 370px;
+    max-height: 23em;
     object-fit: cover;
     border: 1px solid #ccc;
   }
 
   @media screen and (min-width: 60.063em) {
-    .panel-first h1 {
-      font-size: 6.1vw
-    }
-    .panel-first h2 {
-      font-size: 2.3vw;
-    }
+    
     .gallery-module {
       flex: 0 0 22%;
     }
     .gallery img {
-      max-height: 185px;
+      max-height: 18em;
     }
   }
 
