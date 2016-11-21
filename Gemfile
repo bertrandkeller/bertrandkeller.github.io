@@ -6,6 +6,8 @@ require 'open-uri'
 versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'github-pages', versions['github-pages']
+gem 'rmagick'
+gem 'yt'
 
 group :development do
     gem 'foreman'
@@ -18,7 +20,8 @@ group :test do
     gem 'html-proofer', '~> 3.0.0'
 end
 
-group 'jekyll-plugins' do
-  gem "jekyll-assets"
-  gem 'jekyll-feed'
+group :jekyll_plugins do
+    gem 'jekyll-assets'
+    gem 'jekyll-feed'
+    gem 'algoliasearch-jekyll'
 end
