@@ -14,13 +14,9 @@ mainColor: '#000000'
 incremental: true
 profile: true
 encoding: utf-8
-twitter:
-  username: bertrandkeller
 
 twitter:
-    username: bertrandkeller
-github:
-     username: bertrandkeller
+  username: bertrandkeller
 
 social:
   type: personn
@@ -59,10 +55,12 @@ text:
     older: 'Suivant'
 
 gems:
+  - jekyll-github-metadata
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-assets
+  - octopress-autoprefixer
 
 exclude:
   - .cache
