@@ -21,7 +21,7 @@ C'est oublier un peu vite d'autres caractères historiques fondamentaux de nos a
 
 On leur a dit que l'histoire n'avait pas de sens, que l'histoire n'est pas une ligne droite. Les "singularistes" nous dessinent alors une courbe algorythmique. 
 
-Pourtant, l'observation de la nature et de nous même montre que les choses prennent du temps. On regarde une forêt, un groupe d'amis, une carrière professionnelle… tout cela se réalise sur le nombre des années. ’
+Pourtant, l'observation de la nature et de nous même montre que les choses prennent du temps. On regarde une forêt, un groupe d'amis, une carrière professionnelle… tout cela se réalise sur le nombre des années.
 
   > Tout ce qui doit durer est lent a croître  
   *Louis de Bonald*
