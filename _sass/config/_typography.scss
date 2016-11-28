@@ -35,7 +35,7 @@ body {
   font-family: $base-font-family;
   font-weight: 400;
   font-size: $base-em * $ms0;
-  line-height: $base * $ms2;
+  line-height: $base * $ms3;
 }
 
 h3,
@@ -56,8 +56,9 @@ h1, .h1 { font-size: $title1; }
 @media #{$medium-up} {
   body {
     font-size: $base-em * $ms1;
-    font-size: calc( 100% + .3456 * (100vw - #{$medium}rem) / (#{$large} - #{$medium}) ); // from https://fvsch.com/code/css-locks/
+    // from https://fvsch.com/code/css-locks/
     @include csslock-fontsize($medium,$large,$ms0,$ms1);
+    line-height: $base * $ms2;
   }
 }
 

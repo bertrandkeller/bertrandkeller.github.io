@@ -1,6 +1,4 @@
----
-title: Les générateurs de site statique, remèdes contre la complexité
----
+’
 
 La technique est une chose difficile à apprivoiser par l'homme. D'un côté, elle lui apporte, bien évidemment, des bénéfices lui permettant de survivre dans une environnement hostile ; d'une autre côté, elle peut être source de remise en question sociale, déséquilibrante pour le groupe ou la société.
 
@@ -30,6 +28,6 @@ Votre choix doit être dicté par un rapport entre le temps d'installation et de
 
 La technique propose des solutions à l'homme pour répondre à des problématiques. Si on veut perdurer, il est indispensable de dépenser le moins d'énergie possible pour des besoins simples.
 
-L'énergie restante sera encore disponible pour l‘amélioration de système existant ou pour la répondre à d'autres besoins simple.
+L'énergie restante sera encore disponible pour l’amélioration de système existant ou pour la répondre à d'autres besoins simple.
 
 Les générateurs de site statique ne répondent pas à tous les besoins, mais répondent à un grand nombre de besoins fondamentaux du web en ne demandant qu'un faible investissement.
