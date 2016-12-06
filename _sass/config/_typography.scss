@@ -62,16 +62,24 @@ h1, .h1 { font-size: $title1; }
   }
 }
 
-@media #{$xlarge-up} {
+@media #{$large-up} {
   body {
     font-size: $base-em * $ms1;
-    @include csslock-fontsize($medium,$xlarge,$ms1,$ms2);
+    @include csslock-fontsize($large,$xlarge,$ms1,$ms2);
+  }
+}
+
+@media #{$xlarge-up} {
+  body {
+    font-size: $base-em * $ms2;
+    @include csslock-fontsize($medium,$xlarge,$ms2,$ms4);
   }
 }
 
 @media #{$xxlarge-up} {
   body {
-    font-size: $base-em * $ms2;
+    font-size: $base-em * $ms4;
+    @include csslock-fontsize($medium,$xlarge,$ms4,$ms5);
   }
 }
 
