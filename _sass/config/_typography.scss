@@ -50,37 +50,28 @@ h2, .h2 { font-size: $title2; }
 h1, .h1 { font-size: $title1; }
 
 @mixin csslock-fontsize($breakpoint-down:$breakpoint-down, $breakpoint-up:$breakpoint-up, $size-down:$size-down, $size-up:$size-up) {
-  font-size: calc( 100% + (#{$size-up} * (#{$size-up} - #{$size-down})) * (100vw - #{$breakpoint-down}rem) / (#{$breakpoint-up} - #{$breakpoint-down}) );
+  font-size: calc( 100% * #{$size-down} + ( (#{$size-up} - #{$size-down}) / #{$size-down} ) * (100vw - #{$breakpoint-down}rem) / (#{$breakpoint-up} - #{$breakpoint-down}) );
 }
 
 @media #{$medium-up} {
   body {
-    font-size: $base-em * $ms1;
+    font-size: $base-em * $ms0;
     // from https://fvsch.com/code/css-locks/
     @include csslock-fontsize($medium,$large,$ms0,$ms1);
     line-height: $base * $ms2;
   }
 }
 
-@media #{$large-up} {
-  body {
-    font-size: $base-em * $ms2;
-    font-size: calc( 100% + 0.5 * (100vw - #{$large}rem) / (#{$xlarge} - #{$large}) ); // from https://fvsch.com/code/css-locks/
-    @include csslock-fontsize($medium,$xlarge,$ms1,$ms2);
-  }
-}
-
 @media #{$xlarge-up} {
   body {
-    font-size: $base-em * $ms3;
-    font-size: calc( 100% + 0.71 * (100vw - #{$xlarge}rem) / (#{$xxlarge} - #{$xlarge}) ); // from https://fvsch.com/code/css-locks/
-    @include csslock-fontsize($medium,$xxlarge,$ms2,$ms3);
+    font-size: $base-em * $ms1;
+    @include csslock-fontsize($medium,$xlarge,$ms1,$ms2);
   }
 }
 
 @media #{$xxlarge-up} {
   body {
-    font-size: $base-em * $ms4;
+    font-size: $base-em * $ms2;
   }
 }
 
