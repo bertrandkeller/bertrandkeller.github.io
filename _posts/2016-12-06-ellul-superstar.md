@@ -19,6 +19,6 @@ La 25 novembre, Framasoft écrit ce billet très incisif : [Pourquoi Framasoft n
 
 Je ne suis pas certain que dans ces deux articles, les interviewés utilisent pleinement le concept d’Ellul mais la référence est nettement affirmée.
 
-On peut dire qu’ils ont au moins choisi leur camp.
+On peut dire qu’ils ont au moins choisi leur camp. 
 
 
