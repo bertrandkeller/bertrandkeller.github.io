@@ -37,6 +37,12 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
+// We need to revert these for Google maps cos else it breaks!
+%img--no-max,
+.img--no-max {
+  max-width: none;
+}
+
 
 // Figures
 // -------------------------
@@ -59,7 +65,7 @@ a {
     color: palette(primary);
   }
   &:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: palette(primary, dark);
   }
   &:focus {
