@@ -1,6 +1,6 @@
 ---
 layout: default
-title: L‘offre
+title: L’offre
 description: Expert en stratégie web & sites Internet 
 navigation: true
 ---
