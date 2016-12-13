@@ -63,7 +63,7 @@ permalink: .htaccess
     Header set X-XSS-Protection "1; mode=block"
     ## END CUSTOM CODE
 
-    https://0a70efa08d4b19bcc90a2da7a0f0a5ad.report-uri.io/r/default/csp/enforce
+    https://bertrandkeller.report-uri.io/r/default/csp/enforce
 
 </IfModule>
 
