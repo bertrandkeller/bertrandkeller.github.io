@@ -18,6 +18,9 @@ encoding: utf-8
 twitter:
   username: bertrandkeller
 
+author:
+  twitter: bertrandkeller
+
 social:
   type: personn
   links:
