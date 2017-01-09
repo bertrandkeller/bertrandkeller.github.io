@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: Formations Jekyll et aux générateurs de site statique
 ---
-
-# Formations Jekyll
 
 **Contacts**
 @bertrandkeller
@@ -39,7 +37,7 @@ Son usage offre aussi l‘avantage de s‘initier à son rythme avec du code et 
 
 ## Pourquoi moi ?
 
-Mon expérience porte sur plus de 10 ans de pratique de développement d‘interfaces et de gestion de projet web. Je maitrise parfaitement la chaine éditoriale que ce soit en terme technique, qu‘en terme de conception. 
+Mon expérience porte sur plus de 10 ans de pratique de développement d‘interfaces et de gestion de projets web. Je maitrise parfaitement la chaine éditoriale que ce soit en terme technique, qu‘en terme de conception. 
 
 J‘enseigne Jekyll depuis 3 ans à l‘IUT d‘Elbeuf à des élèves de license. Les cours se déroulent sous forme d‘ateliers durant lesquels des objectifs sont à atteindre afin de réaliser soit même son propre site. Parfois seuls ou en groupe, les élèves peuvent s‘entraider afin d‘avancer dans la construction de leur site.
 

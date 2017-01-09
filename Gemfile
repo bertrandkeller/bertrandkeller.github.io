@@ -10,6 +10,7 @@ require 'open-uri'
 group :development do
     gem 'foreman'
     gem 'octopress-autoprefixer'
+    gem 'jekyll-admin', group: :jekyll_plugins
 end
 
 group :test do
