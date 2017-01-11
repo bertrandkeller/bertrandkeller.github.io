@@ -81,6 +81,7 @@ exclude:
   - tmp
   - LICENSE.md
   - README.md
+  - dploy.yml
 
 
 Plugin: jekyll-assets

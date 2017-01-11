@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pensées d'un écrivain numérique de sites web à Rouen
----
+--- 
 
 <div class="exergue">
   Vous pouvez me payer en Agnel
