@@ -19,7 +19,7 @@ Durant mes cours à l’IUT, j’ai continué à enseigné les générateurs de 
 
 Je réalise de petits sites Jekyll avec certains clients afin de tester des workflows éditoriaux. Je navigue encore sur certains sujets car tous les service ne sont pas mûrs, mais à chaque fois les clients sont ravis.
 
-Les sites sont en production, fonctionnement et sont édités régulièrement par mes clients. L’avantage de leur côté, c’est que leur site est ultra rapide et très bien référencé. De mon côté, je n’ai que très peu de maintenance technique et je n’engage jamais de frais pour la gestion des sites.
+Les sites sont en production, fonctionnent et sont édités régulièrement par mes clients. L’avantage de leur côté, c’est que leur site est ultra rapide et très bien référencé. De mon côté, je n’ai que très peu de maintenance technique et je n’engage jamais de frais pour la gestion des sites.
 
 ## 2017, encore plus loin
 
@@ -27,7 +27,7 @@ Je maitrise désormais les gestionnaires de site statique en terme de gestion de
 
 En 2017, je cherche des occasions d’aller encore plus loin en intégrant d’autres types de contenu : des produits e-commerce, des magazines…
 
-J’aimerai pouvoir exporter des contenus vers différentes interfaces de publication et en optimiser la lisibilité.
+J’aimerais pouvoir exporter des contenus vers différentes interfaces de publication et en optimiser la lisibilité.
 
 Et pourquoi, si cela se présente, afficher du contenu statique à partir de différents CMS (Drupal, Wordpress). 
 
