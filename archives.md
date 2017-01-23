@@ -10,6 +10,7 @@ navigation: true
   {% assign yeardate = site.time | date: "%Y" %}
   {% if currentdate != date %}
   {% if currentdate != yeardate %}
+  </ul><!--/posts-archive-->
   <!--/posts-archive-->
   {% endif %}
   <h2 id="date-{{currentdate}}">{{ currentdate }}</h2>

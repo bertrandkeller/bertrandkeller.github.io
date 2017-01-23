@@ -17,7 +17,7 @@ title: Pensées d'un écrivain numérique de sites web à Rouen
     {{ post.content | markdownify }}
   </section>
 
-  <div class="pagination"  role="navigation">
+  <div class="pagination" role="navigation">
     {% if post.previous %}
     <div class="left">
       <a class="pagination-item" href="{{ post.previous.url }}">
