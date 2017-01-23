@@ -10,9 +10,9 @@
     <main id="main" class="page" role="main">
       {{ content }}
     </main>
-    <script src="/assets/js/instantclick.min.js" data-no-instant></script>
+    <script src="/assets/js/instantclick.min.js" data-no-instant async></script>
     {% if site.environment != 'development' %}
-    <script src="//cdnjs.cloudflare.com/ajax/libs/UpUp/0.3.0/upup.min.js" ></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/UpUp/0.3.0/upup.min.js" async></script>
     {% endif %}
     <script data-no-instant>
       InstantClick.init();
