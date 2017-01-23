@@ -9,7 +9,7 @@ navigation: true
   {% assign currentdate = post.date | date: "%Y" %}
   {% assign yeardate = site.time | date: "%Y" %}
   {% if currentdate != date %}
-  {% if currentdate != yeardate %} 
+  {% if currentdate != yeardate %}
   </ul><!--/posts-archive-->
   <!--/posts-archive-->
   {% endif %}
