@@ -2,6 +2,8 @@
  "lang": "fr",
  "dir": "ltr",
  "name": "bertrandkeller",
+ "background_color": "#000",
+ "theme_color": "#000",
  "icons": [
   {
    "src": "assets/favicon/android-icon-36x36.png",
