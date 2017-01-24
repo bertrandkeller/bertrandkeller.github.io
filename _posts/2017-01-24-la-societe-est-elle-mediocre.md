@@ -1,7 +1,7 @@
 ---
 title: Notre société est-elle médiocre ?
 ---
-
+ 
 Bonne question ! Si on se place dans une analyse systémique de notre société, tout ce que nous produisons (pommes, voitures, logiciels,…) se réalise de la même manière. Et notre mode de production privilégie la standardisation.
 
 ## Pourquoi les médiocres ont pris le pouvoir
