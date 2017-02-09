@@ -3,7 +3,6 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 
 // Configuration
-@import "config/open-color";
 @import "config/colors";
 @import "config/mediaqueries";
 @import "config/typography";
@@ -12,13 +11,13 @@
 @import "tool/utilities";
 
 // Base
-//@import "base/layout";
+@import "base/layout";
 
 // Generic
 //@import "generic/broken-images";
 @import "generic/normalize-opentype";
 @import "generic/syntax-highlighting";
-//@import "generic/skiplink";
+@import "generic/skiplink";
 @import "generic/print";
 
 // Object
