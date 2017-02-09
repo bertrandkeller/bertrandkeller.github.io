@@ -33,9 +33,10 @@ En gros, quand on est gros et qu’on limite le risque de ne pas gagner de titre
 
 Soit on est gros, soit on est petit et quand on est gros on l’est de plus en plus.
 
-## Le web
+## Conclusion
 
 Favoriser les gros, c’est laisser des miettes pour les petits. L’existence de moyens laissent croire que tout le monde a sa chance, mais cela ne se vérifie pas.
 
 Aujourd’hui le football est tellement a 2 vitesses, qu’on ne commence à ne plus bien voir l’intérêt sportif de championnat quasiment déjà joué d’avance.
+
 
