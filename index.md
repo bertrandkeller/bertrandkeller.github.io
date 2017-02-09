@@ -12,6 +12,7 @@ title: Pensées d'un écrivain numérique de sites web à Rouen
 </div>
 
 <div class="wrapper"> 
+
   {% assign post = site.posts.first %}
   <section class="post">
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
