@@ -7,7 +7,7 @@ title: Formations Jekyll ou goHugo et aux générateurs de site statique
 @bertrandkeller
 bertrand.keller(@)gmail.com
 
-## Pourquoi apprendre Jekyll ?
+## Pourquoi apprendre Jekyll et Hugo?
 
 Un générateur de site statique permet de générer des sites web à partir de quelques lignes de codes. Pour de petits sites éditoriaux, il est très peu coûteux et facile à faire évoluer. Il n’utilise pas de bases de données.
 
