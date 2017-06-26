@@ -140,7 +140,7 @@ navigation: true
   <p>bertrand.keller(@)gmail.com</p>
   <p class="anchor"><a href="#id-conseil">Conseil Stratégique</a></p>
   <p class="anchor"><a href="#id-integration">Intégration web</a></p>
-  <p class="anchor"><a href="#id-jekyll">Formation Jekyll</a></p>
+  <p class="anchor"><a href="#id-jekyll">Formation Jekyll ou Hugo</a></p>
   <p>-</p>
   <p class="anchor"><a href="#id-benevolat">Bénévolat</a></p>
   <p class="anchor"><a href="#id-presentation">Présentations</a></p> 
@@ -168,12 +168,12 @@ navigation: true
 
 <section id="id-jekyll" class="panel">
   <div class="gallery-module">
-      <h2>Formation Jekyll</h2>
+      <h2>Formation Jekyll ou Hugo</h2>
       <p>Depuis 3 années, j‘enseigne Jekyll dans différentes structures et notamment à des élèves de licence à l'IUT d'Elbeuf près de Rouen.</p>
       <p>Jekyll, et les générateurs de contenu statique, sont en train de devenir des plateformes de documentation pour la réalisation et le suivi de projets.</p>
       <p>A très peu de frais, ils permettent d'éditer sous forme de fichiers textes aussi bien du contenu que des données qui peuvent être publiés sous différents formats : HTML, PDF…</p>
-      <p>Apprendre Jekyll, c‘est devenir autonome, avoir une souplesse pour éditer des données sur le web ou tout autre support de communication.</p>
-      <p><strong>=> Voir la page d‘offre de <a href="/formation-jekyll">formations à Jekyll</a>.</strong></p>
+      <p>Apprendre Jekyll ou Hugo, c‘est devenir autonome, avoir une souplesse pour éditer des données sur le web ou tout autre support de communication.</p>
+      <p><strong>=> Voir la page d‘offre de <a href="/formation-jekyll">formations à Jekyll ou hugo</a>.</strong></p>
   </div>
 </section>
 
