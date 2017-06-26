@@ -40,3 +40,6 @@ dploy.yaml
 # Jekyll
 _posts/*
 !_posts/[0-9]*
+
+#miscellaneous
+bertrandkeller.wordpress.2016-03-07.xml

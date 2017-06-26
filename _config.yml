@@ -56,7 +56,7 @@ text:
     newer: 'Précédent'
     older: 'Suivant'
 
-gems:
+plugins:
   - jekyll-github-metadata
   - jekyll-sitemap
   - jekyll-feed
