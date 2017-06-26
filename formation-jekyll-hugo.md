@@ -45,7 +45,7 @@ Le principe est de permettre à chaucun d’avancer à son rythme dans une ambia
 
 ### Quelques interventions sur Jekyll et Hugo
 [Kiwi Party 2016](https://vimeo.com/179314577)  
-[Paris Web 2016](http://frank.taillandier.me/2016/10/02/ne-passons-pas-a-cote-des-choses-simples/)
+[Paris Web 2016](http://frank.taillandier.me/2016/10/02/ne-passons-pas-a-cote-des-choses-simples/)  
 [Paris Web 2017](https://www.paris-web.fr/2017/ateliers/decliner-des-sites-statiques-performants-avec-un-gss-jekyll-hugo.php)
 
 ## Comment ça s’organise ?
