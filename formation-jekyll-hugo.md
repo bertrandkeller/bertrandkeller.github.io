@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Formations Jekyll ou Hugo et aux générateurs de site statique
+title: Formations Jekyll ou goHugo et aux générateurs de site statique
 ---
 
 **Contacts**
