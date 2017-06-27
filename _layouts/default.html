@@ -18,7 +18,7 @@
       InstantClick.init();
       {% if site.environment != 'development' %}
       UpUp.start({
-        'content-url': '{{ page.url | prepend: site.url }} }}',
+        'content-url': '{{ page.url | prepend: site.url }}',
         'assets': ['{{ site.url }}/assets/css/main.css'],
         'service-worker-url': '/upup.sw.min.js'
       });
