@@ -22,24 +22,24 @@ title: Pensées d'un écrivain numérique de sites web à Rouen
 
   <div class="pagination" role="navigation">
     {% if post.previous %}
-    <div class="left">
-      <a class="pagination-item" href="{{ post.previous.url }}">
+    <div class="pagination--left">
+      <a class="pagination--item" href="{{ post.previous.url }}">
         {{ post.previous.title }}
       </a>
     </div>
     {% endif %}
 
     {% if post.title == 'Transmutation' %} 
-    <div class="left">
-      <a class="pagination-item" href="/2015/10/03/parisweb-cest-quoi-les-metiers-du-web">
+    <div class="pagination--left">
+      <a class="pagination--item" href="/2015/10/03/parisweb-cest-quoi-les-metiers-du-web">
         ParisWeb - c'est quoi les métiers du web ?
       </a>
     </div>
     {% endif %}
 
     {% if post.next %}
-    <div class="right">
-      <a class="pagination-item" href="{{ post.next.url }}">
+    <div class="pagination--right">
+      <a class="pagination--item" href="{{ post.next.url }}">
         {{ post.next.title }}
       </a>
     </div>

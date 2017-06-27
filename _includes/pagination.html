@@ -3,16 +3,16 @@
 <div class="pagination" role="navigation">
 
   {% if page.previous %}
-  <div class="left">
-    <a class="pagination-item" href="{{ page.previous.url }}">
+  <div class="pagination--left">
+    <a class="pagination--item" href="{{ page.previous.url }}">
       {{ page.previous.title }}
     </a>
   </div>
   {% endif %}
 
   {% if page.next %}
-  <div class="right">
-    <a class="pagination-item" href="{{ page.next.url }}">
+  <div class="pagination--right">
+    <a class="pagination--item" href="{{ page.next.url }}">
       {{ page.next.title }}
     </a>
   </div>
@@ -22,13 +22,13 @@
 {% else %}
 <div class="pagination" role="navigation">
   {% if page.title == 'Transmutation' %}
-    <div class="left">
-      <a class="pagination-item" href="/2015/10/03/parisweb-cest-quoi-les-metiers-du-web">
+    <div class="pagination--left">
+      <a class="pagination--item" href="/2015/10/03/parisweb-cest-quoi-les-metiers-du-web">
         ParisWeb - c'est quoi les métiers du web ?
       </a>
     </div>
-    <div class="right">
-      <a class="pagination-item" href="/2016/03/31/processus-edition/">
+    <div class="pagination--right">
+      <a class="pagination--item" href="/2016/03/31/processus-edition/">
         Mon processus d'édition
       </a>
     </div>
