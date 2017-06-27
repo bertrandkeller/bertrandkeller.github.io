@@ -80,7 +80,7 @@ Licensed MIT
   };
 }(this));
 
-    loadCSS("http://localhost:4000/assets/css/main.css");
+    loadCSS("https://bertrandkeller.info/assets/css/main.css");
     !function(){"use strict";function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))c(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(c(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var a=document.createElement("link");a.href=o,a.rel="stylesheet",a.type="text/css",document.getElementsByTagName("head")[0].appendChild(a),document.cookie="font_css_cache";}}function c(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t),document.getElementsByTagName("html")[0].className+=' font-loaded'}var o="/assets/css/font.css";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(window,"load",n)}();
 
   </script>
@@ -146,8 +146,6 @@ Licensed MIT
           
         
           
-        
-          
           <li><a class="page-link" href="/archives/">Archives</a></li>
           
         
@@ -176,7 +174,7 @@ Licensed MIT
     <p class="post-meta">13/07/2008</p>
     <p>Configurer la réécriture d'URL sur son site apporte une meilleure visibilité sur les moteurs de recherche. Ces moteurs lisent les mots clefs contenus dans l'adresse pour établir leur classement ; un site sera souvent en début de liste pour une requête concernant les mots figurants dans son nom de domaine. De la même façon une page sera d'autant mieux classée sur une requête que son adresse comportera les mots clefs dans son adresse.</p>
 <p>Pour l'adresse http://www.monactivite.com/rubrique1/titre-de-la-page.html, la page correspondante sera en bonne position pour une requête concernant mon activité, la rubrique de la page et le titre de cette page. La première phase pour améliorer sa visibilité consiste donc à travailler l'arborescence de son site en établissement un rubricage cohérent et à choisir des titres de page évocateur de son contenu.</p>
-<p>Sur un site propulsé par TYPO3, il existe deux extensions permettant la réécriture d'URL : <a href="http://bertrandkeller.info/index.php?2008/05/19/160-tutoriel-d-installation-de-cooluri">CoolURI</a> et RealURL ; RealURL est, à priori, la plus utilisée des deux ; nous parlerons de celle-ci dans ce billet.</p>
+<p>Sur un site propulsé par TYPO3, il existe deux extensions permettant la réécriture d'URL : <a href="http://bertrandkeller.info/2008/05/19/tutoriel-d-installation-de-cooluri/">CoolURI</a> et RealURL ; RealURL est, à priori, la plus utilisée des deux ; nous parlerons de celle-ci dans ce billet.</p>
 <p>Depuis les dernières versions mise en ligne de RealURL, la configuration du plugin est facilité par un fichier d'autoconfiguration (realurl_autocong.php) qui permet d'obtenir la réécriture sans avoir à toucher la moindre ligne de code. Pour ceux qui désirent en savoir plus, ils devront s'intéresser aux fichiers : _.htaccess, typo3conf/localconf.php et typo3conf/conf_realurl.php.</p>
 <ul>
 <li><a href="http://typo3bloke.net/post-details/realurl_made_easy_part_1/">Dmitry Dulepov- RealURL facile : partie 1</a></li>

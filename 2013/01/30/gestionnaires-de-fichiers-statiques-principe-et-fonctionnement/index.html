@@ -80,7 +80,7 @@ Licensed MIT
   };
 }(this));
 
-    loadCSS("http://localhost:4000/assets/css/main.css");
+    loadCSS("https://bertrandkeller.info/assets/css/main.css");
     !function(){"use strict";function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))c(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(c(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var a=document.createElement("link");a.href=o,a.rel="stylesheet",a.type="text/css",document.getElementsByTagName("head")[0].appendChild(a),document.cookie="font_css_cache";}}function c(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t),document.getElementsByTagName("html")[0].className+=' font-loaded'}var o="/assets/css/font.css";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(window,"load",n)}();
 
   </script>
@@ -146,8 +146,6 @@ Licensed MIT
           
         
           
-        
-          
           <li><a class="page-link" href="/archives/">Archives</a></li>
           
         
@@ -174,7 +172,7 @@ Licensed MIT
   <article class="post">
     <h1 class="post-title">Générateurs de sites statiques - principe et fonctionnement</h1>
     <p class="post-meta">30/01/2013</p>
-    <p>Dans la démarche <a href="http://bertrandkeller.info/2012/10/24/3297-structure-first-pratiquer-les-moteurs-de-templates/">structure first</a>, la composition des pages précède les phases de développement fonctionnel. Comment faire pour d'une part pour construire un système de pages navigables (testables) et d'autre part mettre à profit cette phase pour la suite la construction du site ?</p>
+    <p>Dans la démarche <a href="http://bertrandkeller.info/2012/10/24/structure-first-pratiquer-les-moteurs-de-templates/">structure first</a>, la composition des pages précède les phases de développement fonctionnel. Comment faire pour d'une part pour construire un système de pages navigables (testables) et d'autre part mettre à profit cette phase pour la suite la construction du site ?</p>
 <p>Dans ce premier article, nous verrons le principe et le fonctionnement des générateurs de sites statiques.</p>
 <h2>Qu'est-ce qu'un Générateurs de sites statiques ?</h2>
 <p>Un générateurs de sites statiques permet comme son nom l'indique de gérer des fichiers statiques. Pour comprendre ceci, il faut bien évidemment l'opposer aux traditionnels CMS, moteurs de blog et autres systèmes couplés à des bases de données.</p>
