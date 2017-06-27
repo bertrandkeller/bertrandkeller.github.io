@@ -447,8 +447,6 @@ FileETag None
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_URI} !(\.[a-zA-Z0-9]{1,5}|/|#(.*))$
   RewriteRule ^(.*)$ /$1/ [R=301,L]
-  #RewriteCond %{HTTP_HOST} ^bertrandkeller.info [NC,OR]
-  #RewriteCond %{HTTP_HOST} ^bertrandkeller.info [NC]
   RedirectMatch 301 ([0-9]{4}/[0-9]{2}/[0-9]{2}/)[0-9]+-(.*)$  http://bertrandkeller.info/$1$2/
   RewriteRule ([0-9]{4}/[0-9]{2}/[0-9]{2}/)[0-9]+-(.*)$  http://bertrandkeller.info/$1$2/ [R=301,L]
   RewriteRule ^/feed/$ /feed.xml [R=301]
@@ -461,7 +459,7 @@ FileETag None
 # Rewrite "domain.com/foo/ -> domain.com/foo"
 
 #<IfModule mod_rewrite.c>
- RewriteRule ^(.*)/$ /$1 [R=301,L]
+# RewriteRule ^(.*)/$ /$1 [R=301,L]
 #</IfModule>
 
 
