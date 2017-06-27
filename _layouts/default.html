@@ -19,7 +19,7 @@
       {% if site.environment != 'development' %}
       UpUp.start({
         'content-url': '{{ page.url | prepend: site.url }} }}',
-        'assets': ['{{ site.url }}/css/main.css'],
+        'assets': ['{{ site.url }}/assets/css/main.css'],
         'service-worker-url': '/upup.sw.min.js'
       });
       {% endif %}
