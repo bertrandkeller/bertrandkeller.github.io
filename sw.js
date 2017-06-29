@@ -17,6 +17,10 @@ const filesToCache = [
   {% endfor %}
 
   // can be automated rather than manual entries
+  "/assets/fonts/Overpass-Bold.woff2",
+  "/assets/fonts/Overpass-Italic.woff2",
+  "/assets/fonts/Overpass-Regular.woff2",
+  "/assets/fonts/Overpass-ExtraLight.woff2",
   "/index.html"
 ];
 
