@@ -1,8 +1,0 @@
-{
-  "id": "/2009/02/04/inversion-de-controle-sur-flow3",
-  "title": "Inversion de contrôle sur FLOW3",
-  "url": "http://localhost:4000/2009/02/04/inversion-de-controle-sur-flow3/",
-  "date": 1233753888,
-  "html": "<p>L'<a href=\"http://martinfowler.com/articles/injection.html\">inversion de contrôle</a> est implémenté pour le projet FLOW3 : <a href=\"http://flow3.typo3.org/documentation/reference/object/\">Object Framework</a>.</p>\n<p>Fluid remplace Smarty comme moteur de gabarit pour FLOW3 : <a href=\"http://forge.typo3.org/repositories/revision/7/1864\">Replaced Smarty with Fluid and adapted the templates for this purpose</a>.</p>\n",
-  "markdown": "<p>L'<a href=\"http://martinfowler.com/articles/injection.html\">inversion de contrôle</a> est implémenté pour le projet FLOW3 : <a href=\"http://flow3.typo3.org/documentation/reference/object/\">Object Framework</a>.</p>\n<p>Fluid remplace Smarty comme moteur de gabarit pour FLOW3 : <a href=\"http://forge.typo3.org/repositories/revision/7/1864\">Replaced Smarty with Fluid and adapted the templates for this purpose</a>.</p>\n"
-}

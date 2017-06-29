@@ -1,8 +1,0 @@
-{
-  "id": "/2011/01/20/wai-aria-candidate-a-la-recommandation",
-  "title": "WAI-ARIA candidate à la recommandation",
-  "url": "http://localhost:4000/2011/01/20/wai-aria-candidate-a-la-recommandation/",
-  "date": 1295530375,
-  "html": "<p>Des nouvelles de WAI-ARIA.</p>\n<blockquote cite=\"http://webyboom.canalblog.com/archives/2011/01/20/20171341.html\"><p>la spécification WAI-ARIA du W3C a acquis le statut de Candidate Recommendation (candidate pour la recommandation)</p>\n<p>En gros, on pourra désormais coder un menu déroulant en spécifiant que c'est un menu, qu'il est ouvert ou fermé, qu'il comporte un sous-menu, et que tel bloc de texte caché dans la page en est la description.</p>\n</blockquote>\n<p><a href=\"http://webyboom.canalblog.com/archives/2011/01/20/20171341.html\" title=\"WAI-ARIA candidate à la recommandation\">WAI-ARIA candidate à la recommandation</a>.</p>\n",
-  "markdown": "<p>Des nouvelles de WAI-ARIA.</p>\n<blockquote cite=\"http://webyboom.canalblog.com/archives/2011/01/20/20171341.html\"><p>la spécification WAI-ARIA du W3C a acquis le statut de Candidate Recommendation (candidate pour la recommandation)</p>\n<p>En gros, on pourra désormais coder un menu déroulant en spécifiant que c'est un menu, qu'il est ouvert ou fermé, qu'il comporte un sous-menu, et que tel bloc de texte caché dans la page en est la description.</p>\n</blockquote>\n<p><a href=\"http://webyboom.canalblog.com/archives/2011/01/20/20171341.html\" title=\"WAI-ARIA candidate à la recommandation\">WAI-ARIA candidate à la recommandation</a>.</p>\n"
-}

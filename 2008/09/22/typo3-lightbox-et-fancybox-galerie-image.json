@@ -1,8 +1,0 @@
-{
-  "id": "/2008/09/22/typo3-lightbox-et-fancybox-galerie-image",
-  "title": "TYPO3 - galerie d'images : LightBox et FancyBox",
-  "url": "http://localhost:4000/2008/09/22/typo3-lightbox-et-fancybox-galerie-image/",
-  "date": 1222092864,
-  "html": "<p>Un webdesigner de Stuttgart, <a href=\"http://leandrovieira.com/projects/jquery/lightbox/#\">Aji Yahya</a>, a édité deux plugins TYPO3 permettant de remplacer la fonction \"cliquer pour agrandir\" par des fonctions jQuery.</p>\n<ul>\n<li><a href=\"http://typo3.org/extensions/repository/view/jq_fancybox/current/\">jQuery FancyBox</a> : voir l'exemple <a href=\"http://fancy.klade.lv/\">FancyBox</a></li>\n<li><a href=\"http://typo3.org/extensions/repository/view/jq_lightbox/current/\">jQuery LightBox</a> : voir l'exemple <a href=\"http://leandrovieira.com/projects/jquery/lightbox/#\">LightBox</a></li>\n</ul>\n<p>Ces deux extensions sont au choix, il ne doit pas être possible de les activer en même temps.</p>\n",
-  "markdown": "<p>Un webdesigner de Stuttgart, <a href=\"http://leandrovieira.com/projects/jquery/lightbox/#\">Aji Yahya</a>, a édité deux plugins TYPO3 permettant de remplacer la fonction \"cliquer pour agrandir\" par des fonctions jQuery.</p>\n<ul>\n<li><a href=\"http://typo3.org/extensions/repository/view/jq_fancybox/current/\">jQuery FancyBox</a> : voir l'exemple <a href=\"http://fancy.klade.lv/\">FancyBox</a></li>\n<li><a href=\"http://typo3.org/extensions/repository/view/jq_lightbox/current/\">jQuery LightBox</a> : voir l'exemple <a href=\"http://leandrovieira.com/projects/jquery/lightbox/#\">LightBox</a></li>\n</ul>\n<p>Ces deux extensions sont au choix, il ne doit pas être possible de les activer en même temps.</p>\n"
-}
