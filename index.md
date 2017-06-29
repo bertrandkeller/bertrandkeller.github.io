@@ -7,7 +7,7 @@ title: Pensées d'un écrivain numérique de sites web à Rouen
   <div class="wrapper">
     Vous pouvez me payer en Agnel
     <small>La monnaie locale de Rouen</small>
-    <a href="/conseil-prestation-formation">Voir la page offre</a>
+    <a href="/conseil-prestation-formation/">Voir la page offre</a>
   </div>
 </div>
 
