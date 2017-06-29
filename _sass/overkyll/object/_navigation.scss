@@ -5,6 +5,15 @@
 // Navigation main
 // inspired https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8#.hg6g5yhtd
 
+nav {
+  ul {
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+
 .nav-main {
   flex: 1;
   @media #{$small-only} {
@@ -27,7 +36,6 @@
       overflow-x: auto;
     }
     @media #{$medium-up} {
-      margin-top: 1rem;
       .wrapper--flex & {
         text-align: right;
       }

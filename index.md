@@ -26,7 +26,7 @@ title: Pensées d'un écrivain numérique de sites web à Rouen
       <a class="pagination--item" href="{{ post.previous.url }}">
         {{ post.previous.title }}
       </a>
-    </div>
+    </div> 
     {% endif %}
 
     {% if post.title == 'Transmutation' %} 
