@@ -75,6 +75,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
+    json (1.8.1)
     kramdown (1.14.0)
     liquid (4.0.0)
     listen (3.0.8)
@@ -129,11 +130,9 @@ DEPENDENCIES
   jekyll-livereload
   jekyll-seo-tag
   jekyll-sitemap
+  json
   octopress-autoprefixer
   rake (~> 11.0.0)
-
-RUBY VERSION
-   ruby 2.3.0p0
 
 BUNDLED WITH
    1.15.1
