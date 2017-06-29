@@ -1,0 +1,93 @@
+# Site informations
+name: 'Bertrand Keller'
+title: bertrandkeller
+email: bertrand.keller@gmail.com
+description: Découvrir des choses et d'autres
+
+# Site settings
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+urle: "https://bertrandkeller.info"
+lang: fr
+timezone: Europe/Paris
+mainColor: '#000000'
+incremental: true
+profile: true
+encoding: utf-8
+ 
+twitter:
+  username: bertrandkeller
+
+author: bertrandkeller
+
+social:
+  type: personn
+  links:
+    - https://twitter.com/bertrandkeller
+    - https://github.com/bertrandkeller
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+feed:
+  path: feed
+
+text:
+  pagination:
+    newer: 'Précédent'
+    older: 'Suivant'
+
+plugins:
+  - jekyll-github-metadata
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-assets
+  - octopress-autoprefixer
+
+exclude:
+  - .cache
+  - .editorconfig
+  - .gitattributes
+  - .gitignore
+  - .ruby-version
+  - .travis.yml
+  - Gemfile
+  - Gemfile.lock
+  - Procfile
+  - script
+  - vendor
+  - gems
+  - tmp
+  - LICENSE.md
+  - README.md
+  - dploy.yml
+
+
+Plugin: jekyll-assets
+assets:
+  sources:
+    - assets/js
+    - assets/css
+    - _sass
+  autoprefixer:
+    browsers: ["last 2 versions","> 5%","IE 9"]

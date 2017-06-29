@@ -1,0 +1,8 @@
+{
+  "id": "/2008/12/12/diaporama-javascript-s3-de-jquery-integre-dans-typo3",
+  "title": "Diaporama JavaScript - S3Slider de Jquery intégré dans TYPO3",
+  "url": "http://localhost:4000/2008/12/12/diaporama-javascript-s3-de-jquery-integre-dans-typo3/",
+  "date": 1229080849,
+  "html": "<p>Inspiré de <a href=\"http://smoothslideshow.jondesign.net/timed.html\">Smooth Slideshow</a>, <a href=\"http://www.serie3.info/s3slider/index.php\">S3 Slider</a> propose d'enchaîner une série d'images sous forme de diaporama.</p>\n<p>A vue d'oeil, ce plugin a l'air plutôt rapide. Son originalité consiste à afficher la légende de chaque image avec une animation. Je vous laisse vérifier par vous même les types d'animations de légendes disponibles.</p>\n<p>Ce plugin est disponible sous TYPO3 grâce à l'extension : <a href=\"http://typo3.org/extensions/repository/view/gra_s3slider/current/\">s3slider implementation for Typo3</a>.</p>\n",
+  "markdown": "<p>Inspiré de <a href=\"http://smoothslideshow.jondesign.net/timed.html\">Smooth Slideshow</a>, <a href=\"http://www.serie3.info/s3slider/index.php\">S3 Slider</a> propose d'enchaîner une série d'images sous forme de diaporama.</p>\n<p>A vue d'oeil, ce plugin a l'air plutôt rapide. Son originalité consiste à afficher la légende de chaque image avec une animation. Je vous laisse vérifier par vous même les types d'animations de légendes disponibles.</p>\n<p>Ce plugin est disponible sous TYPO3 grâce à l'extension : <a href=\"http://typo3.org/extensions/repository/view/gra_s3slider/current/\">s3slider implementation for Typo3</a>.</p>\n"
+}

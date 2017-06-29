@@ -1,0 +1,48 @@
+---
+layout: post
+title: Cours IUT - environnement de développement
+date: 2015-04-15 15:45:10.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- formation
+tags:
+- configuration web
+meta:
+  _edit_last: '2'
+author:
+  login: bertrand
+  email: bertrand.keller@gmail.com
+  display_name: bertrand keller
+  first_name: bertrand
+  last_name: keller
+---
+<p>En arrivant, je présente le contexte.</p>
+<p>Vous arrivez dans une agence. C'est votre premier jour. On vous donne une machine vierge sur Linux. Votre premier projet commence demain. Vous devez installer votre environnement de développement qui vous permettra de développer votre premier maquette HTML/CSS.</p>
+<h2>Idée et contrainte</h2>
+<p>L'idée de cette session est de préparer les élèves à installer leur environnement de développement ; comprendre que la configuration de la machine est essentielle pour travailler avec l'équipe en place.</p>
+<p>Le choix est motivé par la décision d'enseigner Git et par l'impossibilité de pouvoir configurer leur machine à cause des droits administrateur. Je profite qu'ils disposent d'une machine virtuelle installée lors d'un autre cours.</p>
+<h2>Les conditions</h2>
+<p>L'exercice est collectif. Tout le monde a les points à condition que chacun ait répondu à l'exercice ; c'est-à-dire que chacun ait une page github.</p>
+<p>Le principe n'est pas banal et contraire aux préceptes de l'éducation nationale qui demande une évaluation individuelle. Seulement, le premier jour en entreprise, tout se joue sur sa faculté à lever les fesses de sa chaise et aller discuter avec les autres.</p>
+<p>Ils doivent se débrouiller seuls, je suis là pour les guider et répondre à leur question. Je ne donne pas de procédure.</p>
+<h2>L'installation</h2>
+<h3>Apache</h3>
+<p>Je leur demande d'installer Apache et de modifier leur répertoire de travail. L'exercice va se révéler complétement inutile puisque nous n'utiliserons pas Apache, mais il permet de comprendre la complexité de la chose.</p>
+<p>Dès cette phase, nous avons des élèves qui se soutiennent entre eux, et des élèves qui soutienne un peu le professeur, car il ne connait pas assez linux.</p>
+<h2>Ruby / Jekyll</h2>
+<p>Après avoir installé Apache, nous passons à Ruby / Jekyll. Les commandes ne sont pas les mêmes, il faut essayer d'expliquer ce qu'est Ruby et le principe des Gems. Il n'y a pas que PHP dans la vie.</p>
+<p>Les élèves comprennent bien le copier/collé. Ils y arrivent surtout quand ils copient sur les bons articles ; leur capacité de recherche ne sont pas toujours au point. Ils pratiquent le "je teste, je verrai bien" ; ce qui n'est pas une mauvaise chose.</p>
+<p>Les aptget sont plutôt faciles à faire sur Linux. On commence à essayer à mettre en place Jekyll. Mais, je découvre après recherches que l'installation de la dernière version n'est pas si évidente. Cela ne marche que si on installe une version dev de Ruby (documentée sur un article). Grosse panique derrière mes 14 élèves mais on peut dire que ça fait partie de l'exercice (on apprend en apprenant aux autres).</p>
+<p><em>C'est à peu près à se niveau, en fonction des classes, que la première partie du cours se termine. Il faut 3 heures pour arriver à avoir un Jekyll fonctionnel. Cet article décrit donc 6 heures d'ateliers</em></p>
+<h2>Jekyll et Git</h2>
+<p>Pour voir Jekyll est fonctionnel, on crée un petit fichier index.html et on lance le serveur. Rien de compliqué en soit mais avec 14 configurations différentes, il faut faire pas mal de pédagogie et de débuguage.</p>
+<p>On teste les commande Git.</p>
+<h2>Github Pages</h2>
+<p>Un des points phare du cours, la création de leur compte Github et la configuration d'un Github Pages pour la réalisation de leur éventuel portefolio professionnel.</p>
+<p>Un par un, je les aide à comprendre à se retrouver dans le tutoriel. Il faut créer le dépôt avec le nom approprié (penser au readme) et récupérer ce même dépôt sur leur machine.</p>
+<p>L'excercice n'est validé qu'à condition que je sois collaborateur de leur dépôt.</p>
+<h2>Conclusion</h2>
+<p>La première expérience de cet exercice donne pas mal de sueurs froides car on se lance dans un exercice dans lequel pas mal de paramètres ne sont pas maîtrisés. Ce qui m'a poussé à faire ça a été qu'ils disposent d'un compte Github, élément essentiel à la recherche de stages et d'emplois.</p>
+<p>Ça aura certainement été le cours le plus difficile à préparer ; seulement maintenant, je vais pouvoir enseigner le fonctionnement des "templates" et "moteurs de template" avec Jekyll.</p>
