@@ -64,6 +64,9 @@ plugins:
   - jekyll-assets
   - octopress-autoprefixer
 
+include:
+  - _redirects
+  
 exclude:
   - .cache
   - .editorconfig
