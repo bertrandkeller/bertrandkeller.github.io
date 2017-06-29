@@ -1,9 +1,13 @@
 {
+ "name": "bertrandkeller",
+ "short_name": "bk",
  "lang": "fr",
  "dir": "ltr",
  "name": "bk",
+ "display": "standalone",
  "background_color": "#000",
  "theme_color": "#000",
+ "start_url": "/",
  "icons": [
   {
    "src": "assets/favicon/android-icon-36x36.png",
@@ -41,5 +45,12 @@
    "type": "image\/png",
    "density": "4.0"
   }
- ]
+  {
+   "src": "assets/favicon/icon-512x512.png",
+   "sizes": "512x512",
+   "type": "image\/png",
+   "density": "4.0"
+  }
+ ],
+ "splash_pages": null
 }
