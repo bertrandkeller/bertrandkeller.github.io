@@ -262,6 +262,10 @@ navigation: true
   <br>
   <div class="gallery">
     <div class="gallery-module">
+        <h3><a href="https://www.service-public.fr/">Service-public.fr - Thymleaf - Java</a></h3>
+        <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-service-public.png"><img src="{{ site.baseurl }}/assets/bertrandkeller-service-public.png" alt="Service-public.fr" width="750" /></a>
+    </div>
+    <div class="gallery-module">
         <h3><a href="http://www.alterecoplus.fr/">Alterecoplus - Ipad & Android - Drupal</a></h3>
         <a class="venobox" href="{{ site.baseurl }}/assets/bertrand-keller-alterecoplus-hebdo.jpg"><img src="{{ site.baseurl }}/assets/bertrand-keller-alterecoplus-hebdo.jpg" alt="bertrand-keller-alterecoplus-hebdo" width="960" /></a>
     </div>
@@ -310,12 +314,8 @@ navigation: true
         <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-proximeetiz.jpg"><img src="{{ site.baseurl }}/assets/bertrandkeller-proximeetiz.jpg" alt="bertrandkeller-proximeetiz" width="750" /></a>
     </div>
     <div class="gallery-module">
-        <h3><a href="http://sagesfemmes-normandie.asso.fr/">Sages femmes libérales - Gdrive - Jekyll - Netlify</a></h3>
+        <h3><a href="http://sagesfemmes-normandie.fr/">Sages femmes libérales - Gdrive - Jekyll - Netlify</a></h3>
         <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-sages-femmes-liberales-haute-nomandie.png"><img src="{{ site.baseurl }}/assets/bertrandkeller-sages-femmes-liberales-haute-nomandie.png" alt="sages-femmes libérales de Normandie" width="750" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="https://www.service-public.fr/">Service Public - Thymleaf - Java</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-service-public.png"><img src="{{ site.baseurl }}/assets/bertrandkeller-service-public.png" alt="Service-public.fr" width="750" /></a>
     </div>
   </div>
 </section>
