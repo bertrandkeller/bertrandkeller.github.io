@@ -4,7 +4,10 @@ published: true
 --- 
 
 Je suis intervenu à la Kiwi Party le 3 juin 2016 à Strasbourg. L‘ambiance était très sympathique et l‘accueil chaleureux.
+
+<figure markdown="1">
 [![Agile pour petits projets](/assets/presentation-agile-pour-petits-projets.png)](http://bertrandkeller.github.io/Agile-pour-petits-projets/)
+</figure>
 
 L‘objectif de cette présentation est de montrer que la réalisation des pages/sites web sous la forme de prototypes un enjeu important. L‘idée est de pouvoir s‘adapter à son auditorat et monter en puissance en fonction des usages.‘
 
