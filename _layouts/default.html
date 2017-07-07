@@ -10,7 +10,10 @@
     <main id="main" role="main">
       {{ content }}
     </main>
-    <script>
+    <script src="/assets/js/instantclick.min.js" data-no-instant></script>
+    <script data-no-instant defer>
+      InstantClick.init();
+      {% if site.environment != 'development' %}
       if (navigator.serviceWorker) {
         navigator.serviceWorker.register('/sw.js').then(function(reg) {
             if (!reg.installing) return;
