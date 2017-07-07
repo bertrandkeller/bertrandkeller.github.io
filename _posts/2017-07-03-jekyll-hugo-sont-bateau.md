@@ -56,5 +56,3 @@ Ainsi passer à Hugo peut présenter certaines découvenues dans le cas où l'on
 Cet article montre que, parfois, il faut savoir utiliser des solutions hybrides pour avancer. 
 
 Si Jekyll, Hugo et tous les autres étaient donc dans un bateau et bien je pense qu'il faudrait savoir donner sa chance à chacun de ces petits outils car ils peuvent répondre rapidement à des besoins simples.
-
-

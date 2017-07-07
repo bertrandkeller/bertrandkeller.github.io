@@ -10,18 +10,7 @@
     <main id="main" role="main">
       {{ content }}
     </main>
-    <script src="/assets/js/instantclick.min.js" data-no-instant></script>
-    {% if site.environment != 'development' %}
-    <script src="//cdnjs.cloudflare.com/ajax/libs/UpUp/0.3.0/upup.min.js" data-no-instant></script>
-    {% endif %}
-    <script data-no-instant defer>
-      InstantClick.init();
-      {% if site.environment != 'development' %}
-      UpUp.start({
-        'content-url': '{{ page.url | prepend: site.url }}',
-        'assets': ['{{ site.url }}/assets/css/main.css'],
-        'service-worker-url': '/upup.sw.min.js'
-      });
+    <script>
       if (navigator.serviceWorker) {
         navigator.serviceWorker.register('/sw.js').then(function(reg) {
             if (!reg.installing) return;
