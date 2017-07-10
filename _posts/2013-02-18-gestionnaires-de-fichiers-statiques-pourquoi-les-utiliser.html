@@ -1,0 +1,45 @@
+---
+layout: post
+title: Générateurs de sites statiques - pourquoi les utiliser
+date: 2013-02-18 12:17:58.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- CSS + HTML
+tags:
+- configuration web
+meta:
+  _edit_last: '2'
+  _wpas_done_all: '1'
+author:
+  login: bertrand
+  email: bertrand.keller@gmail.com
+  display_name: bertrand keller
+  first_name: bertrand
+  last_name: keller
+---
+<p>Vous connaissez <a href="http://nanoc.ws">nanoc</a> ? Non ? Vous ne connaissez pas ? Bon, en fait on s'en fout ; <a href="http://nanoc.ws">nanoc</a> est un générateurs de sites statiques comme tant d'autres. Apparu en 2006, son site nous présente un historique et développe le pourquoi du comment du pourquoi un générateur de sites statiques ; je me propose de vous le traduire dans ce billet.</p>
+<h3>Comment est apparu nanoc</h3>
+<p>En 2006, son inventeur cherchait un moteur de blog en Ruby ; seulement comme il ne disposait que d'un serveur un peu lent avec peu de mémoire RAM, un site en Ruby ne pouvait pas tourner dessus. Sur les conseils d'un ami, il s'est donc lancé dans le développement de nanoc pour générer des pages à partir de fichiers Markdown ou ERB.</p>
+<h3>Pourquoi un générateurs de sites statiques ?</h3>
+<h4>Rapidité</h4>
+<p><strong>Les pages statiques sont ce qui a de plus simple à afficher sur un navigateur.</strong></p>
+<p>La principalement raison de coder nanoc fut de réduire la charge serveur afin d'améliorer le temps de chargement par un navigateur. Après tout, quoi de plus rapide qu'une page HTML statique. Beaucoup de CMS prennent trop de temps pour l'affichage. A chaque requête, ils ramènent des données provenant de la base de données et laissent un système de templating se charger de générer le gabarit final. Un système de cache peut se révéler utile mais n'est pas toujours spécialement performant.</p>
+<p>Avec un générateur de sites statiques, les fichiers à afficher sont déjà générés. L'affichage est donc amélioré de part la faible charge serveur et par un meilleur cache navigateur permis par les propriétés du header comme "last-modified".</p>
+<h4>Sécurisé</h4>
+<p><strong>Beaucoup plus sûr qu'un site dynamique.</strong></p>
+<p>Un générateur de sites statiques ne tourne pas sur un serveur à proprement dit, il n'y a donc aucune possibilité d'exploitation de failles systèmes&nbsp;; alors que beaucoup de CMS sont cibles d'attaques.</p>
+<p>Cette remarque est vraie tant que vous n'ajoutez pas de fichiers dynamiques à votre site. Tout dépend de l'usage que vous voulez en avoir.</p>
+<h4>Prévisible</h4>
+<p><strong>Certitude de la présence du contenu en production</strong></p>
+<p>Lorsque vous faites des changements sur un site en production (à travers une interface d'administration), il existe toujours une possibilité d'erreur : une requête erronée, une div mal fermée… Quelque soit la raison, le site sera momentanément indisponible.</p>
+<p>Comme le principe d'un générateur de sites statiques est de compiler le contenu d'un site sous forme de fichiers HTML ; il devient aisé de vérifier les modifications sous votre ordinateur (en local). La mise en ligne se réalisera ensuite par envoi des fichiers statiques sur le serveur de production.</p>
+<h4>Version de fichiers</h4>
+<p><strong>Le versionning des fichiers permet de stocker et échanger des fichiers en conservant une chronologie.</strong></p>
+<p>Le stockage d'un générateur de sites statiques étant réalisé à partir de fichiers (pas de base de données) ; cela signifie qu'il est très facile de les envoyer vers un dépôt de fichiers versionnés (Subversion, Mercurial, git, darcs, Bazaar, etc.).</p>
+<p>Ainsi, vos fichiers sont complétement sauvegardés sur ces dépôts ; il sera d'autant plus facile de revenir en arrière sur des versions, de les mettre à disposition de collaborateurs pour soit qu'il corrigent vos erreurs, soit qu'ils vous aident pour le développement.</p>
+<h3>Conclusion</h3>
+<p>Bien entendu, un générateur de sites statiques sert principalement à afficher du contenu brut. Pas besoin d'une camionnette pour aller faire vos courses à la supérette du coin, un bon chariot à roulettes fera l'affaire.</p>
+<p>Avec un chariot à roulettes pas besoin de place de parking, d'essence ou de révision. Un générateur de sites statiques reste un système de publication personnel souple et urbain.</p>
+<p>Lire <a href="http://nanoc.ws/about/">About nanoc</a>.</p>

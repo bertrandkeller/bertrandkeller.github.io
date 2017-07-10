@@ -1,7 +1,7 @@
 {
   "id": "/2009/10/26/la-couleur-de-la-pollution-par-david-wickstrom",
   "title": "La couleur de la pollution par David Wickström",
-  "url": "http://localhost:4000/2009/10/26/la-couleur-de-la-pollution-par-david-wickstrom/",
+  "url": "https://bertrandkeller.info/2009/10/26/la-couleur-de-la-pollution-par-david-wickstrom/",
   "date": 1256565695,
   "html": "<p>Pour David Wickström, la pollution c'est comme l'argent, ça n'a pas couleur. </p>\n<div class=\"center\"><a href=\"http://www.davidwickstrom.se/projects/pantone-co2/\" title=\"Pantone CO2 par David Wickström\"><img src=\"{{ site.baseurl }}/assets/couleur_pollution.jpg\" alt=\"couleur_pollution\" title=\"couleur_pollution\" width=\"535\" height=\"382\" class=\"aligncenter size-full wp-image-1402\" /></a></div>\n",
   "markdown": "<p>Pour David Wickström, la pollution c'est comme l'argent, ça n'a pas couleur. </p>\n<div class=\"center\"><a href=\"http://www.davidwickstrom.se/projects/pantone-co2/\" title=\"Pantone CO2 par David Wickström\"><img src=\"{{ site.baseurl }}/assets/couleur_pollution.jpg\" alt=\"couleur_pollution\" title=\"couleur_pollution\" width=\"535\" height=\"382\" class=\"aligncenter size-full wp-image-1402\" /></a></div>\n"

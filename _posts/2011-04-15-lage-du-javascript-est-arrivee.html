@@ -1,0 +1,41 @@
+---
+layout: post
+title: L'âge du JavaScript est arrivée
+date: 2011-04-15 12:18:43.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- intelligence économique
+tags:
+- interface
+- javascript
+- webdesign
+meta:
+  _edit_last: '2'
+  _wp_old_slug: age-du-javascript-est-arrivee
+author:
+  login: bertrand
+  email: bertrand.keller@gmail.com
+  display_name: bertrand keller
+  first_name: bertrand
+  last_name: keller
+---
+<p>Traduction de l'article de Mike Driscoll : <a href="http://metamarketsgroup.com/blog/node-js-and-the-javascript-age/">Node.js and the JavaScript age</a>.</p>
+<p>Il y a trois mois, nous avons décidé de refondre le FrameWork que nous utilisions pour notre tableau de bord ; tout à été refait du côté client grâce à node.js.</p>
+<p>Ce choix a été dirigé face après la constatation que la structure LAMP (Linux-Apache-MySQL-PHP) était morte. Depuis une vingtaine d'années que cette structure existe, beaucoup de virages ont déjà été réalisés concernant les contenus, les protocoles, les serveurs ou encore les clients.</p>
+<p><strong>Nous pouvons dégager, d'ailleurs, trois âges du web :</strong></p>
+<h3>1991-1999 : l'âge du HTML</h3>
+<p>La vision originale de Tim Berners-Lee du web fut celle d'une grande bibliothèque en ligne. Le web était défini comme un corpus de documents statiques, codés en dur, en grande partie formatés par le niveau de rendu des navigateurs clients.</p>
+<p>Pour résumer, nous avions des documents statiques disponibles pour des clients statiques. </p>
+<h3>2000-2009 : l'âge LAMP</h3>
+<p>La période LAMP fut très lié à celui des bases de données. La conception du web n'était plus orienté sur les documents, mais plutôt sur les principes LAMP, ou similaire. C'est-à-dire, une série de gabarit HTML intégrant des données provenant d'une base de données.</p>
+<p>Nous avions bien un contenu dynamique, mais toujours un client statique.</p>
+<h3>2010-?? : l'âge du JavasScript</h3>
+<p>Dans cette troisième décennie nous entrons dans l'ère du flux. La page web n'est plus une page. Le modèle basé sur l'objet document existe toujours, mais plus en tant que structure (fixe). Le DOM (arbre structurelle d'une page) est chargé dans la mémoire du navigateur et une partie de celui-ci peut être modifié à l'aide de JavaScript.</p>
+<p>L'architecture LAMP est morte en raison dans la mesure où, désormais, peu d'applications proposent d'actualiser l'ensemble d'un page en réponse à un événement (demande utilisateur minime) ; il suffit d'actualiser une partie du DOM grâce à JavaScript.</p>
+<p>Nous passons de l'âge du document (HTML), à celui de l'affichage d'un gabarit (LAMP), pour arriver à celui de l'envoie de données. Le rôle principal du server est de passer d'une application vers un client (JavaScript), en passant par un formatage de données (JSON), et insérer ce contenu dans le document, ou plutôt le DOM.</p>
+<p>Le deuxième rôle du serveur est d'être à l'écoute des événements côté client (édition, message…) et de renvoyer une réponse correspondante.</p>
+<p>Node.js correspond aux demandes qu'on peut faire à un serveur en 2010. Il est asynchrone et très rapide. Il utilise HTTP 1.1, garde les connections ouvertes, il peut gérer des centaines de connections.</p>
+<p>Les données deviennent de simples paquets, JSON semble s'imposer pour leur transfert. Il s'agit d'un format géré nativement par node.js.
+<p>Le JavaScript nous rapproche du web qui ne se résume plus à la grande bibliothèque numérique, mais plutôt à un système nerveux numérique. </p>

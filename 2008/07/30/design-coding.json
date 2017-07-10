@@ -1,7 +1,7 @@
 {
   "id": "/2008/07/30/design-coding",
   "title": "Design coding",
-  "url": "http://localhost:4000/2008/07/30/design-coding/",
+  "url": "https://bertrandkeller.info/2008/07/30/design-coding/",
   "date": 1217428995,
   "html": "<div class=\"center\"><object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/a0qMe7Z3EYg&amp;hl=en&amp;fs=1\" /><param name=\"allowFullScreen\" value=\"true\" /><embed src=\"http://www.youtube.com/v/a0qMe7Z3EYg&amp;hl=en&amp;fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\" />&lt;/embed&gt;</object></div>\n",
   "markdown": "<div class=\"center\"><object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/a0qMe7Z3EYg&hl=en&fs=1\" /><param name=\"allowFullScreen\" value=\"true\" /><embed src=\"http://www.youtube.com/v/a0qMe7Z3EYg&hl=en&fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\"></embed></object></div>\n"

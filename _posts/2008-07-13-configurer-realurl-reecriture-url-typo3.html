@@ -1,0 +1,35 @@
+---
+layout: post
+title: Configurer RealURL pour un site TYPO3
+date: 2008-07-13 11:35:06.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- typo3
+tags:
+- extensions
+- referencement
+- typo3
+meta:
+  btc_comment_summary: a:0:{}
+  btc_comment_counts: a:0:{}
+author:
+  login: bertrand
+  email: bertrand.keller@gmail.com
+  display_name: bertrand keller
+  first_name: bertrand
+  last_name: keller
+---
+<p>Configurer la réécriture d'URL sur son site apporte une meilleure visibilité sur les moteurs de recherche. Ces moteurs lisent les mots clefs contenus dans l'adresse pour établir leur classement ; un site sera souvent en début de liste pour une requête concernant les mots figurants dans son nom de domaine. De la même façon une page sera d'autant mieux classée sur une requête que son adresse comportera les mots clefs dans son adresse.</p>
+<p>Pour l'adresse http://www.monactivite.com/rubrique1/titre-de-la-page.html, la page correspondante sera en bonne position pour une requête concernant mon activité, la rubrique de la page et le titre de cette page. La première phase pour améliorer sa visibilité consiste donc à travailler l'arborescence de son site en établissement un rubricage cohérent et à choisir des titres de page évocateur de son contenu.</p>
+<p>Sur un site propulsé par TYPO3, il existe deux extensions permettant la réécriture d'URL : <a href="http://bertrandkeller.info/2008/05/19/tutoriel-d-installation-de-cooluri/">CoolURI</a> et RealURL ; RealURL est, à priori, la plus utilisée des deux ; nous parlerons de celle-ci dans ce billet.</p>
+<p>Depuis les dernières versions mise en ligne de RealURL, la configuration du plugin est facilité par un fichier d'autoconfiguration (realurl_autocong.php) qui permet d'obtenir la réécriture sans avoir à toucher la moindre ligne de code. Pour ceux qui désirent en savoir plus, ils devront s'intéresser aux fichiers : _.htaccess, typo3conf/localconf.php et typo3conf/conf_realurl.php.</p>
+<ul>
+<li><a href="http://typo3bloke.net/post-details/realurl_made_easy_part_1/">Dmitry Dulepov- RealURL facile : partie 1</a></li>
+<li><a href="http://typo3bloke.net/post-details/realurl_made_easy_part_2/">Dmitry Dulepov- RealURL facile : partie 2</a></li>
+<li><a href="http://www.wiki-oblady.com/index.php/Realurl">Oblady - Realurl</a></li>
+<li><a href="http://xavier.perseguers.ch/tutoriels/typo3/configuration/realurl.html">Xavier Perseguers - Configuration RealURL</a></li>
+<li><a href="http://typo3.org/documentation/document-library/extension-manuals/realurl/1.4.0/view/1/1/">TYPO3 - Manuel de RealURL</a></li>
+</ul>
+<p>Une fois la configuration réussie, les titres de la page contenus dans la balise "title" et la <a href="http://bertrandkeller.info/index.php?2008/06/06/171-afficher-nom-de-page-en-titre-typo3">balise "h1"</a> peuvent être modifiés pour améliorer encore la diversité des mots clefs lus par les moteurs.</p>
