@@ -12,30 +12,30 @@
     </main>
     <script>
       function pegasus(a,b,c){return c=new XMLHttpRequest,c.open("GET",a),a=[],c.timeout=pegasus.timeout||1e4,c.ontimeout=function(a){b=a},c.onreadystatechange=c.then=function(d,e,f,g){if(d&&d.call&&(a=[,d,e]),b&&a[2]&&a[2](b,c),4==c.readyState&&(f=a[0|c.status/200])){try{g=JSON.parse(c.responseText)}catch(a){g=null}f(g,c)}},c.send(),c}
-      var request = pegasus('/assets/js/instantclick.min.js');
+      var request = pegasus('{{ site.url }}/assets/js/instantclick.min.js');
     </script>
-    <script data-no-instant defer>
+    <script src="{{ site.url }}/assets/js/instantclick.min.js"></script>
+    <script data-no-instant>
       InstantClick.init();
       {% if site.environment != 'development' %}
-      if (navigator.serviceWorker) {
-        navigator.serviceWorker.register('/sw.js').then(function(reg) {
-            if (!reg.installing) return;
-            console.log("[*] ServiceWorker is installing...");
-      
-            var worker = reg.installing;
-      
-            worker.addEventListener('statechange', function() {
-                if (worker.state == 'redundant') {
-                    console.log('[*] Install failed');
-                }
-                if (worker.state == 'installed') {
-                    console.log('[*] Install successful!');
-                }
-            });
-        });
-      }
+        if (navigator.serviceWorker) {
+          navigator.serviceWorker.register('/sw.js').then(function(reg) {
+              if (!reg.installing) return;
+              console.log("[*] ServiceWorker is installing...");
+        
+              var worker = reg.installing;
+        
+              worker.addEventListener('statechange', function() {
+                  if (worker.state == 'redundant') {
+                      console.log('[*] Install failed');
+                  }
+                  if (worker.state == 'installed') {
+                      console.log('[*] Install successful!');
+                  }
+              });
+          });
+        }
       {% endif %}
-      
     </script>
   </body>
 </html>

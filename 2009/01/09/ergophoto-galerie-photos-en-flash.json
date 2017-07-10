@@ -1,8 +1,0 @@
-{
-  "id": "/2009/01/09/ergophoto-galerie-photos-en-flash",
-  "title": "Egophoto : galerie photos en flash",
-  "url": "https://bertrandkeller.info/2009/01/09/ergophoto-galerie-photos-en-flash/",
-  "date": 1231492980,
-  "html": "<p>Très belle galerie de photographies en flash. <a href=\"http://www.egofoto.net/site.html\">Egophoto.net</a> présente des images de gens des rues de pays comme Madagascar, le Maroc, la Turquie, l'Équateur...</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/Ergophoto_image_madagascar.jpg\" alt=\"image ergophoto\" /></div>\n<p>Un menu, apparaissant à l'activation de la barre d'espace, permet de sélectionner le thème des images qu'on souhaite voir. Une lightbox permet d'enregistrer des images pour créer son propre diaporama.</p>\n",
-  "markdown": "<p>Très belle galerie de photographies en flash. <a href=\"http://www.egofoto.net/site.html\">Egophoto.net</a> présente des images de gens des rues de pays comme Madagascar, le Maroc, la Turquie, l'Équateur...</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/Ergophoto_image_madagascar.jpg\" alt=\"image ergophoto\" /></div>\n<p>Un menu, apparaissant à l'activation de la barre d'espace, permet de sélectionner le thème des images qu'on souhaite voir. Une lightbox permet d'enregistrer des images pour créer son propre diaporama.</p>\n"
-}

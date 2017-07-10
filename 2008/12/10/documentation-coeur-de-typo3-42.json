@@ -1,8 +1,0 @@
-{
-  "id": "/2008/12/10/documentation-coeur-de-typo3-42",
-  "title": "Mise à jour des documentations du coeur de TYPO3 4.2",
-  "url": "https://bertrandkeller.info/2008/12/10/documentation-coeur-de-typo3-42/",
-  "date": 1228921270,
-  "html": "<p>Les Release of CoreDocs for TYPO3 4.2 ont été mises à jour au début de mois décembre 2008.</p>\n<ul>\n<li><a href=\"http://www.typo3.org/extensions/repository/view/doc_core_tsconfig/current/\">TSconfig</a> - ( doc_core_tsconfig )</li>\n<li><a href=\"http://www.typo3.org/extensions/repository/view/doc_core_tsref/current/\">TSref</a> - ( doc_core_tsref )</li>\n<li><a href=\"http://www.typo3.org/extensions/repository/view/doc_core_ts/current/\">TypoScript Syntax and In-depth Study</a> - ( doc_core_ts )</li>\n</ul>\n<p>Il faut cliquer sur le lien Read online pour accéder à ces documents. Ce lien redirige vers la section documentation/Core Documentation du site de TYPO3.</p>\n",
-  "markdown": "<p>Les Release of CoreDocs for TYPO3 4.2 ont été mises à jour au début de mois décembre 2008.</p>\n<ul>\n<li><a href=\"http://www.typo3.org/extensions/repository/view/doc_core_tsconfig/current/\">TSconfig</a> - ( doc_core_tsconfig )</li>\n<li><a href=\"http://www.typo3.org/extensions/repository/view/doc_core_tsref/current/\">TSref</a> - ( doc_core_tsref )</li>\n<li><a href=\"http://www.typo3.org/extensions/repository/view/doc_core_ts/current/\">TypoScript Syntax and In-depth Study</a> - ( doc_core_ts )</li>\n</ul>\n<p>Il faut cliquer sur le lien Read online pour accéder à ces documents. Ce lien redirige vers la section documentation/Core Documentation du site de TYPO3.</p>\n"
-}
