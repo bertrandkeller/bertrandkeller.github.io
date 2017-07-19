@@ -10,13 +10,18 @@
     <main id="main" role="main">
       {{ content }}
     </main>
+    <script src="https://cdn.jsdelivr.net/npm/fetch-inject"></script>
     <script>
-      function pegasus(a,b,c){return c=new XMLHttpRequest,c.open("GET",a),a=[],c.timeout=pegasus.timeout||1e4,c.ontimeout=function(a){b=a},c.onreadystatechange=c.then=function(d,e,f,g){if(d&&d.call&&(a=[,d,e]),b&&a[2]&&a[2](b,c),4==c.readyState&&(f=a[0|c.status/200])){try{g=JSON.parse(c.responseText)}catch(a){g=null}f(g,c)}},c.send(),c}
-      var request = pegasus('{{ site.url }}/assets/js/instantclick.min.js');
+    fetchInject([
+      '{{ "/assets/css/main.css" | prepend: site.url }}',
+      '{{ site.url }}/assets/js/instantclick.min.js'
+    ]).then(() => {
+        InstantClick.init();
+      })
     </script>
-    <script src="{{ site.url }}/assets/js/instantclick.min.js"></script>
+
+    <script src=""></script>
     <script data-no-instant>
-      InstantClick.init();
       {% if site.environment != 'development' %}
         if (navigator.serviceWorker) {
           navigator.serviceWorker.register('/sw.js').then(function(reg) {
