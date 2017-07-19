@@ -111,6 +111,7 @@ navigation: true
   .gallery img {
     margin: 0 auto;
     width: 100%;
+    height: 300px;
     max-height: 23em;
     object-fit: cover;
     border: 1px solid #ccc;
