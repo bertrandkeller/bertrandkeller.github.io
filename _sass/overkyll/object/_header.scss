@@ -13,19 +13,6 @@
   text-align: center;
   color: #fff;
   z-index: 0;
-  .wrapper {
-    @media #{$small-only} {
-      padding: 0;
-      max-width: 100%;
-    }
-  }
-  .wrapper--flex {
-    @media #{$medium-up} {
-      display: flex;
-      align-content: center;
-      align-items: center;
-    }
-  }
 }
 
 // Site header top :: logo and menu
