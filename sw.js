@@ -17,7 +17,7 @@ const filesToCache = [
   {% endfor %}
 
   // can be automated rather than manual entries
-  "/index.html"
+  //"/index.html"
 ];
 
 self.addEventListener("install", function(e){
