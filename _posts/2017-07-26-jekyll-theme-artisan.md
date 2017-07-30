@@ -11,8 +11,8 @@ Vous pouvez néanmoins essayer de l'installer pour corriger ce premier jet.
 
 ## Découverte du thème
 
-Le thème est consultable à l'adresse : [http://jekyll-for-craftman.netlify.com/fr/raku/bol-blanc/]
-Le thème est consultable à l'adresse : [https://github.com/bertrandkeller/jekyll-for-craftman]
+Le thème est consultable à l'adresse : (http://jekyll-for-craftman.netlify.com/)[http://jekyll-for-craftman.netlify.com/]
+Le thème est consultable à l'adresse : https://github.com/bertrandkeller/jekyll-for-craftman](https://github.com/bertrandkeller/jekyll-for-craftman)
 
 ## Le principe du thème
 
