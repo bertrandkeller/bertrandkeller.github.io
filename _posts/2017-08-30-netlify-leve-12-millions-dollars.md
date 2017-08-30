@@ -4,7 +4,7 @@ title: Netlify lève 12 millions de dollars
 
 L'entreprise américaine spécialisée dans l'hébergement et le déploiement de sites statiques vient de lever 12 millions de dollars.
 
-	> Netlify, a startup that’s building software tools to help drive the future of web development, announced today that it has raised $12 million in series A funding. 
+> Netlify, a startup that’s building software tools to help drive the future of web development, announced today that it has raised $12 million in series A funding. 
 
 Des entreprises comme [Mailchimp](https://mailchimp.com/), [Sequoia Capital](https://www.sequoiacap.com/) sont passées sur le modèle de la JAMStack.
 
