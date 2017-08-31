@@ -22,7 +22,7 @@ Une fois la base de contenus ciselée, il viendra enfin le temps de la monétisa
 
 ## Le marché Français à la ramasse ?
 
-Je ne fréquente pas les hautes sphère au quotidien, mais il ne semble pas que beaucoup de personnes sont encore en recherche de compétences spécifique dans ce domaine.
+Je ne fréquente pas les hautes sphères au quotidien, mais il ne semble pas que beaucoup de personnes sont encore en recherche de compétences spécifiques dans ce domaine.
 
 La partie éditorialisation serait-elle encore vue comme une partie triviale qui ne demande que peu d'intérêts ? Faut-il construire des systèmes imbitables avec des CMS extra compliqués pour justifier un poste dans le monde de l'informatique ?
 
