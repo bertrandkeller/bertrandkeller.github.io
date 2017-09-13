@@ -11,7 +11,7 @@ title: Pensées d'un écrivain numérique de sites web à Rouen
   </div>
 </div>
 
-<div class="wrapper"> 
+<div class="wrapper">  
 
   {% assign post = site.posts.first %}
   <section class="post">
@@ -46,3 +46,4 @@ title: Pensées d'un écrivain numérique de sites web à Rouen
     {% endif %}
   </div>
 </div>
+
