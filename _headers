@@ -1,0 +1,16 @@
+
+/*
+	Content-Security-Policy: frame-ancestors 'none'
+  X-Frame-Options: DENY
+	# Prevent browsers from incorrectly detecting non-scripts as scripts
+  X-Content-Type-Options: nosniff
+	# Don't load any resource type not explicitly enabled
+  # Disable plugins like Flash or Silverlight
+  # Load images, scripts, stylesheets and fonts from self
+  # Send reports to report-uri.io
+  Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; report-uri https://bertrandkeller.report-uri.io/r/default/csp/enforce;
+	
+	# Assets preload
+  Link: </assets/css/main.css>; rel=preload; as=stylesheet
+	Link: </assets/js/fetch-inject.js>; rel=preload; as=script
+  Link: </assets/js/instantclick.min.js>; rel=preload; as=script
