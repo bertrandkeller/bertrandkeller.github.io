@@ -8,7 +8,6 @@ end
 
 group :test do
     gem 'html-proofer'
-    gem 'jekyll-test'
 end
 
 group :jekyll_plugins do
