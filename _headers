@@ -8,7 +8,7 @@
     # Disable plugins like Flash or Silverlight
     # Load images, scripts, stylesheets and fonts from self
     # Report to report-uri.io
-    Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://api.github.com; font-src 'self'; worker-src 'self'; report-uri https://bertrandkeller.report-uri.io/r/default/csp/enforce;
+    Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://api.github.com; font-src 'self'; worker-src 'self'; report-uri https://bertrandkeller.report-uri.io/r/default/csp/enforce;
     # Allow service worker to access all site
     Service-Worker-Allowed: /
     # XSS 
