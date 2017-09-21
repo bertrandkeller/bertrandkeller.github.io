@@ -1,7 +1,7 @@
 ---
 layout: default
 title: L’offre
-description: Expert en stratégie web & sites Internet 
+description: Intégrateur - Expert en stratégie web & sites Internet à Rouen
 navigation: true
 ---
 

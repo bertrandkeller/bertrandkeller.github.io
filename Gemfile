@@ -1,17 +1,12 @@
 source 'https://rubygems.org'
-ruby "2.3.1"
-
-require 'json'
-require 'open-uri'
-
 
 group :development do
+    gem 'rake'
     gem 'foreman'
     gem 'octopress-autoprefixer'
 end
 
 group :test do
-    gem 'rake'
     gem 'html-proofer'
     gem 'jekyll-test'
 end
