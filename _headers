@@ -1,16 +1,25 @@
-
 /*
-	Content-Security-Policy: frame-ancestors 'none'
-  X-Frame-Options: DENY
-	# Prevent browsers from incorrectly detecting non-scripts as scripts
-  X-Content-Type-Options: nosniff
-	# Don't load any resource type not explicitly enabled
-  # Disable plugins like Flash or Silverlight
-  # Load images, scripts, stylesheets and fonts from self
-  # Send reports to report-uri.io
-  Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; report-uri https://bertrandkeller.report-uri.io/r/default/csp/enforce;
+    # Block site from being framed with X-Frame-Options and CSP
+    Content-Security-Policy: frame-ancestors 'none'
+    X-Frame-Options: DENY
+    # Prevent browsers from incorrectly detecting non-scripts as scripts
+    X-Content-Type-Options: nosniff
+    # Don't load any resource type not explicitly enabled
+    # Disable plugins like Flash or Silverlight
+    # Load images, scripts, stylesheets and fonts from self
+    # Report to report-uri.io
+    Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; worker-src 'self' report-uri https://bertrandkeller.report-uri.io/r/default/csp/enforce; connect-src 'self' https://api.github.com;
+    # Allow service worker to access all site
+    Service-Worker-Allowed: /
+    # XSS 
+    X-XSS-Protection:1; mode=block
+    X-Frame-Option:SAMEORIGIN
 	
-	# Assets preload
-  Link: </assets/css/main.css>; rel=preload; as=stylesheet
-	Link: </assets/js/fetch-inject.js>; rel=preload; as=script
-  Link: </assets/js/instantclick.min.js>; rel=preload; as=script
+# Assets preload
+/
+  Link: </assets/css/main.css> rel=preload as=stylesheet
+  Link: </assets/js/fetch-inject.js> rel=preload as=script
+  Link: </assets/js/instantclick.min.js> rel=preload as=script
+
+/assets/*
+  Cache-Control:public,max-age=360000
