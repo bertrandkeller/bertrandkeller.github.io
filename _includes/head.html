@@ -6,6 +6,9 @@
   <!-- SEO -->
   <title>{% if page.title %}{{ page.title }}{% endif %} | {% if page.description %}{{ page.description }} - {% endif %}{{ site.title }}</title>
   {% seo title=false %}
+  {% if page.type %}
+  <meta property="og:type" content="{{ page.type }}"/>
+  {% endif %}
 
   <!-- CSS -->
   <style type="text/css">

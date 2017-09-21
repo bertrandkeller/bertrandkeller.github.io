@@ -15,13 +15,15 @@ incremental: true
 profile: true
 encoding: utf-8
  
+
+ # seo-tag
+author: Bertrand Keller
+logo: /assets/bertrandkeller.png
 twitter:
   username: bertrandkeller
-
-author: bertrandkeller
-
 social:
   type: personn
+  name: Bertrand Keller
   links:
     - https://twitter.com/bertrandkeller
     - https://github.com/bertrandkeller
@@ -37,6 +39,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      image: "/assets/bertrandkeller.png"
+      publisher: Bertrand Keller
 
 # HTML Compression
 compress_html:

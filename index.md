@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Pensées d'un écrivain numérique de sites web à Rouen
+image: "/assets/bertrandkeller.png"
+type: website
 --- 
 
 <div class="exergue">

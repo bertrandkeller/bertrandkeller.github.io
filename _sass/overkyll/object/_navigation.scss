@@ -16,8 +16,8 @@ nav {
 
 .nav-main {
   @media #{$small-only} {
-    overflow-y: hidden !important;
-    height: 40px !important;
+    overflow-y: hidden;
+    height: 40px;
     border-top: 1px solid;
     border-bottom: 1px solid;
   }
@@ -30,7 +30,7 @@ nav {
     @media #{$small-only} {
       display: block;
       white-space: nowrap;
-      padding-bottom: 100px !important;
+      padding-bottom: 100px;
       overflow-y: hidden;
       overflow-x: auto;
     }
