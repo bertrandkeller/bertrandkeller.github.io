@@ -66,6 +66,7 @@ plugins:
 
 include:
   - _redirects
+  - _headers
   
 exclude:
   - .cache
