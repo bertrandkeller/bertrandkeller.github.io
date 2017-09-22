@@ -4,7 +4,7 @@ title: L’offre
 description: Intégrateur - Expert en stratégie web & sites Internet à Rouen
 navigation: true
 image: "/assets/bertrandkeller.png"
-type: website
+type: article
 ---
 
 <style>

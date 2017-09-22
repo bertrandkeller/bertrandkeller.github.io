@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Formations Jekyll ou goHugo et aux générateurs de site statique
+image: "/assets/bertrandkeller.png"
+type: article
 ---
 
 **Contacts**

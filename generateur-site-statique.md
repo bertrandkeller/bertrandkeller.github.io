@@ -2,6 +2,8 @@
 layout: page
 title: Les générateurs de site statique
 navigation: false
+image: "/assets/bertrandkeller.png"
+type: article
 ---
 
 Page sur mes articles à propos des générateurs de site statique.

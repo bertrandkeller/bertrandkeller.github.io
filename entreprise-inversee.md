@@ -2,6 +2,8 @@
 layout: page
 title: L’entreprise inversée
 navigation: false
+image: "/assets/bertrandkeller.png"
+type: article
 ---
 
 L’entreprise inversée est un concept inspiré par les principes de l’école inversée. 
