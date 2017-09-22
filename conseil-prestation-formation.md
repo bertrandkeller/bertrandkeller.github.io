@@ -3,6 +3,8 @@ layout: default
 title: L’offre
 description: Intégrateur - Expert en stratégie web & sites Internet à Rouen
 navigation: true
+image: "/assets/bertrandkeller.png"
+type: website
 ---
 
 <style>
@@ -209,7 +211,7 @@ navigation: true
 </section> -->
 <section id="id-presentation" class="panel">
   <h2>Présentations</h2>
-  <p>Présentations que j'ai pu donner lors de conférences francophones au 4 coins de France.</p>
+  <p>Présentations que j'ai pu donner lors de conférences francophones aux 4 coins de France.</p>
   <br>
   <div class="gallery">
     <div class="gallery-module">
