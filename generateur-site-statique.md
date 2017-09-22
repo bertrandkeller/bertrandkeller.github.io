@@ -25,7 +25,7 @@ Page sur mes articles à propos des générateurs de site statique.
 
 ## En particulier
 
-  - [La communauté Jekyll](2016/04/29/communaute-jekyll/)
+  - [La communauté Jekyll](/2016/04/29/communaute-jekyll/)
   - [Jekyll et Hugo sont dans un bateau](/2017/07/03/jekyll-hugo-sont-bateau/)
   - [Jekyll - Un thème pour artisans](/2017/07/26/jekyll-theme-artisan/)
 
