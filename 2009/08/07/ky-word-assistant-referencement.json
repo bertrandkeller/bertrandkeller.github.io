@@ -1,7 +1,7 @@
 {
   "id": "/2009/08/07/ky-word-assistant-referencement",
   "title": "Ky-Word : assistant référencement",
-  "url": "http://localhost:4000/2009/08/07/ky-word-assistant-referencement/",
+  "url": "https://bertrandkeller.info/2009/08/07/ky-word-assistant-referencement/",
   "date": 1249636793,
   "html": "<p>Ky-Word est un outil simple basé sur une méthode unique de construction de matrices d’expressions. Partant de votre propre définition de départ, il vous permet d’interroger les données statistiques de recherches les plus populaires ou liées à votre site pour affiner la formulation vers les mots clés qui vous apportent du trafic.</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/buzz2.jpg\" alt=\"ky-Word\" title=\"ky-Word\" width=\"505\" height=\"320\" class=\"aligncenter size-full wp-image-891\" /></div>\n<p>Voir le site <a href=\"http://www.ky-word.fr/\" title=\"Ky-Word\">Ky-Word</a></p>\n",
   "markdown": "<p>Ky-Word est un outil simple basé sur une méthode unique de construction de matrices d’expressions. Partant de votre propre définition de départ, il vous permet d’interroger les données statistiques de recherches les plus populaires ou liées à votre site pour affiner la formulation vers les mots clés qui vous apportent du trafic.</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/buzz2.jpg\" alt=\"ky-Word\" title=\"ky-Word\" width=\"505\" height=\"320\" class=\"aligncenter size-full wp-image-891\" /></div>\n<p>Voir le site <a href=\"http://www.ky-word.fr/\" title=\"Ky-Word\">Ky-Word</a></p>\n"

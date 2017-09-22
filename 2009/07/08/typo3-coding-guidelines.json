@@ -1,7 +1,7 @@
 {
   "id": "/2009/07/08/typo3-coding-guidelines",
   "title": "TYPO3 Coding Guidelines",
-  "url": "http://localhost:4000/2009/07/08/typo3-coding-guidelines/",
+  "url": "https://bertrandkeller.info/2009/07/08/typo3-coding-guidelines/",
   "date": 1247042547,
   "html": "<p>A l'adresse : <a href=\"http://typo3.org/documentation/document-library/core-documentation/doc_core_cgl/current/\" title=\"TYPO3 Coding Guidelines\">http://typo3.org/documentation/document-library/core-documentation/doc_core_cgl/current/</a>, consultez une documentation pour comprendre comment est codé le coeur de TYPO3 version 4.3.</p>\n<p>La communauté est en attente d'un autre guide plus spécifique aux extensions.</p>\n",
   "markdown": "<p>A l'adresse : <a href=\"http://typo3.org/documentation/document-library/core-documentation/doc_core_cgl/current/\" title=\"TYPO3 Coding Guidelines\">http://typo3.org/documentation/document-library/core-documentation/doc_core_cgl/current/</a>, consultez une documentation pour comprendre comment est codé le coeur de TYPO3 version 4.3.</p>\n<p>La communauté est en attente d'un autre guide plus spécifique aux extensions.</p>\n"
