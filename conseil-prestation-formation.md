@@ -216,7 +216,7 @@ type: article
   <div class="gallery">
     <div class="gallery-module">
         <h3><a href="http://frank.taillandier.me/presentations/ne-passons-pas-a-cote-des-choses-simples/">Ne passons pas à côté des choses simples - Présentation 2016 - Paris Web</a></h3>
-        <a href="https://http://frank.taillandier.me/presentations/ne-passons-pas-a-cote-des-choses-simples/"><img src="/assets/bertrandkeller-simple.png" alt="Ne passons pas à côté des choses simples - Présentation 2016 - Paris Web" /></a>
+        <a href="https://frank.taillandier.me/presentations/ne-passons-pas-a-cote-des-choses-simples/"><img src="/assets/bertrandkeller-simple.png" alt="Ne passons pas à côté des choses simples - Présentation 2016 - Paris Web" /></a>
     </div>
     <div class="gallery-module">
         <h3><a href="https://bertrandkeller.github.io/Agile-pour-petits-projets/">Agile pour petits projets - Présentation 2016 - Kiwi Party</a></h3>
