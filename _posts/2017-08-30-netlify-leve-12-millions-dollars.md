@@ -16,7 +16,7 @@ Pour développer de nouvelles activités, il est indispensable de s'orienter sur
 
 Cela nécessite de mettre en place une culture d'entreprise particulière et une maîtrise de l'éditorialisation élaborée.
 
-Les générateurs de site statiques sont la pierre angulaire de la construction du processus éditorial avec la modélisation de l'ensemble des contenus : communiqués, actualités, newsletter, fiches…
+Les [générateurs de site statique](/generateur-site-statique/) sont la pierre angulaire de la construction du processus éditorial avec la modélisation de l'ensemble des contenus : communiqués, actualités, newsletter, fiches…
 
 Une fois la base de contenus ciselée, il viendra enfin le temps de la monétisation et de l'ajout de fonctionnalités permettant la manipulation de ces mêmes contenus.
 

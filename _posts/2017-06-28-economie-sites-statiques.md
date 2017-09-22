@@ -2,7 +2,7 @@
 title: L'économie du statique
 ---
 
-Les sites statiques semblent très pratiques à l'usage, pourtant à l'usage j’éprouve quelques cafouillages dans la relation commerciale. Le changement de paradigme entre les CMS avec base de données et les générateurs de sites statiques n'est pas que technique.
+Les sites statiques semblent très pratiques à l'usage, pourtant à l'usage j’éprouve quelques cafouillages dans la relation commerciale. Le changement de paradigme entre les CMS avec base de données et les [générateurs de site statique](/generateur-site-statique/) n'est pas que technique.
 
 ## Le modèle de données
 

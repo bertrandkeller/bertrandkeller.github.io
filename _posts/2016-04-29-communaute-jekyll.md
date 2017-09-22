@@ -2,7 +2,7 @@
 title: La communauté Jekyll
 ---
 
-Récemment s'est lancé la communauté [Jekyll France](http://jekyll-fr.org/). Un petit groupe de discussion autour des évolutions de ce générateur de site statique.
+Récemment s'est lancé la communauté [Jekyll France](http://jekyll-fr.org/). Un petit groupe de discussion autour des évolutions de ce [générateur de site statique](/generateur-site-statique/).
 
 Étant le plus populaire, nous voyons un grand nombre d'évolutions arriver à chaque nouvelle mouture du système mais nous voyons aussi des modules permettant de brancher Jekyll avec des services tiers. Ces services sont du type éditeurs de contenu en ligne ou encore sites d'e-commerce.
 

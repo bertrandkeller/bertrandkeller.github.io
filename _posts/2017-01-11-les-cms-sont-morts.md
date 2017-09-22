@@ -13,7 +13,7 @@ Que ce soit à configurer sur sa machine pour les tests ou pour la gestion de la
 
 J’ai en ce début d’année nettoyé ma machine en supprimant des bases de données de sites en développement sur lesquels je n’intervenais plus. Résultat : quelques Go de gagné sur mon disque.
 
-Durant mes cours à l’IUT, j’ai continué à enseigné les générateurs de site statique à mes étudiants et aucune élément ne m’a limité dans les possibilités de Jekyll pour les inciter à l’utilisation d’un CMS.
+Durant mes cours à l’IUT, j’ai continué à enseigné les [générateurs de site statique](/generateur-site-statique/) à mes étudiants et aucune élément ne m’a limité dans les possibilités de Jekyll pour les inciter à l’utilisation d’un CMS.
 
 ## Les sites statiques sont le présent
 

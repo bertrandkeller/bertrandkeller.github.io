@@ -14,7 +14,7 @@ Vouloir suivre différents chevaux, pour être sur de trouver le bon, conduit in
 
 Bouger pour suivre ou survivre, se transformer pour exister… mais pourquoi ne simplement ne pas bouger et observer. Survivre c'est aussi savoir dépenser le moins d'énergie possible et attendre que les choses arrivent à soit. 
 
-Je pense donc que les générateurs de page statique restent un outil formidable pour promouvoir un web qui me semble bien moribond. Un web de publication de données qui apportent connaissances et partages à notre société.
+Je pense donc que les [générateurs de site statique](/generateur-site-statique/) restent un outil formidable pour promouvoir un web qui me semble bien moribond. Un web de publication de données qui apportent connaissances et partages à notre société.
 
 Pendant que des frameworks JS se tirent la bourre pour la création d'applications dans le navigateur, je trace mon bonhomme de chemin en créant directement avec des clients des nouveaux processus éditoriaux.
 
