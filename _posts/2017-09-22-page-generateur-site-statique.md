@@ -2,7 +2,7 @@
 title: Liste de mes articles sur les générateurs de site statique
 ---
 
-Je devrais certainement écrire plus d'articles sur les genérateurs de sites statique, faire des liens vers plus de ressources ou présenter quelques petits articles de démonstration.
+Je devrais certainement écrire plus d'articles sur les genérateurs de site statique, faire des liens vers plus de ressources ou présenter quelques petits articles de démonstration.
 
 Ce n'est pas chose évidente tant les utilisations sont disparates. Mais, il doti être possible de mieux faire.
 

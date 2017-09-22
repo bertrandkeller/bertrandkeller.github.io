@@ -8,7 +8,6 @@ type: article
 
 L’entreprise inversée est un concept inspiré par les principes de l’école inversée. 
 
-
 ## Le concept
 
 L'école inversée c'est le fait de suivre des cours en dehors de heure de cours et de les mettre en pratique pendant les cours avec les professeurs.
