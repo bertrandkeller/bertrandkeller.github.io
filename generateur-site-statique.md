@@ -20,8 +20,8 @@ Page sur mes articles à propos des générateurs de site statique.
   - [La métastabilité](/2014/03/04/la-metastabilite/)
   - [Mon processus d'édition](/2016/03/31/processus-edition/)
   - [Les générateurs de site statique, remèdes contre la complexité](/2016/09/15/Jekyll-remede-complexite/)
-  - [L'économie du statique](/2017/06/28/economie-sites-statiques/)
   - [2017, les CMS sont morts](/2017/01/11/les-cms-sont-morts/)
+  - [L'économie du statique](/2017/06/28/economie-sites-statiques/)
 
 ## En particulier
 
@@ -34,6 +34,7 @@ Page sur mes articles à propos des générateurs de site statique.
   - [Agile pour petits projets - Kiwi Party](https://bertrandkeller.github.io/Agile-pour-petits-projets/)
   - [Ne passons pas à côté des choses simples Paris Web 2016](/2016/10/04/ne-passons-pas-cote-choses-simples/)
   - [Atelier sur les GSS à Paris Web 2017](/2017/06/25/conference-paris-web-2017/)
+  - [Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…) à Paris Web 2018](https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/)
   
   
   
