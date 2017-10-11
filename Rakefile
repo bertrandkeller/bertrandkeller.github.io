@@ -1,6 +1,3 @@
-require 'jekyll/test/tasks'
-task default: "jekyll:check"
-
 task :build => ["build:prod"]
 namespace :build do
 

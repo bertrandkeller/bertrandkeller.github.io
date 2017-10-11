@@ -22,7 +22,7 @@ Simple, non pas au sens de simpliste, mais simple au sens facile à mettre en œ
 
 Sur le web, pour afficher une simple page web. Inutile de connaître le moindre système technique ; il suffit de copier un peu de code HTML dans un fichier et de le mettre sur un serveur. 
 
-De même pour afficher un site "carte de visite" ou un simple blog ; inutile de mettre en place un serveur avec une base de données, le tout piloté par un CMS. L'utilisation d'un [/generateur-site-statique/](générateur de site statique) peut amplement suffire.
+De même pour afficher un site "carte de visite" ou un simple blog ; inutile de mettre en place un serveur avec une base de données, le tout piloté par un CMS. L'utilisation d'un [générateur de site statique](/generateur-site-statique/) peut amplement suffire.
 
 Votre choix doit être dicté par un rapport entre le temps d'installation et de maintenance divisé par la fréquence/volume de publication. Dans 80% des cas, comme ce qui pêche se situant au niveau du contenu, le générateurs de site statique sera en bonne position dans votre liste de solutions possibles.
 
