@@ -2,7 +2,7 @@
 title: Git-based ou API-driven CMS 
 ---
 
-Conférence de Chris Macrae de [forestry.io](http://forestry.io) qui tente bien de vendre le principe des [générateur de site statique](/generateur-site-statique/) afin de valoriser son produit.
+Conférence de Chris Macrae de [forestry.io](http://forestry.io) qui tente bien de vendre le principe des [générateurs de site statique](/generateur-site-statique/) afin de valoriser son produit.
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KX4G49ZrvY0?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
