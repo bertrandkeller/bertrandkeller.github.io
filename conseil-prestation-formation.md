@@ -253,7 +253,7 @@ type: article
         <a href="{{ site.baseurl }}/assets/bertrandkeller-mesure-emoi.jpg"><img src="{{ site.baseurl }}/assets/bertrandkeller-mesure-emoi.jpg" alt="bertrandkeller-mesure-emoi" width="750" /></a>
     </div>
     <div class="gallery-module">
-        <h3><a href="http://vimeo.com/51941103">Intégrateur lève toi et conçois - Présentation - Sud-Web 2012</a></h3>
+        <h3><a href="https://vimeo.com/51941103">Intégrateur lève toi et conçois - Présentation - Sud-Web 2012</a></h3>
         <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-integrateur-leve-toi-et-concois.jpg"><img src="{{ site.baseurl }}/assets/bertrandkeller-integrateur-leve-toi-et-concois.jpg" alt="bertrandkeller-integrateur-leve-toi-et-concois" width="960" /></a>
     </div>
   </div>
