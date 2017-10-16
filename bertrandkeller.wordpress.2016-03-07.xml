@@ -49368,7 +49368,7 @@ https://speakerdeck.com/nathansmith/rapid-templating-with-serve
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_oembed_1cf44bafee2efc9dcc57ace1f8b5fdc8</wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="438" id="talk_frame_33692" mozallowfullscreen="true" src="//speakerdeck.com/player/09af48404f190130977322000a1f866f" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="500"></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="438" id="talk_frame_33692" mozallowfullscreen="true" src="https://speakerdeck.com/player/09af48404f190130977322000a1f866f" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="500"></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
