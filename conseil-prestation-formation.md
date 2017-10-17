@@ -1,7 +1,7 @@
 ---
 layout: default
 title: L’offre
-description: Intégrateur - Expert en stratégie web & sites Internet à Rouen
+description: Intégrateur Drupal & Jekyll & Hugo - Expert en stratégie web & sites Internet à Rouen
 navigation: true
 image: "/assets/bertrandkeller.png"
 type: article
@@ -214,6 +214,10 @@ type: article
   <p>Présentations que j'ai pu donner lors de conférences francophones aux 4 coins de France.</p>
   <br>
   <div class="gallery">
+    <div class="gallery-module">
+        <h3><a href="https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/">Atelier Paris Web - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)</a></h3>
+        <a href="https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/"><img src="/assets/atelier-generateur-site-statique-paris-web.png" alt="Atelier Paris Web - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)" /></a>
+    </div>
     <div class="gallery-module">
         <h3><a href="http://frank.taillandier.me/presentations/ne-passons-pas-a-cote-des-choses-simples/">Ne passons pas à côté des choses simples - Présentation 2016 - Paris Web</a></h3>
         <a href="https://frank.taillandier.me/presentations/ne-passons-pas-a-cote-des-choses-simples/"><img src="/assets/bertrandkeller-simple.png" alt="Ne passons pas à côté des choses simples - Présentation 2016 - Paris Web" /></a>
