@@ -18,10 +18,10 @@ navigation: true
   {% endif %}
   <li class="posts-archive__links"><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% assign date = currentdate %}
-  {% if forloop.last %}
+  {% if forloop.last %} 
   </ul><!--/posts-archive-last-->
   {% endif %}
 {% endfor %}
 </div><!--/posts-->
 
-{% include archiveslist.html %}
+{% include_cached archiveslist.html %}

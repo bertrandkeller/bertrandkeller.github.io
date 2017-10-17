@@ -67,6 +67,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-assets
   - octopress-autoprefixer
+  - jekyll-include-cache
 
 include:
   - _redirects

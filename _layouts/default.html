@@ -1,14 +1,11 @@
----
-layout: compress
----
 <!DOCTYPE html>
 <html lang="fr">
 
-  {% include head.html %}
+  {% include_cached head.html %}
 
   <body class="page" itemscope itemtype="http://schema.org/WebPage">
 
-    {% include header.html %}
+    {% include_cached header.html %}
 
     <main id="main" role="main">
       {{ content }}
@@ -22,9 +19,8 @@ layout: compress
         InstantClick.init();
       })
     </script>
-
+    {% if site.environment != 'development' %}
     <script data-no-instant>
-      {% if site.environment != 'development' %}
         if (navigator.serviceWorker) {
           navigator.serviceWorker.register('/sw.js', {
               scope: '/'
@@ -35,7 +31,7 @@ layout: compress
               }
           });
         }
-      {% endif %}
     </script>
+    {% endif %}
   </body>
 </html>

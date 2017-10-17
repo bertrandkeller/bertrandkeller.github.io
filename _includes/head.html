@@ -13,12 +13,12 @@
   <!-- CSS -->
   <style type="text/css">
     {% capture include_to_scssify %}
-      {% include base.scss %}
+      {% include_cached base.scss %}
     {% endcapture %}
     {{ include_to_scssify | scssify }}
   </style>
   <script data-no-instant>
-    {% include localfont.js %}
+    {% include_cached localfont.js %}
   </script>
   <noscript><link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?v={{site.time | date: '%Y%m%d%H%M%S'}}"></noscript>
 
@@ -28,5 +28,5 @@
   <meta name="google-site-verification" content="TLPgjqS26dGLPiEz9QUF3u5uaTQnvQRAc3HoaRvC_S8" />
 
   <!-- Favicons -->
-  {% include favicons.html %}
+  {% include_cached favicons.html %}
 </head>
