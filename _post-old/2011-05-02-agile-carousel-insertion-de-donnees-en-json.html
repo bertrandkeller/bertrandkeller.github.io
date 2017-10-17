@@ -20,7 +20,7 @@ author:
   last_name: keller
 ---
 <p>Agile Carousel est une librairie jQuery permettant de présenter des images et leurs légendes sous forme d'un diaporama, comme beaucoup d'autres librairies de diaporama ; à la différence qu'Agile carousel permet d'insérer des données en JSON.</p>
-<div class="center"><a href="http://www.agilecarousel.com/#examples"><img src="{{ site.baseurl }}/assets/Agile-carousel.png" alt="" title="Agile-carousel" width="484" height="235" class="aligncenter size-full wp-image-2751" /></a></div>
+<div class="aspectratio" data-ratio="4/3"><a href="http://www.agilecarousel.com/#examples"><img src="{{ site.baseurl }}/assets/Agile-carousel.png" alt="" title="Agile-carousel" width="484" height="235" class="aligncenter size-full wp-image-2751" /></a></div>
 <p>Question fonctionnalités, Agile Carousel est bien fourni : play/pause, pagination, transitions multiples, retardateur... mais personnellement je n'aime pas beaucoup comment il fonctionne.</p>
 <p>Tout d'abord, l'insertion de données à l'aide JSON peut se révéler intéressante pour récupérer des données extérieures, mais ces données ne font pas partie du document à son chargement ; elles sont ajoutées en JavaScript. Ainsi, si l'utilisateur n'active pas JavaScript, les données sont inexistantes, on n'a donc que des divisions ou zones vides.</p>
 <p>Ensuite, la librairie oblige à définir les tailles du diaporama dans la configuration JavaScript. Ce que je trouve très contraignant au niveau de la maintenance. On mélange à la fois la configuration fonctionnelle du diaporama et ses dimensions. Ce genre de fonctionnement n'est pas pour faciliter le travail de l'intégrateur.</p>

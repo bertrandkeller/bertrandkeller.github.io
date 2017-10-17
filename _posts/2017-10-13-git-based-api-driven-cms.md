@@ -4,11 +4,11 @@ title: Git-based ou API-driven CMS
 
 Conférence de Chris Macrae de [forestry.io](http://forestry.io) qui tente bien de vendre le principe des [générateurs de site statique](/generateur-site-statique/) afin de valoriser son produit.
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KX4G49ZrvY0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="aspectratio" data-ratio="4/3"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KX4G49ZrvY0?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Forestry
 
-Chris Macrae est cofondateur de [forestry.io](http://forestry.io). Forestry.io est un système édition de Markdown. Il est d'ailleurs le seul à se connecter à Gitlab et Github et à permettre l'édition de Jekyll et de Hugo (Ils sont forts).
+Chris Macrae est cofondateur de [forestry.io](http://forestry.io). Forestry.io est un système édition de Markdown. Il est d'ailleurs le seul à se connecter à Gitlab et Github et à permettre l’édition de Jekyll et de Hugo (Ils sont forts).
 
 Pour le moment Forestry.io souffre encore de pêchés de jeunesse, mais l'interface s'améliore grandement. Depuis un an, un grand chemin a été parcouru.
 
