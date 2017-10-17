@@ -27,11 +27,15 @@ author:
  Il est impératif de séparer les constants et le setup car les fichiers ne seront pas appelés depuis le même endroit. Ces fichiers seront rangés dans un répertoire judicieusement choisi du genre : fileadmin/typoscript/</p>
 <p> Ensuite dans le template général du site (TS config), inscrire l'appel aux fichiers par la commande INCLUDE_TYPOSCRIPT (opération indentique pour le TSuser et TSpage).</p>
 <p> <strong>CONSTANT :</strong> <br />
- <code>< INCLUDE_TYPOSCRIPT: source="FILE: fileadmin/typoscript/constant.ts" ></code> </p>
+ ```
+< INCLUDE_TYPOSCRIPT: source="FILE: fileadmin/typoscript/constant.ts" >
+```
+
 <p> Des constantes, sortir des fichiers celles propres à une plate-forme du style "site.baseURL = http://dev-www.monsite.fr".</p>
 <p> <strong>SETUP :</strong> <br />
- <code> < INCLUDE_TYPOSCRIPT: source="FILE: fileadmin/typoscript/nav_header.ts" ><br />
- < INCLUDE_TYPOSCRIPT: source="FILE: fileadmin/typoscript/nav_footer.ts" ><br />
- < INCLUDE_TYPOSCRIPT: source="FILE: fileadmin/typoscript/newsletter.ts" ><br />
- </code> ...</p>
+``` 
+< INCLUDE_TYPOSCRIPT: source="FILE: fileadmin/typoscript/nav_header.ts" >
+< INCLUDE_TYPOSCRIPT: source="FILE: fileadmin/typoscript/nav_footer.ts" >
+< INCLUDE_TYPOSCRIPT: source="FILE: fileadmin/typoscript/newsletter.ts" >
+```
 <p> Désormais, coder en typoscript devient un vrai bonheur en passant par le FTP, par exemple, contrôler la modification de configuration entre deux versions peut se faire, le retour à une version antérieure de site aussi. Pour accélérer encore le procès, injecter <code>page.config.no_cache = 1</code> pour ne pas avoir à supprimer le cache du site à chaque modification ; le passer à 0 une fois terminé.</p>
