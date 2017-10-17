@@ -47,14 +47,12 @@ figcaption {
 // -------------------------
 
 
-iframe {
+iframe,
+embed,
+object,
+video {
   max-width: 100%;
 }
-
-// For Aspect Ratio, read
-// https://www.bram.us/2017/06/16/aspect-ratios-in-css-are-a-hack/
-// https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_responsive-embed.scss
-
 
 // Links
 // -------------------------
