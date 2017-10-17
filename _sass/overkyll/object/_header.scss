@@ -11,7 +11,7 @@
   margin-bottom: $base-line*2;
   padding: 0 1em;
   text-align: center;
-  color: #fff;
+  color: #000;
   z-index: 0;
 }
 
@@ -32,6 +32,7 @@
 // Site header hero :: class on general container for hero header
 .site-header-hero {
   padding: 0;
+  color: #fff;
   background-size: cover;
   background-position: center center;
   background-color: $color-grey;
