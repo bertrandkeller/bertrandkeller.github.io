@@ -1,8 +1,48 @@
 {
-  "id": "/2009/04/08/une-nouvelle-relation-utilisateur-consommateur-commerce",
-  "title": "Une nouvelle relation avec l’utilisateur/consommateur",
-  "url": "https://bertrandkeller.info/2009/04/08/une-nouvelle-relation-utilisateur-consommateur-commerce/",
-  "date": 1239183492,
-  "html": "<p>Jean-Paul la relation avec le client a changé. Oui, je sais, toi, tu es toujours le même. Pourtant, il faut se rendre à l'évidence. Le client n'est pas un consommateur, c'est un utilisateur.</p>\n<p>Comme nous le rappelle Muriel dans <a href=\"http://www.ecrirepourleweb.com/architecture/trop-pres-du-web-trop-loin-de-lutilisateur\">Trop près de l’outil, trop loin de l’utilisateur?</a>.</p>\n<blockquote cite=\"http://www.ecrirepourleweb.com/architecture/trop-pres-du-web-trop-loin-de-lutilisateur\"><p>Le Web a changé les fondamentaux de la relation entre le consommateur (l’utilisateur) et l’organisation : ce n’est pas le Web qui crée des besoins, c’est l’utilisateur qui les impose. Bref, si vous voulez être efficace, vous devez placer les besoins sans cesse changeants de l’utilisateur au centre de vos objectifs. Et donc, éviter de créer pour le plaisir de créer. Cela implique de chercher l’interaction avec les utilisateurs. Chaque jour, vous devez trouver un moyen d’être en relation avec eux.</p>\n</blockquote>\n<p>Plus encore, Jean-Paul, je sais c'est dur, le marketing n'est plus le même. Fini, les campagnes de mails de masse, les utilisateurs ne croient plus en ce discours. Il va falloir discuter et travailler sur le produit plus que sur son image.</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/marketing-jean-paul.jpg\" alt=\"Jean paul apprend le marketing\" /></div>\n<blockquote cite=\"http://blog.kinoa.com/2009/04/02/marketing-de-lintrusion-vs-marketing-de-la-permission/\"><p>Trop exposé, le consommateur est devenu de plus en plus imperméable à ces techniques marketing. Au final, le marketing traditionnel finit souvent par engendrer l’anxiété et défiance</p>\n</blockquote>\n<p><a href=\"http://blog.kinoa.com/2009/04/02/marketing-de-lintrusion-vs-marketing-de-la-permission/\">Marketing de l’intrusion VS marketing de la permission</a>, ils appellent ça comme ça chez Kinoa. Je sais, tu connais, tu as lu un article dans un magazine, seulement cette orientation oblige à revoir les processus internes de ton équipe sur le long terme. Mettre en ligne un blog ne suffira pas, si tu n'as pas développé une vraie culture de l'édition web en interne.</p>\n<p>Tout n'est pas perdu, mais il va falloir changer et vite.</p>\n",
-  "markdown": "<p>Jean-Paul la relation avec le client a changé. Oui, je sais, toi, tu es toujours le même. Pourtant, il faut se rendre à l'évidence. Le client n'est pas un consommateur, c'est un utilisateur.</p>\n<p>Comme nous le rappelle Muriel dans <a href=\"http://www.ecrirepourleweb.com/architecture/trop-pres-du-web-trop-loin-de-lutilisateur\">Trop près de l’outil, trop loin de l’utilisateur?</a>.</p>\n<blockquote cite=\"http://www.ecrirepourleweb.com/architecture/trop-pres-du-web-trop-loin-de-lutilisateur\"><p>Le Web a changé les fondamentaux de la relation entre le consommateur (l’utilisateur) et l’organisation : ce n’est pas le Web qui crée des besoins, c’est l’utilisateur qui les impose. Bref, si vous voulez être efficace, vous devez placer les besoins sans cesse changeants de l’utilisateur au centre de vos objectifs. Et donc, éviter de créer pour le plaisir de créer. Cela implique de chercher l’interaction avec les utilisateurs. Chaque jour, vous devez trouver un moyen d’être en relation avec eux.</p>\n</blockquote>\n<p>Plus encore, Jean-Paul, je sais c'est dur, le marketing n'est plus le même. Fini, les campagnes de mails de masse, les utilisateurs ne croient plus en ce discours. Il va falloir discuter et travailler sur le produit plus que sur son image.</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/marketing-jean-paul.jpg\" alt=\"Jean paul apprend le marketing\" /></div>\n<blockquote cite=\"http://blog.kinoa.com/2009/04/02/marketing-de-lintrusion-vs-marketing-de-la-permission/\"><p>Trop exposé, le consommateur est devenu de plus en plus imperméable à ces techniques marketing. Au final, le marketing traditionnel finit souvent par engendrer l’anxiété et défiance</p>\n</blockquote>\n<p><a href=\"http://blog.kinoa.com/2009/04/02/marketing-de-lintrusion-vs-marketing-de-la-permission/\">Marketing de l’intrusion VS marketing de la permission</a>, ils appellent ça comme ça chez Kinoa. Je sais, tu connais, tu as lu un article dans un magazine, seulement cette orientation oblige à revoir les processus internes de ton équipe sur le long terme. Mettre en ligne un blog ne suffira pas, si tu n'as pas développé une vraie culture de l'édition web en interne.</p>\n<p>Tout n'est pas perdu, mais il va falloir changer et vite.</p>\n"
+"id": "/2009/04/08/une-nouvelle-relation-utilisateur-consommateur-commerce",
+"title": "Une nouvelle relation avec l’utilisateur/consommateur",
+"url": "https://bertrandkeller.info/2009/04/08/une-nouvelle-relation-utilisateur-consommateur-commerce/",
+"date": 1239183492,
+"html": "
+<p>Jean-Paul la relation avec le client a changé. Oui, je sais, toi, tu es toujours le même. Pourtant, il faut se rendre à l'évidence. Le client n'est pas un consommateur, c'est un utilisateur.</p>
+\n
+<p>Comme nous le rappelle Muriel dans <a href=\"http://www.ecrirepourleweb.com/architecture/trop-pres-du-web-trop-loin-de-lutilisateur\">Trop près de l’outil, trop loin de l’utilisateur?</a>.</p>
+\n
+<blockquote cite=\"http://www.ecrirepourleweb.com/architecture/trop-pres-du-web-trop-loin-de-lutilisateur\">
+  <p>Le Web a changé les fondamentaux de la relation entre le consommateur (l’utilisateur) et l’organisation : ce n’est pas le Web qui crée des besoins, c’est l’utilisateur qui les impose. Bref, si vous voulez être efficace, vous devez placer les besoins sans cesse changeants de l’utilisateur au centre de vos objectifs. Et donc, éviter de créer pour le plaisir de créer. Cela implique de chercher l’interaction avec les utilisateurs. Chaque jour, vous devez trouver un moyen d’être en relation avec eux.</p>
+  \n</blockquote>
+\n
+<p>Plus encore, Jean-Paul, je sais c'est dur, le marketing n'est plus le même. Fini, les campagnes de mails de masse, les utilisateurs ne croient plus en ce discours. Il va falloir discuter et travailler sur le produit plus que sur son image.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/marketing-jean-paul.jpg\" alt=\"Jean paul apprend le marketing\" /></div>
+\n
+<blockquote cite=\"http://blog.kinoa.com/2009/04/02/marketing-de-lintrusion-vs-marketing-de-la-permission/\">
+  <p>Trop exposé, le consommateur est devenu de plus en plus imperméable à ces techniques marketing. Au final, le marketing traditionnel finit souvent par engendrer l’anxiété et défiance</p>
+  \n</blockquote>
+\n
+<p><a href=\"http://blog.kinoa.com/2009/04/02/marketing-de-lintrusion-vs-marketing-de-la-permission/\">Marketing de l’intrusion VS marketing de la permission</a>, ils appellent ça comme ça chez Kinoa. Je sais, tu connais, tu as lu un article dans un magazine, seulement cette orientation oblige à revoir les processus internes de ton équipe sur le long terme. Mettre en ligne un blog ne suffira pas, si tu n'as pas développé une vraie culture de l'édition web en interne.</p>
+\n
+<p>Tout n'est pas perdu, mais il va falloir changer et vite.</p>
+\n",
+"markdown": "
+<p>Jean-Paul la relation avec le client a changé. Oui, je sais, toi, tu es toujours le même. Pourtant, il faut se rendre à l'évidence. Le client n'est pas un consommateur, c'est un utilisateur.</p>
+\n
+<p>Comme nous le rappelle Muriel dans <a href=\"http://www.ecrirepourleweb.com/architecture/trop-pres-du-web-trop-loin-de-lutilisateur\">Trop près de l’outil, trop loin de l’utilisateur?</a>.</p>
+\n
+<blockquote cite=\"http://www.ecrirepourleweb.com/architecture/trop-pres-du-web-trop-loin-de-lutilisateur\">
+  <p>Le Web a changé les fondamentaux de la relation entre le consommateur (l’utilisateur) et l’organisation : ce n’est pas le Web qui crée des besoins, c’est l’utilisateur qui les impose. Bref, si vous voulez être efficace, vous devez placer les besoins sans cesse changeants de l’utilisateur au centre de vos objectifs. Et donc, éviter de créer pour le plaisir de créer. Cela implique de chercher l’interaction avec les utilisateurs. Chaque jour, vous devez trouver un moyen d’être en relation avec eux.</p>
+  \n</blockquote>
+\n
+<p>Plus encore, Jean-Paul, je sais c'est dur, le marketing n'est plus le même. Fini, les campagnes de mails de masse, les utilisateurs ne croient plus en ce discours. Il va falloir discuter et travailler sur le produit plus que sur son image.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/marketing-jean-paul.jpg\" alt=\"Jean paul apprend le marketing\" /></div>
+\n
+<blockquote cite=\"http://blog.kinoa.com/2009/04/02/marketing-de-lintrusion-vs-marketing-de-la-permission/\">
+  <p>Trop exposé, le consommateur est devenu de plus en plus imperméable à ces techniques marketing. Au final, le marketing traditionnel finit souvent par engendrer l’anxiété et défiance</p>
+  \n</blockquote>
+\n
+<p><a href=\"http://blog.kinoa.com/2009/04/02/marketing-de-lintrusion-vs-marketing-de-la-permission/\">Marketing de l’intrusion VS marketing de la permission</a>, ils appellent ça comme ça chez Kinoa. Je sais, tu connais, tu as lu un article dans un magazine, seulement cette orientation oblige à revoir les processus internes de ton équipe sur le long terme. Mettre en ligne un blog ne suffira pas, si tu n'as pas développé une vraie culture de l'édition web en interne.</p>
+\n
+<p>Tout n'est pas perdu, mais il va falloir changer et vite.</p>
+\n"
 }

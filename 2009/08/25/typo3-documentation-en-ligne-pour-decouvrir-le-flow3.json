@@ -1,8 +1,40 @@
 {
-  "id": "/2009/08/25/typo3-documentation-en-ligne-pour-decouvrir-le-flow3",
-  "title": "TYPO3 : documentation en ligne pour découvrir le FLOW3",
-  "url": "https://bertrandkeller.info/2009/08/25/typo3-documentation-en-ligne-pour-decouvrir-le-flow3/",
-  "date": 1251188293,
-  "html": "<p>La conférence 2009 de TYPO3 approche à grands pas, les présentations concernant les nouveaux FrameWork FLOW3 et la nouvelle version de TYPO3, TYPO3 v5, doivent convaincre les membres de la communauté.</p>\n<div class=\"center\"><a href=\"http://flow3.typo3.org/documentation/tutorials/getting-started/\" title=\"FLOW3 de TYPO3\"><img src=\"{{ site.baseurl }}/assets/BlogExampleWithAnnotation-320px.png\" alt=\"exemple FLOW3\" title=\"exemple FLOW3\" width=\"200\" height=\"218\" /></a></div>\n<p>Ces innovations devront montrer leur intérêt dans le monde du développement web PHP, surtout lorsque ses créateurs l'annoncent comme révolutionnaire. Il s'agirait du premier projet TYPO3 à utiliser les fonctionnalité de PHP 5.3.0, comme celle de namespace.</p>\n<blockquote cite=\"http://flow3.typo3.org/\"><p>FLOW3 brings new concepts to the PHP world. Domain-Driven Design, Dependency Injection and Aspect-Oriented Programming are some of them. And besides some <a href=\"http://flow3.typo3.org/about/features/\">great features</a> we offer <a href=\"http://flow3.typo3.org/about/principles/\">a new view</a> on the \"how\" of software development.</p>\n</blockquote>\n<p>Modifier les méthodes de travail du monde du web, voilà l'objectif de ces développeurs. C'est très ambitieux, pourtant il s'agit bien d'une marque de fabrique de la communauté, dont les reflexions se tournent résolument vers les professionnels qui auront à utiliser leur création.</p>\n<p>N'oublions pas que la façon avec laquelle une personne ou un groupe de personne travaillent reste très culturelle. Assurément, FLOW3 ne correspondra pas aux attentes de chacun ; néanmoins espérons qu'il puisse contribuer à la réalisation de projets de qualité.</p>\n<p>Voir le site de <a href=\"http://flow3.typo3.org/\" title=\"FLOW3 de TYPO3\">FLOW3</a>.</p>\n",
-  "markdown": "<p>La conférence 2009 de TYPO3 approche à grands pas, les présentations concernant les nouveaux FrameWork FLOW3 et la nouvelle version de TYPO3, TYPO3 v5, doivent convaincre les membres de la communauté.</p>\n<div class=\"center\"><a href=\"http://flow3.typo3.org/documentation/tutorials/getting-started/\" title=\"FLOW3 de TYPO3\"><img src=\"{{ site.baseurl }}/assets/BlogExampleWithAnnotation-320px.png\" alt=\"exemple FLOW3\" title=\"exemple FLOW3\" width=\"200\" height=\"218\" /></a></div>\n<p>Ces innovations devront montrer leur intérêt dans le monde du développement web PHP, surtout lorsque ses créateurs l'annoncent comme révolutionnaire. Il s'agirait du premier projet TYPO3 à utiliser les fonctionnalité de PHP 5.3.0, comme celle de namespace.</p>\n<blockquote cite=\"http://flow3.typo3.org/\"><p>FLOW3 brings new concepts to the PHP world. Domain-Driven Design, Dependency Injection and Aspect-Oriented Programming are some of them. And besides some <a href=\"http://flow3.typo3.org/about/features/\">great features</a> we offer <a href=\"http://flow3.typo3.org/about/principles/\">a new view</a> on the \"how\" of software development.</p>\n</blockquote>\n<p>Modifier les méthodes de travail du monde du web, voilà l'objectif de ces développeurs. C'est très ambitieux, pourtant il s'agit bien d'une marque de fabrique de la communauté, dont les reflexions se tournent résolument vers les professionnels qui auront à utiliser leur création.</p>\n<p>N'oublions pas que la façon avec laquelle une personne ou un groupe de personne travaillent reste très culturelle. Assurément, FLOW3 ne correspondra pas aux attentes de chacun ; néanmoins espérons qu'il puisse contribuer à la réalisation de projets de qualité.</p>\n<p>Voir le site de <a href=\"http://flow3.typo3.org/\" title=\"FLOW3 de TYPO3\">FLOW3</a>.</p>\n"
+"id": "/2009/08/25/typo3-documentation-en-ligne-pour-decouvrir-le-flow3",
+"title": "TYPO3 : documentation en ligne pour découvrir le FLOW3",
+"url": "https://bertrandkeller.info/2009/08/25/typo3-documentation-en-ligne-pour-decouvrir-le-flow3/",
+"date": 1251188293,
+"html": "
+<p>La conférence 2009 de TYPO3 approche à grands pas, les présentations concernant les nouveaux FrameWork FLOW3 et la nouvelle version de TYPO3, TYPO3 v5, doivent convaincre les membres de la communauté.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><a href=\"http://flow3.typo3.org/documentation/tutorials/getting-started/\" title=\"FLOW3 de TYPO3\"><img src=\"{{ site.baseurl }}/assets/BlogExampleWithAnnotation-320px.png\" alt=\"exemple FLOW3\" title=\"exemple FLOW3\" width=\"200\" height=\"218\" /></a></div>
+\n
+<p>Ces innovations devront montrer leur intérêt dans le monde du développement web PHP, surtout lorsque ses créateurs l'annoncent comme révolutionnaire. Il s'agirait du premier projet TYPO3 à utiliser les fonctionnalité de PHP 5.3.0, comme celle de namespace.</p>
+\n
+<blockquote cite=\"http://flow3.typo3.org/\">
+  <p>FLOW3 brings new concepts to the PHP world. Domain-Driven Design, Dependency Injection and Aspect-Oriented Programming are some of them. And besides some <a href=\"http://flow3.typo3.org/about/features/\">great features</a> we offer <a href=\"http://flow3.typo3.org/about/principles/\">a new view</a> on the \"how\" of software development.</p>
+  \n</blockquote>
+\n
+<p>Modifier les méthodes de travail du monde du web, voilà l'objectif de ces développeurs. C'est très ambitieux, pourtant il s'agit bien d'une marque de fabrique de la communauté, dont les reflexions se tournent résolument vers les professionnels qui auront à utiliser leur création.</p>
+\n
+<p>N'oublions pas que la façon avec laquelle une personne ou un groupe de personne travaillent reste très culturelle. Assurément, FLOW3 ne correspondra pas aux attentes de chacun ; néanmoins espérons qu'il puisse contribuer à la réalisation de projets de qualité.</p>
+\n
+<p>Voir le site de <a href=\"http://flow3.typo3.org/\" title=\"FLOW3 de TYPO3\">FLOW3</a>.</p>
+\n",
+"markdown": "
+<p>La conférence 2009 de TYPO3 approche à grands pas, les présentations concernant les nouveaux FrameWork FLOW3 et la nouvelle version de TYPO3, TYPO3 v5, doivent convaincre les membres de la communauté.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><a href=\"http://flow3.typo3.org/documentation/tutorials/getting-started/\" title=\"FLOW3 de TYPO3\"><img src=\"{{ site.baseurl }}/assets/BlogExampleWithAnnotation-320px.png\" alt=\"exemple FLOW3\" title=\"exemple FLOW3\" width=\"200\" height=\"218\" /></a></div>
+\n
+<p>Ces innovations devront montrer leur intérêt dans le monde du développement web PHP, surtout lorsque ses créateurs l'annoncent comme révolutionnaire. Il s'agirait du premier projet TYPO3 à utiliser les fonctionnalité de PHP 5.3.0, comme celle de namespace.</p>
+\n
+<blockquote cite=\"http://flow3.typo3.org/\">
+  <p>FLOW3 brings new concepts to the PHP world. Domain-Driven Design, Dependency Injection and Aspect-Oriented Programming are some of them. And besides some <a href=\"http://flow3.typo3.org/about/features/\">great features</a> we offer <a href=\"http://flow3.typo3.org/about/principles/\">a new view</a> on the \"how\" of software development.</p>
+  \n</blockquote>
+\n
+<p>Modifier les méthodes de travail du monde du web, voilà l'objectif de ces développeurs. C'est très ambitieux, pourtant il s'agit bien d'une marque de fabrique de la communauté, dont les reflexions se tournent résolument vers les professionnels qui auront à utiliser leur création.</p>
+\n
+<p>N'oublions pas que la façon avec laquelle une personne ou un groupe de personne travaillent reste très culturelle. Assurément, FLOW3 ne correspondra pas aux attentes de chacun ; néanmoins espérons qu'il puisse contribuer à la réalisation de projets de qualité.</p>
+\n
+<p>Voir le site de <a href=\"http://flow3.typo3.org/\" title=\"FLOW3 de TYPO3\">FLOW3</a>.</p>
+\n"
 }

@@ -1,8 +1,60 @@
 {
-  "id": "/2014/02/14/la-logique-du-feu-rouge",
-  "title": "La logique du feu rouge",
-  "url": "https://bertrandkeller.info/2014/02/14/la-logique-du-feu-rouge/",
-  "date": 1392380833,
-  "html": "<p>Vous êtes vous déjà demandé pourquoi les voitures accélèrent dès que le feu passe au vert pour souvent freiner au prochain feu rouge ? À vélo, sans moteur, on va souvent plus vite dans une circulation dense.</p>\n<h2>Le bouchons</h2>\n<p>Décider de faire du vélo pour se déplacer n'est pas un plaisir quotidien. En fonction du parcours à réaliser, les jours de pluie ou par exemple l'attitude des automobilistes changeront votre perception du voyage.</p>\n<p>Vivant dans une ville saturée de voiture, je me demande chaque jour pourquoi ces humains s'affligent cette souffrance quotidienne des bouchons, couplée à un coût important sur leur finance, pour parcourir souvent de courts trajets. Il paraitrait que 80% des trajets sont d'une distance de 2 à 5km.</p>\n<p>Nos enfants crachent leurs poumons, cette voiture nous rend malheureux, nous prenons chaque jour notre voiture pour parcourir 5km et pour gagner 3 minutes, nous accélérons très fortement pour freiner aussitôt (et pester la mise en place de voies de bus) ?</p>\n<h2>Le développement effréné</h2>\n<p>Dès qu'un nouveau site à développer pointe son nez, comme pour se rassurer par nos capacités productives, nous tapotons pour coder le plus rapidement possible les premières fonctionnalités : \"cette page sera coder en 2-2, c'est facile\".</p>\n<p>Puis comme sur chaque travail, une fois la majeur partie mis en test, le temps s'allonge pour sortir peaufiner le fonctionnement. Phénomène bien connu de la loi de Pareto ; 20% du temps pour développer 80% des fonctionnalités et 80% du temps pour les 20% restant.</p>\n<p>Coder des sites web se révèlent rarement ressembler ça une autoroute. La différence de chaque site fait que cela ressemble plutôt à du déplacement urbain. Si vous me regardiez coder, en bon patron, vous me demanderiez pourquoi je n'accélère pas comme un gros abruti au feu vert comme tous mes collègues. Je serai jugé comme un mauvais employé pour ne pas faire vrombir les chevaux. Pourtant, d'expérience, en me faufilant intelligemment, j'arrive souvent avant tout le monde tout en ayant eu le temps d'admirer les monuments et de découvrir des nouveaux magasins.</p>\n<h2>Conclusion</h2>\n<p>Je pense que se retrouver dans une situation d'autoroute du développement est très rare voir inexistant car le web et l'informatique demandent de gérer des systèmes complexes. Le web est désormais très dense.</p>\n<p>Ainsi, je vous conseillerai de passer dans le mode coursier pour développer ou d'engager des petites équipes à vélo si vous êtes un client (pour des sites moyens ou applications légères). Vous vous ferez livrer la charge par camion si vous avez peur de devoir porter du poids.</p>\n<p>Lire aussi <a href=\"https://www.bitballoon.com/blog/2013/11/18/ecstatic-on-static-sites-and-fixies\">Ecstatic: static sites &amp; fixies</a>.</p>\n",
-  "markdown": "<p>Vous êtes vous déjà demandé pourquoi les voitures accélèrent dès que le feu passe au vert pour souvent freiner au prochain feu rouge ? À vélo, sans moteur, on va souvent plus vite dans une circulation dense.</p>\n<h2>Le bouchons</h2>\n<p>Décider de faire du vélo pour se déplacer n'est pas un plaisir quotidien. En fonction du parcours à réaliser, les jours de pluie ou par exemple l'attitude des automobilistes changeront votre perception du voyage.</p>\n<p>Vivant dans une ville saturée de voiture, je me demande chaque jour pourquoi ces humains s'affligent cette souffrance quotidienne des bouchons, couplée à un coût important sur leur finance, pour parcourir souvent de courts trajets. Il paraitrait que 80% des trajets sont d'une distance de 2 à 5km.</p>\n<p>Nos enfants crachent leurs poumons, cette voiture nous rend malheureux, nous prenons chaque jour notre voiture pour parcourir 5km et pour gagner 3 minutes, nous accélérons très fortement pour freiner aussitôt (et pester la mise en place de voies de bus) ?</p>\n<h2>Le développement effréné</h2>\n<p>Dès qu'un nouveau site à développer pointe son nez, comme pour se rassurer par nos capacités productives, nous tapotons pour coder le plus rapidement possible les premières fonctionnalités : \"cette page sera coder en 2-2, c'est facile\".</p>\n<p>Puis comme sur chaque travail, une fois la majeur partie mis en test, le temps s'allonge pour sortir peaufiner le fonctionnement. Phénomène bien connu de la loi de Pareto ; 20% du temps pour développer 80% des fonctionnalités et 80% du temps pour les 20% restant.</p>\n<p>Coder des sites web se révèlent rarement ressembler ça une autoroute. La différence de chaque site fait que cela ressemble plutôt à du déplacement urbain. Si vous me regardiez coder, en bon patron, vous me demanderiez pourquoi je n'accélère pas comme un gros abruti au feu vert comme tous mes collègues. Je serai jugé comme un mauvais employé pour ne pas faire vrombir les chevaux. Pourtant, d'expérience, en me faufilant intelligemment, j'arrive souvent avant tout le monde tout en ayant eu le temps d'admirer les monuments et de découvrir des nouveaux magasins.</p>\n<h2>Conclusion</h2>\n<p>Je pense que se retrouver dans une situation d'autoroute du développement est très rare voir inexistant car le web et l'informatique demandent de gérer des systèmes complexes. Le web est désormais très dense.</p>\n<p>Ainsi, je vous conseillerai de passer dans le mode coursier pour développer ou d'engager des petites équipes à vélo si vous êtes un client (pour des sites moyens ou applications légères). Vous vous ferez livrer la charge par camion si vous avez peur de devoir porter du poids.</p>\n<p>Lire aussi <a href=\"https://www.bitballoon.com/blog/2013/11/18/ecstatic-on-static-sites-and-fixies\">Ecstatic: static sites & fixies</a>.</p>\n"
+"id": "/2014/02/14/la-logique-du-feu-rouge",
+"title": "La logique du feu rouge",
+"url": "https://bertrandkeller.info/2014/02/14/la-logique-du-feu-rouge/",
+"date": 1392380833,
+"html": "
+<p>Vous êtes vous déjà demandé pourquoi les voitures accélèrent dès que le feu passe au vert pour souvent freiner au prochain feu rouge ? À vélo, sans moteur, on va souvent plus vite dans une circulation dense.</p>
+\n
+<h2>Le bouchons</h2>
+\n
+<p>Décider de faire du vélo pour se déplacer n'est pas un plaisir quotidien. En fonction du parcours à réaliser, les jours de pluie ou par exemple l'attitude des automobilistes changeront votre perception du voyage.</p>
+\n
+<p>Vivant dans une ville saturée de voiture, je me demande chaque jour pourquoi ces humains s'affligent cette souffrance quotidienne des bouchons, couplée à un coût important sur leur finance, pour parcourir souvent de courts trajets. Il paraitrait que 80% des trajets sont d'une distance de 2 à 5km.</p>
+\n
+<p>Nos enfants crachent leurs poumons, cette voiture nous rend malheureux, nous prenons chaque jour notre voiture pour parcourir 5km et pour gagner 3 minutes, nous accélérons très fortement pour freiner aussitôt (et pester la mise en place de voies de bus) ?</p>
+\n
+<h2>Le développement effréné</h2>
+\n
+<p>Dès qu'un nouveau site à développer pointe son nez, comme pour se rassurer par nos capacités productives, nous tapotons pour coder le plus rapidement possible les premières fonctionnalités : \"cette page sera coder en 2-2, c'est facile\".</p>
+\n
+<p>Puis comme sur chaque travail, une fois la majeur partie mis en test, le temps s'allonge pour sortir peaufiner le fonctionnement. Phénomène bien connu de la loi de Pareto ; 20% du temps pour développer 80% des fonctionnalités et 80% du temps pour les 20% restant.</p>
+\n
+<p>Coder des sites web se révèlent rarement ressembler ça une autoroute. La différence de chaque site fait que cela ressemble plutôt à du déplacement urbain. Si vous me regardiez coder, en bon patron, vous me demanderiez pourquoi je n'accélère pas comme un gros abruti au feu vert comme tous mes collègues. Je serai jugé comme un mauvais employé pour ne pas faire vrombir les chevaux. Pourtant, d'expérience, en me faufilant intelligemment, j'arrive souvent avant tout le monde tout en ayant eu le temps d'admirer les monuments et de découvrir des nouveaux magasins.</p>
+\n
+<h2>Conclusion</h2>
+\n
+<p>Je pense que se retrouver dans une situation d'autoroute du développement est très rare voir inexistant car le web et l'informatique demandent de gérer des systèmes complexes. Le web est désormais très dense.</p>
+\n
+<p>Ainsi, je vous conseillerai de passer dans le mode coursier pour développer ou d'engager des petites équipes à vélo si vous êtes un client (pour des sites moyens ou applications légères). Vous vous ferez livrer la charge par camion si vous avez peur de devoir porter du poids.</p>
+\n
+<p>Lire aussi <a href=\"https://www.bitballoon.com/blog/2013/11/18/ecstatic-on-static-sites-and-fixies\">Ecstatic: static sites &amp; fixies</a>.</p>
+\n",
+"markdown": "
+<p>Vous êtes vous déjà demandé pourquoi les voitures accélèrent dès que le feu passe au vert pour souvent freiner au prochain feu rouge ? À vélo, sans moteur, on va souvent plus vite dans une circulation dense.</p>
+\n
+<h2>Le bouchons</h2>
+\n
+<p>Décider de faire du vélo pour se déplacer n'est pas un plaisir quotidien. En fonction du parcours à réaliser, les jours de pluie ou par exemple l'attitude des automobilistes changeront votre perception du voyage.</p>
+\n
+<p>Vivant dans une ville saturée de voiture, je me demande chaque jour pourquoi ces humains s'affligent cette souffrance quotidienne des bouchons, couplée à un coût important sur leur finance, pour parcourir souvent de courts trajets. Il paraitrait que 80% des trajets sont d'une distance de 2 à 5km.</p>
+\n
+<p>Nos enfants crachent leurs poumons, cette voiture nous rend malheureux, nous prenons chaque jour notre voiture pour parcourir 5km et pour gagner 3 minutes, nous accélérons très fortement pour freiner aussitôt (et pester la mise en place de voies de bus) ?</p>
+\n
+<h2>Le développement effréné</h2>
+\n
+<p>Dès qu'un nouveau site à développer pointe son nez, comme pour se rassurer par nos capacités productives, nous tapotons pour coder le plus rapidement possible les premières fonctionnalités : \"cette page sera coder en 2-2, c'est facile\".</p>
+\n
+<p>Puis comme sur chaque travail, une fois la majeur partie mis en test, le temps s'allonge pour sortir peaufiner le fonctionnement. Phénomène bien connu de la loi de Pareto ; 20% du temps pour développer 80% des fonctionnalités et 80% du temps pour les 20% restant.</p>
+\n
+<p>Coder des sites web se révèlent rarement ressembler ça une autoroute. La différence de chaque site fait que cela ressemble plutôt à du déplacement urbain. Si vous me regardiez coder, en bon patron, vous me demanderiez pourquoi je n'accélère pas comme un gros abruti au feu vert comme tous mes collègues. Je serai jugé comme un mauvais employé pour ne pas faire vrombir les chevaux. Pourtant, d'expérience, en me faufilant intelligemment, j'arrive souvent avant tout le monde tout en ayant eu le temps d'admirer les monuments et de découvrir des nouveaux magasins.</p>
+\n
+<h2>Conclusion</h2>
+\n
+<p>Je pense que se retrouver dans une situation d'autoroute du développement est très rare voir inexistant car le web et l'informatique demandent de gérer des systèmes complexes. Le web est désormais très dense.</p>
+\n
+<p>Ainsi, je vous conseillerai de passer dans le mode coursier pour développer ou d'engager des petites équipes à vélo si vous êtes un client (pour des sites moyens ou applications légères). Vous vous ferez livrer la charge par camion si vous avez peur de devoir porter du poids.</p>
+\n
+<p>Lire aussi <a href=\"https://www.bitballoon.com/blog/2013/11/18/ecstatic-on-static-sites-and-fixies\">Ecstatic: static sites & fixies</a>.</p>
+\n"
 }

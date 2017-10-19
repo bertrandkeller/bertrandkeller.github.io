@@ -1,8 +1,84 @@
 {
-  "id": "/2014/03/04/la-metastabilite",
-  "title": "La métastabilité",
-  "url": "https://bertrandkeller.info/2014/03/04/la-metastabilite/",
-  "date": 1393956110,
-  "html": "<p>En réfléchissant au partenariat à établir avec les clients, je me suis dit qu'un élément important pouvait être de mettre en valeur un attention portée sur la facilité d'édition une fois le site en production pour le client. Mais en y réfléchissant, je me rends compte que tout le monde s'en fout… et pourtant.</p>\n<h2>L'édition de contenu</h2>\n<p>Si vous regardez les offres de mission ou écoutez des équipes parler, vous entendrez beaucoup parler d'interfaces mais surtout d'interfaces utilisateurs/clients ; vous entendrez beaucoup parler de fonctionnalités et des besoins pointus.</p>\n<p><q>C'est possible, c'est pas possible ?</q>, représente une sorte de point de discussion immuable. Et vous entendrez assez peu parler d'<q>ok, d'où viennent ces données et comment on les édite ?</q></p>\n<p>L'édition de contenu consiste à rentrer des données dans la machine. Pour des sites \"communautaires\", ce sont les utilisateurs qui rentrent les données, pour les sites \"documentaires\" ce sont des éditeurs plus ou moins expérimentés.</p>\n<p>L'édition de contenu, c'est compliqué, on a beau faire le site le mieux du monde, y a toujours des gens qui ne savent pas utiliser toutes les options et rentrent des données non valides.</p>\n<h2>Le développement et la maintenance</h2>\n<p>Lorsqu'un site est développé par une équipe par une succession de plusieurs sprints ; un certain nombre de fonctionnalités vont être développées et mises en ligne.</p>\n<p>Une fois en ligne, il y aura moins de développement et on va tester le bon fonctionnement du tout en regardant comment tout cela se comporte.</p>\n<p>Lors du développement, il y a une grande dépense d'énergie pour faire passer un site de rien à la version 1 ou d'une version x à une version supérieure.</p>\n<p>Lors de la maintenance, le site ne va pas beaucoup changer et l'objectif est de dépenser le moins d'énergie possible. Pour nous les développeurs, la dépense d'énergie supplémentaire n'est souvent pas payée (le débug). Le client pense que c'est de notre responsabilité que tout marche du premier coup.</p>\n<h2>La métastabilité</h2>\n<p>\"Un état métastable sera caractérisé par un état qui correspond à un minimum local d'énergie.\"</p>\n<p>Dépenser plein d'énergie très vite pour avoir le plus d'options disponibles, c'est une vision des choses. Mais est-ce que l'éditeur ou l'utilisateur d'un site ne préfère-t-il pas dépenser le minimum d'énergie (cognitive et physique) pour réaliser une action sur un site ? Est-ce qu'une entreprise ne préfère-t-elle pas mettre à disposition le moins de ressource (financière et humaine) possible pour maintenir un site ?</p>\n<p>Je pense que tout le monde préfère dépenser le moins.</p>\n<h2>Conclusion</h2>\n<p>Essayer de faire le plus possible, c'est bien ; mais pour aller loin, il faut ménager sa monture.</p>\n<p>Si un site présente des volontés de durer dans le temps. Il faudrait peut-être mettre en valeur la notion de métastabilité ; organiser des phases évolutives et des phases de fonctionnement.</p>\n<p>L'accessibilité, la performance, la qualité sont des disciplines qui concerne la métastabilité. Pour que ces disciplines soient mis en valeur, il faudrait peut-être construire un discours autour de ce coût de fonctionnement dans le temps au même titre que celui du développement.</p>\n",
-  "markdown": "<p>En réfléchissant au partenariat à établir avec les clients, je me suis dit qu'un élément important pouvait être de mettre en valeur un attention portée sur la facilité d'édition une fois le site en production pour le client. Mais en y réfléchissant, je me rends compte que tout le monde s'en fout… et pourtant.</p>\n<h2>L'édition de contenu</h2>\n<p>Si vous regardez les offres de mission ou écoutez des équipes parler, vous entendrez beaucoup parler d'interfaces mais surtout d'interfaces utilisateurs/clients ; vous entendrez beaucoup parler de fonctionnalités et des besoins pointus.</p>\n<p><q>C'est possible, c'est pas possible ?</q>, représente une sorte de point de discussion immuable. Et vous entendrez assez peu parler d'<q>ok, d'où viennent ces données et comment on les édite ?</q></p>\n<p>L'édition de contenu consiste à rentrer des données dans la machine. Pour des sites \"communautaires\", ce sont les utilisateurs qui rentrent les données, pour les sites \"documentaires\" ce sont des éditeurs plus ou moins expérimentés.</p>\n<p>L'édition de contenu, c'est compliqué, on a beau faire le site le mieux du monde, y a toujours des gens qui ne savent pas utiliser toutes les options et rentrent des données non valides.</p>\n<h2>Le développement et la maintenance</h2>\n<p>Lorsqu'un site est développé par une équipe par une succession de plusieurs sprints ; un certain nombre de fonctionnalités vont être développées et mises en ligne.</p>\n<p>Une fois en ligne, il y aura moins de développement et on va tester le bon fonctionnement du tout en regardant comment tout cela se comporte.</p>\n<p>Lors du développement, il y a une grande dépense d'énergie pour faire passer un site de rien à la version 1 ou d'une version x à une version supérieure.</p>\n<p>Lors de la maintenance, le site ne va pas beaucoup changer et l'objectif est de dépenser le moins d'énergie possible. Pour nous les développeurs, la dépense d'énergie supplémentaire n'est souvent pas payée (le débug). Le client pense que c'est de notre responsabilité que tout marche du premier coup.</p>\n<h2>La métastabilité</h2>\n<p>\"Un état métastable sera caractérisé par un état qui correspond à un minimum local d'énergie.\"</p>\n<p>Dépenser plein d'énergie très vite pour avoir le plus d'options disponibles, c'est une vision des choses. Mais est-ce que l'éditeur ou l'utilisateur d'un site ne préfère-t-il pas dépenser le minimum d'énergie (cognitive et physique) pour réaliser une action sur un site ? Est-ce qu'une entreprise ne préfère-t-elle pas mettre à disposition le moins de ressource (financière et humaine) possible pour maintenir un site ?</p>\n<p>Je pense que tout le monde préfère dépenser le moins.</p>\n<h2>Conclusion</h2>\n<p>Essayer de faire le plus possible, c'est bien ; mais pour aller loin, il faut ménager sa monture.</p>\n<p>Si un site présente des volontés de durer dans le temps. Il faudrait peut-être mettre en valeur la notion de métastabilité ; organiser des phases évolutives et des phases de fonctionnement.</p>\n<p>L'accessibilité, la performance, la qualité sont des disciplines qui concerne la métastabilité. Pour que ces disciplines soient mis en valeur, il faudrait peut-être construire un discours autour de ce coût de fonctionnement dans le temps au même titre que celui du développement.</p>\n"
+"id": "/2014/03/04/la-metastabilite",
+"title": "La métastabilité",
+"url": "https://bertrandkeller.info/2014/03/04/la-metastabilite/",
+"date": 1393956110,
+"html": "
+<p>En réfléchissant au partenariat à établir avec les clients, je me suis dit qu'un élément important pouvait être de mettre en valeur un attention portée sur la facilité d'édition une fois le site en production pour le client. Mais en y réfléchissant, je me rends compte que tout le monde s'en fout… et pourtant.</p>
+\n
+<h2>L'édition de contenu</h2>
+\n
+<p>Si vous regardez les offres de mission ou écoutez des équipes parler, vous entendrez beaucoup parler d'interfaces mais surtout d'interfaces utilisateurs/clients ; vous entendrez beaucoup parler de fonctionnalités et des besoins pointus.</p>
+\n
+<p><q>C'est possible, c'est pas possible ?</q>, représente une sorte de point de discussion immuable. Et vous entendrez assez peu parler d'<q>ok, d'où viennent ces données et comment on les édite ?</q></p>
+\n
+<p>L'édition de contenu consiste à rentrer des données dans la machine. Pour des sites \"communautaires\", ce sont les utilisateurs qui rentrent les données, pour les sites \"documentaires\" ce sont des éditeurs plus ou moins expérimentés.</p>
+\n
+<p>L'édition de contenu, c'est compliqué, on a beau faire le site le mieux du monde, y a toujours des gens qui ne savent pas utiliser toutes les options et rentrent des données non valides.</p>
+\n
+<h2>Le développement et la maintenance</h2>
+\n
+<p>Lorsqu'un site est développé par une équipe par une succession de plusieurs sprints ; un certain nombre de fonctionnalités vont être développées et mises en ligne.</p>
+\n
+<p>Une fois en ligne, il y aura moins de développement et on va tester le bon fonctionnement du tout en regardant comment tout cela se comporte.</p>
+\n
+<p>Lors du développement, il y a une grande dépense d'énergie pour faire passer un site de rien à la version 1 ou d'une version x à une version supérieure.</p>
+\n
+<p>Lors de la maintenance, le site ne va pas beaucoup changer et l'objectif est de dépenser le moins d'énergie possible. Pour nous les développeurs, la dépense d'énergie supplémentaire n'est souvent pas payée (le débug). Le client pense que c'est de notre responsabilité que tout marche du premier coup.</p>
+\n
+<h2>La métastabilité</h2>
+\n
+<p>\"Un état métastable sera caractérisé par un état qui correspond à un minimum local d'énergie.\"</p>
+\n
+<p>Dépenser plein d'énergie très vite pour avoir le plus d'options disponibles, c'est une vision des choses. Mais est-ce que l'éditeur ou l'utilisateur d'un site ne préfère-t-il pas dépenser le minimum d'énergie (cognitive et physique) pour réaliser une action sur un site ? Est-ce qu'une entreprise ne préfère-t-elle pas mettre à disposition le moins de ressource (financière et humaine) possible pour maintenir un site ?</p>
+\n
+<p>Je pense que tout le monde préfère dépenser le moins.</p>
+\n
+<h2>Conclusion</h2>
+\n
+<p>Essayer de faire le plus possible, c'est bien ; mais pour aller loin, il faut ménager sa monture.</p>
+\n
+<p>Si un site présente des volontés de durer dans le temps. Il faudrait peut-être mettre en valeur la notion de métastabilité ; organiser des phases évolutives et des phases de fonctionnement.</p>
+\n
+<p>L'accessibilité, la performance, la qualité sont des disciplines qui concerne la métastabilité. Pour que ces disciplines soient mis en valeur, il faudrait peut-être construire un discours autour de ce coût de fonctionnement dans le temps au même titre que celui du développement.</p>
+\n",
+"markdown": "
+<p>En réfléchissant au partenariat à établir avec les clients, je me suis dit qu'un élément important pouvait être de mettre en valeur un attention portée sur la facilité d'édition une fois le site en production pour le client. Mais en y réfléchissant, je me rends compte que tout le monde s'en fout… et pourtant.</p>
+\n
+<h2>L'édition de contenu</h2>
+\n
+<p>Si vous regardez les offres de mission ou écoutez des équipes parler, vous entendrez beaucoup parler d'interfaces mais surtout d'interfaces utilisateurs/clients ; vous entendrez beaucoup parler de fonctionnalités et des besoins pointus.</p>
+\n
+<p><q>C'est possible, c'est pas possible ?</q>, représente une sorte de point de discussion immuable. Et vous entendrez assez peu parler d'<q>ok, d'où viennent ces données et comment on les édite ?</q></p>
+\n
+<p>L'édition de contenu consiste à rentrer des données dans la machine. Pour des sites \"communautaires\", ce sont les utilisateurs qui rentrent les données, pour les sites \"documentaires\" ce sont des éditeurs plus ou moins expérimentés.</p>
+\n
+<p>L'édition de contenu, c'est compliqué, on a beau faire le site le mieux du monde, y a toujours des gens qui ne savent pas utiliser toutes les options et rentrent des données non valides.</p>
+\n
+<h2>Le développement et la maintenance</h2>
+\n
+<p>Lorsqu'un site est développé par une équipe par une succession de plusieurs sprints ; un certain nombre de fonctionnalités vont être développées et mises en ligne.</p>
+\n
+<p>Une fois en ligne, il y aura moins de développement et on va tester le bon fonctionnement du tout en regardant comment tout cela se comporte.</p>
+\n
+<p>Lors du développement, il y a une grande dépense d'énergie pour faire passer un site de rien à la version 1 ou d'une version x à une version supérieure.</p>
+\n
+<p>Lors de la maintenance, le site ne va pas beaucoup changer et l'objectif est de dépenser le moins d'énergie possible. Pour nous les développeurs, la dépense d'énergie supplémentaire n'est souvent pas payée (le débug). Le client pense que c'est de notre responsabilité que tout marche du premier coup.</p>
+\n
+<h2>La métastabilité</h2>
+\n
+<p>\"Un état métastable sera caractérisé par un état qui correspond à un minimum local d'énergie.\"</p>
+\n
+<p>Dépenser plein d'énergie très vite pour avoir le plus d'options disponibles, c'est une vision des choses. Mais est-ce que l'éditeur ou l'utilisateur d'un site ne préfère-t-il pas dépenser le minimum d'énergie (cognitive et physique) pour réaliser une action sur un site ? Est-ce qu'une entreprise ne préfère-t-elle pas mettre à disposition le moins de ressource (financière et humaine) possible pour maintenir un site ?</p>
+\n
+<p>Je pense que tout le monde préfère dépenser le moins.</p>
+\n
+<h2>Conclusion</h2>
+\n
+<p>Essayer de faire le plus possible, c'est bien ; mais pour aller loin, il faut ménager sa monture.</p>
+\n
+<p>Si un site présente des volontés de durer dans le temps. Il faudrait peut-être mettre en valeur la notion de métastabilité ; organiser des phases évolutives et des phases de fonctionnement.</p>
+\n
+<p>L'accessibilité, la performance, la qualité sont des disciplines qui concerne la métastabilité. Pour que ces disciplines soient mis en valeur, il faudrait peut-être construire un discours autour de ce coût de fonctionnement dans le temps au même titre que celui du développement.</p>
+\n"
 }

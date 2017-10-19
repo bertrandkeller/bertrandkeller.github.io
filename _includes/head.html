@@ -11,16 +11,10 @@
   {% endif %}
 
   <!-- CSS -->
-  <style type="text/css">
-    {% capture include_to_scssify %}
-      {% include_cached base.scss %}
-    {% endcapture %}
-    {{ include_to_scssify | scssify }}
-  </style>
   <script data-no-instant>
     {% include_cached localfont.js %}
   </script>
-  <noscript><link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?v={{site.time | date: '%Y%m%d%H%M%S'}}"></noscript>
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?v={{site.time | date: '%Y%m%d%H%M%S'}}">
 
   <!-- Profiles -->
   <link type="text/plain" rel="author" href="/humans.txt" />

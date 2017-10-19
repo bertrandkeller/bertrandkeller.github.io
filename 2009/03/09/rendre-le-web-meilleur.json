@@ -1,8 +1,28 @@
 {
-  "id": "/2009/03/09/rendre-le-web-meilleur",
-  "title": "Rendre le web meilleur !",
-  "url": "https://bertrandkeller.info/2009/03/09/rendre-le-web-meilleur/",
-  "date": 1236590004,
-  "html": "<p>Sur <a href=\"http://www.blog-accessibilite.com/blog/\">Blog accessibilité</a>, Matthieu Faure parle des objectifs de son équipe et lui pour les mois à venir.</p>\n<blockquote><p>Il faut outiller les webmestres. Nous allons donc construire des outils pour rendre le web meilleur.</p>\n<p>Et comme le web est ouvert, construit sur des recommandations ouvertes, fonctionnant en grande partie avec des logiciels libres (Bind, Apache...), nous allons construire des outils libres pour industrialiser l'accessibilité.</p>\n</blockquote>\n<p>Une bonne initiative, pourvu qu'elle porte ses fruits. Lire <a href=\"http://www.blog-accessibilite.com/blog/2009/03/06/176-outils-libres-et-innovants-pour-industrialiser-l-accessibilite\">Outils libres et innovants pour industrialiser l'accessibilité</a>.</p>\n",
-  "markdown": "<p>Sur <a href=\"http://www.blog-accessibilite.com/blog/\">Blog accessibilité</a>, Matthieu Faure parle des objectifs de son équipe et lui pour les mois à venir.</p>\n<blockquote><p>Il faut outiller les webmestres. Nous allons donc construire des outils pour rendre le web meilleur.</p>\n<p>Et comme le web est ouvert, construit sur des recommandations ouvertes, fonctionnant en grande partie avec des logiciels libres (Bind, Apache...), nous allons construire des outils libres pour industrialiser l'accessibilité.</p>\n</blockquote>\n<p>Une bonne initiative, pourvu qu'elle porte ses fruits. Lire <a href=\"http://www.blog-accessibilite.com/blog/2009/03/06/176-outils-libres-et-innovants-pour-industrialiser-l-accessibilite\">Outils libres et innovants pour industrialiser l'accessibilité</a>.</p>\n"
+"id": "/2009/03/09/rendre-le-web-meilleur",
+"title": "Rendre le web meilleur !",
+"url": "https://bertrandkeller.info/2009/03/09/rendre-le-web-meilleur/",
+"date": 1236590004,
+"html": "
+<p>Sur <a href=\"http://www.blog-accessibilite.com/blog/\">Blog accessibilité</a>, Matthieu Faure parle des objectifs de son équipe et lui pour les mois à venir.</p>
+\n
+<blockquote>
+  <p>Il faut outiller les webmestres. Nous allons donc construire des outils pour rendre le web meilleur.</p>
+  \n
+  <p>Et comme le web est ouvert, construit sur des recommandations ouvertes, fonctionnant en grande partie avec des logiciels libres (Bind, Apache...), nous allons construire des outils libres pour industrialiser l'accessibilité.</p>
+  \n</blockquote>
+\n
+<p>Une bonne initiative, pourvu qu'elle porte ses fruits. Lire <a href=\"http://www.blog-accessibilite.com/blog/2009/03/06/176-outils-libres-et-innovants-pour-industrialiser-l-accessibilite\">Outils libres et innovants pour industrialiser l'accessibilité</a>.</p>
+\n",
+"markdown": "
+<p>Sur <a href=\"http://www.blog-accessibilite.com/blog/\">Blog accessibilité</a>, Matthieu Faure parle des objectifs de son équipe et lui pour les mois à venir.</p>
+\n
+<blockquote>
+  <p>Il faut outiller les webmestres. Nous allons donc construire des outils pour rendre le web meilleur.</p>
+  \n
+  <p>Et comme le web est ouvert, construit sur des recommandations ouvertes, fonctionnant en grande partie avec des logiciels libres (Bind, Apache...), nous allons construire des outils libres pour industrialiser l'accessibilité.</p>
+  \n</blockquote>
+\n
+<p>Une bonne initiative, pourvu qu'elle porte ses fruits. Lire <a href=\"http://www.blog-accessibilite.com/blog/2009/03/06/176-outils-libres-et-innovants-pour-industrialiser-l-accessibilite\">Outils libres et innovants pour industrialiser l'accessibilité</a>.</p>
+\n"
 }

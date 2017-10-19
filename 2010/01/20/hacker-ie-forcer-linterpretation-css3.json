@@ -1,8 +1,60 @@
 {
-  "id": "/2010/01/20/hacker-ie-forcer-linterpretation-css3",
-  "title": "Hacker IE, forcer l'interprétation CSS3",
-  "url": "https://bertrandkeller.info/2010/01/20/hacker-ie-forcer-linterpretation-css3/",
-  "date": 1264001619,
-  "html": "<p>Les chinois sont passés par une faille de sécurité du navigateur Internet Explorer pour récupérer les comptes de dissidents au régime. Les utilisateurs avertis navigueront maintenant avec Firefox ou Opera ; mais encore quelques millions d'autres continueront à utiliser le logiciel de la société Microsoft.</p>\n<p>Comment passer au développement CSS3 si l'ensemble des visiteurs ne peuvent pas profiter de vos efforts créatifs. Une des solutions est de charger un document JS (JavaScript) pour l'interprétation des sélecteurs CSS3. La <a href=\"http://dean.edwards.name/IE7/\" title=\"bibliothèque JavaScript de Dean Edwards\">bibliothèque JavaScript de Dean Edwards</a> ou le <a href=\"http://www.keithclark.co.uk/labs/ie-css3/\" title=\"Keith Clark - ie-css3.js\">ie-css3.js de Keith Clark</a> sont une solution.</p>\n<h3>Dean Edwards : IE7.js &amp; IE8.js</h3>\n<blockquote cite=\"http://css4design.com/quelques-notes-sur-la-bibliotheque-javascript-ie7-de-dean-edwards/2\"><p>Avec 31 KB ! Oui, vous avez bien lu : il est possible de faire en sorte que IE5 et IE6 fonctionnent comme IE7. Voire même de donner à IE7 les bonnes vibrations des standards web pour le faire fonctionner comme devrait le faire idéalement IE8 pour à peine 37 KB, soit moins que le poids d’une image de Laure Manaudou habillée !</p>\n</blockquote>\n<p>En intégrant des petits fichiers JS IE7.js &amp; IE8.js, conditionnel pour les navigateurs de type IE, la quasi totalité de vos fidèles visiteurs pour apprécier les bords arrondis de menu de navigation.</p>\n<h3>Keith Clark : ie-css3.js</h3>\n<p>Dans la même veine, Keith Clark met à disposition un fichier nommé <a href=\"http://www.keithclark.co.uk/labs/ie-css3/\" title=\"Keith Clark - ie-css3.js\">ie-css3.js</a>. Ce fichier miracle, avec l'aide de DOMAssistant, va permettre à IE d'interpréter les sélecteurs CSS3.</p>\n<p>Le fichier ie-css3.js télécharge chaque feuille de style et les parse à la recherche des sélecteurs CSS3. Si jamais, il trouve un de ces sélecteurs, alors il le remplace par une classe ayant un nom similaire (div:nth-child(2) =&gt; div._iecss-nth-child-2). Ensuite le fichier <a href=\"http://www.domassistant.com/\" title=\"DOMAssistant de Robert Nyman\">DOMAssistant de Robert Nyman</a> se lance à la recherche des nœuds du DOM pour appliquer le comportement.</p>\n<p>Ce système semble être sans pitié pour le DOM. Cependant, Keith Clark n'indique pas si ça marche pour toutes les versions d'IE comme celui de Dean Edwards.</p>\n<h3>Conslusion</h3>\n<p>Ainsi, si vos essais sont concluant avec une ou l'autre des méthodes, vous pourrez commencer à développer sans soucis avec les sélecteurs CSS3. Attention tout de même aux performances de ces méthodes, elles peuvent ralentir l'affichage des pages pour les utilisateurs d'IE.</p>\n<p>Lire <a href=\"http://css4design.com/quelques-notes-sur-la-bibliotheque-javascript-ie7-de-dean-edwards/2\" title=\"Quelques notes sur la bibliothèque Javascript IE7 de Dean Edwards\">Quelques notes sur la bibliothèque Javascript IE7 de Dean Edwards</a>.</p>\n",
-  "markdown": "<p>Les chinois sont passés par une faille de sécurité du navigateur Internet Explorer pour récupérer les comptes de dissidents au régime. Les utilisateurs avertis navigueront maintenant avec Firefox ou Opera ; mais encore quelques millions d'autres continueront à utiliser le logiciel de la société Microsoft.</p>\n<p>Comment passer au développement CSS3 si l'ensemble des visiteurs ne peuvent pas profiter de vos efforts créatifs. Une des solutions est de charger un document JS (JavaScript) pour l'interprétation des sélecteurs CSS3. La <a href=\"http://dean.edwards.name/IE7/\" title=\"bibliothèque JavaScript de Dean Edwards\">bibliothèque JavaScript de Dean Edwards</a> ou le <a href=\"http://www.keithclark.co.uk/labs/ie-css3/\" title=\"Keith Clark - ie-css3.js\">ie-css3.js de Keith Clark</a> sont une solution.</p>\n<h3>Dean Edwards : IE7.js & IE8.js</h3>\n<blockquote cite=\"http://css4design.com/quelques-notes-sur-la-bibliotheque-javascript-ie7-de-dean-edwards/2\"><p>Avec 31 KB ! Oui, vous avez bien lu : il est possible de faire en sorte que IE5 et IE6 fonctionnent comme IE7. Voire même de donner à IE7 les bonnes vibrations des standards web pour le faire fonctionner comme devrait le faire idéalement IE8 pour à peine 37 KB, soit moins que le poids d’une image de Laure Manaudou habillée !</p>\n</blockquote>\n<p>En intégrant des petits fichiers JS IE7.js & IE8.js, conditionnel pour les navigateurs de type IE, la quasi totalité de vos fidèles visiteurs pour apprécier les bords arrondis de menu de navigation.</p>\n<h3>Keith Clark : ie-css3.js</h3>\n<p>Dans la même veine, Keith Clark met à disposition un fichier nommé <a href=\"http://www.keithclark.co.uk/labs/ie-css3/\" title=\"Keith Clark - ie-css3.js\">ie-css3.js</a>. Ce fichier miracle, avec l'aide de DOMAssistant, va permettre à IE d'interpréter les sélecteurs CSS3.</p>\n<p>Le fichier ie-css3.js télécharge chaque feuille de style et les parse à la recherche des sélecteurs CSS3. Si jamais, il trouve un de ces sélecteurs, alors il le remplace par une classe ayant un nom similaire (div:nth-child(2) => div._iecss-nth-child-2). Ensuite le fichier <a href=\"http://www.domassistant.com/\" title=\"DOMAssistant de Robert Nyman\">DOMAssistant de Robert Nyman</a> se lance à la recherche des nœuds du DOM pour appliquer le comportement.</p>\n<p>Ce système semble être sans pitié pour le DOM. Cependant, Keith Clark n'indique pas si ça marche pour toutes les versions d'IE comme celui de Dean Edwards.</p>\n<h3>Conslusion</h3>\n<p>Ainsi, si vos essais sont concluant avec une ou l'autre des méthodes, vous pourrez commencer à développer sans soucis avec les sélecteurs CSS3. Attention tout de même aux performances de ces méthodes, elles peuvent ralentir l'affichage des pages pour les utilisateurs d'IE.</p>\n<p>Lire <a href=\"http://css4design.com/quelques-notes-sur-la-bibliotheque-javascript-ie7-de-dean-edwards/2\" title=\"Quelques notes sur la bibliothèque Javascript IE7 de Dean Edwards\">Quelques notes sur la bibliothèque Javascript IE7 de Dean Edwards</a>.</p>\n"
+"id": "/2010/01/20/hacker-ie-forcer-linterpretation-css3",
+"title": "Hacker IE, forcer l'interprétation CSS3",
+"url": "https://bertrandkeller.info/2010/01/20/hacker-ie-forcer-linterpretation-css3/",
+"date": 1264001619,
+"html": "
+<p>Les chinois sont passés par une faille de sécurité du navigateur Internet Explorer pour récupérer les comptes de dissidents au régime. Les utilisateurs avertis navigueront maintenant avec Firefox ou Opera ; mais encore quelques millions d'autres continueront à utiliser le logiciel de la société Microsoft.</p>
+\n
+<p>Comment passer au développement CSS3 si l'ensemble des visiteurs ne peuvent pas profiter de vos efforts créatifs. Une des solutions est de charger un document JS (JavaScript) pour l'interprétation des sélecteurs CSS3. La <a href=\"http://dean.edwards.name/IE7/\" title=\"bibliothèque JavaScript de Dean Edwards\">bibliothèque JavaScript de Dean Edwards</a> ou le <a href=\"http://www.keithclark.co.uk/labs/ie-css3/\" title=\"Keith Clark - ie-css3.js\">ie-css3.js de Keith Clark</a> sont une solution.</p>
+\n
+<h3>Dean Edwards : IE7.js &amp; IE8.js</h3>
+\n
+<blockquote cite=\"http://css4design.com/quelques-notes-sur-la-bibliotheque-javascript-ie7-de-dean-edwards/2\">
+  <p>Avec 31 KB ! Oui, vous avez bien lu : il est possible de faire en sorte que IE5 et IE6 fonctionnent comme IE7. Voire même de donner à IE7 les bonnes vibrations des standards web pour le faire fonctionner comme devrait le faire idéalement IE8 pour à peine 37 KB, soit moins que le poids d’une image de Laure Manaudou habillée !</p>
+  \n</blockquote>
+\n
+<p>En intégrant des petits fichiers JS IE7.js &amp; IE8.js, conditionnel pour les navigateurs de type IE, la quasi totalité de vos fidèles visiteurs pour apprécier les bords arrondis de menu de navigation.</p>
+\n
+<h3>Keith Clark : ie-css3.js</h3>
+\n
+<p>Dans la même veine, Keith Clark met à disposition un fichier nommé <a href=\"http://www.keithclark.co.uk/labs/ie-css3/\" title=\"Keith Clark - ie-css3.js\">ie-css3.js</a>. Ce fichier miracle, avec l'aide de DOMAssistant, va permettre à IE d'interpréter les sélecteurs CSS3.</p>
+\n
+<p>Le fichier ie-css3.js télécharge chaque feuille de style et les parse à la recherche des sélecteurs CSS3. Si jamais, il trouve un de ces sélecteurs, alors il le remplace par une classe ayant un nom similaire (div:nth-child(2) =&gt; div._iecss-nth-child-2). Ensuite le fichier <a href=\"http://www.domassistant.com/\" title=\"DOMAssistant de Robert Nyman\">DOMAssistant de Robert Nyman</a> se lance à la recherche des nœuds du DOM pour appliquer le comportement.</p>
+\n
+<p>Ce système semble être sans pitié pour le DOM. Cependant, Keith Clark n'indique pas si ça marche pour toutes les versions d'IE comme celui de Dean Edwards.</p>
+\n
+<h3>Conslusion</h3>
+\n
+<p>Ainsi, si vos essais sont concluant avec une ou l'autre des méthodes, vous pourrez commencer à développer sans soucis avec les sélecteurs CSS3. Attention tout de même aux performances de ces méthodes, elles peuvent ralentir l'affichage des pages pour les utilisateurs d'IE.</p>
+\n
+<p>Lire <a href=\"http://css4design.com/quelques-notes-sur-la-bibliotheque-javascript-ie7-de-dean-edwards/2\" title=\"Quelques notes sur la bibliothèque Javascript IE7 de Dean Edwards\">Quelques notes sur la bibliothèque Javascript IE7 de Dean Edwards</a>.</p>
+\n",
+"markdown": "
+<p>Les chinois sont passés par une faille de sécurité du navigateur Internet Explorer pour récupérer les comptes de dissidents au régime. Les utilisateurs avertis navigueront maintenant avec Firefox ou Opera ; mais encore quelques millions d'autres continueront à utiliser le logiciel de la société Microsoft.</p>
+\n
+<p>Comment passer au développement CSS3 si l'ensemble des visiteurs ne peuvent pas profiter de vos efforts créatifs. Une des solutions est de charger un document JS (JavaScript) pour l'interprétation des sélecteurs CSS3. La <a href=\"http://dean.edwards.name/IE7/\" title=\"bibliothèque JavaScript de Dean Edwards\">bibliothèque JavaScript de Dean Edwards</a> ou le <a href=\"http://www.keithclark.co.uk/labs/ie-css3/\" title=\"Keith Clark - ie-css3.js\">ie-css3.js de Keith Clark</a> sont une solution.</p>
+\n
+<h3>Dean Edwards : IE7.js & IE8.js</h3>
+\n
+<blockquote cite=\"http://css4design.com/quelques-notes-sur-la-bibliotheque-javascript-ie7-de-dean-edwards/2\">
+  <p>Avec 31 KB ! Oui, vous avez bien lu : il est possible de faire en sorte que IE5 et IE6 fonctionnent comme IE7. Voire même de donner à IE7 les bonnes vibrations des standards web pour le faire fonctionner comme devrait le faire idéalement IE8 pour à peine 37 KB, soit moins que le poids d’une image de Laure Manaudou habillée !</p>
+  \n</blockquote>
+\n
+<p>En intégrant des petits fichiers JS IE7.js & IE8.js, conditionnel pour les navigateurs de type IE, la quasi totalité de vos fidèles visiteurs pour apprécier les bords arrondis de menu de navigation.</p>
+\n
+<h3>Keith Clark : ie-css3.js</h3>
+\n
+<p>Dans la même veine, Keith Clark met à disposition un fichier nommé <a href=\"http://www.keithclark.co.uk/labs/ie-css3/\" title=\"Keith Clark - ie-css3.js\">ie-css3.js</a>. Ce fichier miracle, avec l'aide de DOMAssistant, va permettre à IE d'interpréter les sélecteurs CSS3.</p>
+\n
+<p>Le fichier ie-css3.js télécharge chaque feuille de style et les parse à la recherche des sélecteurs CSS3. Si jamais, il trouve un de ces sélecteurs, alors il le remplace par une classe ayant un nom similaire (div:nth-child(2) => div._iecss-nth-child-2). Ensuite le fichier <a href=\"http://www.domassistant.com/\" title=\"DOMAssistant de Robert Nyman\">DOMAssistant de Robert Nyman</a> se lance à la recherche des nœuds du DOM pour appliquer le comportement.</p>
+\n
+<p>Ce système semble être sans pitié pour le DOM. Cependant, Keith Clark n'indique pas si ça marche pour toutes les versions d'IE comme celui de Dean Edwards.</p>
+\n
+<h3>Conslusion</h3>
+\n
+<p>Ainsi, si vos essais sont concluant avec une ou l'autre des méthodes, vous pourrez commencer à développer sans soucis avec les sélecteurs CSS3. Attention tout de même aux performances de ces méthodes, elles peuvent ralentir l'affichage des pages pour les utilisateurs d'IE.</p>
+\n
+<p>Lire <a href=\"http://css4design.com/quelques-notes-sur-la-bibliotheque-javascript-ie7-de-dean-edwards/2\" title=\"Quelques notes sur la bibliothèque Javascript IE7 de Dean Edwards\">Quelques notes sur la bibliothèque Javascript IE7 de Dean Edwards</a>.</p>
+\n"
 }

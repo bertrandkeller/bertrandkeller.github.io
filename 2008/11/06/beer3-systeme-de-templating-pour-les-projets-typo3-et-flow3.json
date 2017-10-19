@@ -1,8 +1,48 @@
 {
-  "id": "/2008/11/06/beer3-systeme-de-templating-pour-les-projets-typo3-et-flow3",
-  "title": "BEER3 - système de templating pour les projets TYPO3 et FLOW3",
-  "url": "https://bertrandkeller.info/2008/11/06/beer3-systeme-de-templating-pour-les-projets-typo3-et-flow3/",
-  "date": 1225962279,
-  "html": "<p><a href=\"http://forge.typo3.org/projects/show/package-fluid\">BEER3</a> (renamed Fluid) is the next-generation templating engine for the FLOW3 and TYPO3 projects. Sebastian Kurfürst lance une réflexion sur le système de templating pour les prochaines versions de TYPO3.</p>\n<h3>Principes de conception</h3>\n<ul>\n<li>Le gabarit ne doit pas contenir de code PHP, les fonctions logiques doivent disposer d'une aide contextuelle (View Helpers)</li>\n<li>Utilisation de namespaces pour une séparation propre du code dans l'objectif de l'utilisation de l'aide (View Helpers)</li>\n<li>Les gabarits n'ont pas nécessité à être codés en XML, mais les tags doivent être écrits selon les règles de l'art.</li>\n</ul>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/logo-beer3-typo3.png\" alt=\"beer3 typo3\" /></div>\n<p>Sebastian a l'air très attaché à un système proposant d'une aide et qui corresponde à la logique de développement objet. Les équipes TYPO3 ont a coeur de disposer d'un mode de rendu solide et fiable, s'intégrant à FLOW3.</p>\n<p>Comme nous le prouve la réunion du <a href=\"http://wiki.typo3.org/index.php/Transition_Days\">TYPO3 Transition Days</a>, la problématique est principalement de proposer un univers de développement complet et de garantir la transition entre les versions 4.x et 5.x (à tous les niveaux).</p>\n<p>S'inscrire au newsgroup : <strong>*typo3.projects.typo3-5_0.general</strong>.</p>\n",
-  "markdown": "<p><a href=\"http://forge.typo3.org/projects/show/package-fluid\">BEER3</a> (renamed Fluid) is the next-generation templating engine for the FLOW3 and TYPO3 projects. Sebastian Kurfürst lance une réflexion sur le système de templating pour les prochaines versions de TYPO3.</p>\n<h3>Principes de conception</h3>\n<ul>\n<li>Le gabarit ne doit pas contenir de code PHP, les fonctions logiques doivent disposer d'une aide contextuelle (View Helpers)</li>\n<li>Utilisation de namespaces pour une séparation propre du code dans l'objectif de l'utilisation de l'aide (View Helpers)</li>\n<li>Les gabarits n'ont pas nécessité à être codés en XML, mais les tags doivent être écrits selon les règles de l'art.</li>\n</ul>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/logo-beer3-typo3.png\" alt=\"beer3 typo3\" /></div>\n<p>Sebastian a l'air très attaché à un système proposant d'une aide et qui corresponde à la logique de développement objet. Les équipes TYPO3 ont a coeur de disposer d'un mode de rendu solide et fiable, s'intégrant à FLOW3.</p>\n<p>Comme nous le prouve la réunion du <a href=\"http://wiki.typo3.org/index.php/Transition_Days\">TYPO3 Transition Days</a>, la problématique est principalement de proposer un univers de développement complet et de garantir la transition entre les versions 4.x et 5.x (à tous les niveaux).</p>\n<p>S'inscrire au newsgroup : <strong>*typo3.projects.typo3-5_0.general</strong>.</p>\n"
+"id": "/2008/11/06/beer3-systeme-de-templating-pour-les-projets-typo3-et-flow3",
+"title": "BEER3 - système de templating pour les projets TYPO3 et FLOW3",
+"url": "https://bertrandkeller.info/2008/11/06/beer3-systeme-de-templating-pour-les-projets-typo3-et-flow3/",
+"date": 1225962279,
+"html": "
+<p><a href=\"http://forge.typo3.org/projects/show/package-fluid\">BEER3</a> (renamed Fluid) is the next-generation templating engine for the FLOW3 and TYPO3 projects. Sebastian Kurfürst lance une réflexion sur le système de templating pour les prochaines versions de TYPO3.</p>
+\n
+<h3>Principes de conception</h3>
+\n
+<ul>\n
+  <li>Le gabarit ne doit pas contenir de code PHP, les fonctions logiques doivent disposer d'une aide contextuelle (View Helpers)</li>
+  \n
+  <li>Utilisation de namespaces pour une séparation propre du code dans l'objectif de l'utilisation de l'aide (View Helpers)</li>
+  \n
+  <li>Les gabarits n'ont pas nécessité à être codés en XML, mais les tags doivent être écrits selon les règles de l'art.</li>
+  \n</ul>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/logo-beer3-typo3.png\" alt=\"beer3 typo3\" /></div>
+\n
+<p>Sebastian a l'air très attaché à un système proposant d'une aide et qui corresponde à la logique de développement objet. Les équipes TYPO3 ont a coeur de disposer d'un mode de rendu solide et fiable, s'intégrant à FLOW3.</p>
+\n
+<p>Comme nous le prouve la réunion du <a href=\"http://wiki.typo3.org/index.php/Transition_Days\">TYPO3 Transition Days</a>, la problématique est principalement de proposer un univers de développement complet et de garantir la transition entre les versions 4.x et 5.x (à tous les niveaux).</p>
+\n
+<p>S'inscrire au newsgroup : <strong>*typo3.projects.typo3-5_0.general</strong>.</p>
+\n",
+"markdown": "
+<p><a href=\"http://forge.typo3.org/projects/show/package-fluid\">BEER3</a> (renamed Fluid) is the next-generation templating engine for the FLOW3 and TYPO3 projects. Sebastian Kurfürst lance une réflexion sur le système de templating pour les prochaines versions de TYPO3.</p>
+\n
+<h3>Principes de conception</h3>
+\n
+<ul>\n
+  <li>Le gabarit ne doit pas contenir de code PHP, les fonctions logiques doivent disposer d'une aide contextuelle (View Helpers)</li>
+  \n
+  <li>Utilisation de namespaces pour une séparation propre du code dans l'objectif de l'utilisation de l'aide (View Helpers)</li>
+  \n
+  <li>Les gabarits n'ont pas nécessité à être codés en XML, mais les tags doivent être écrits selon les règles de l'art.</li>
+  \n</ul>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/logo-beer3-typo3.png\" alt=\"beer3 typo3\" /></div>
+\n
+<p>Sebastian a l'air très attaché à un système proposant d'une aide et qui corresponde à la logique de développement objet. Les équipes TYPO3 ont a coeur de disposer d'un mode de rendu solide et fiable, s'intégrant à FLOW3.</p>
+\n
+<p>Comme nous le prouve la réunion du <a href=\"http://wiki.typo3.org/index.php/Transition_Days\">TYPO3 Transition Days</a>, la problématique est principalement de proposer un univers de développement complet et de garantir la transition entre les versions 4.x et 5.x (à tous les niveaux).</p>
+\n
+<p>S'inscrire au newsgroup : <strong>*typo3.projects.typo3-5_0.general</strong>.</p>
+\n"
 }

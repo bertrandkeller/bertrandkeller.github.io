@@ -68,6 +68,7 @@ plugins:
   - jekyll-assets
   - octopress-autoprefixer
   - jekyll-include-cache
+  - jekyll-tidy
 
 include:
   - _redirects
@@ -83,6 +84,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Procfile
+  - Rakefile
   - script
   - vendor
   - gems
@@ -90,7 +92,10 @@ exclude:
   - LICENSE.md
   - README.md
   - dploy.yml
+  - LICENSE
 
+jekyll_tidy:
+    compress_html: true
 
 Plugin: jekyll-assets
 assets:

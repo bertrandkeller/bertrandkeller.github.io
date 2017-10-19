@@ -1,8 +1,48 @@
 {
-  "id": "/2010/10/29/la-securite-des-reseaux-fait-lactualite-avec-firesheep",
-  "title": "La sécurité des réseaux fait l'actualité avec firesheep",
-  "url": "https://bertrandkeller.info/2010/10/29/la-securite-des-reseaux-fait-lactualite-avec-firesheep/",
-  "date": 1288368306,
-  "html": "<p>On discute de l'impact de l'extension <a href=\"http://codebutler.com/firesheep\">firesheep</a> sur la sécurisation de nos données ; certainement qu'un débat en remplacera un autre ; alors ne passez pas à côté de celui-ci.</p>\n<p>Je lance les ressources trouvées sur le sujet : <a href=\"http://www.la-grange.net/2010/10/26/contrat-social\" title=\"Sécurité et contrat social\">Sécurité et contrat social</a> - chez Karl</p>\n<blockquote cite=\"http://www.la-grange.net/2010/10/26/contrat-social\"><p>univers geek est en émoi depuis la sortie récente de FireSheep. Cet outil est une extension pour le navigateur Firefox qui permet d'impersonnifier un autre utilisateur d'un réseau partagé lors de son utilisation de Facebook, Twitter, Flickr et autres (tel que les réseaux wifi des cafés). </p>\n</blockquote>\n<p>On peut piquer l'identité de quelqu'un, mince. Mais firesheep, vous comprenez, c'est pour montrer que le réseau, il est pas sécurisé, donc on installe Idiocy pour prévenir ses petits camarades qu'ils utilisent un réseau non sécurisé, en passant par firesheep. C'est encore mieux.</p>\n<p>Si on réfléchi un peu, ça sert à rien, ces trucs ; la morale c'est que nous sommes nombreux à naviguer sur des réseaux non sécurisés. Il est nécessaire de passer un peu de temps sur la sécurisation des données que nous transférons (d'où ce billet, mais qu'est-ce que je suis sympa)</p>\n<p>Si vous voulez vous pencher sur le sujet, sur Firefox, par exemple, on trouve quelques extensions : <a href=\"https://www.eff.org/https-everywhere\"><strong>HTTPS Everywhere</strong></a>, <a href=\"https://addons.mozilla.org/en-US/firefox/addon/2275/\"><strong>Torbutton</strong></a> ou <a href=\"https://addons.mozilla.org/en-US/firefox/addon/12714/\"><strong>Force-TLS</strong></a>.</p>\n<p>Pour aller plus loin, vous pouvez installer <a href=\"https://addons.mozilla.org/en-US/firefox/addon/9609/\">Ghostery</a>, une extension pour observer les données trackées sur les sites web.</p>\n<p>Mais bien mieux, si le jeu vous fascine, est sorti <a href=\"http://notendur.hi.is/~gas15/FireShepherd/\">FireShepherd</a>, qui serait une console permettant de capter les utilisateurs de Firesheep, pour tuer leurs processus.</p>\n<p>Si toi aussi tu as des informations sur des personnes très mauvaises qui détournent de l'argent ou influencent des élections, ne déconne pas avec tes données.</p>\n",
-  "markdown": "<p>On discute de l'impact de l'extension <a href=\"http://codebutler.com/firesheep\">firesheep</a> sur la sécurisation de nos données ; certainement qu'un débat en remplacera un autre ; alors ne passez pas à côté de celui-ci.</p>\n<p>Je lance les ressources trouvées sur le sujet : <a href=\"http://www.la-grange.net/2010/10/26/contrat-social\" title=\"Sécurité et contrat social\">Sécurité et contrat social</a> - chez Karl</p>\n<blockquote cite=\"http://www.la-grange.net/2010/10/26/contrat-social\"><p>univers geek est en émoi depuis la sortie récente de FireSheep. Cet outil est une extension pour le navigateur Firefox qui permet d'impersonnifier un autre utilisateur d'un réseau partagé lors de son utilisation de Facebook, Twitter, Flickr et autres (tel que les réseaux wifi des cafés). </p>\n</blockquote>\n<p>On peut piquer l'identité de quelqu'un, mince. Mais firesheep, vous comprenez, c'est pour montrer que le réseau, il est pas sécurisé, donc on installe Idiocy pour prévenir ses petits camarades qu'ils utilisent un réseau non sécurisé, en passant par firesheep. C'est encore mieux.</p>\n<p>Si on réfléchi un peu, ça sert à rien, ces trucs ; la morale c'est que nous sommes nombreux à naviguer sur des réseaux non sécurisés. Il est nécessaire de passer un peu de temps sur la sécurisation des données que nous transférons (d'où ce billet, mais qu'est-ce que je suis sympa)</p>\n<p>Si vous voulez vous pencher sur le sujet, sur Firefox, par exemple, on trouve quelques extensions : <a href=\"https://www.eff.org/https-everywhere\"><strong>HTTPS Everywhere</strong></a>, <a href=\"https://addons.mozilla.org/en-US/firefox/addon/2275/\"><strong>Torbutton</strong></a> ou <a href=\"https://addons.mozilla.org/en-US/firefox/addon/12714/\"><strong>Force-TLS</strong></a>.</p>\n<p>Pour aller plus loin, vous pouvez installer <a href=\"https://addons.mozilla.org/en-US/firefox/addon/9609/\">Ghostery</a>, une extension pour observer les données trackées sur les sites web.</p>\n<p>Mais bien mieux, si le jeu vous fascine, est sorti <a href=\"http://notendur.hi.is/~gas15/FireShepherd/\">FireShepherd</a>, qui serait une console permettant de capter les utilisateurs de Firesheep, pour tuer leurs processus.</p>\n<p>Si toi aussi tu as des informations sur des personnes très mauvaises qui détournent de l'argent ou influencent des élections, ne déconne pas avec tes données.</p>\n"
+"id": "/2010/10/29/la-securite-des-reseaux-fait-lactualite-avec-firesheep",
+"title": "La sécurité des réseaux fait l'actualité avec firesheep",
+"url": "https://bertrandkeller.info/2010/10/29/la-securite-des-reseaux-fait-lactualite-avec-firesheep/",
+"date": 1288368306,
+"html": "
+<p>On discute de l'impact de l'extension <a href=\"http://codebutler.com/firesheep\">firesheep</a> sur la sécurisation de nos données ; certainement qu'un débat en remplacera un autre ; alors ne passez pas à côté de celui-ci.</p>
+\n
+<p>Je lance les ressources trouvées sur le sujet : <a href=\"http://www.la-grange.net/2010/10/26/contrat-social\" title=\"Sécurité et contrat social\">Sécurité et contrat social</a> - chez Karl</p>
+\n
+<blockquote cite=\"http://www.la-grange.net/2010/10/26/contrat-social\">
+  <p>univers geek est en émoi depuis la sortie récente de FireSheep. Cet outil est une extension pour le navigateur Firefox qui permet d'impersonnifier un autre utilisateur d'un réseau partagé lors de son utilisation de Facebook, Twitter, Flickr et autres (tel que les réseaux wifi des cafés). </p>
+  \n</blockquote>
+\n
+<p>On peut piquer l'identité de quelqu'un, mince. Mais firesheep, vous comprenez, c'est pour montrer que le réseau, il est pas sécurisé, donc on installe Idiocy pour prévenir ses petits camarades qu'ils utilisent un réseau non sécurisé, en passant par firesheep. C'est encore mieux.</p>
+\n
+<p>Si on réfléchi un peu, ça sert à rien, ces trucs ; la morale c'est que nous sommes nombreux à naviguer sur des réseaux non sécurisés. Il est nécessaire de passer un peu de temps sur la sécurisation des données que nous transférons (d'où ce billet, mais qu'est-ce que je suis sympa)</p>
+\n
+<p>Si vous voulez vous pencher sur le sujet, sur Firefox, par exemple, on trouve quelques extensions : <a href=\"https://www.eff.org/https-everywhere\"><strong>HTTPS Everywhere</strong></a>, <a href=\"https://addons.mozilla.org/en-US/firefox/addon/2275/\"><strong>Torbutton</strong></a> ou <a href=\"https://addons.mozilla.org/en-US/firefox/addon/12714/\"><strong>Force-TLS</strong></a>.</p>
+\n
+<p>Pour aller plus loin, vous pouvez installer <a href=\"https://addons.mozilla.org/en-US/firefox/addon/9609/\">Ghostery</a>, une extension pour observer les données trackées sur les sites web.</p>
+\n
+<p>Mais bien mieux, si le jeu vous fascine, est sorti <a href=\"http://notendur.hi.is/~gas15/FireShepherd/\">FireShepherd</a>, qui serait une console permettant de capter les utilisateurs de Firesheep, pour tuer leurs processus.</p>
+\n
+<p>Si toi aussi tu as des informations sur des personnes très mauvaises qui détournent de l'argent ou influencent des élections, ne déconne pas avec tes données.</p>
+\n",
+"markdown": "
+<p>On discute de l'impact de l'extension <a href=\"http://codebutler.com/firesheep\">firesheep</a> sur la sécurisation de nos données ; certainement qu'un débat en remplacera un autre ; alors ne passez pas à côté de celui-ci.</p>
+\n
+<p>Je lance les ressources trouvées sur le sujet : <a href=\"http://www.la-grange.net/2010/10/26/contrat-social\" title=\"Sécurité et contrat social\">Sécurité et contrat social</a> - chez Karl</p>
+\n
+<blockquote cite=\"http://www.la-grange.net/2010/10/26/contrat-social\">
+  <p>univers geek est en émoi depuis la sortie récente de FireSheep. Cet outil est une extension pour le navigateur Firefox qui permet d'impersonnifier un autre utilisateur d'un réseau partagé lors de son utilisation de Facebook, Twitter, Flickr et autres (tel que les réseaux wifi des cafés). </p>
+  \n</blockquote>
+\n
+<p>On peut piquer l'identité de quelqu'un, mince. Mais firesheep, vous comprenez, c'est pour montrer que le réseau, il est pas sécurisé, donc on installe Idiocy pour prévenir ses petits camarades qu'ils utilisent un réseau non sécurisé, en passant par firesheep. C'est encore mieux.</p>
+\n
+<p>Si on réfléchi un peu, ça sert à rien, ces trucs ; la morale c'est que nous sommes nombreux à naviguer sur des réseaux non sécurisés. Il est nécessaire de passer un peu de temps sur la sécurisation des données que nous transférons (d'où ce billet, mais qu'est-ce que je suis sympa)</p>
+\n
+<p>Si vous voulez vous pencher sur le sujet, sur Firefox, par exemple, on trouve quelques extensions : <a href=\"https://www.eff.org/https-everywhere\"><strong>HTTPS Everywhere</strong></a>, <a href=\"https://addons.mozilla.org/en-US/firefox/addon/2275/\"><strong>Torbutton</strong></a> ou <a href=\"https://addons.mozilla.org/en-US/firefox/addon/12714/\"><strong>Force-TLS</strong></a>.</p>
+\n
+<p>Pour aller plus loin, vous pouvez installer <a href=\"https://addons.mozilla.org/en-US/firefox/addon/9609/\">Ghostery</a>, une extension pour observer les données trackées sur les sites web.</p>
+\n
+<p>Mais bien mieux, si le jeu vous fascine, est sorti <a href=\"http://notendur.hi.is/~gas15/FireShepherd/\">FireShepherd</a>, qui serait une console permettant de capter les utilisateurs de Firesheep, pour tuer leurs processus.</p>
+\n
+<p>Si toi aussi tu as des informations sur des personnes très mauvaises qui détournent de l'argent ou influencent des élections, ne déconne pas avec tes données.</p>
+\n"
 }

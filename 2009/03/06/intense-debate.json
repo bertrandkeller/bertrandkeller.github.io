@@ -1,8 +1,40 @@
 {
-  "id": "/2009/03/06/intense-debate",
-  "title": "Intense Debate",
-  "url": "https://bertrandkeller.info/2009/03/06/intense-debate/",
-  "date": 1236354855,
-  "html": "<blockquote>\n<p>Ce plugin améliore la gestion des commentaires sur votre blogue est à nouveau disponible. Une fois installé, Intense Debate sauvegardera tous vos commentaires sur ses serveurs et vous offrira à vous et vos lecteurs des fonctionnalités de commentaires avancés.</p>\n</blockquote>\n<p><strong>Voir les pages</strong></p>\n<ul>\n<li><a href=\"http://www.intensedebate.com/home\">Intense Debate</a></li>\n<li><a href=\"https://addons.mozilla.org/fr/firefox/addon/8245\">Intense Debate in Google Reader </a></li>\n<li><a href=\"http://www.paperblog.fr/1302999/gerez-les-commentaires-de-votre-blogue-avec-intense-debate/\">Gérez les commentaires de votre blogue avec Intense Debate</a></li>\n<li><a href=\"http://ma.tt/2008/09/intense-debate-goes-automattic/\">Intense Debate Goes Automattic</a></li>\n</ul>\n",
-  "markdown": "<blockquote>\n<p>Ce plugin améliore la gestion des commentaires sur votre blogue est à nouveau disponible. Une fois installé, Intense Debate sauvegardera tous vos commentaires sur ses serveurs et vous offrira à vous et vos lecteurs des fonctionnalités de commentaires avancés.</p>\n</blockquote>\n<p><strong>Voir les pages</strong></p>\n<ul>\n<li><a href=\"http://www.intensedebate.com/home\">Intense Debate</a></li>\n<li><a href=\"https://addons.mozilla.org/fr/firefox/addon/8245\">Intense Debate in Google Reader </a></li>\n<li><a href=\"http://www.paperblog.fr/1302999/gerez-les-commentaires-de-votre-blogue-avec-intense-debate/\">Gérez les commentaires de votre blogue avec Intense Debate</a></li>\n<li><a href=\"http://ma.tt/2008/09/intense-debate-goes-automattic/\">Intense Debate Goes Automattic</a></li>\n</ul>\n"
+"id": "/2009/03/06/intense-debate",
+"title": "Intense Debate",
+"url": "https://bertrandkeller.info/2009/03/06/intense-debate/",
+"date": 1236354855,
+"html": "
+<blockquote>\n
+  <p>Ce plugin améliore la gestion des commentaires sur votre blogue est à nouveau disponible. Une fois installé, Intense Debate sauvegardera tous vos commentaires sur ses serveurs et vous offrira à vous et vos lecteurs des fonctionnalités de commentaires avancés.</p>
+  \n</blockquote>
+\n
+<p><strong>Voir les pages</strong></p>
+\n
+<ul>\n
+  <li><a href=\"http://www.intensedebate.com/home\">Intense Debate</a></li>
+  \n
+  <li><a href=\"https://addons.mozilla.org/fr/firefox/addon/8245\">Intense Debate in Google Reader </a></li>
+  \n
+  <li><a href=\"http://www.paperblog.fr/1302999/gerez-les-commentaires-de-votre-blogue-avec-intense-debate/\">Gérez les commentaires de votre blogue avec Intense Debate</a></li>
+  \n
+  <li><a href=\"http://ma.tt/2008/09/intense-debate-goes-automattic/\">Intense Debate Goes Automattic</a></li>
+  \n</ul>
+\n",
+"markdown": "
+<blockquote>\n
+  <p>Ce plugin améliore la gestion des commentaires sur votre blogue est à nouveau disponible. Une fois installé, Intense Debate sauvegardera tous vos commentaires sur ses serveurs et vous offrira à vous et vos lecteurs des fonctionnalités de commentaires avancés.</p>
+  \n</blockquote>
+\n
+<p><strong>Voir les pages</strong></p>
+\n
+<ul>\n
+  <li><a href=\"http://www.intensedebate.com/home\">Intense Debate</a></li>
+  \n
+  <li><a href=\"https://addons.mozilla.org/fr/firefox/addon/8245\">Intense Debate in Google Reader </a></li>
+  \n
+  <li><a href=\"http://www.paperblog.fr/1302999/gerez-les-commentaires-de-votre-blogue-avec-intense-debate/\">Gérez les commentaires de votre blogue avec Intense Debate</a></li>
+  \n
+  <li><a href=\"http://ma.tt/2008/09/intense-debate-goes-automattic/\">Intense Debate Goes Automattic</a></li>
+  \n</ul>
+\n"
 }

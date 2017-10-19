@@ -1,8 +1,28 @@
 {
-  "id": "/2010/02/01/colorbox-plugin-lightbox-pour-jquery",
-  "title": "ColorBox, plugin lightbox pour jquery",
-  "url": "https://bertrandkeller.info/2010/02/01/colorbox-plugin-lightbox-pour-jquery/",
-  "date": 1265044280,
-  "html": "<p>C'est pas les plugins lightbox basés sur jQuery qui manquent sur le marché. Le principe de la lightbox est d'afficher une fenêtre en surimpression (de la page active) avec pour contenu différents médias : images, vidéos, textes, formulaires...</p>\n<div class=\"center\"><a href=\"http://colorpowered.com/colorbox/\" title=\"ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4\"><img src=\"{{ site.baseurl }}/assets/ColorBox-example.jpg\" alt=\"\" title=\"ColorBox-example\" width=\"534\" height=\"355\" class=\"aligncenter size-full wp-image-2077\" /></a></div>\n<p>La lightbox est très appréciée des concepteurs car elle permet de procéder à certaines configurations ou téléchargerments de fichiers sans quitter la page active. Cette fonctionnalité est une sorte de terrain d'entente entre les clients et les intégrateurs. Son utilisation n'est pas toujours du meilleur effet, mais elle remplace, de manière plus conforme aux règles de l'utilisabilité, la célèbre popup.</p>\n<p>Pour éviter l'ouverture de nouvelles fenêtres, les intégrateurs pourront utiliser ColorBox. Respectant les règles du W3C, légère, gérant le préchargement d'images, les fondus, permettant les callbacks (...), cette fonctionnalité peut se révéler un solide avantage dans la réalisation de ses pages.</p>\n<p>Découvrez <a href=\"http://colorpowered.com/colorbox/\" title=\"ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4\">ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4</a>.</p>\n",
-  "markdown": "<p>C'est pas les plugins lightbox basés sur jQuery qui manquent sur le marché. Le principe de la lightbox est d'afficher une fenêtre en surimpression (de la page active) avec pour contenu différents médias : images, vidéos, textes, formulaires...</p>\n<div class=\"center\"><a href=\"http://colorpowered.com/colorbox/\" title=\"ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4\"><img src=\"{{ site.baseurl }}/assets/ColorBox-example.jpg\" alt=\"\" title=\"ColorBox-example\" width=\"534\" height=\"355\" class=\"aligncenter size-full wp-image-2077\" /></a></div>\n<p>La lightbox est très appréciée des concepteurs car elle permet de procéder à certaines configurations ou téléchargerments de fichiers sans quitter la page active. Cette fonctionnalité est une sorte de terrain d'entente entre les clients et les intégrateurs. Son utilisation n'est pas toujours du meilleur effet, mais elle remplace, de manière plus conforme aux règles de l'utilisabilité, la célèbre popup.</p>\n<p>Pour éviter l'ouverture de nouvelles fenêtres, les intégrateurs pourront utiliser ColorBox. Respectant les règles du W3C, légère, gérant le préchargement d'images, les fondus, permettant les callbacks (...), cette fonctionnalité peut se révéler un solide avantage dans la réalisation de ses pages.</p>\n<p>Découvrez <a href=\"http://colorpowered.com/colorbox/\" title=\"ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4\">ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4</a>.</p>\n"
+"id": "/2010/02/01/colorbox-plugin-lightbox-pour-jquery",
+"title": "ColorBox, plugin lightbox pour jquery",
+"url": "https://bertrandkeller.info/2010/02/01/colorbox-plugin-lightbox-pour-jquery/",
+"date": 1265044280,
+"html": "
+<p>C'est pas les plugins lightbox basés sur jQuery qui manquent sur le marché. Le principe de la lightbox est d'afficher une fenêtre en surimpression (de la page active) avec pour contenu différents médias : images, vidéos, textes, formulaires...</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><a href=\"http://colorpowered.com/colorbox/\" title=\"ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4\"><img src=\"{{ site.baseurl }}/assets/ColorBox-example.jpg\" alt=\"\" title=\"ColorBox-example\" width=\"534\" height=\"355\" class=\"aligncenter size-full wp-image-2077\" /></a></div>
+\n
+<p>La lightbox est très appréciée des concepteurs car elle permet de procéder à certaines configurations ou téléchargerments de fichiers sans quitter la page active. Cette fonctionnalité est une sorte de terrain d'entente entre les clients et les intégrateurs. Son utilisation n'est pas toujours du meilleur effet, mais elle remplace, de manière plus conforme aux règles de l'utilisabilité, la célèbre popup.</p>
+\n
+<p>Pour éviter l'ouverture de nouvelles fenêtres, les intégrateurs pourront utiliser ColorBox. Respectant les règles du W3C, légère, gérant le préchargement d'images, les fondus, permettant les callbacks (...), cette fonctionnalité peut se révéler un solide avantage dans la réalisation de ses pages.</p>
+\n
+<p>Découvrez <a href=\"http://colorpowered.com/colorbox/\" title=\"ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4\">ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4</a>.</p>
+\n",
+"markdown": "
+<p>C'est pas les plugins lightbox basés sur jQuery qui manquent sur le marché. Le principe de la lightbox est d'afficher une fenêtre en surimpression (de la page active) avec pour contenu différents médias : images, vidéos, textes, formulaires...</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><a href=\"http://colorpowered.com/colorbox/\" title=\"ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4\"><img src=\"{{ site.baseurl }}/assets/ColorBox-example.jpg\" alt=\"\" title=\"ColorBox-example\" width=\"534\" height=\"355\" class=\"aligncenter size-full wp-image-2077\" /></a></div>
+\n
+<p>La lightbox est très appréciée des concepteurs car elle permet de procéder à certaines configurations ou téléchargerments de fichiers sans quitter la page active. Cette fonctionnalité est une sorte de terrain d'entente entre les clients et les intégrateurs. Son utilisation n'est pas toujours du meilleur effet, mais elle remplace, de manière plus conforme aux règles de l'utilisabilité, la célèbre popup.</p>
+\n
+<p>Pour éviter l'ouverture de nouvelles fenêtres, les intégrateurs pourront utiliser ColorBox. Respectant les règles du W3C, légère, gérant le préchargement d'images, les fondus, permettant les callbacks (...), cette fonctionnalité peut se révéler un solide avantage dans la réalisation de ses pages.</p>
+\n
+<p>Découvrez <a href=\"http://colorpowered.com/colorbox/\" title=\"ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4\">ColorBox - A light-weight, customizable lightbox plugin for jQuery 1.3 and 1.4</a>.</p>
+\n"
 }

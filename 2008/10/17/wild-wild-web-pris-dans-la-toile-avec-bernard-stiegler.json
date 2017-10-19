@@ -1,8 +1,20 @@
 {
-  "id": "/2008/10/17/wild-wild-web-pris-dans-la-toile-avec-bernard-stiegler",
-  "title": "Wild Wild Web - Pris dans la toile avec Bernard Stiegler",
-  "url": "https://bertrandkeller.info/2008/10/17/wild-wild-web-pris-dans-la-toile-avec-bernard-stiegler/",
-  "date": 1224195939,
-  "html": "<p>Il est là, encore lui, à la fin (48:00) de ce documentaire de Grégory Magne et Stéphane Viard pour 13ème Rue. Bernard Stiegler nous explique que facebook est d'une énorme pauvreté mais que les réseaux sociaux sont d'une énorme richesse.</p>\n<div class=\"center\"><object width=\"425\" height=\"344\"><param name=\"movie\" value=\"https://www.youtube.com/v/5SPUoiV3c_k&amp;hl=en&amp;fs=1\" /><param name=\"allowFullScreen\" value=\"true\" /><embed src=\"https://www.youtube.com/v/5SPUoiV3c_k&amp;hl=en&amp;fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\" /></embed></object></div>\n<p>D'accord, il faut que les pouvoirs publiques investissent 20% de leur budget dans l'éducation aux technologies de l'information, mais, Bernard, on a plus de sous, on vient de tout donner au monde de la finance. </p>\n",
-  "markdown": "<p>Il est là, encore lui, à la fin (48:00) de ce documentaire de Grégory Magne et Stéphane Viard pour 13ème Rue. Bernard Stiegler nous explique que facebook est d'une énorme pauvreté mais que les réseaux sociaux sont d'une énorme richesse.</p>\n<div class=\"center\"><object width=\"425\" height=\"344\"><param name=\"movie\" value=\"https://www.youtube.com/v/5SPUoiV3c_k&hl=en&fs=1\" /><param name=\"allowFullScreen\" value=\"true\" /><embed src=\"https://www.youtube.com/v/5SPUoiV3c_k&hl=en&fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\"></embed></object></div>\n<p>D'accord, il faut que les pouvoirs publiques investissent 20% de leur budget dans l'éducation aux technologies de l'information, mais, Bernard, on a plus de sous, on vient de tout donner au monde de la finance. </p>\n"
+"id": "/2008/10/17/wild-wild-web-pris-dans-la-toile-avec-bernard-stiegler",
+"title": "Wild Wild Web - Pris dans la toile avec Bernard Stiegler",
+"url": "https://bertrandkeller.info/2008/10/17/wild-wild-web-pris-dans-la-toile-avec-bernard-stiegler/",
+"date": 1224195939,
+"html": "
+<p>Il est là, encore lui, à la fin (48:00) de ce documentaire de Grégory Magne et Stéphane Viard pour 13ème Rue. Bernard Stiegler nous explique que facebook est d'une énorme pauvreté mais que les réseaux sociaux sont d'une énorme richesse.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><object width=\"425\" height=\"344\"><param name=\"movie\" value=\"https://www.youtube.com/v/5SPUoiV3c_k&amp;hl=en&amp;fs=1\" /><param name=\"allowFullScreen\" value=\"true\" /><embed src=\"https://www.youtube.com/v/5SPUoiV3c_k&amp;hl=en&amp;fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\" />&lt;/embed&gt;</object></div>
+\n
+<p>D'accord, il faut que les pouvoirs publiques investissent 20% de leur budget dans l'éducation aux technologies de l'information, mais, Bernard, on a plus de sous, on vient de tout donner au monde de la finance. </p>
+\n",
+"markdown": "
+<p>Il est là, encore lui, à la fin (48:00) de ce documentaire de Grégory Magne et Stéphane Viard pour 13ème Rue. Bernard Stiegler nous explique que facebook est d'une énorme pauvreté mais que les réseaux sociaux sont d'une énorme richesse.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><object width=\"425\" height=\"344\"><param name=\"movie\" value=\"https://www.youtube.com/v/5SPUoiV3c_k&hl=en&fs=1\" /><param name=\"allowFullScreen\" value=\"true\" /><embed src=\"https://www.youtube.com/v/5SPUoiV3c_k&hl=en&fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\"></embed></object></div>
+\n
+<p>D'accord, il faut que les pouvoirs publiques investissent 20% de leur budget dans l'éducation aux technologies de l'information, mais, Bernard, on a plus de sous, on vient de tout donner au monde de la finance. </p>
+\n"
 }

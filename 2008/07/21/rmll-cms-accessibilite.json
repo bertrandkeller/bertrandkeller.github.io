@@ -1,8 +1,48 @@
 {
-  "id": "/2008/07/21/rmll-cms-accessibilite",
-  "title": "RMLL Accessibilité des CMS",
-  "url": "https://bertrandkeller.info/2008/07/21/rmll-cms-accessibilite/",
-  "date": 1216655768,
-  "html": "<p>Elie Sloïm publie la présentation de ses tests sur l'accessibilité de différents CMS : <a href=\"http://blog.temesis.com/2008/07/10/331-rmll-cms-accessibilite-suite\">RMLL - CMS - Accessibilité</a>.</p>\n<h3>Télécharger la présentation</h3>\n<p><strong>Fichier</strong>&nbsp;: <a href=\"http://www.temesis.com/publications/SF_ACCESSIBILITE_CMS_20080702.pdf\">Accessibilité et bonnes pratiques dans les CMS (PDF - 1,2 Mo)</a>.</p>\n<h3>Accéder au tests sur le site Opquast</h3>\n<p><strong>L'adresse</strong>&nbsp;: <a href=\"http://mon.opquast.com\" hreflang=\"fr\">http://mon.opquast.com</a><br />\n <strong>Identifiant</strong>&nbsp;: democms@opquast.com<br />\n <strong>Mot de passe</strong>&nbsp;: democms</p>\n<h3>Accéder au site de test</h3>\n<p><strong>URL</strong>&nbsp;: <a href=\"http://typo3-demo.dev-web.fr/\">http://typo3-demo.dev-web.fr/</a></p>\n<p>Bonne initiative, mais elle se base sur une connaissance peu avancée des CMS. La mise en place d'un site passe par l'expertise d'un responsable de sa configuration qui lui peut garantir que le maximum de critères soient respectés. Indiquer les performances d'un CMS lors d'une première installation par un \"novice\" (sans extensions complémentaires existantes) soit, mais il importe plus de savoir comment l'outil peut être optimisé et évoluer dans le temps.</p>\n<p>Ce travail est à fournir par chacune des communautés, pas par Elie Sloïm ou Aurélien Levy. Si l'accessibilité devient un critère de choix pour un CMS, alors il faudra fournir des méthodes et de la documentation aux utilisateurs.</p>\n",
-  "markdown": "<p>Elie Sloïm publie la présentation de ses tests sur l'accessibilité de différents CMS : <a href=\"http://blog.temesis.com/2008/07/10/331-rmll-cms-accessibilite-suite\">RMLL - CMS - Accessibilité</a>.</p>\n<h3>Télécharger la présentation</h3>\n<p><strong>Fichier</strong>&nbsp;: <a href=\"http://www.temesis.com/publications/SF_ACCESSIBILITE_CMS_20080702.pdf\">Accessibilité et bonnes pratiques dans les CMS (PDF - 1,2 Mo)</a>.</p>\n<h3>Accéder au tests sur le site Opquast</h3>\n<p><strong>L'adresse</strong>&nbsp;: <a href=\"http://mon.opquast.com\" hreflang=\"fr\">http://mon.opquast.com</a><br />\n <strong>Identifiant</strong>&nbsp;: democms@opquast.com<br />\n <strong>Mot de passe</strong>&nbsp;: democms</p>\n<h3>Accéder au site de test</h3>\n<p><strong>URL</strong>&nbsp;: <a href=\"http://typo3-demo.dev-web.fr/\">http://typo3-demo.dev-web.fr/</a></p>\n<p>Bonne initiative, mais elle se base sur une connaissance peu avancée des CMS. La mise en place d'un site passe par l'expertise d'un responsable de sa configuration qui lui peut garantir que le maximum de critères soient respectés. Indiquer les performances d'un CMS lors d'une première installation par un \"novice\" (sans extensions complémentaires existantes) soit, mais il importe plus de savoir comment l'outil peut être optimisé et évoluer dans le temps.</p>\n<p>Ce travail est à fournir par chacune des communautés, pas par Elie Sloïm ou Aurélien Levy. Si l'accessibilité devient un critère de choix pour un CMS, alors il faudra fournir des méthodes et de la documentation aux utilisateurs.</p>\n"
+"id": "/2008/07/21/rmll-cms-accessibilite",
+"title": "RMLL Accessibilité des CMS",
+"url": "https://bertrandkeller.info/2008/07/21/rmll-cms-accessibilite/",
+"date": 1216655768,
+"html": "
+<p>Elie Sloïm publie la présentation de ses tests sur l'accessibilité de différents CMS : <a href=\"http://blog.temesis.com/2008/07/10/331-rmll-cms-accessibilite-suite\">RMLL - CMS - Accessibilité</a>.</p>
+\n
+<h3>Télécharger la présentation</h3>
+\n
+<p><strong>Fichier</strong>&nbsp;: <a href=\"http://www.temesis.com/publications/SF_ACCESSIBILITE_CMS_20080702.pdf\">Accessibilité et bonnes pratiques dans les CMS (PDF - 1,2 Mo)</a>.</p>
+\n
+<h3>Accéder au tests sur le site Opquast</h3>
+\n
+<p><strong>L'adresse</strong>&nbsp;: <a href=\"http://mon.opquast.com\" hreflang=\"fr\">http://mon.opquast.com</a><br />
+  \n <strong>Identifiant</strong>&nbsp;: democms@opquast.com<br />
+  \n <strong>Mot de passe</strong>&nbsp;: democms</p>
+\n
+<h3>Accéder au site de test</h3>
+\n
+<p><strong>URL</strong>&nbsp;: <a href=\"http://typo3-demo.dev-web.fr/\">http://typo3-demo.dev-web.fr/</a></p>
+\n
+<p>Bonne initiative, mais elle se base sur une connaissance peu avancée des CMS. La mise en place d'un site passe par l'expertise d'un responsable de sa configuration qui lui peut garantir que le maximum de critères soient respectés. Indiquer les performances d'un CMS lors d'une première installation par un \"novice\" (sans extensions complémentaires existantes) soit, mais il importe plus de savoir comment l'outil peut être optimisé et évoluer dans le temps.</p>
+\n
+<p>Ce travail est à fournir par chacune des communautés, pas par Elie Sloïm ou Aurélien Levy. Si l'accessibilité devient un critère de choix pour un CMS, alors il faudra fournir des méthodes et de la documentation aux utilisateurs.</p>
+\n",
+"markdown": "
+<p>Elie Sloïm publie la présentation de ses tests sur l'accessibilité de différents CMS : <a href=\"http://blog.temesis.com/2008/07/10/331-rmll-cms-accessibilite-suite\">RMLL - CMS - Accessibilité</a>.</p>
+\n
+<h3>Télécharger la présentation</h3>
+\n
+<p><strong>Fichier</strong>&nbsp;: <a href=\"http://www.temesis.com/publications/SF_ACCESSIBILITE_CMS_20080702.pdf\">Accessibilité et bonnes pratiques dans les CMS (PDF - 1,2 Mo)</a>.</p>
+\n
+<h3>Accéder au tests sur le site Opquast</h3>
+\n
+<p><strong>L'adresse</strong>&nbsp;: <a href=\"http://mon.opquast.com\" hreflang=\"fr\">http://mon.opquast.com</a><br />
+  \n <strong>Identifiant</strong>&nbsp;: democms@opquast.com<br />
+  \n <strong>Mot de passe</strong>&nbsp;: democms</p>
+\n
+<h3>Accéder au site de test</h3>
+\n
+<p><strong>URL</strong>&nbsp;: <a href=\"http://typo3-demo.dev-web.fr/\">http://typo3-demo.dev-web.fr/</a></p>
+\n
+<p>Bonne initiative, mais elle se base sur une connaissance peu avancée des CMS. La mise en place d'un site passe par l'expertise d'un responsable de sa configuration qui lui peut garantir que le maximum de critères soient respectés. Indiquer les performances d'un CMS lors d'une première installation par un \"novice\" (sans extensions complémentaires existantes) soit, mais il importe plus de savoir comment l'outil peut être optimisé et évoluer dans le temps.</p>
+\n
+<p>Ce travail est à fournir par chacune des communautés, pas par Elie Sloïm ou Aurélien Levy. Si l'accessibilité devient un critère de choix pour un CMS, alors il faudra fournir des méthodes et de la documentation aux utilisateurs.</p>
+\n"
 }

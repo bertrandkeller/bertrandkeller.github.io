@@ -1,8 +1,102 @@
 {
-  "id": "/2014/10/15/les-budget-miroirs",
-  "title": "Les budgets miroirs",
-  "url": "https://bertrandkeller.info/2014/10/15/les-budget-miroirs/",
-  "date": 1413375227,
-  "html": "<p>La relation client reste une sorte de maîtrise empirique de la manière dont on arrive à vendre une réalisation pour une certaine somme. Personnellement, je tente au maximum de réduire au maximum l'enveloppe et le périmètre afin d'être sûr que mon interlocuteur garde de la réserve pour des évolutions ou des corrections.</p>\n<h2>Le mode projet</h2>\n<p>Vous connaissez les chefs de projets ? Maintenant, demandez à un de vos chef de projets de vous définir ce qu'est un projet.</p>\n<p>Je donne ma main à couper que 98% de ceux-ci ne sont pas capables de vous donner une définition juste de ce que le mot projet relève. Si on se réfère à wikipédia, on trouve :</p>\n<blockquote cite=\"https://fr.wikipedia.org/wiki/Projet\"><p>Le fonctionnement en « mode projet » se distingue du fonctionnement en mode processus en ce sens qu'une activité conduite en mode projet n'est généralement pas destinée à être répétée : son côté « inédit et unique » souligne la probabilité d'être confronté à un environnement incertain, du fait de l'absence plus ou moins grande d'expériences ou de pratiques antérieures. Par ailleurs, un processus est destiné à durer et n'a pas, en général de date de fin prévue.</p>\n</blockquote>\n<p>Le mode projet est « inédit et unique », il n'est pas destiné à être répété, il s'oppose au mode processus.</p>\n<h2>Le mode processus</h2>\n<p>La définition du mode processus :</p>\n<blockquote cite=\"https://fr.wikipedia.org/wiki/Processus_%28gestion_de_la_qualit%C3%A9%29\"><p>Un processus est un ensemble d'activités corrélées ou interactives qui transforme des éléments d'entrée en éléments de sortie. Ces éléments sont soit des objets matériels (pouvant être perçus comme des flux par la logistique à des fins d'évaluation) soit des informations, soit les deux.</p>\n</blockquote>\n<p>Le mode processus permet de transformer des informations en d'autres informations : un cahier des charges en pages HTML par exemple.</p>\n<h2>Un projet web</h2>\n<p>Il semble que l'inculture généralisée sévit dans les équipes web. Certains de transformer le monde et de participer à un avenir radieux, plutôt que de garder un regard cohérent sur sa situation, chacun se donne des \"airs\" en prenant pour un statut de poste le plus valorisant.<br />Nous connaissons d'ailleurs le ridicule de celui de chef de projets ; une personne qui ne dirige pas des hommes mais ces choses très immatériels que sont des projets.</p>\n<p>Pour commencer à défricher le sujet admettons que le projet web ne désigne rien de précis et commençons par distinguer 2 choses : le mode projet (le développement) et le mode processus (la maintenance et édition du site).</p>\n<h2>Les budgets miroirs</h2>\n<p>Puisque nous savons tous qu'un \"projet\" rentable est avant tout un \"projet\" bien vendu. Posons seulement la question de ce qui est vendu lors d'un développement.</p>\n<p>Comme nous pensons tous \"projets\" (transformation du monde), au moment de discuter budget, tout le monde parle du budget de transformation.</p>\n<p>Ne vous êtes vous jamais dit : cette fonctionnalité ne sert à rien, cette fonctionnalité ne sera jamais utilisé… le client aurait mieux fait d'investir autrement.</p>\n<p>On parle d'agilité, de manière de vendre, de saucissonnage en sprint ; mais avez vous seulement effectué cette opération simple : mettre en regard le budget de transformation avec le budget de maintenance.</p>\n<p>Le budget de maintenance est le budget qui sera nécessaire pour faire vivre le site, améliorer des fonctionnalités, communiquer…</p>\n<p>Essayer de présenter d'un côté les fonctionnalités que désire votre client et ce qu'il faudra qu'il débourse pour faire vivre le site : un salaire de rédacteur, un budget de maintenance avec vous…</p>\n<p>A priori, si vous arrivez à présenter à votre client la gestion de son site avec une vision stratégique pour qu'il dure dans le temps, il est fort possible que vous arriviez soit à faire baisser la voilure du projet initial pour qu'il se concentre sur ce qui a de la valeur ou à mettre plus d'argent afin que les développements rentre dans un processus élargie d'édition de contenus.</p>\n",
-  "markdown": "<p>La relation client reste une sorte de maîtrise empirique de la manière dont on arrive à vendre une réalisation pour une certaine somme. Personnellement, je tente au maximum de réduire au maximum l'enveloppe et le périmètre afin d'être sûr que mon interlocuteur garde de la réserve pour des évolutions ou des corrections.</p>\n<h2>Le mode projet</h2>\n<p>Vous connaissez les chefs de projets ? Maintenant, demandez à un de vos chef de projets de vous définir ce qu'est un projet.</p>\n<p>Je donne ma main à couper que 98% de ceux-ci ne sont pas capables de vous donner une définition juste de ce que le mot projet relève. Si on se réfère à wikipédia, on trouve :</p>\n<blockquote cite=\"https://fr.wikipedia.org/wiki/Projet\"><p>Le fonctionnement en « mode projet » se distingue du fonctionnement en mode processus en ce sens qu'une activité conduite en mode projet n'est généralement pas destinée à être répétée : son côté « inédit et unique » souligne la probabilité d'être confronté à un environnement incertain, du fait de l'absence plus ou moins grande d'expériences ou de pratiques antérieures. Par ailleurs, un processus est destiné à durer et n'a pas, en général de date de fin prévue.</p>\n</blockquote>\n<p>Le mode projet est « inédit et unique », il n'est pas destiné à être répété, il s'oppose au mode processus.</p>\n<h2>Le mode processus</h2>\n<p>La définition du mode processus :</p>\n<blockquote cite=\"https://fr.wikipedia.org/wiki/Processus_%28gestion_de_la_qualit%C3%A9%29\"><p>Un processus est un ensemble d'activités corrélées ou interactives qui transforme des éléments d'entrée en éléments de sortie. Ces éléments sont soit des objets matériels (pouvant être perçus comme des flux par la logistique à des fins d'évaluation) soit des informations, soit les deux.</p>\n</blockquote>\n<p>Le mode processus permet de transformer des informations en d'autres informations : un cahier des charges en pages HTML par exemple.</p>\n<h2>Un projet web</h2>\n<p>Il semble que l'inculture généralisée sévit dans les équipes web. Certains de transformer le monde et de participer à un avenir radieux, plutôt que de garder un regard cohérent sur sa situation, chacun se donne des \"airs\" en prenant pour un statut de poste le plus valorisant.<br />Nous connaissons d'ailleurs le ridicule de celui de chef de projets ; une personne qui ne dirige pas des hommes mais ces choses très immatériels que sont des projets.</p>\n<p>Pour commencer à défricher le sujet admettons que le projet web ne désigne rien de précis et commençons par distinguer 2 choses : le mode projet (le développement) et le mode processus (la maintenance et édition du site).</p>\n<h2>Les budgets miroirs</h2>\n<p>Puisque nous savons tous qu'un \"projet\" rentable est avant tout un \"projet\" bien vendu. Posons seulement la question de ce qui est vendu lors d'un développement.</p>\n<p>Comme nous pensons tous \"projets\" (transformation du monde), au moment de discuter budget, tout le monde parle du budget de transformation.</p>\n<p>Ne vous êtes vous jamais dit : cette fonctionnalité ne sert à rien, cette fonctionnalité ne sera jamais utilisé… le client aurait mieux fait d'investir autrement.</p>\n<p>On parle d'agilité, de manière de vendre, de saucissonnage en sprint ; mais avez vous seulement effectué cette opération simple : mettre en regard le budget de transformation avec le budget de maintenance.</p>\n<p>Le budget de maintenance est le budget qui sera nécessaire pour faire vivre le site, améliorer des fonctionnalités, communiquer…</p>\n<p>Essayer de présenter d'un côté les fonctionnalités que désire votre client et ce qu'il faudra qu'il débourse pour faire vivre le site : un salaire de rédacteur, un budget de maintenance avec vous…</p>\n<p>A priori, si vous arrivez à présenter à votre client la gestion de son site avec une vision stratégique pour qu'il dure dans le temps, il est fort possible que vous arriviez soit à faire baisser la voilure du projet initial pour qu'il se concentre sur ce qui a de la valeur ou à mettre plus d'argent afin que les développements rentre dans un processus élargie d'édition de contenus.</p>\n"
+"id": "/2014/10/15/les-budget-miroirs",
+"title": "Les budgets miroirs",
+"url": "https://bertrandkeller.info/2014/10/15/les-budget-miroirs/",
+"date": 1413375227,
+"html": "
+<p>La relation client reste une sorte de maîtrise empirique de la manière dont on arrive à vendre une réalisation pour une certaine somme. Personnellement, je tente au maximum de réduire au maximum l'enveloppe et le périmètre afin d'être sûr que mon interlocuteur garde de la réserve pour des évolutions ou des corrections.</p>
+\n
+<h2>Le mode projet</h2>
+\n
+<p>Vous connaissez les chefs de projets ? Maintenant, demandez à un de vos chef de projets de vous définir ce qu'est un projet.</p>
+\n
+<p>Je donne ma main à couper que 98% de ceux-ci ne sont pas capables de vous donner une définition juste de ce que le mot projet relève. Si on se réfère à wikipédia, on trouve :</p>
+\n
+<blockquote cite=\"https://fr.wikipedia.org/wiki/Projet\">
+  <p>Le fonctionnement en « mode projet » se distingue du fonctionnement en mode processus en ce sens qu'une activité conduite en mode projet n'est généralement pas destinée à être répétée : son côté « inédit et unique » souligne la probabilité d'être confronté à un environnement incertain, du fait de l'absence plus ou moins grande d'expériences ou de pratiques antérieures. Par ailleurs, un processus est destiné à durer et n'a pas, en général de date de fin prévue.</p>
+  \n</blockquote>
+\n
+<p>Le mode projet est « inédit et unique », il n'est pas destiné à être répété, il s'oppose au mode processus.</p>
+\n
+<h2>Le mode processus</h2>
+\n
+<p>La définition du mode processus :</p>
+\n
+<blockquote cite=\"https://fr.wikipedia.org/wiki/Processus_%28gestion_de_la_qualit%C3%A9%29\">
+  <p>Un processus est un ensemble d'activités corrélées ou interactives qui transforme des éléments d'entrée en éléments de sortie. Ces éléments sont soit des objets matériels (pouvant être perçus comme des flux par la logistique à des fins d'évaluation) soit des informations, soit les deux.</p>
+  \n</blockquote>
+\n
+<p>Le mode processus permet de transformer des informations en d'autres informations : un cahier des charges en pages HTML par exemple.</p>
+\n
+<h2>Un projet web</h2>
+\n
+<p>Il semble que l'inculture généralisée sévit dans les équipes web. Certains de transformer le monde et de participer à un avenir radieux, plutôt que de garder un regard cohérent sur sa situation, chacun se donne des \"airs\" en prenant pour un statut de poste le plus valorisant.<br />
+  Nous connaissons d'ailleurs le ridicule de celui de chef de projets ; une personne qui ne dirige pas des hommes mais ces choses très immatériels que sont des projets.</p>
+\n
+<p>Pour commencer à défricher le sujet admettons que le projet web ne désigne rien de précis et commençons par distinguer 2 choses : le mode projet (le développement) et le mode processus (la maintenance et édition du site).</p>
+\n
+<h2>Les budgets miroirs</h2>
+\n
+<p>Puisque nous savons tous qu'un \"projet\" rentable est avant tout un \"projet\" bien vendu. Posons seulement la question de ce qui est vendu lors d'un développement.</p>
+\n
+<p>Comme nous pensons tous \"projets\" (transformation du monde), au moment de discuter budget, tout le monde parle du budget de transformation.</p>
+\n
+<p>Ne vous êtes vous jamais dit : cette fonctionnalité ne sert à rien, cette fonctionnalité ne sera jamais utilisé… le client aurait mieux fait d'investir autrement.</p>
+\n
+<p>On parle d'agilité, de manière de vendre, de saucissonnage en sprint ; mais avez vous seulement effectué cette opération simple : mettre en regard le budget de transformation avec le budget de maintenance.</p>
+\n
+<p>Le budget de maintenance est le budget qui sera nécessaire pour faire vivre le site, améliorer des fonctionnalités, communiquer…</p>
+\n
+<p>Essayer de présenter d'un côté les fonctionnalités que désire votre client et ce qu'il faudra qu'il débourse pour faire vivre le site : un salaire de rédacteur, un budget de maintenance avec vous…</p>
+\n
+<p>A priori, si vous arrivez à présenter à votre client la gestion de son site avec une vision stratégique pour qu'il dure dans le temps, il est fort possible que vous arriviez soit à faire baisser la voilure du projet initial pour qu'il se concentre sur ce qui a de la valeur ou à mettre plus d'argent afin que les développements rentre dans un processus élargie d'édition de contenus.</p>
+\n",
+"markdown": "
+<p>La relation client reste une sorte de maîtrise empirique de la manière dont on arrive à vendre une réalisation pour une certaine somme. Personnellement, je tente au maximum de réduire au maximum l'enveloppe et le périmètre afin d'être sûr que mon interlocuteur garde de la réserve pour des évolutions ou des corrections.</p>
+\n
+<h2>Le mode projet</h2>
+\n
+<p>Vous connaissez les chefs de projets ? Maintenant, demandez à un de vos chef de projets de vous définir ce qu'est un projet.</p>
+\n
+<p>Je donne ma main à couper que 98% de ceux-ci ne sont pas capables de vous donner une définition juste de ce que le mot projet relève. Si on se réfère à wikipédia, on trouve :</p>
+\n
+<blockquote cite=\"https://fr.wikipedia.org/wiki/Projet\">
+  <p>Le fonctionnement en « mode projet » se distingue du fonctionnement en mode processus en ce sens qu'une activité conduite en mode projet n'est généralement pas destinée à être répétée : son côté « inédit et unique » souligne la probabilité d'être confronté à un environnement incertain, du fait de l'absence plus ou moins grande d'expériences ou de pratiques antérieures. Par ailleurs, un processus est destiné à durer et n'a pas, en général de date de fin prévue.</p>
+  \n</blockquote>
+\n
+<p>Le mode projet est « inédit et unique », il n'est pas destiné à être répété, il s'oppose au mode processus.</p>
+\n
+<h2>Le mode processus</h2>
+\n
+<p>La définition du mode processus :</p>
+\n
+<blockquote cite=\"https://fr.wikipedia.org/wiki/Processus_%28gestion_de_la_qualit%C3%A9%29\">
+  <p>Un processus est un ensemble d'activités corrélées ou interactives qui transforme des éléments d'entrée en éléments de sortie. Ces éléments sont soit des objets matériels (pouvant être perçus comme des flux par la logistique à des fins d'évaluation) soit des informations, soit les deux.</p>
+  \n</blockquote>
+\n
+<p>Le mode processus permet de transformer des informations en d'autres informations : un cahier des charges en pages HTML par exemple.</p>
+\n
+<h2>Un projet web</h2>
+\n
+<p>Il semble que l'inculture généralisée sévit dans les équipes web. Certains de transformer le monde et de participer à un avenir radieux, plutôt que de garder un regard cohérent sur sa situation, chacun se donne des \"airs\" en prenant pour un statut de poste le plus valorisant.<br />
+  Nous connaissons d'ailleurs le ridicule de celui de chef de projets ; une personne qui ne dirige pas des hommes mais ces choses très immatériels que sont des projets.</p>
+\n
+<p>Pour commencer à défricher le sujet admettons que le projet web ne désigne rien de précis et commençons par distinguer 2 choses : le mode projet (le développement) et le mode processus (la maintenance et édition du site).</p>
+\n
+<h2>Les budgets miroirs</h2>
+\n
+<p>Puisque nous savons tous qu'un \"projet\" rentable est avant tout un \"projet\" bien vendu. Posons seulement la question de ce qui est vendu lors d'un développement.</p>
+\n
+<p>Comme nous pensons tous \"projets\" (transformation du monde), au moment de discuter budget, tout le monde parle du budget de transformation.</p>
+\n
+<p>Ne vous êtes vous jamais dit : cette fonctionnalité ne sert à rien, cette fonctionnalité ne sera jamais utilisé… le client aurait mieux fait d'investir autrement.</p>
+\n
+<p>On parle d'agilité, de manière de vendre, de saucissonnage en sprint ; mais avez vous seulement effectué cette opération simple : mettre en regard le budget de transformation avec le budget de maintenance.</p>
+\n
+<p>Le budget de maintenance est le budget qui sera nécessaire pour faire vivre le site, améliorer des fonctionnalités, communiquer…</p>
+\n
+<p>Essayer de présenter d'un côté les fonctionnalités que désire votre client et ce qu'il faudra qu'il débourse pour faire vivre le site : un salaire de rédacteur, un budget de maintenance avec vous…</p>
+\n
+<p>A priori, si vous arrivez à présenter à votre client la gestion de son site avec une vision stratégique pour qu'il dure dans le temps, il est fort possible que vous arriviez soit à faire baisser la voilure du projet initial pour qu'il se concentre sur ce qui a de la valeur ou à mettre plus d'argent afin que les développements rentre dans un processus élargie d'édition de contenus.</p>
+\n"
 }

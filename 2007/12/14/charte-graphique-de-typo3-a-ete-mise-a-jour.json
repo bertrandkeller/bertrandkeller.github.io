@@ -1,8 +1,20 @@
 {
-  "id": "/2007/12/14/charte-graphique-de-typo3-a-ete-mise-a-jour",
-  "title": "La charte graphique de TYPO3 a été mise à jour",
-  "url": "https://bertrandkeller.info/2007/12/14/charte-graphique-de-typo3-a-ete-mise-a-jour/",
-  "date": 1197630329,
-  "html": "<p>Le 23 novembre la charte graphique de l'organisation TYPO3 a été mise à jour. Personnellement, cela m'importe peu, mais l'information reste bonne à savoir.</p>\n<p>Les explications de la façon dont on décline les éléments graphiques sont disponibles sur la page <a href=\"http://typo3.org/teams/design/style-guide/\">TYPO3 style guide</a>.</p>\n<p>En ce qui concerne la casse du nom TYPO3 : ne dites pas, typo3 est formidable, typo-3 c'est de la grosse balle ou Typo3 j'en mangerais ; dites, nous développons nos sites sous TYPO3 ou encore nous préconisons TYPO3 pour la refonte de votre plateforme. Plus clairement, pas de sous-lignage, pas d'italique, pas de séparation et tout en majuscule (<a href=\"http://typo3.org/teams/design/style-guide/spelling-typo3-correctly/\">Casing of TYPO3</a>).</p>\n",
-  "markdown": "<p>Le 23 novembre la charte graphique de l'organisation TYPO3 a été mise à jour. Personnellement, cela m'importe peu, mais l'information reste bonne à savoir.</p>\n<p>Les explications de la façon dont on décline les éléments graphiques sont disponibles sur la page <a href=\"http://typo3.org/teams/design/style-guide/\">TYPO3 style guide</a>.</p>\n<p>En ce qui concerne la casse du nom TYPO3 : ne dites pas, typo3 est formidable, typo-3 c'est de la grosse balle ou Typo3 j'en mangerais ; dites, nous développons nos sites sous TYPO3 ou encore nous préconisons TYPO3 pour la refonte de votre plateforme. Plus clairement, pas de sous-lignage, pas d'italique, pas de séparation et tout en majuscule (<a href=\"http://typo3.org/teams/design/style-guide/spelling-typo3-correctly/\">Casing of TYPO3</a>).</p>\n"
+"id": "/2007/12/14/charte-graphique-de-typo3-a-ete-mise-a-jour",
+"title": "La charte graphique de TYPO3 a été mise à jour",
+"url": "https://bertrandkeller.info/2007/12/14/charte-graphique-de-typo3-a-ete-mise-a-jour/",
+"date": 1197630329,
+"html": "
+<p>Le 23 novembre la charte graphique de l'organisation TYPO3 a été mise à jour. Personnellement, cela m'importe peu, mais l'information reste bonne à savoir.</p>
+\n
+<p>Les explications de la façon dont on décline les éléments graphiques sont disponibles sur la page <a href=\"http://typo3.org/teams/design/style-guide/\">TYPO3 style guide</a>.</p>
+\n
+<p>En ce qui concerne la casse du nom TYPO3 : ne dites pas, typo3 est formidable, typo-3 c'est de la grosse balle ou Typo3 j'en mangerais ; dites, nous développons nos sites sous TYPO3 ou encore nous préconisons TYPO3 pour la refonte de votre plateforme. Plus clairement, pas de sous-lignage, pas d'italique, pas de séparation et tout en majuscule (<a href=\"http://typo3.org/teams/design/style-guide/spelling-typo3-correctly/\">Casing of TYPO3</a>).</p>
+\n",
+"markdown": "
+<p>Le 23 novembre la charte graphique de l'organisation TYPO3 a été mise à jour. Personnellement, cela m'importe peu, mais l'information reste bonne à savoir.</p>
+\n
+<p>Les explications de la façon dont on décline les éléments graphiques sont disponibles sur la page <a href=\"http://typo3.org/teams/design/style-guide/\">TYPO3 style guide</a>.</p>
+\n
+<p>En ce qui concerne la casse du nom TYPO3 : ne dites pas, typo3 est formidable, typo-3 c'est de la grosse balle ou Typo3 j'en mangerais ; dites, nous développons nos sites sous TYPO3 ou encore nous préconisons TYPO3 pour la refonte de votre plateforme. Plus clairement, pas de sous-lignage, pas d'italique, pas de séparation et tout en majuscule (<a href=\"http://typo3.org/teams/design/style-guide/spelling-typo3-correctly/\">Casing of TYPO3</a>).</p>
+\n"
 }

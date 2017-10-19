@@ -1,8 +1,52 @@
 {
-  "id": "/2013/11/04/les-mains-sales",
-  "title": "Les mains sales",
-  "url": "https://bertrandkeller.info/2013/11/04/les-mains-sales/",
-  "date": 1383587588,
-  "html": "<p>Quand quelqu'un qui n'est pas sensé faire du code parle de code, que dit-il ? Il dit : je vais mettre les main dans le cambouis. Un peu comme s'il suffisait d'avoir un bleu de travail et les mains sales pour être un mécano.</p>\n<h2>L'habit ne fait pas le moine</h2>\n<p>Prenez une réunion, un client (mal éduqué, comme on dit), un directeur technique, un fonctionnement à expliquer. Et bien dans une grande majorité des cas, l'explication du dit directeur utilisera l'analogie du monde industriel et plus particulièrement de l'automobile pour faire passer son message.</p>\n<p>Notre éducation nous forme la tête en marteau qui voit tous les problèmes comme des clous, c'est-à-dire comme des entreprises qui construisent des automobiles.</p>\n<h2>Le paradoxe de l'éducation</h2>\n<p>Bizarrement, les esprits les plus brillants sont sélectionnés pour leur sens logique, celui le plus à même à améliorer la chaîne de production ; la chaîne des machines outils sans humains.</p>\n<p>Faisons un sondage, combien de dirigeants sont-ils rentrés dans une usine ? Et combien ont-il déjà travaillé à la chaîne ne serait-ce qu'un seul mois (ce qui était une obligation pour tout cadre chez Michelin par exemple). Moi, je pense à peu près 0.</p>\n<p>On forme donc des dirigeants pour améliorer des chaînes de production constitués de robots alors même qu'ils ne connaissent rien à la productique et qu'en plus les entreprises sont en majorité constituées d'humains.</p>\n<h2>Conclusion</h2>\n<p>Je dirais donc, que dire \"mettre les mains dans le cambouis\" est une double idiotie dans le sens où, premièrement c'est quand on a les ongles sales et des ampoules qu'on peut prétendre savoir manipuler quelque chose, et deuxièmement quand on fait du code (plus particulièrement du web) on ne touche pas à des pièces inertes mais à organisme vivant.</p>\n<p>Donc au final, retenez que le code ce n'est pas sale comme dirait Doc et Difool et que si vous voulez vraiment faire une analogie prenez plutôt celle de la botanique.</p>\n",
-  "markdown": "<p>Quand quelqu'un qui n'est pas sensé faire du code parle de code, que dit-il ? Il dit : je vais mettre les main dans le cambouis. Un peu comme s'il suffisait d'avoir un bleu de travail et les mains sales pour être un mécano.</p>\n<h2>L'habit ne fait pas le moine</h2>\n<p>Prenez une réunion, un client (mal éduqué, comme on dit), un directeur technique, un fonctionnement à expliquer. Et bien dans une grande majorité des cas, l'explication du dit directeur utilisera l'analogie du monde industriel et plus particulièrement de l'automobile pour faire passer son message.</p>\n<p>Notre éducation nous forme la tête en marteau qui voit tous les problèmes comme des clous, c'est-à-dire comme des entreprises qui construisent des automobiles.</p>\n<h2>Le paradoxe de l'éducation</h2>\n<p>Bizarrement, les esprits les plus brillants sont sélectionnés pour leur sens logique, celui le plus à même à améliorer la chaîne de production ; la chaîne des machines outils sans humains.</p>\n<p>Faisons un sondage, combien de dirigeants sont-ils rentrés dans une usine ? Et combien ont-il déjà travaillé à la chaîne ne serait-ce qu'un seul mois (ce qui était une obligation pour tout cadre chez Michelin par exemple). Moi, je pense à peu près 0.</p>\n<p>On forme donc des dirigeants pour améliorer des chaînes de production constitués de robots alors même qu'ils ne connaissent rien à la productique et qu'en plus les entreprises sont en majorité constituées d'humains.</p>\n<h2>Conclusion</h2>\n<p>Je dirais donc, que dire \"mettre les mains dans le cambouis\" est une double idiotie dans le sens où, premièrement c'est quand on a les ongles sales et des ampoules qu'on peut prétendre savoir manipuler quelque chose, et deuxièmement quand on fait du code (plus particulièrement du web) on ne touche pas à des pièces inertes mais à organisme vivant.</p>\n<p>Donc au final, retenez que le code ce n'est pas sale comme dirait Doc et Difool et que si vous voulez vraiment faire une analogie prenez plutôt celle de la botanique.</p>\n"
+"id": "/2013/11/04/les-mains-sales",
+"title": "Les mains sales",
+"url": "https://bertrandkeller.info/2013/11/04/les-mains-sales/",
+"date": 1383587588,
+"html": "
+<p>Quand quelqu'un qui n'est pas sensé faire du code parle de code, que dit-il ? Il dit : je vais mettre les main dans le cambouis. Un peu comme s'il suffisait d'avoir un bleu de travail et les mains sales pour être un mécano.</p>
+\n
+<h2>L'habit ne fait pas le moine</h2>
+\n
+<p>Prenez une réunion, un client (mal éduqué, comme on dit), un directeur technique, un fonctionnement à expliquer. Et bien dans une grande majorité des cas, l'explication du dit directeur utilisera l'analogie du monde industriel et plus particulièrement de l'automobile pour faire passer son message.</p>
+\n
+<p>Notre éducation nous forme la tête en marteau qui voit tous les problèmes comme des clous, c'est-à-dire comme des entreprises qui construisent des automobiles.</p>
+\n
+<h2>Le paradoxe de l'éducation</h2>
+\n
+<p>Bizarrement, les esprits les plus brillants sont sélectionnés pour leur sens logique, celui le plus à même à améliorer la chaîne de production ; la chaîne des machines outils sans humains.</p>
+\n
+<p>Faisons un sondage, combien de dirigeants sont-ils rentrés dans une usine ? Et combien ont-il déjà travaillé à la chaîne ne serait-ce qu'un seul mois (ce qui était une obligation pour tout cadre chez Michelin par exemple). Moi, je pense à peu près 0.</p>
+\n
+<p>On forme donc des dirigeants pour améliorer des chaînes de production constitués de robots alors même qu'ils ne connaissent rien à la productique et qu'en plus les entreprises sont en majorité constituées d'humains.</p>
+\n
+<h2>Conclusion</h2>
+\n
+<p>Je dirais donc, que dire \"mettre les mains dans le cambouis\" est une double idiotie dans le sens où, premièrement c'est quand on a les ongles sales et des ampoules qu'on peut prétendre savoir manipuler quelque chose, et deuxièmement quand on fait du code (plus particulièrement du web) on ne touche pas à des pièces inertes mais à organisme vivant.</p>
+\n
+<p>Donc au final, retenez que le code ce n'est pas sale comme dirait Doc et Difool et que si vous voulez vraiment faire une analogie prenez plutôt celle de la botanique.</p>
+\n",
+"markdown": "
+<p>Quand quelqu'un qui n'est pas sensé faire du code parle de code, que dit-il ? Il dit : je vais mettre les main dans le cambouis. Un peu comme s'il suffisait d'avoir un bleu de travail et les mains sales pour être un mécano.</p>
+\n
+<h2>L'habit ne fait pas le moine</h2>
+\n
+<p>Prenez une réunion, un client (mal éduqué, comme on dit), un directeur technique, un fonctionnement à expliquer. Et bien dans une grande majorité des cas, l'explication du dit directeur utilisera l'analogie du monde industriel et plus particulièrement de l'automobile pour faire passer son message.</p>
+\n
+<p>Notre éducation nous forme la tête en marteau qui voit tous les problèmes comme des clous, c'est-à-dire comme des entreprises qui construisent des automobiles.</p>
+\n
+<h2>Le paradoxe de l'éducation</h2>
+\n
+<p>Bizarrement, les esprits les plus brillants sont sélectionnés pour leur sens logique, celui le plus à même à améliorer la chaîne de production ; la chaîne des machines outils sans humains.</p>
+\n
+<p>Faisons un sondage, combien de dirigeants sont-ils rentrés dans une usine ? Et combien ont-il déjà travaillé à la chaîne ne serait-ce qu'un seul mois (ce qui était une obligation pour tout cadre chez Michelin par exemple). Moi, je pense à peu près 0.</p>
+\n
+<p>On forme donc des dirigeants pour améliorer des chaînes de production constitués de robots alors même qu'ils ne connaissent rien à la productique et qu'en plus les entreprises sont en majorité constituées d'humains.</p>
+\n
+<h2>Conclusion</h2>
+\n
+<p>Je dirais donc, que dire \"mettre les mains dans le cambouis\" est une double idiotie dans le sens où, premièrement c'est quand on a les ongles sales et des ampoules qu'on peut prétendre savoir manipuler quelque chose, et deuxièmement quand on fait du code (plus particulièrement du web) on ne touche pas à des pièces inertes mais à organisme vivant.</p>
+\n
+<p>Donc au final, retenez que le code ce n'est pas sale comme dirait Doc et Difool et que si vous voulez vraiment faire une analogie prenez plutôt celle de la botanique.</p>
+\n"
 }

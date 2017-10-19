@@ -1,8 +1,52 @@
 {
-  "id": "/2009/08/12/comparer-cms-evaluatio",
-  "title": "Comparer et choisir son CMS : l'évaluation",
-  "url": "https://bertrandkeller.info/2009/08/12/comparer-cms-evaluatio/",
-  "date": 1250083282,
-  "html": "<p>Voici, un article paru chez <a href=\"\" title=\"Acclaimed Web Development and Online Marketing Blog\">Acclaimed Web Development and Online Marketing Blog</a> sur comment utiliser et évaluer un CMS : <a href=\"http://acclaimedwebdevelopment.com/blog/2009/08/11/content-management-systems-how-to-use-evaluate-them/\" title=\"Content Management Systems &amp; How to Use &amp; Evaluate Them\">Content Management Systems &amp; How to Use &amp; Evaluate Them</a>.</p>\n<p>Voici les critères majeurs selon cet article :</p>\n<ol>\n<li>Le support : l'aide en ligne disponible</li>\n<li>Les add-on, plugins et modules</li>\n<li>L'ampleur de la communauté et la qualité des appéciations sur la toile</li>\n<li>La fréquence de visualisation d'un bug majeur (jamais corrigé)</li>\n<li>L'existence d'un bulletin de sécurité, pour les failles</li>\n</ol>\n<p>A la fin de l'article, on retrouve un peu de promotion pour Joomla, Drupal and Zikula ; bien entendu d'autres CMS présentent les mêmes qualités, tout dépend du niveau de sa confidentialité sur la toile et de se qu'on cherche.</p>\n<p>De plus, un CMS majeur répond à tout ces critères ; TYPO3 propose : un site officiel avec des tutoriaux dans plusieurs langues, un wiki, des <a href=\"http://typo3.org/extensions/repository/\" title=\"milliers d'extensions pour TYPO3\">milliers d'extensions</a> documentées, un <a href=\"http://bugs.typo3.org/my_view_page.php\" title=\"bugtraker typo3\">bugtracker</a> public super actif (en anglais) avec plus de 10 000 bugs et bien sur son <a href=\"http://typo3.org/teams/security/security-bulletins/\" title=\"équipe sécurité TYPO3\">équipe sécurité</a>.</p>\n<p>Je rajouterai que pour TYPO3, je n'ai encore personnellement jamais vu une seule personne prétendre (après avoir mis le nez dedans) que ce CMS était mal codé. On ne reproche à TYPO3 que sa complexité de configuration et sa longue courbe d'apprentissage.</p>\n",
-  "markdown": "<p>Voici, un article paru chez <a href=\"\" title=\"Acclaimed Web Development and Online Marketing Blog\">Acclaimed Web Development and Online Marketing Blog</a> sur comment utiliser et évaluer un CMS : <a href=\"http://acclaimedwebdevelopment.com/blog/2009/08/11/content-management-systems-how-to-use-evaluate-them/\" title=\"Content Management Systems & How to Use & Evaluate Them\">Content Management Systems & How to Use & Evaluate Them</a>.</p>\n<p>Voici les critères majeurs selon cet article :</p>\n<ol>\n<li>Le support : l'aide en ligne disponible</li>\n<li>Les add-on, plugins et modules</li>\n<li>L'ampleur de la communauté et la qualité des appéciations sur la toile</li>\n<li>La fréquence de visualisation d'un bug majeur (jamais corrigé)</li>\n<li>L'existence d'un bulletin de sécurité, pour les failles</li>\n</ol>\n<p>A la fin de l'article, on retrouve un peu de promotion pour Joomla, Drupal and Zikula ; bien entendu d'autres CMS présentent les mêmes qualités, tout dépend du niveau de sa confidentialité sur la toile et de se qu'on cherche.</p>\n<p>De plus, un CMS majeur répond à tout ces critères ; TYPO3 propose : un site officiel avec des tutoriaux dans plusieurs langues, un wiki, des <a href=\"http://typo3.org/extensions/repository/\" title=\"milliers d'extensions pour TYPO3\">milliers d'extensions</a> documentées, un <a href=\"http://bugs.typo3.org/my_view_page.php\" title=\"bugtraker typo3\">bugtracker</a> public super actif (en anglais) avec plus de 10 000 bugs et bien sur son <a href=\"http://typo3.org/teams/security/security-bulletins/\" title=\"équipe sécurité TYPO3\">équipe sécurité</a>.</p>\n<p>Je rajouterai que pour TYPO3, je n'ai encore personnellement jamais vu une seule personne prétendre (après avoir mis le nez dedans) que ce CMS était mal codé. On ne reproche à TYPO3 que sa complexité de configuration et sa longue courbe d'apprentissage.</p>\n"
+"id": "/2009/08/12/comparer-cms-evaluatio",
+"title": "Comparer et choisir son CMS : l'évaluation",
+"url": "https://bertrandkeller.info/2009/08/12/comparer-cms-evaluatio/",
+"date": 1250083282,
+"html": "
+<p>Voici, un article paru chez <a href=\"\" title=\"Acclaimed Web Development and Online Marketing Blog\">Acclaimed Web Development and Online Marketing Blog</a> sur comment utiliser et évaluer un CMS : <a href=\"http://acclaimedwebdevelopment.com/blog/2009/08/11/content-management-systems-how-to-use-evaluate-them/\" title=\"Content Management Systems &amp; How to Use &amp; Evaluate Them\">Content Management Systems &amp; How to Use &amp; Evaluate Them</a>.</p>
+\n
+<p>Voici les critères majeurs selon cet article :</p>
+\n
+<ol>\n
+  <li>Le support : l'aide en ligne disponible</li>
+  \n
+  <li>Les add-on, plugins et modules</li>
+  \n
+  <li>L'ampleur de la communauté et la qualité des appéciations sur la toile</li>
+  \n
+  <li>La fréquence de visualisation d'un bug majeur (jamais corrigé)</li>
+  \n
+  <li>L'existence d'un bulletin de sécurité, pour les failles</li>
+  \n</ol>
+\n
+<p>A la fin de l'article, on retrouve un peu de promotion pour Joomla, Drupal and Zikula ; bien entendu d'autres CMS présentent les mêmes qualités, tout dépend du niveau de sa confidentialité sur la toile et de se qu'on cherche.</p>
+\n
+<p>De plus, un CMS majeur répond à tout ces critères ; TYPO3 propose : un site officiel avec des tutoriaux dans plusieurs langues, un wiki, des <a href=\"http://typo3.org/extensions/repository/\" title=\"milliers d'extensions pour TYPO3\">milliers d'extensions</a> documentées, un <a href=\"http://bugs.typo3.org/my_view_page.php\" title=\"bugtraker typo3\">bugtracker</a> public super actif (en anglais) avec plus de 10 000 bugs et bien sur son <a href=\"http://typo3.org/teams/security/security-bulletins/\" title=\"équipe sécurité TYPO3\">équipe sécurité</a>.</p>
+\n
+<p>Je rajouterai que pour TYPO3, je n'ai encore personnellement jamais vu une seule personne prétendre (après avoir mis le nez dedans) que ce CMS était mal codé. On ne reproche à TYPO3 que sa complexité de configuration et sa longue courbe d'apprentissage.</p>
+\n",
+"markdown": "
+<p>Voici, un article paru chez <a href=\"\" title=\"Acclaimed Web Development and Online Marketing Blog\">Acclaimed Web Development and Online Marketing Blog</a> sur comment utiliser et évaluer un CMS : <a href=\"http://acclaimedwebdevelopment.com/blog/2009/08/11/content-management-systems-how-to-use-evaluate-them/\" title=\"Content Management Systems & How to Use & Evaluate Them\">Content Management Systems & How to Use & Evaluate Them</a>.</p>
+\n
+<p>Voici les critères majeurs selon cet article :</p>
+\n
+<ol>\n
+  <li>Le support : l'aide en ligne disponible</li>
+  \n
+  <li>Les add-on, plugins et modules</li>
+  \n
+  <li>L'ampleur de la communauté et la qualité des appéciations sur la toile</li>
+  \n
+  <li>La fréquence de visualisation d'un bug majeur (jamais corrigé)</li>
+  \n
+  <li>L'existence d'un bulletin de sécurité, pour les failles</li>
+  \n</ol>
+\n
+<p>A la fin de l'article, on retrouve un peu de promotion pour Joomla, Drupal and Zikula ; bien entendu d'autres CMS présentent les mêmes qualités, tout dépend du niveau de sa confidentialité sur la toile et de se qu'on cherche.</p>
+\n
+<p>De plus, un CMS majeur répond à tout ces critères ; TYPO3 propose : un site officiel avec des tutoriaux dans plusieurs langues, un wiki, des <a href=\"http://typo3.org/extensions/repository/\" title=\"milliers d'extensions pour TYPO3\">milliers d'extensions</a> documentées, un <a href=\"http://bugs.typo3.org/my_view_page.php\" title=\"bugtraker typo3\">bugtracker</a> public super actif (en anglais) avec plus de 10 000 bugs et bien sur son <a href=\"http://typo3.org/teams/security/security-bulletins/\" title=\"équipe sécurité TYPO3\">équipe sécurité</a>.</p>
+\n
+<p>Je rajouterai que pour TYPO3, je n'ai encore personnellement jamais vu une seule personne prétendre (après avoir mis le nez dedans) que ce CMS était mal codé. On ne reproche à TYPO3 que sa complexité de configuration et sa longue courbe d'apprentissage.</p>
+\n"
 }

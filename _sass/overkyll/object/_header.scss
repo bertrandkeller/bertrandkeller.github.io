@@ -24,10 +24,16 @@
   padding: $base-line/2 $base-line;
   width: 100%;
   background: transparent;
+}
+
+// // Site header top :: making the logo and the menu on the same line
+.site-header-top__align {
   @media #{$medium-up} {
     flex-direction: row;
+    align-items: baseline;
   }
 }
+
 
 // Site header hero :: class on general container for hero header
 .site-header-hero {

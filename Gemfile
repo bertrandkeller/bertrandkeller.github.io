@@ -18,4 +18,5 @@ group :jekyll_plugins do
     gem 'jekyll-github-metadata'
     gem 'jekyll-livereload'
     gem 'jekyll-include-cache'
+    gem 'jekyll-tidy'
 end

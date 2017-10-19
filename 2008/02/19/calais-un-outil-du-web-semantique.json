@@ -1,8 +1,24 @@
 {
-  "id": "/2008/02/19/calais-un-outil-du-web-semantique",
-  "title": "Calais, un outil du web sémantique",
-  "url": "https://bertrandkeller.info/2008/02/19/calais-un-outil-du-web-semantique/",
-  "date": 1203376736,
-  "html": "<p><a href=\"http://adscriptum.blogspot.com/2008/02/open-calais-reuters-nous-rapproche-du.html\">Jean-Marie Le Ray</a> en parle très bien sur son blog, pour une fois c'est facile à lire. Le nom de Calais ne se distingue pas cette fois pour ses performances en coupe de France, <a href=\"http://www.opencalais.com/\">Calais</a> est un service Web capable de rattacher automatiquement au contenu que vous soumettez des métadonnées sémantiquement riches.</p>\n<p>Voilà tout est dit, ce service est formidable, génial, sans pareil.</p>\n<p>A ce que j'ai compris avec mes faibles compétences, on soumet un fichier d'entrée avec un contenu balisé, Calais se charge de le convertir à la volée sous <a href=\"http://www.opencalais.com/page/documentation\">différents formats</a> (SOAP, RDF,...) et stocke tout ça sur un serveur à lui. Ceci permet donc, à partir d'un contenu sémantisé provenant de son site, de générer différents fichiers dans des formats ready pour le web 3.0.</p>\n<p>Personnellement, je ne saisis pas bien l'histoire du stockage de ces fichiers, il semble que le service conserve toutes les données soumises (et ouais) ; mais, tout de même, c'est pas la classe ça ?</p>\n",
-  "markdown": "<p><a href=\"http://adscriptum.blogspot.com/2008/02/open-calais-reuters-nous-rapproche-du.html\">Jean-Marie Le Ray</a> en parle très bien sur son blog, pour une fois c'est facile à lire. Le nom de Calais ne se distingue pas cette fois pour ses performances en coupe de France, <a href=\"http://www.opencalais.com/\">Calais</a> est un service Web capable de rattacher automatiquement au contenu que vous soumettez des métadonnées sémantiquement riches.</p>\n<p>Voilà tout est dit, ce service est formidable, génial, sans pareil.</p>\n<p>A ce que j'ai compris avec mes faibles compétences, on soumet un fichier d'entrée avec un contenu balisé, Calais se charge de le convertir à la volée sous <a href=\"http://www.opencalais.com/page/documentation\">différents formats</a> (SOAP, RDF,...) et stocke tout ça sur un serveur à lui. Ceci permet donc, à partir d'un contenu sémantisé provenant de son site, de générer différents fichiers dans des formats ready pour le web 3.0.</p>\n<p>Personnellement, je ne saisis pas bien l'histoire du stockage de ces fichiers, il semble que le service conserve toutes les données soumises (et ouais) ; mais, tout de même, c'est pas la classe ça ?</p>\n"
+"id": "/2008/02/19/calais-un-outil-du-web-semantique",
+"title": "Calais, un outil du web sémantique",
+"url": "https://bertrandkeller.info/2008/02/19/calais-un-outil-du-web-semantique/",
+"date": 1203376736,
+"html": "
+<p><a href=\"http://adscriptum.blogspot.com/2008/02/open-calais-reuters-nous-rapproche-du.html\">Jean-Marie Le Ray</a> en parle très bien sur son blog, pour une fois c'est facile à lire. Le nom de Calais ne se distingue pas cette fois pour ses performances en coupe de France, <a href=\"http://www.opencalais.com/\">Calais</a> est un service Web capable de rattacher automatiquement au contenu que vous soumettez des métadonnées sémantiquement riches.</p>
+\n
+<p>Voilà tout est dit, ce service est formidable, génial, sans pareil.</p>
+\n
+<p>A ce que j'ai compris avec mes faibles compétences, on soumet un fichier d'entrée avec un contenu balisé, Calais se charge de le convertir à la volée sous <a href=\"http://www.opencalais.com/page/documentation\">différents formats</a> (SOAP, RDF,...) et stocke tout ça sur un serveur à lui. Ceci permet donc, à partir d'un contenu sémantisé provenant de son site, de générer différents fichiers dans des formats ready pour le web 3.0.</p>
+\n
+<p>Personnellement, je ne saisis pas bien l'histoire du stockage de ces fichiers, il semble que le service conserve toutes les données soumises (et ouais) ; mais, tout de même, c'est pas la classe ça ?</p>
+\n",
+"markdown": "
+<p><a href=\"http://adscriptum.blogspot.com/2008/02/open-calais-reuters-nous-rapproche-du.html\">Jean-Marie Le Ray</a> en parle très bien sur son blog, pour une fois c'est facile à lire. Le nom de Calais ne se distingue pas cette fois pour ses performances en coupe de France, <a href=\"http://www.opencalais.com/\">Calais</a> est un service Web capable de rattacher automatiquement au contenu que vous soumettez des métadonnées sémantiquement riches.</p>
+\n
+<p>Voilà tout est dit, ce service est formidable, génial, sans pareil.</p>
+\n
+<p>A ce que j'ai compris avec mes faibles compétences, on soumet un fichier d'entrée avec un contenu balisé, Calais se charge de le convertir à la volée sous <a href=\"http://www.opencalais.com/page/documentation\">différents formats</a> (SOAP, RDF,...) et stocke tout ça sur un serveur à lui. Ceci permet donc, à partir d'un contenu sémantisé provenant de son site, de générer différents fichiers dans des formats ready pour le web 3.0.</p>
+\n
+<p>Personnellement, je ne saisis pas bien l'histoire du stockage de ces fichiers, il semble que le service conserve toutes les données soumises (et ouais) ; mais, tout de même, c'est pas la classe ça ?</p>
+\n"
 }

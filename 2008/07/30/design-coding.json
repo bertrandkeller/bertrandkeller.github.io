@@ -1,8 +1,12 @@
 {
-  "id": "/2008/07/30/design-coding",
-  "title": "Design coding",
-  "url": "https://bertrandkeller.info/2008/07/30/design-coding/",
-  "date": 1217428995,
-  "html": "<div class=\"center\"><object width=\"425\" height=\"344\"><param name=\"movie\" value=\"https://www.youtube.com/v/a0qMe7Z3EYg&amp;hl=en&amp;fs=1\" /><param name=\"allowFullScreen\" value=\"true\" /><embed src=\"https://www.youtube.com/v/a0qMe7Z3EYg&amp;hl=en&amp;fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\" /></embed></object></div>\n",
-  "markdown": "<div class=\"center\"><object width=\"425\" height=\"344\"><param name=\"movie\" value=\"https://www.youtube.com/v/a0qMe7Z3EYg&hl=en&fs=1\" /><param name=\"allowFullScreen\" value=\"true\" /><embed src=\"https://www.youtube.com/v/a0qMe7Z3EYg&hl=en&fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\"></embed></object></div>\n"
+"id": "/2008/07/30/design-coding",
+"title": "Design coding",
+"url": "https://bertrandkeller.info/2008/07/30/design-coding/",
+"date": 1217428995,
+"html": "
+<div class=\"aspectratio\" data-ratio=\"4/3\"><object width=\"425\" height=\"344\"><param name=\"movie\" value=\"https://www.youtube.com/v/a0qMe7Z3EYg&amp;hl=en&amp;fs=1\" /><param name=\"allowFullScreen\" value=\"true\" /><embed src=\"https://www.youtube.com/v/a0qMe7Z3EYg&amp;hl=en&amp;fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\" />&lt;/embed&gt;</object></div>
+\n",
+"markdown": "
+<div class=\"aspectratio\" data-ratio=\"4/3\"><object width=\"425\" height=\"344\"><param name=\"movie\" value=\"https://www.youtube.com/v/a0qMe7Z3EYg&hl=en&fs=1\" /><param name=\"allowFullScreen\" value=\"true\" /><embed src=\"https://www.youtube.com/v/a0qMe7Z3EYg&hl=en&fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\"></embed></object></div>
+\n"
 }

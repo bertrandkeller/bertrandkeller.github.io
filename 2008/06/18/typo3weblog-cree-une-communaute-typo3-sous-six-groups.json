@@ -1,8 +1,32 @@
 {
-  "id": "/2008/06/18/typo3weblog-cree-une-communaute-typo3-sous-six-groups",
-  "title": "TYPO3Weblog crée une communauté TYPO3 sous six groups",
-  "url": "https://bertrandkeller.info/2008/06/18/typo3weblog-cree-une-communaute-typo3-sous-six-groups/",
-  "date": 1213811170,
-  "html": "<p><a href=\"http://sixgroups.com/about-us/\">Six groups</a> permet de démarrer  sa propre communauté rapidement, facilement et gratuitement sur n'importe quel sujet. Six groups est un réseau social qui se développe dans les pays germanophones et principalement dans les pays germanophones.</p>\n<ul>\n<li><a href=\"http://mashable.com/2008/06/02/sixgroups-livecommunity/\">Converse on Websites with Six Groups’ Livecommunity</a></li>\n<li><a href=\"http://thenextweb.org/2008/05/15/six-groups-one-community-on-the-go-please/\">Six Groups: “one community on the go please”</a></li>\n</ul>\n<p>Le blog TYPO3Weblog vient de créer un compte sur ce service en ligne, beaucoup utilisé par des gens qui parlent allemand ; ça s'appelle TYPO3weblog ; c'est disponible à l'adresse : <a href=\"http://typo3weblog.sixgroups.com/\">http://typo3weblog.sixgroups.com/</a>.</p>\n<p>Sur la page de ce groupe sont mélangés des billets de blogs parlant de TYPO3 et des commentaires en allemand de membres du réseau. Tout en haut, dans la barre d'adresse, un flux RSS est disponible : <a href=\"http://typo3weblog.sixgroups.com/activity/rss/\">http://typo3weblog.sixgroups.com/activity/rss/</a>.</p>\n",
-  "markdown": "<p><a href=\"http://sixgroups.com/about-us/\">Six groups</a> permet de démarrer  sa propre communauté rapidement, facilement et gratuitement sur n'importe quel sujet. Six groups est un réseau social qui se développe dans les pays germanophones et principalement dans les pays germanophones.</p>\n<ul>\n<li><a href=\"http://mashable.com/2008/06/02/sixgroups-livecommunity/\">Converse on Websites with Six Groups’ Livecommunity</a></li>\n<li><a href=\"http://thenextweb.org/2008/05/15/six-groups-one-community-on-the-go-please/\">Six Groups: “one community on the go please”</a></li>\n</ul>\n<p>Le blog TYPO3Weblog vient de créer un compte sur ce service en ligne, beaucoup utilisé par des gens qui parlent allemand ; ça s'appelle TYPO3weblog ; c'est disponible à l'adresse : <a href=\"http://typo3weblog.sixgroups.com/\">http://typo3weblog.sixgroups.com/</a>.</p>\n<p>Sur la page de ce groupe sont mélangés des billets de blogs parlant de TYPO3 et des commentaires en allemand de membres du réseau. Tout en haut, dans la barre d'adresse, un flux RSS est disponible : <a href=\"http://typo3weblog.sixgroups.com/activity/rss/\">http://typo3weblog.sixgroups.com/activity/rss/</a>.</p>\n"
+"id": "/2008/06/18/typo3weblog-cree-une-communaute-typo3-sous-six-groups",
+"title": "TYPO3Weblog crée une communauté TYPO3 sous six groups",
+"url": "https://bertrandkeller.info/2008/06/18/typo3weblog-cree-une-communaute-typo3-sous-six-groups/",
+"date": 1213811170,
+"html": "
+<p><a href=\"http://sixgroups.com/about-us/\">Six groups</a> permet de démarrer  sa propre communauté rapidement, facilement et gratuitement sur n'importe quel sujet. Six groups est un réseau social qui se développe dans les pays germanophones et principalement dans les pays germanophones.</p>
+\n
+<ul>\n
+  <li><a href=\"http://mashable.com/2008/06/02/sixgroups-livecommunity/\">Converse on Websites with Six Groups’ Livecommunity</a></li>
+  \n
+  <li><a href=\"http://thenextweb.org/2008/05/15/six-groups-one-community-on-the-go-please/\">Six Groups: “one community on the go please”</a></li>
+  \n</ul>
+\n
+<p>Le blog TYPO3Weblog vient de créer un compte sur ce service en ligne, beaucoup utilisé par des gens qui parlent allemand ; ça s'appelle TYPO3weblog ; c'est disponible à l'adresse : <a href=\"http://typo3weblog.sixgroups.com/\">http://typo3weblog.sixgroups.com/</a>.</p>
+\n
+<p>Sur la page de ce groupe sont mélangés des billets de blogs parlant de TYPO3 et des commentaires en allemand de membres du réseau. Tout en haut, dans la barre d'adresse, un flux RSS est disponible : <a href=\"http://typo3weblog.sixgroups.com/activity/rss/\">http://typo3weblog.sixgroups.com/activity/rss/</a>.</p>
+\n",
+"markdown": "
+<p><a href=\"http://sixgroups.com/about-us/\">Six groups</a> permet de démarrer  sa propre communauté rapidement, facilement et gratuitement sur n'importe quel sujet. Six groups est un réseau social qui se développe dans les pays germanophones et principalement dans les pays germanophones.</p>
+\n
+<ul>\n
+  <li><a href=\"http://mashable.com/2008/06/02/sixgroups-livecommunity/\">Converse on Websites with Six Groups’ Livecommunity</a></li>
+  \n
+  <li><a href=\"http://thenextweb.org/2008/05/15/six-groups-one-community-on-the-go-please/\">Six Groups: “one community on the go please”</a></li>
+  \n</ul>
+\n
+<p>Le blog TYPO3Weblog vient de créer un compte sur ce service en ligne, beaucoup utilisé par des gens qui parlent allemand ; ça s'appelle TYPO3weblog ; c'est disponible à l'adresse : <a href=\"http://typo3weblog.sixgroups.com/\">http://typo3weblog.sixgroups.com/</a>.</p>
+\n
+<p>Sur la page de ce groupe sont mélangés des billets de blogs parlant de TYPO3 et des commentaires en allemand de membres du réseau. Tout en haut, dans la barre d'adresse, un flux RSS est disponible : <a href=\"http://typo3weblog.sixgroups.com/activity/rss/\">http://typo3weblog.sixgroups.com/activity/rss/</a>.</p>
+\n"
 }

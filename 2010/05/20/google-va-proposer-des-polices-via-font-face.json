@@ -1,8 +1,64 @@
 {
-  "id": "/2010/05/20/google-va-proposer-des-polices-via-font-face",
-  "title": "Google va proposer des polices via font-face",
-  "url": "https://bertrandkeller.info/2010/05/20/google-va-proposer-des-polices-via-font-face/",
-  "date": 1274360085,
-  "html": "<p>Arial est notre police favorite sur le web. Nous n'avons pas trop le choix, les sites affichent cette police par défaut, faute de disposer d'alternatives possibles. Comme dit Glazou, les polices sont les éléments les plus copyrightés de la planète, c'est pour cette raison que vous n'avez pas le droit d'utiliser certaines polices.</p>\n<p>Google se lance dans l'hébergement de polices pour le web, téléchargeables à partir de la propriété @font-face. Ainsi, helvetica pourra remplacer arial dans quelques années. Elles pourront être accessibles grâce à une API : Google Font API.</p>\n<p>Mieux encore google s'assosie avec Typekit pour créer une petite fonction JavaScript pour améliorer l'affichage sur l'ensemble des navigateurs.</p>\n<blockquote cite=\"http://www.zorgloob.com/2010-05/google-font-directory\"><p>Tous les navigateurs ne traitent pas les polices de la même manière : Firefox affiche le texte avec la police par défaut puis la police choisie une fois qu’elle est téléchargée, les autres afficheront des espaces blancs pendant ce temps. Pour harmoniser tout cela, le JavaScript est d’un grand secours et c’est à nouveau Google qui propose le <a href=\"http://googlecode.blogspot.com/2010/05/introducing-webfont-loader-in.html\">WebFont Loader</a> pour palier ces problèmes.</p>\n</blockquote>\n<p>Lire :</p>\n<ul>\n<li><a href=\"http://www.zorgloob.com/2010-05/google-font-directory\" title=\"Zorgloob - Google dédie une API à la police… d’écriture\">Google dédie une API à la police… d’écriture</a></li>\n<li><a href=\"http://blog.typekit.com/2010/05/19/typekit-and-google/\" title=\"Typekit and Google Announce Open Source Collaboration\">Typekit and Google Announce Open Source Collaboration</a></li>\n<li><a href=\"https://fonts.google.com/\" title=\"Google Font Directory - page exemple\">Google Font Directory</a></li>\n</ul>\n<p>Mais attention, intégrer @font-face sur son site n'est pas si aisé ; IE ne prend pas en compte les même extensions.</p>\n<blockquote cite=\"\"><p>The problem at the center of this is that IE needs an .eot font, and the other browsers must take a .ttf or .otf.</p>\n</blockquote>\n<p>Lire <a href=\"http://paulirish.com/2009/bulletproof-font-face-implementation-syntax/\" title=\"Bulletproof @font-face syntax\">Bulletproof @font-face syntax</a>.</p>\n",
-  "markdown": "<p>Arial est notre police favorite sur le web. Nous n'avons pas trop le choix, les sites affichent cette police par défaut, faute de disposer d'alternatives possibles. Comme dit Glazou, les polices sont les éléments les plus copyrightés de la planète, c'est pour cette raison que vous n'avez pas le droit d'utiliser certaines polices.</p>\n<p>Google se lance dans l'hébergement de polices pour le web, téléchargeables à partir de la propriété @font-face. Ainsi, helvetica pourra remplacer arial dans quelques années. Elles pourront être accessibles grâce à une API : Google Font API.</p>\n<p>Mieux encore google s'assosie avec Typekit pour créer une petite fonction JavaScript pour améliorer l'affichage sur l'ensemble des navigateurs.</p>\n<blockquote cite=\"http://www.zorgloob.com/2010-05/google-font-directory\"><p>Tous les navigateurs ne traitent pas les polices de la même manière : Firefox affiche le texte avec la police par défaut puis la police choisie une fois qu’elle est téléchargée, les autres afficheront des espaces blancs pendant ce temps. Pour harmoniser tout cela, le JavaScript est d’un grand secours et c’est à nouveau Google qui propose le <a href=\"http://googlecode.blogspot.com/2010/05/introducing-webfont-loader-in.html\">WebFont Loader</a> pour palier ces problèmes.</p>\n</blockquote>\n<p>Lire :</p>\n<ul>\n<li><a href=\"http://www.zorgloob.com/2010-05/google-font-directory\" title=\"Zorgloob - Google dédie une API à la police… d’écriture\">Google dédie une API à la police… d’écriture</a></li>\n<li><a href=\"http://blog.typekit.com/2010/05/19/typekit-and-google/\" title=\"Typekit and Google Announce Open Source Collaboration\">Typekit and Google Announce Open Source Collaboration</a></li>\n<li><a href=\"https://fonts.google.com/\" title=\"Google Font Directory - page exemple\">Google Font Directory</a></li>\n</ul>\n<p>Mais attention, intégrer @font-face sur son site n'est pas si aisé ; IE ne prend pas en compte les même extensions.</p>\n<blockquote cite=\"\"><p>The problem at the center of this is that IE needs an .eot font, and the other browsers must take a .ttf or .otf.</p>\n</blockquote>\n<p>Lire <a href=\"http://paulirish.com/2009/bulletproof-font-face-implementation-syntax/\" title=\"Bulletproof @font-face syntax\">Bulletproof @font-face syntax</a>.</p>\n"
+"id": "/2010/05/20/google-va-proposer-des-polices-via-font-face",
+"title": "Google va proposer des polices via font-face",
+"url": "https://bertrandkeller.info/2010/05/20/google-va-proposer-des-polices-via-font-face/",
+"date": 1274360085,
+"html": "
+<p>Arial est notre police favorite sur le web. Nous n'avons pas trop le choix, les sites affichent cette police par défaut, faute de disposer d'alternatives possibles. Comme dit Glazou, les polices sont les éléments les plus copyrightés de la planète, c'est pour cette raison que vous n'avez pas le droit d'utiliser certaines polices.</p>
+\n
+<p>Google se lance dans l'hébergement de polices pour le web, téléchargeables à partir de la propriété @font-face. Ainsi, helvetica pourra remplacer arial dans quelques années. Elles pourront être accessibles grâce à une API : Google Font API.</p>
+\n
+<p>Mieux encore google s'assosie avec Typekit pour créer une petite fonction JavaScript pour améliorer l'affichage sur l'ensemble des navigateurs.</p>
+\n
+<blockquote cite=\"http://www.zorgloob.com/2010-05/google-font-directory\">
+  <p>Tous les navigateurs ne traitent pas les polices de la même manière : Firefox affiche le texte avec la police par défaut puis la police choisie une fois qu’elle est téléchargée, les autres afficheront des espaces blancs pendant ce temps. Pour harmoniser tout cela, le JavaScript est d’un grand secours et c’est à nouveau Google qui propose le <a href=\"http://googlecode.blogspot.com/2010/05/introducing-webfont-loader-in.html\">WebFont Loader</a> pour palier ces problèmes.</p>
+  \n</blockquote>
+\n
+<p>Lire :</p>
+\n
+<ul>\n
+  <li><a href=\"http://www.zorgloob.com/2010-05/google-font-directory\" title=\"Zorgloob - Google dédie une API à la police… d’écriture\">Google dédie une API à la police… d’écriture</a></li>
+  \n
+  <li><a href=\"http://blog.typekit.com/2010/05/19/typekit-and-google/\" title=\"Typekit and Google Announce Open Source Collaboration\">Typekit and Google Announce Open Source Collaboration</a></li>
+  \n
+  <li><a href=\"https://fonts.google.com/\" title=\"Google Font Directory - page exemple\">Google Font Directory</a></li>
+  \n</ul>
+\n
+<p>Mais attention, intégrer @font-face sur son site n'est pas si aisé ; IE ne prend pas en compte les même extensions.</p>
+\n
+<blockquote cite=\"\">
+  <p>The problem at the center of this is that IE needs an .eot font, and the other browsers must take a .ttf or .otf.</p>
+  \n</blockquote>
+\n
+<p>Lire <a href=\"http://paulirish.com/2009/bulletproof-font-face-implementation-syntax/\" title=\"Bulletproof @font-face syntax\">Bulletproof @font-face syntax</a>.</p>
+\n",
+"markdown": "
+<p>Arial est notre police favorite sur le web. Nous n'avons pas trop le choix, les sites affichent cette police par défaut, faute de disposer d'alternatives possibles. Comme dit Glazou, les polices sont les éléments les plus copyrightés de la planète, c'est pour cette raison que vous n'avez pas le droit d'utiliser certaines polices.</p>
+\n
+<p>Google se lance dans l'hébergement de polices pour le web, téléchargeables à partir de la propriété @font-face. Ainsi, helvetica pourra remplacer arial dans quelques années. Elles pourront être accessibles grâce à une API : Google Font API.</p>
+\n
+<p>Mieux encore google s'assosie avec Typekit pour créer une petite fonction JavaScript pour améliorer l'affichage sur l'ensemble des navigateurs.</p>
+\n
+<blockquote cite=\"http://www.zorgloob.com/2010-05/google-font-directory\">
+  <p>Tous les navigateurs ne traitent pas les polices de la même manière : Firefox affiche le texte avec la police par défaut puis la police choisie une fois qu’elle est téléchargée, les autres afficheront des espaces blancs pendant ce temps. Pour harmoniser tout cela, le JavaScript est d’un grand secours et c’est à nouveau Google qui propose le <a href=\"http://googlecode.blogspot.com/2010/05/introducing-webfont-loader-in.html\">WebFont Loader</a> pour palier ces problèmes.</p>
+  \n</blockquote>
+\n
+<p>Lire :</p>
+\n
+<ul>\n
+  <li><a href=\"http://www.zorgloob.com/2010-05/google-font-directory\" title=\"Zorgloob - Google dédie une API à la police… d’écriture\">Google dédie une API à la police… d’écriture</a></li>
+  \n
+  <li><a href=\"http://blog.typekit.com/2010/05/19/typekit-and-google/\" title=\"Typekit and Google Announce Open Source Collaboration\">Typekit and Google Announce Open Source Collaboration</a></li>
+  \n
+  <li><a href=\"https://fonts.google.com/\" title=\"Google Font Directory - page exemple\">Google Font Directory</a></li>
+  \n</ul>
+\n
+<p>Mais attention, intégrer @font-face sur son site n'est pas si aisé ; IE ne prend pas en compte les même extensions.</p>
+\n
+<blockquote cite=\"\">
+  <p>The problem at the center of this is that IE needs an .eot font, and the other browsers must take a .ttf or .otf.</p>
+  \n</blockquote>
+\n
+<p>Lire <a href=\"http://paulirish.com/2009/bulletproof-font-face-implementation-syntax/\" title=\"Bulletproof @font-face syntax\">Bulletproof @font-face syntax</a>.</p>
+\n"
 }

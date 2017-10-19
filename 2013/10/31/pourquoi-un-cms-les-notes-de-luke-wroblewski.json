@@ -1,8 +1,96 @@
 {
-  "id": "/2013/10/31/pourquoi-un-cms-les-notes-de-luke-wroblewski",
-  "title": "Pourquoi un CMS, les notes de Luke Wroblewski",
-  "url": "https://bertrandkeller.info/2013/10/31/pourquoi-un-cms-les-notes-de-luke-wroblewski/",
-  "date": 1383236515,
-  "html": "<p>Traduction des <a href=\"http://www.lukew.com/ff/entry.asp?1815\">notes de Luke Wroblewski</a> sur la conférence de Phil Hawksworth : <a href=\"http://bdconf.com/2013/nashville\">I can smell your CMS</a></p>\n<ul>\n<li>Les clients veulent éviter d'être attachés à des technologies, des agences et à des structures qu'elles ne contrôlent pas. Elles essayent de le faire à travers des CMS.</li>\n<li>Pourquoi les gens utilisent des CMS ? Pour réduire les coût de modification, valoriser les écrits des auteurs, et mettre en place une maintenance simplifiée.</li>\n<li>Le coût de mise en place d'un système complexe et puissant ne reflète pas toujours le coût de réalisation mais les personnes partent néanmoins vers la solution CMS.</li>\n<li>Qui dans une organisation désire un CMS ? Le CEO, le CMO, le CTO. Pourtant elles n'en sont en rien les utilisateurs.</li>\n<li>Lorsque le processus de correction ou de permission tombe sur un CMS, les personnes essayent de contourner afin d'avancer. Ceci contredit l'utilité première d'un CMS.</li>\n</ul>\n<h2>Les problématiques liées aux CMS</h2>\n<ul>\n<li>Les plateformes qui forcent l'écriture des URL. Changer de technologie oblige à changer d'URL.</li>\n<li>Certaines plateformes présentent de mauvaises écriture d'URL qui ne sont pas compréhensibles par les humains.</li>\n<li>D'autres plateformes introduisent des balises excessives pour permettre l'ajout de de fonctionnalités sur le site.</li>\n<li>Le principe de base d'affichage d'un module est de passer par du HTML, du CSS et du JavaScript dans un seul élément. Trop de modules a pour impact de ralentir les pages et proposer une maintenance trop compliquée.</li>\n<li>Le WYSIWYG est dangereux car il ne garantit pas un code pérenne et de qualité sur le site.</li>\n</ul>\n<h2>Les solutions</h2>\n<ul>\n<li>Le Markdown est un système d'écriture simplifié. Il restreint l'écriture seulement à ce qu'il peut être possible d'afficher dans un document.</li>\n<li>Pour simplifier les besoins d'un CMS : se demander se qui est dynamique et ce qui a vraiment besoin d'être dynamique.</li>\n<li>Savoir ne pas utiliser de CMS, dans de nombreux cas cela permet d'être plus flexible en proposant aux utilisateurs d'utiliser directement le HTML.</li>\n<li>Le CMS est contraire à l'ideal d'un web artisanal.</li>\n</ul>\n<h2>Conclusion</h2>\n<p>Diminuer la maintenance, donner plus de pouvoir aux utilisateurs en éditant du Markdown ou du HTML, parler de code et pas de fonctionnalités d'édition compliquées ; une pratique qui permet de dans de nombreux cas de se concentrer sur la valeur.</p>\n",
-  "markdown": "<p>Traduction des <a href=\"http://www.lukew.com/ff/entry.asp?1815\">notes de Luke Wroblewski</a> sur la conférence de Phil Hawksworth : <a href=\"http://bdconf.com/2013/nashville\">I can smell your CMS</a></p>\n<ul>\n<li>Les clients veulent éviter d'être attachés à des technologies, des agences et à des structures qu'elles ne contrôlent pas. Elles essayent de le faire à travers des CMS.</li>\n<li>Pourquoi les gens utilisent des CMS ? Pour réduire les coût de modification, valoriser les écrits des auteurs, et mettre en place une maintenance simplifiée.</li>\n<li>Le coût de mise en place d'un système complexe et puissant ne reflète pas toujours le coût de réalisation mais les personnes partent néanmoins vers la solution CMS.</li>\n<li>Qui dans une organisation désire un CMS ? Le CEO, le CMO, le CTO. Pourtant elles n'en sont en rien les utilisateurs.</li>\n<li>Lorsque le processus de correction ou de permission tombe sur un CMS, les personnes essayent de contourner afin d'avancer. Ceci contredit l'utilité première d'un CMS.</li>\n</ul>\n<h2>Les problématiques liées aux CMS</h2>\n<ul>\n<li>Les plateformes qui forcent l'écriture des URL. Changer de technologie oblige à changer d'URL.</li>\n<li>Certaines plateformes présentent de mauvaises écriture d'URL qui ne sont pas compréhensibles par les humains.</li>\n<li>D'autres plateformes introduisent des balises excessives pour permettre l'ajout de de fonctionnalités sur le site.</li>\n<li>Le principe de base d'affichage d'un module est de passer par du HTML, du CSS et du JavaScript dans un seul élément. Trop de modules a pour impact de ralentir les pages et proposer une maintenance trop compliquée.</li>\n<li>Le WYSIWYG est dangereux car il ne garantit pas un code pérenne et de qualité sur le site.</li>\n</ul>\n<h2>Les solutions</h2>\n<ul>\n<li>Le Markdown est un système d'écriture simplifié. Il restreint l'écriture seulement à ce qu'il peut être possible d'afficher dans un document.</li>\n<li>Pour simplifier les besoins d'un CMS : se demander se qui est dynamique et ce qui a vraiment besoin d'être dynamique.</li>\n<li>Savoir ne pas utiliser de CMS, dans de nombreux cas cela permet d'être plus flexible en proposant aux utilisateurs d'utiliser directement le HTML.</li>\n<li>Le CMS est contraire à l'ideal d'un web artisanal.</li>\n</ul>\n<h2>Conclusion</h2>\n<p>Diminuer la maintenance, donner plus de pouvoir aux utilisateurs en éditant du Markdown ou du HTML, parler de code et pas de fonctionnalités d'édition compliquées ; une pratique qui permet de dans de nombreux cas de se concentrer sur la valeur.</p>\n"
+"id": "/2013/10/31/pourquoi-un-cms-les-notes-de-luke-wroblewski",
+"title": "Pourquoi un CMS, les notes de Luke Wroblewski",
+"url": "https://bertrandkeller.info/2013/10/31/pourquoi-un-cms-les-notes-de-luke-wroblewski/",
+"date": 1383236515,
+"html": "
+<p>Traduction des <a href=\"http://www.lukew.com/ff/entry.asp?1815\">notes de Luke Wroblewski</a> sur la conférence de Phil Hawksworth : <a href=\"http://bdconf.com/2013/nashville\">I can smell your CMS</a></p>
+\n
+<ul>\n
+  <li>Les clients veulent éviter d'être attachés à des technologies, des agences et à des structures qu'elles ne contrôlent pas. Elles essayent de le faire à travers des CMS.</li>
+  \n
+  <li>Pourquoi les gens utilisent des CMS ? Pour réduire les coût de modification, valoriser les écrits des auteurs, et mettre en place une maintenance simplifiée.</li>
+  \n
+  <li>Le coût de mise en place d'un système complexe et puissant ne reflète pas toujours le coût de réalisation mais les personnes partent néanmoins vers la solution CMS.</li>
+  \n
+  <li>Qui dans une organisation désire un CMS ? Le CEO, le CMO, le CTO. Pourtant elles n'en sont en rien les utilisateurs.</li>
+  \n
+  <li>Lorsque le processus de correction ou de permission tombe sur un CMS, les personnes essayent de contourner afin d'avancer. Ceci contredit l'utilité première d'un CMS.</li>
+  \n</ul>
+\n
+<h2>Les problématiques liées aux CMS</h2>
+\n
+<ul>\n
+  <li>Les plateformes qui forcent l'écriture des URL. Changer de technologie oblige à changer d'URL.</li>
+  \n
+  <li>Certaines plateformes présentent de mauvaises écriture d'URL qui ne sont pas compréhensibles par les humains.</li>
+  \n
+  <li>D'autres plateformes introduisent des balises excessives pour permettre l'ajout de de fonctionnalités sur le site.</li>
+  \n
+  <li>Le principe de base d'affichage d'un module est de passer par du HTML, du CSS et du JavaScript dans un seul élément. Trop de modules a pour impact de ralentir les pages et proposer une maintenance trop compliquée.</li>
+  \n
+  <li>Le WYSIWYG est dangereux car il ne garantit pas un code pérenne et de qualité sur le site.</li>
+  \n</ul>
+\n
+<h2>Les solutions</h2>
+\n
+<ul>\n
+  <li>Le Markdown est un système d'écriture simplifié. Il restreint l'écriture seulement à ce qu'il peut être possible d'afficher dans un document.</li>
+  \n
+  <li>Pour simplifier les besoins d'un CMS : se demander se qui est dynamique et ce qui a vraiment besoin d'être dynamique.</li>
+  \n
+  <li>Savoir ne pas utiliser de CMS, dans de nombreux cas cela permet d'être plus flexible en proposant aux utilisateurs d'utiliser directement le HTML.</li>
+  \n
+  <li>Le CMS est contraire à l'ideal d'un web artisanal.</li>
+  \n</ul>
+\n
+<h2>Conclusion</h2>
+\n
+<p>Diminuer la maintenance, donner plus de pouvoir aux utilisateurs en éditant du Markdown ou du HTML, parler de code et pas de fonctionnalités d'édition compliquées ; une pratique qui permet de dans de nombreux cas de se concentrer sur la valeur.</p>
+\n",
+"markdown": "
+<p>Traduction des <a href=\"http://www.lukew.com/ff/entry.asp?1815\">notes de Luke Wroblewski</a> sur la conférence de Phil Hawksworth : <a href=\"http://bdconf.com/2013/nashville\">I can smell your CMS</a></p>
+\n
+<ul>\n
+  <li>Les clients veulent éviter d'être attachés à des technologies, des agences et à des structures qu'elles ne contrôlent pas. Elles essayent de le faire à travers des CMS.</li>
+  \n
+  <li>Pourquoi les gens utilisent des CMS ? Pour réduire les coût de modification, valoriser les écrits des auteurs, et mettre en place une maintenance simplifiée.</li>
+  \n
+  <li>Le coût de mise en place d'un système complexe et puissant ne reflète pas toujours le coût de réalisation mais les personnes partent néanmoins vers la solution CMS.</li>
+  \n
+  <li>Qui dans une organisation désire un CMS ? Le CEO, le CMO, le CTO. Pourtant elles n'en sont en rien les utilisateurs.</li>
+  \n
+  <li>Lorsque le processus de correction ou de permission tombe sur un CMS, les personnes essayent de contourner afin d'avancer. Ceci contredit l'utilité première d'un CMS.</li>
+  \n</ul>
+\n
+<h2>Les problématiques liées aux CMS</h2>
+\n
+<ul>\n
+  <li>Les plateformes qui forcent l'écriture des URL. Changer de technologie oblige à changer d'URL.</li>
+  \n
+  <li>Certaines plateformes présentent de mauvaises écriture d'URL qui ne sont pas compréhensibles par les humains.</li>
+  \n
+  <li>D'autres plateformes introduisent des balises excessives pour permettre l'ajout de de fonctionnalités sur le site.</li>
+  \n
+  <li>Le principe de base d'affichage d'un module est de passer par du HTML, du CSS et du JavaScript dans un seul élément. Trop de modules a pour impact de ralentir les pages et proposer une maintenance trop compliquée.</li>
+  \n
+  <li>Le WYSIWYG est dangereux car il ne garantit pas un code pérenne et de qualité sur le site.</li>
+  \n</ul>
+\n
+<h2>Les solutions</h2>
+\n
+<ul>\n
+  <li>Le Markdown est un système d'écriture simplifié. Il restreint l'écriture seulement à ce qu'il peut être possible d'afficher dans un document.</li>
+  \n
+  <li>Pour simplifier les besoins d'un CMS : se demander se qui est dynamique et ce qui a vraiment besoin d'être dynamique.</li>
+  \n
+  <li>Savoir ne pas utiliser de CMS, dans de nombreux cas cela permet d'être plus flexible en proposant aux utilisateurs d'utiliser directement le HTML.</li>
+  \n
+  <li>Le CMS est contraire à l'ideal d'un web artisanal.</li>
+  \n</ul>
+\n
+<h2>Conclusion</h2>
+\n
+<p>Diminuer la maintenance, donner plus de pouvoir aux utilisateurs en éditant du Markdown ou du HTML, parler de code et pas de fonctionnalités d'édition compliquées ; une pratique qui permet de dans de nombreux cas de se concentrer sur la valeur.</p>
+\n"
 }

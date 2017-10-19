@@ -13,7 +13,6 @@
     <script src="{{ site.url }}/assets/js/fetch-inject.js"></script>
     <script>
     fetchInject([
-      '{{ "/assets/css/main.css" | prepend: site.url }}',
       '{{ site.url }}/assets/js/instantclick.min.js'
     ]).then(() => {
         InstantClick.init();

@@ -1,8 +1,23 @@
 {
-  "id": "/2007/10/23/songbird-bientot-la-rc2",
-  "title": "Songbird, bientôt la RC2",
-  "url": "https://bertrandkeller.info/2007/10/23/songbird-bientot-la-rc2/",
-  "date": 1193143550,
-  "html": "<div style=\"float:left; margin:10px 10px 0 0;\"><a href=\"http://songbirdnest.com/partners\"><img src=\"{{ site.baseurl }}/assets/button_jetpack.png\" border=\"0\" alt=\"Get Songbird\" /></a></div>\n<p>Songbird, le Itune killer, est proche de sa <a href=\"http://www.songbirdnest.com/node/2202\">version 0.3 finalisée</a>. Basée sur la technologie Mozilla, Songbird est un <a href=\"http://www.songbird.fr/\">jukebox numérique</a> capable de gérer aussi bien une bibliothèque locale qu'une bibliothèque sur le web.\n<p>A l'indentique du logiciel d'Apple, l'interface permet de classer sa musique selon divers critères comme la date, l'auteur ou encore le nom de l'album. Sa grande puissance est de pouvoir, grâce à un navigateur intégré, créer des playlists à partir de morceaux présents sur un disque dur en local ou en réseau avec de la musique présente sur des sites web. Cette spécificité permet de ne pas saturer son disque avec des giga de fichiers sons.</p>\n<p>Rappelons que Songbird est un projet libre, qu'il est doté d'un système d'extensions tout comme firefox ; promettons lui un bel avenir.</p>\n</p>\n",
-  "markdown": "<div style=\"float:left; margin:10px 10px 0 0;\"><a href=\"http://songbirdnest.com/partners\"><img src=\"{{ site.baseurl }}/assets/button_jetpack.png\" border=\"0\" alt=\"Get Songbird\" /></a></div>\n<p>Songbird, le Itune killer, est proche de sa <a href=\"http://www.songbirdnest.com/node/2202\">version 0.3 finalisée</a>. Basée sur la technologie Mozilla, Songbird est un <a href=\"http://www.songbird.fr/\">jukebox numérique</a> capable de gérer aussi bien une bibliothèque locale qu'une bibliothèque sur le web.\n<p>A l'indentique du logiciel d'Apple, l'interface permet de classer sa musique selon divers critères comme la date, l'auteur ou encore le nom de l'album. Sa grande puissance est de pouvoir, grâce à un navigateur intégré, créer des playlists à partir de morceaux présents sur un disque dur en local ou en réseau avec de la musique présente sur des sites web. Cette spécificité permet de ne pas saturer son disque avec des giga de fichiers sons.</p>\n<p>Rappelons que Songbird est un projet libre, qu'il est doté d'un système d'extensions tout comme firefox ; promettons lui un bel avenir.</p>\n"
-}
+"id": "/2007/10/23/songbird-bientot-la-rc2",
+"title": "Songbird, bientôt la RC2",
+"url": "https://bertrandkeller.info/2007/10/23/songbird-bientot-la-rc2/",
+"date": 1193143550,
+"html": "
+<div style=\"float:left; margin:10px 10px 0 0;\"><a href=\"http://songbirdnest.com/partners\"><img src=\"{{ site.baseurl }}/assets/button_jetpack.png\" border=\"0\" alt=\"Get Songbird\" /></a></div>
+\n
+<p>Songbird, le Itune killer, est proche de sa <a href=\"http://www.songbirdnest.com/node/2202\">version 0.3 finalisée</a>. Basée sur la technologie Mozilla, Songbird est un <a href=\"http://www.songbird.fr/\">jukebox numérique</a> capable de gérer aussi bien une bibliothèque locale qu'une bibliothèque sur le web.\n
+  <p>A l'indentique du logiciel d'Apple, l'interface permet de classer sa musique selon divers critères comme la date, l'auteur ou encore le nom de l'album. Sa grande puissance est de pouvoir, grâce à un navigateur intégré, créer des playlists à partir de morceaux présents sur un disque dur en local ou en réseau avec de la musique présente sur des sites web. Cette spécificité permet de ne pas saturer son disque avec des giga de fichiers sons.</p>
+  \n
+  <p>Rappelons que Songbird est un projet libre, qu'il est doté d'un système d'extensions tout comme firefox ; promettons lui un bel avenir.</p>
+  \n</p>
+\n",
+"markdown": "
+<div style=\"float:left; margin:10px 10px 0 0;\"><a href=\"http://songbirdnest.com/partners\"><img src=\"{{ site.baseurl }}/assets/button_jetpack.png\" border=\"0\" alt=\"Get Songbird\" /></a></div>
+\n
+<p>Songbird, le Itune killer, est proche de sa <a href=\"http://www.songbirdnest.com/node/2202\">version 0.3 finalisée</a>. Basée sur la technologie Mozilla, Songbird est un <a href=\"http://www.songbird.fr/\">jukebox numérique</a> capable de gérer aussi bien une bibliothèque locale qu'une bibliothèque sur le web.\n
+  <p>A l'indentique du logiciel d'Apple, l'interface permet de classer sa musique selon divers critères comme la date, l'auteur ou encore le nom de l'album. Sa grande puissance est de pouvoir, grâce à un navigateur intégré, créer des playlists à partir de morceaux présents sur un disque dur en local ou en réseau avec de la musique présente sur des sites web. Cette spécificité permet de ne pas saturer son disque avec des giga de fichiers sons.</p>
+  \n
+  <p>Rappelons que Songbird est un projet libre, qu'il est doté d'un système d'extensions tout comme firefox ; promettons lui un bel avenir.</p>
+  \n"
+  }

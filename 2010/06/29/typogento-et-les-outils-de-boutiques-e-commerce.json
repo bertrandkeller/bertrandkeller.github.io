@@ -1,8 +1,68 @@
 {
-  "id": "/2010/06/29/typogento-et-les-outils-de-boutiques-e-commerce",
-  "title": "TypoGento et les outils de boutiques e-commerce",
-  "url": "https://bertrandkeller.info/2010/06/29/typogento-et-les-outils-de-boutiques-e-commerce/",
-  "date": 1277825982,
-  "html": "<p>Présent à la journée <a href=\"http://www.openday.fr/\" title=\"Openday\">Openday</a> à la cantine, je découvre une sélection d'outils de création de boutiques e-commerce. Malgré le discours très pognon et rentabilité de votre affaire, on remarque que les produits commencent à être bien évolués.</p>\n<h3>Typogento</h3>\n<p>Tout d'abord, je voulais signaler la sortie de la version 1.0 de <a href=\"http://www.typogento.com/blog/typogento/new-version-finally/\" title=\"TypoGento\">TypoGento</a>. TyoGento est une interface de TYPO3 et de Magento qui permet de partager les bases utilisateurs afin de bénéficier des avantages des deux systèmes. L'édition de contenu pour TYPO3 et la gestion de catalogues produits pour Magento.</p>\n<blockquote cite=\"http://www.typogento.com/what-does-it.html\"><p>In the scenario there is already a TYPO3 website with different information and functionalities and there are already users registered for certain restricted contents. To access those contents they need to log in to that TYPO3 website using a login form.</p>\n</blockquote>\n<p>TypoGento serait destiné à des personnes ayant choisi la solution TYPO3, voulant disposer d'une solution e-commerce robuste, sans être redirigé vers un site extérieur.</p>\n<h3>Quelques outils e-commerce</h3>\n<ul>\n<li><strong><a href=\"http://www.rbschange.fr/\" title=\"RBS change\">RBS change</a><strong> - CMS Open Source complet pour le contenu et la gestion produits</strong></strong></li>\n<li><strong><a href=\"http://www.commerceguys.com/\" title=\"Drupal Commerce\">Drupal Commerce</a><strong> - Anciennement UberCart - très pratique pour des boutiques sur Drupal</strong></strong></li>\n<li><strong><a href=\"\" title=\"\">Magento</a><strong> - Le mastodonte du marché</strong></strong></li>\n<li><strong><a href=\"http://www.thelia.fr/\" title=\"Thelia\">Thelia</a><strong> - Reprend la philosophie SPIP pour une intégration simplifiée</strong></strong></li>\n</ul>\n<p>Les boutiques semblent très faciles à mettre en place. Il est nécessaire de bien choisir son outil en fonction de ses besoins et de la taille de son stock.</p>\n<p>De manière générale, chacune des solutions proposent les fonctionnalités de bases nécessaires. L'originalité viendra du concept et de la manière de présenter ses produits.</p>\n<p>Pour des besoins plus spécifiques, il faudra réaliser une analyse plus fine des différentes offres du marché et passer par un prestataire spécialisé.</p>\n",
-  "markdown": "<p>Présent à la journée <a href=\"http://www.openday.fr/\" title=\"Openday\">Openday</a> à la cantine, je découvre une sélection d'outils de création de boutiques e-commerce. Malgré le discours très pognon et rentabilité de votre affaire, on remarque que les produits commencent à être bien évolués.</p>\n<h3>Typogento</h3>\n<p>Tout d'abord, je voulais signaler la sortie de la version 1.0 de <a href=\"http://www.typogento.com/blog/typogento/new-version-finally/\" title=\"TypoGento\">TypoGento</a>. TyoGento est une interface de TYPO3 et de Magento qui permet de partager les bases utilisateurs afin de bénéficier des avantages des deux systèmes. L'édition de contenu pour TYPO3 et la gestion de catalogues produits pour Magento.</p>\n<blockquote cite=\"http://www.typogento.com/what-does-it.html\"><p>In the scenario there is already a TYPO3 website with different information and functionalities and there are already users registered for certain restricted contents. To access those contents they need to log in to that TYPO3 website using a login form.</p>\n</blockquote>\n<p>TypoGento serait destiné à des personnes ayant choisi la solution TYPO3, voulant disposer d'une solution e-commerce robuste, sans être redirigé vers un site extérieur.</p>\n<h3>Quelques outils e-commerce</h3>\n<ul>\n<li><strong><a href=\"http://www.rbschange.fr/\" title=\"RBS change\">RBS change</a><strong> - CMS Open Source complet pour le contenu et la gestion produits</strong></strong></li>\n<li><strong><a href=\"http://www.commerceguys.com/\" title=\"Drupal Commerce\">Drupal Commerce</a><strong> - Anciennement UberCart - très pratique pour des boutiques sur Drupal</strong></strong></li>\n<li><strong><a href=\"\" title=\"\">Magento</a><strong> - Le mastodonte du marché</strong></strong></li>\n<li><strong><a href=\"http://www.thelia.fr/\" title=\"Thelia\">Thelia</a><strong> - Reprend la philosophie SPIP pour une intégration simplifiée</strong></strong></li>\n</ul>\n<p>Les boutiques semblent très faciles à mettre en place. Il est nécessaire de bien choisir son outil en fonction de ses besoins et de la taille de son stock.</p>\n<p>De manière générale, chacune des solutions proposent les fonctionnalités de bases nécessaires. L'originalité viendra du concept et de la manière de présenter ses produits.</p>\n<p>Pour des besoins plus spécifiques, il faudra réaliser une analyse plus fine des différentes offres du marché et passer par un prestataire spécialisé.</p>\n"
+"id": "/2010/06/29/typogento-et-les-outils-de-boutiques-e-commerce",
+"title": "TypoGento et les outils de boutiques e-commerce",
+"url": "https://bertrandkeller.info/2010/06/29/typogento-et-les-outils-de-boutiques-e-commerce/",
+"date": 1277825982,
+"html": "
+<p>Présent à la journée <a href=\"http://www.openday.fr/\" title=\"Openday\">Openday</a> à la cantine, je découvre une sélection d'outils de création de boutiques e-commerce. Malgré le discours très pognon et rentabilité de votre affaire, on remarque que les produits commencent à être bien évolués.</p>
+\n
+<h3>Typogento</h3>
+\n
+<p>Tout d'abord, je voulais signaler la sortie de la version 1.0 de <a href=\"http://www.typogento.com/blog/typogento/new-version-finally/\" title=\"TypoGento\">TypoGento</a>. TyoGento est une interface de TYPO3 et de Magento qui permet de partager les bases utilisateurs afin de bénéficier des avantages des deux systèmes. L'édition de contenu pour TYPO3 et la gestion de catalogues produits pour Magento.</p>
+\n
+<blockquote cite=\"http://www.typogento.com/what-does-it.html\">
+  <p>In the scenario there is already a TYPO3 website with different information and functionalities and there are already users registered for certain restricted contents. To access those contents they need to log in to that TYPO3 website using a login form.</p>
+  \n</blockquote>
+\n
+<p>TypoGento serait destiné à des personnes ayant choisi la solution TYPO3, voulant disposer d'une solution e-commerce robuste, sans être redirigé vers un site extérieur.</p>
+\n
+<h3>Quelques outils e-commerce</h3>
+\n
+<ul>\n
+  <li><strong><a href=\"http://www.rbschange.fr/\" title=\"RBS change\">RBS change</a><strong> - CMS Open Source complet pour le contenu et la gestion produits</strong></strong></li>
+  \n
+  <li><strong><a href=\"http://www.commerceguys.com/\" title=\"Drupal Commerce\">Drupal Commerce</a><strong> - Anciennement UberCart - très pratique pour des boutiques sur Drupal</strong></strong></li>
+  \n
+  <li><strong><a href=\"\" title=\"\">Magento</a><strong> - Le mastodonte du marché</strong></strong></li>
+  \n
+  <li><strong><a href=\"http://www.thelia.fr/\" title=\"Thelia\">Thelia</a><strong> - Reprend la philosophie SPIP pour une intégration simplifiée</strong></strong></li>
+  \n</ul>
+\n
+<p>Les boutiques semblent très faciles à mettre en place. Il est nécessaire de bien choisir son outil en fonction de ses besoins et de la taille de son stock.</p>
+\n
+<p>De manière générale, chacune des solutions proposent les fonctionnalités de bases nécessaires. L'originalité viendra du concept et de la manière de présenter ses produits.</p>
+\n
+<p>Pour des besoins plus spécifiques, il faudra réaliser une analyse plus fine des différentes offres du marché et passer par un prestataire spécialisé.</p>
+\n",
+"markdown": "
+<p>Présent à la journée <a href=\"http://www.openday.fr/\" title=\"Openday\">Openday</a> à la cantine, je découvre une sélection d'outils de création de boutiques e-commerce. Malgré le discours très pognon et rentabilité de votre affaire, on remarque que les produits commencent à être bien évolués.</p>
+\n
+<h3>Typogento</h3>
+\n
+<p>Tout d'abord, je voulais signaler la sortie de la version 1.0 de <a href=\"http://www.typogento.com/blog/typogento/new-version-finally/\" title=\"TypoGento\">TypoGento</a>. TyoGento est une interface de TYPO3 et de Magento qui permet de partager les bases utilisateurs afin de bénéficier des avantages des deux systèmes. L'édition de contenu pour TYPO3 et la gestion de catalogues produits pour Magento.</p>
+\n
+<blockquote cite=\"http://www.typogento.com/what-does-it.html\">
+  <p>In the scenario there is already a TYPO3 website with different information and functionalities and there are already users registered for certain restricted contents. To access those contents they need to log in to that TYPO3 website using a login form.</p>
+  \n</blockquote>
+\n
+<p>TypoGento serait destiné à des personnes ayant choisi la solution TYPO3, voulant disposer d'une solution e-commerce robuste, sans être redirigé vers un site extérieur.</p>
+\n
+<h3>Quelques outils e-commerce</h3>
+\n
+<ul>\n
+  <li><strong><a href=\"http://www.rbschange.fr/\" title=\"RBS change\">RBS change</a><strong> - CMS Open Source complet pour le contenu et la gestion produits</strong></strong></li>
+  \n
+  <li><strong><a href=\"http://www.commerceguys.com/\" title=\"Drupal Commerce\">Drupal Commerce</a><strong> - Anciennement UberCart - très pratique pour des boutiques sur Drupal</strong></strong></li>
+  \n
+  <li><strong><a href=\"\" title=\"\">Magento</a><strong> - Le mastodonte du marché</strong></strong></li>
+  \n
+  <li><strong><a href=\"http://www.thelia.fr/\" title=\"Thelia\">Thelia</a><strong> - Reprend la philosophie SPIP pour une intégration simplifiée</strong></strong></li>
+  \n</ul>
+\n
+<p>Les boutiques semblent très faciles à mettre en place. Il est nécessaire de bien choisir son outil en fonction de ses besoins et de la taille de son stock.</p>
+\n
+<p>De manière générale, chacune des solutions proposent les fonctionnalités de bases nécessaires. L'originalité viendra du concept et de la manière de présenter ses produits.</p>
+\n
+<p>Pour des besoins plus spécifiques, il faudra réaliser une analyse plus fine des différentes offres du marché et passer par un prestataire spécialisé.</p>
+\n"
 }

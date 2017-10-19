@@ -1,8 +1,107 @@
 {
-  "id": "/2009/03/24/magento-seo-optimiser-le-referencement-de-votre-site-e-commerce",
-  "title": "Magento SEO - optimisez le référencement de votre site E-commerce",
-  "url": "https://bertrandkeller.info/2009/03/24/magento-seo-optimiser-le-referencement-de-votre-site-e-commerce/",
-  "date": 1237904715,
-  "html": "<p>Améliorer le référencement de votre site E-commerce propulsé par Magento (ou TypoGento).</p>\n<p> <strong>Table des matières</strong>\n<ul>\n<li><a href=\"http://yoast.com/articles/magento-seo/#basic\">1. Basic technical optimization</a>\n<ul>\n<li><a href=\"http://yoast.com/articles/magento-seo/#generalconfig\">1.1. General Configuration</a>\n<ul>\n<li><a href=\"http://yoast.com/articles/magento-seo/#www\">1.1.1. WWW vs non-WWW</a></li>\n</ul>\n</li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#headersettings\">1.2. Header Settings</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#cmspages\">1.3 CMS Pages</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#categories\">1.4 Category optimization</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#products\">1.5. Products optimization</a></li>\n</ul>\n</li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#template\">2. Magento Template Optimization</a>\n<ul>\n<li><a href=\"http://yoast.com/articles/magento-seo/#seotemplate\">2.1 Optimized Blank Template</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#headings\">2.2 Headings</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#cleanup\">2.3 Clean up your code</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#speed\">2.4 Aim for speed</a></li>\n</ul>\n</li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#advanced\">3. Advanced Magento SEO and Duplicate Content</a>\n<ul>\n<li><a href=\"http://yoast.com/articles/magento-seo/#noindexnoncontent\">3.1 Noindex, follow for non-content pages</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#nofollowlinks\">3.2 Nofollowing unnecessary links</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#anonical\">3.3 Canonical URLs</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#xmlsitemaps\">3.4 XML Sitemaps</a> </li>\n</ul>\n</li>\n</ul>\n<p>Lire <a href=\"http://yoast.com/articles/magento-seo/\">Magento SEO</a>.</p>\n</p>\n",
-  "markdown": "<p>Améliorer le référencement de votre site E-commerce propulsé par Magento (ou TypoGento).</p>\n<p> <strong>Table des matières</strong>\n<ul>\n<li><a href=\"http://yoast.com/articles/magento-seo/#basic\">1. Basic technical optimization</a>\n<ul>\n<li><a href=\"http://yoast.com/articles/magento-seo/#generalconfig\">1.1. General Configuration</a>\n<ul>\n<li><a href=\"http://yoast.com/articles/magento-seo/#www\">1.1.1. WWW vs non-WWW</a></li>\n</ul>\n</li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#headersettings\">1.2. Header Settings</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#cmspages\">1.3 CMS Pages</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#categories\">1.4 Category optimization</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#products\">1.5. Products optimization</a></li>\n</ul>\n</li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#template\">2. Magento Template Optimization</a>\n<ul>\n<li><a href=\"http://yoast.com/articles/magento-seo/#seotemplate\">2.1 Optimized Blank Template</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#headings\">2.2 Headings</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#cleanup\">2.3 Clean up your code</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#speed\">2.4 Aim for speed</a></li>\n</ul>\n</li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#advanced\">3. Advanced Magento SEO and Duplicate Content</a>\n<ul>\n<li><a href=\"http://yoast.com/articles/magento-seo/#noindexnoncontent\">3.1 Noindex, follow for non-content pages</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#nofollowlinks\">3.2 Nofollowing unnecessary links</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#anonical\">3.3 Canonical URLs</a></li>\n<li><a href=\"http://yoast.com/articles/magento-seo/#xmlsitemaps\">3.4 XML Sitemaps</a> </li>\n</ul>\n</li>\n</ul>\n<p>Lire <a href=\"http://yoast.com/articles/magento-seo/\">Magento SEO</a>.</p>\n"
-}
+"id": "/2009/03/24/magento-seo-optimiser-le-referencement-de-votre-site-e-commerce",
+"title": "Magento SEO - optimisez le référencement de votre site E-commerce",
+"url": "https://bertrandkeller.info/2009/03/24/magento-seo-optimiser-le-referencement-de-votre-site-e-commerce/",
+"date": 1237904715,
+"html": "
+<p>Améliorer le référencement de votre site E-commerce propulsé par Magento (ou TypoGento).</p>
+\n
+<p> <strong>Table des matières</strong>\n
+  <ul>\n
+    <li><a href=\"http://yoast.com/articles/magento-seo/#basic\">1. Basic technical optimization</a>\n
+      <ul>\n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#generalconfig\">1.1. General Configuration</a>\n
+          <ul>\n
+            <li><a href=\"http://yoast.com/articles/magento-seo/#www\">1.1.1. WWW vs non-WWW</a></li>
+            \n</ul>
+          \n</li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#headersettings\">1.2. Header Settings</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#cmspages\">1.3 CMS Pages</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#categories\">1.4 Category optimization</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#products\">1.5. Products optimization</a></li>
+        \n</ul>
+      \n</li>
+    \n
+    <li><a href=\"http://yoast.com/articles/magento-seo/#template\">2. Magento Template Optimization</a>\n
+      <ul>\n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#seotemplate\">2.1 Optimized Blank Template</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#headings\">2.2 Headings</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#cleanup\">2.3 Clean up your code</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#speed\">2.4 Aim for speed</a></li>
+        \n</ul>
+      \n</li>
+    \n
+    <li><a href=\"http://yoast.com/articles/magento-seo/#advanced\">3. Advanced Magento SEO and Duplicate Content</a>\n
+      <ul>\n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#noindexnoncontent\">3.1 Noindex, follow for non-content pages</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#nofollowlinks\">3.2 Nofollowing unnecessary links</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#anonical\">3.3 Canonical URLs</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#xmlsitemaps\">3.4 XML Sitemaps</a> </li>
+        \n</ul>
+      \n</li>
+    \n</ul>
+  \n
+  <p>Lire <a href=\"http://yoast.com/articles/magento-seo/\">Magento SEO</a>.</p>
+  \n</p>
+\n",
+"markdown": "
+<p>Améliorer le référencement de votre site E-commerce propulsé par Magento (ou TypoGento).</p>
+\n
+<p> <strong>Table des matières</strong>\n
+  <ul>\n
+    <li><a href=\"http://yoast.com/articles/magento-seo/#basic\">1. Basic technical optimization</a>\n
+      <ul>\n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#generalconfig\">1.1. General Configuration</a>\n
+          <ul>\n
+            <li><a href=\"http://yoast.com/articles/magento-seo/#www\">1.1.1. WWW vs non-WWW</a></li>
+            \n</ul>
+          \n</li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#headersettings\">1.2. Header Settings</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#cmspages\">1.3 CMS Pages</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#categories\">1.4 Category optimization</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#products\">1.5. Products optimization</a></li>
+        \n</ul>
+      \n</li>
+    \n
+    <li><a href=\"http://yoast.com/articles/magento-seo/#template\">2. Magento Template Optimization</a>\n
+      <ul>\n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#seotemplate\">2.1 Optimized Blank Template</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#headings\">2.2 Headings</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#cleanup\">2.3 Clean up your code</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#speed\">2.4 Aim for speed</a></li>
+        \n</ul>
+      \n</li>
+    \n
+    <li><a href=\"http://yoast.com/articles/magento-seo/#advanced\">3. Advanced Magento SEO and Duplicate Content</a>\n
+      <ul>\n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#noindexnoncontent\">3.1 Noindex, follow for non-content pages</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#nofollowlinks\">3.2 Nofollowing unnecessary links</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#anonical\">3.3 Canonical URLs</a></li>
+        \n
+        <li><a href=\"http://yoast.com/articles/magento-seo/#xmlsitemaps\">3.4 XML Sitemaps</a> </li>
+        \n</ul>
+      \n</li>
+    \n</ul>
+  \n
+  <p>Lire <a href=\"http://yoast.com/articles/magento-seo/\">Magento SEO</a>.</p>
+  \n"
+  }

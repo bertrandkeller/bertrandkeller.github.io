@@ -1,8 +1,28 @@
 {
-  "id": "/2009/10/27/obama-choisit-drupal-pour-la-maison-blanche",
-  "title": "Obama choisit Drupal pour la Maison Blanche !",
-  "url": "https://bertrandkeller.info/2009/10/27/obama-choisit-drupal-pour-la-maison-blanche/",
-  "date": 1256638178,
-  "html": "<p>Je me doute qu'Obama n'aurait pas choisi un produit allemand codé par des polonais pour son <a href=\"http://www.whitehouse.gov/\" title=\"Whitehouse.gov\">Whitehouse.gov</a>. Drupal ou Wordpress sont des produits américains ; l'Europe ne dispose que de trop peu de CMS d'envergure pour mettre en valeur sa spécificité culturelle. Reste que la bonne nouvelle de cette décision est bien d'avoir arrêté le développement de ce site avec un produit issu de l'Open Source.</p>\n<p>Voici le commentaire de Stan Buytaert :</p>\n<blockquote cite=\"http://www.framablog.org/index.php/post/2009/10/26/drupal-a-la-maison-blanche\"><p>Ceci est un signal fort parce que les gouvernements se rendent compte que l’open source ne comporte pas de risques supplémentaires par rapport au logiciel propriétaire, qu’en quittant un logiciel propriétaire, ils ne sont plus enfermés dans une technologie particulière, et qu’ils peuvent bénéficier de l’innovation résultant des milliers de développeurs qui collaborent à Drupal. Cela prend du temps de comprendre ces choses et d’amener ce changement, et je félicite l’administration Obama de prendre cet important rôle de leader en considérant des solutions open source.</p>\n</blockquote>\n<p>Lire <a href=\"http://www.framablog.org/index.php/post/2009/10/26/drupal-a-la-maison-blanche\" title=\"Drupal à la Maison Blanche !\">Drupal à la Maison Blanche !</a> et <a href=\"http://buytaert.net/whitehouse-gov-using-drupal\" title=\"Whitehouse.gov using Drupal\">Whitehouse.gov using Drupal</a>.</p>\n",
-  "markdown": "<p>Je me doute qu'Obama n'aurait pas choisi un produit allemand codé par des polonais pour son <a href=\"http://www.whitehouse.gov/\" title=\"Whitehouse.gov\">Whitehouse.gov</a>. Drupal ou Wordpress sont des produits américains ; l'Europe ne dispose que de trop peu de CMS d'envergure pour mettre en valeur sa spécificité culturelle. Reste que la bonne nouvelle de cette décision est bien d'avoir arrêté le développement de ce site avec un produit issu de l'Open Source.</p>\n<p>Voici le commentaire de Stan Buytaert :</p>\n<blockquote cite=\"http://www.framablog.org/index.php/post/2009/10/26/drupal-a-la-maison-blanche\"><p>Ceci est un signal fort parce que les gouvernements se rendent compte que l’open source ne comporte pas de risques supplémentaires par rapport au logiciel propriétaire, qu’en quittant un logiciel propriétaire, ils ne sont plus enfermés dans une technologie particulière, et qu’ils peuvent bénéficier de l’innovation résultant des milliers de développeurs qui collaborent à Drupal. Cela prend du temps de comprendre ces choses et d’amener ce changement, et je félicite l’administration Obama de prendre cet important rôle de leader en considérant des solutions open source.</p>\n</blockquote>\n<p>Lire <a href=\"http://www.framablog.org/index.php/post/2009/10/26/drupal-a-la-maison-blanche\" title=\"Drupal à la Maison Blanche !\">Drupal à la Maison Blanche !</a> et <a href=\"http://buytaert.net/whitehouse-gov-using-drupal\" title=\"Whitehouse.gov using Drupal\">Whitehouse.gov using Drupal</a>.</p>\n"
+"id": "/2009/10/27/obama-choisit-drupal-pour-la-maison-blanche",
+"title": "Obama choisit Drupal pour la Maison Blanche !",
+"url": "https://bertrandkeller.info/2009/10/27/obama-choisit-drupal-pour-la-maison-blanche/",
+"date": 1256638178,
+"html": "
+<p>Je me doute qu'Obama n'aurait pas choisi un produit allemand codé par des polonais pour son <a href=\"http://www.whitehouse.gov/\" title=\"Whitehouse.gov\">Whitehouse.gov</a>. Drupal ou Wordpress sont des produits américains ; l'Europe ne dispose que de trop peu de CMS d'envergure pour mettre en valeur sa spécificité culturelle. Reste que la bonne nouvelle de cette décision est bien d'avoir arrêté le développement de ce site avec un produit issu de l'Open Source.</p>
+\n
+<p>Voici le commentaire de Stan Buytaert :</p>
+\n
+<blockquote cite=\"http://www.framablog.org/index.php/post/2009/10/26/drupal-a-la-maison-blanche\">
+  <p>Ceci est un signal fort parce que les gouvernements se rendent compte que l’open source ne comporte pas de risques supplémentaires par rapport au logiciel propriétaire, qu’en quittant un logiciel propriétaire, ils ne sont plus enfermés dans une technologie particulière, et qu’ils peuvent bénéficier de l’innovation résultant des milliers de développeurs qui collaborent à Drupal. Cela prend du temps de comprendre ces choses et d’amener ce changement, et je félicite l’administration Obama de prendre cet important rôle de leader en considérant des solutions open source.</p>
+  \n</blockquote>
+\n
+<p>Lire <a href=\"http://www.framablog.org/index.php/post/2009/10/26/drupal-a-la-maison-blanche\" title=\"Drupal à la Maison Blanche !\">Drupal à la Maison Blanche !</a> et <a href=\"http://buytaert.net/whitehouse-gov-using-drupal\" title=\"Whitehouse.gov using Drupal\">Whitehouse.gov using Drupal</a>.</p>
+\n",
+"markdown": "
+<p>Je me doute qu'Obama n'aurait pas choisi un produit allemand codé par des polonais pour son <a href=\"http://www.whitehouse.gov/\" title=\"Whitehouse.gov\">Whitehouse.gov</a>. Drupal ou Wordpress sont des produits américains ; l'Europe ne dispose que de trop peu de CMS d'envergure pour mettre en valeur sa spécificité culturelle. Reste que la bonne nouvelle de cette décision est bien d'avoir arrêté le développement de ce site avec un produit issu de l'Open Source.</p>
+\n
+<p>Voici le commentaire de Stan Buytaert :</p>
+\n
+<blockquote cite=\"http://www.framablog.org/index.php/post/2009/10/26/drupal-a-la-maison-blanche\">
+  <p>Ceci est un signal fort parce que les gouvernements se rendent compte que l’open source ne comporte pas de risques supplémentaires par rapport au logiciel propriétaire, qu’en quittant un logiciel propriétaire, ils ne sont plus enfermés dans une technologie particulière, et qu’ils peuvent bénéficier de l’innovation résultant des milliers de développeurs qui collaborent à Drupal. Cela prend du temps de comprendre ces choses et d’amener ce changement, et je félicite l’administration Obama de prendre cet important rôle de leader en considérant des solutions open source.</p>
+  \n</blockquote>
+\n
+<p>Lire <a href=\"http://www.framablog.org/index.php/post/2009/10/26/drupal-a-la-maison-blanche\" title=\"Drupal à la Maison Blanche !\">Drupal à la Maison Blanche !</a> et <a href=\"http://buytaert.net/whitehouse-gov-using-drupal\" title=\"Whitehouse.gov using Drupal\">Whitehouse.gov using Drupal</a>.</p>
+\n"
 }

@@ -1,8 +1,20 @@
 {
-  "id": "/2009/03/17/optimisation-typo3-reponse-du-back-office",
-  "title": "Optimisation TYPO3 - temps de réponse du Back Office",
-  "url": "https://bertrandkeller.info/2009/03/17/optimisation-typo3-reponse-du-back-office/",
-  "date": 1237283450,
-  "html": "<p>Un article de 2008 décrit une procédure pour optimiser l'administration de TYPO3 : <a href=\"http://typofree.org/articles/optimizing-typo3-backend-responsiveness/\">optimiser l'administration de TYPO3</a>.</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/YSlow_stats_retro.png\" alt=\"yslow\" /></div>\n<p>Le rédacteur du site <a href=\"http://typofree.org\">TYPO free</a> se base sur les recommandations Yahoo! et de l'extension <a href=\"http://developer.yahoo.com/yslow/\">Yslow</a> pour tenter d'améliorer le temps de réponse du backend.</p>\n",
-  "markdown": "<p>Un article de 2008 décrit une procédure pour optimiser l'administration de TYPO3 : <a href=\"http://typofree.org/articles/optimizing-typo3-backend-responsiveness/\">optimiser l'administration de TYPO3</a>.</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/YSlow_stats_retro.png\" alt=\"yslow\" /></div>\n<p>Le rédacteur du site <a href=\"http://typofree.org\">TYPO free</a> se base sur les recommandations Yahoo! et de l'extension <a href=\"http://developer.yahoo.com/yslow/\">Yslow</a> pour tenter d'améliorer le temps de réponse du backend.</p>\n"
+"id": "/2009/03/17/optimisation-typo3-reponse-du-back-office",
+"title": "Optimisation TYPO3 - temps de réponse du Back Office",
+"url": "https://bertrandkeller.info/2009/03/17/optimisation-typo3-reponse-du-back-office/",
+"date": 1237283450,
+"html": "
+<p>Un article de 2008 décrit une procédure pour optimiser l'administration de TYPO3 : <a href=\"http://typofree.org/articles/optimizing-typo3-backend-responsiveness/\">optimiser l'administration de TYPO3</a>.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/YSlow_stats_retro.png\" alt=\"yslow\" /></div>
+\n
+<p>Le rédacteur du site <a href=\"http://typofree.org\">TYPO free</a> se base sur les recommandations Yahoo! et de l'extension <a href=\"http://developer.yahoo.com/yslow/\">Yslow</a> pour tenter d'améliorer le temps de réponse du backend.</p>
+\n",
+"markdown": "
+<p>Un article de 2008 décrit une procédure pour optimiser l'administration de TYPO3 : <a href=\"http://typofree.org/articles/optimizing-typo3-backend-responsiveness/\">optimiser l'administration de TYPO3</a>.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/YSlow_stats_retro.png\" alt=\"yslow\" /></div>
+\n
+<p>Le rédacteur du site <a href=\"http://typofree.org\">TYPO free</a> se base sur les recommandations Yahoo! et de l'extension <a href=\"http://developer.yahoo.com/yslow/\">Yslow</a> pour tenter d'améliorer le temps de réponse du backend.</p>
+\n"
 }

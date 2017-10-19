@@ -1,8 +1,28 @@
 {
-  "id": "/2009/03/13/typo3-hook-et-injection-sql",
-  "title": "TYPO3 : Hook et injection SQL",
-  "url": "https://bertrandkeller.info/2009/03/13/typo3-hook-et-injection-sql/",
-  "date": 1236952310,
-  "html": "<p>Deux petites ressources en langues étrangères :</p>\n<ul>\n<li><a href=\"http://typo3blogger.de/alles-uber-hooks/\">Alles über Hooks</a></li>\n<li><a href=\"http://www.t3node.com/blog/is-sql-injection-possible-in-typoscript-objects/\">Is SQL injection possible in TypoScript objects ?</a></li>\n</ul>\n<p>Ces deux articles sont destinés à des développeurs TYPO3.</p>\n",
-  "markdown": "<p>Deux petites ressources en langues étrangères :</p>\n<ul>\n<li><a href=\"http://typo3blogger.de/alles-uber-hooks/\">Alles über Hooks</a></li>\n<li><a href=\"http://www.t3node.com/blog/is-sql-injection-possible-in-typoscript-objects/\">Is SQL injection possible in TypoScript objects ?</a></li>\n</ul>\n<p>Ces deux articles sont destinés à des développeurs TYPO3.</p>\n"
+"id": "/2009/03/13/typo3-hook-et-injection-sql",
+"title": "TYPO3 : Hook et injection SQL",
+"url": "https://bertrandkeller.info/2009/03/13/typo3-hook-et-injection-sql/",
+"date": 1236952310,
+"html": "
+<p>Deux petites ressources en langues étrangères :</p>
+\n
+<ul>\n
+  <li><a href=\"http://typo3blogger.de/alles-uber-hooks/\">Alles über Hooks</a></li>
+  \n
+  <li><a href=\"http://www.t3node.com/blog/is-sql-injection-possible-in-typoscript-objects/\">Is SQL injection possible in TypoScript objects ?</a></li>
+  \n</ul>
+\n
+<p>Ces deux articles sont destinés à des développeurs TYPO3.</p>
+\n",
+"markdown": "
+<p>Deux petites ressources en langues étrangères :</p>
+\n
+<ul>\n
+  <li><a href=\"http://typo3blogger.de/alles-uber-hooks/\">Alles über Hooks</a></li>
+  \n
+  <li><a href=\"http://www.t3node.com/blog/is-sql-injection-possible-in-typoscript-objects/\">Is SQL injection possible in TypoScript objects ?</a></li>
+  \n</ul>
+\n
+<p>Ces deux articles sont destinés à des développeurs TYPO3.</p>
+\n"
 }

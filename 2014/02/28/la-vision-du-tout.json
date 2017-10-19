@@ -1,8 +1,112 @@
 {
-  "id": "/2014/02/28/la-vision-du-tout",
-  "title": "La vision du tout ?",
-  "url": "https://bertrandkeller.info/2014/02/28/la-vision-du-tout/",
-  "date": 1393613213,
-  "html": "<p>Allez comprendre pourquoi, avec le recul, vous n'avez pas mis en place des choses parfois aussi simples que des tests automatisés ou un système de démarrage (bootstrap) de sites web ? Pourtant vous n'avez pas démérité, vous avez bossé dur chaque jour pour faire au mieux. Mais avez vous déjà pris le temps ?</p>\n<h2>La focalisation</h2>\n<p>Dans l'article <a href=\"https://blog.crafting-labs.fr/?post/2014/02/22/La-vision-du-lion\">la vision du lion</a>, Antoine parle de la faculté qu'ont certaines personnes à se focaliser sur certaine partie (optimisation locale) en oubliant la notion d'ensemble.</p>\n<blockquote cite=\"https://blog.crafting-labs.fr/?post/2014/02/22/La-vision-du-lion\"><p>Quand j'arrive sur un projet, je rencontre beaucoup de lions en train de mâchouiller un bout de cuisse sans se poser la question de son propriétaire. Ou plutôt des gens qui ont l'esprit tellement occupé par des détails qu'ils n'arrivent plus à voir l'image dans son entièreté. Qui ne peuvent pas se rendre compte que ce qu'ils cherchent à résoudre à tout prix n'est pas un problème, mais le symptôme d'un problème.</p>\n</blockquote>\n<h2>La course</h2>\n<p>Vous le savez, notre société est obsédée par la notion de productivité ; valeur fournie/temps passé. Pour augmenter cette productivité, vous avez le choix entre augmenter la valeur ou diminuer le temps. Souvent, pour avoir juste la sensation d'être plus productif, on passe juste un peu moins de temps sur une tâche.</p>\n<p>La productivité est une chose, on peut être efficace, réaliser plus vite une tâche, sans pour autant être efficient, réaliser plus une tâche mais avec un degré de qualité égal voir plus important.</p>\n<h3>Le processus</h3>\n<p>À se focaliser sur la productivité et une certaine efficacité d'une tâche en particulier ; on arrive à des aberration, dans cet exemple <a href=\"http://www.20minutes.fr/sciences/1311302-de-fausses-etudes-scientifiques-generees-par-informatique-publiees-par-un-grand-editeur\">De fausses études scientifiques générées par informatique publiées par un grand éditeur</a>, des études scientifiques sont générées par des robots et la lecture est réalisée de manière très efficace (beaucoup d'études relues par personne), à tel point que les lecteurs ne remarquent même pas les absurdités de la génération automatique.</p>\n<blockquote cite=\"http://www.20minutes.fr/sciences/1311302-de-fausses-etudes-scientifiques-generees-par-informatique-publiees-par-un-grand-editeur\"><p>Ce programme produit en un seul clic une étude truffée de termes techniques avec graphiques, citations et références à l'appui. Bref, un papier présentant à première vue tous les critères d'une authentique étude. Sauf qu'une lecture approfondie révèle des théories absurdes et des phrases sans queue ni tête.</p>\n</blockquote>\n<h3>La notion d'objectifs</h3>\n<p>Dans cet autre exemple <a href=\"http://www.atlantico.fr/pepites/pollution-chinoise-proche-hiver-nucleaire-994692.html#I0M2YAS7lie7kQVm.99\">La pollution chinoise proche d’un \"hiver nucléaire\"</a>, la société désireuse de mieux (produire plus, réduire la pauvreté,…) n'a juste pas mesuré qu'elle était en train de provoquer un hiver nucléaire ; un \"climat\" dans lequel il n'y a plus de photosynthèse donc plus de vie.</p>\n<blockquote cite=\"http://www.atlantico.fr/pepites/pollution-chinoise-proche-hiver-nucleaire-994692.html#I0M2YAS7lie7kQVm.99\"><p>les spécialistes affirment que \"le refroidissement engendré par l’obscurité aurait provoqué l’apparition d’un hiver nucléaire, y compris dans des régions au climat tempéré.</p>\n</blockquote>\n<p>En promouvant une société meilleure, on en arrive à en détruire les fondamentaux.</p>\n<h2>La dépression</h2>\n<p>Il existe plusieurs tentatives d'explication de la dépression. Pour Pierre Janet, il y aurait une origine possible dans une grande partie d'entre elles dans la fatigue. L'exécution rapide de tâches sans possibilités de recul ou de repos ferait tendre le cerveaux vers une focalisation sur un problème unique qu'il faudrait résoudre en priorité.</p>\n<p>Ne pas se laisser le temps d'avoir du recul parce que vous ne pouvez pas évoquer vos conditions de travail à qui que se soit ou être entrainé dans des rythmes de travail avec des objectifs à trop court terme, vous rend aussi abruti que le lion affamé.</p>\n<h2>Conclusion</h2>\n<p>En médecine chinoise, on voit le corps comme un tout et les médecins essayent d'agir à la racine du mal. Chez les européens, la spécialisation amène a, parfois, agir sur l'organe qui exprime le mal sans comprendre que la cause peut être autre.</p>\n<p>Il convient donc, sûrement, de voir les choses comme un tout.</p>\n<p>En web, que l'on mette en place les méthodes les plus à la mode n'est pas d'un intérêt majeur. Il faut penser à la vision d'ensemble.</p>\n<p>Le partage de cette vision globale est un contrat qui s'établit dès le démarrage d'un projet en fonction des objectifs et des compétences de chacun.</p>\n<p>Cette considération peut ainsi éviter de s'opposer sur des détails et s'intéresser plutôt à l'ensemble.</p>\n",
-  "markdown": "<p>Allez comprendre pourquoi, avec le recul, vous n'avez pas mis en place des choses parfois aussi simples que des tests automatisés ou un système de démarrage (bootstrap) de sites web ? Pourtant vous n'avez pas démérité, vous avez bossé dur chaque jour pour faire au mieux. Mais avez vous déjà pris le temps ?</p>\n<h2>La focalisation</h2>\n<p>Dans l'article <a href=\"https://blog.crafting-labs.fr/?post/2014/02/22/La-vision-du-lion\">la vision du lion</a>, Antoine parle de la faculté qu'ont certaines personnes à se focaliser sur certaine partie (optimisation locale) en oubliant la notion d'ensemble.</p>\n<blockquote cite=\"https://blog.crafting-labs.fr/?post/2014/02/22/La-vision-du-lion\"><p>Quand j'arrive sur un projet, je rencontre beaucoup de lions en train de mâchouiller un bout de cuisse sans se poser la question de son propriétaire. Ou plutôt des gens qui ont l'esprit tellement occupé par des détails qu'ils n'arrivent plus à voir l'image dans son entièreté. Qui ne peuvent pas se rendre compte que ce qu'ils cherchent à résoudre à tout prix n'est pas un problème, mais le symptôme d'un problème.</p>\n</blockquote>\n<h2>La course</h2>\n<p>Vous le savez, notre société est obsédée par la notion de productivité ; valeur fournie/temps passé. Pour augmenter cette productivité, vous avez le choix entre augmenter la valeur ou diminuer le temps. Souvent, pour avoir juste la sensation d'être plus productif, on passe juste un peu moins de temps sur une tâche.</p>\n<p>La productivité est une chose, on peut être efficace, réaliser plus vite une tâche, sans pour autant être efficient, réaliser plus une tâche mais avec un degré de qualité égal voir plus important.</p>\n<h3>Le processus</h3>\n<p>À se focaliser sur la productivité et une certaine efficacité d'une tâche en particulier ; on arrive à des aberration, dans cet exemple <a href=\"http://www.20minutes.fr/sciences/1311302-de-fausses-etudes-scientifiques-generees-par-informatique-publiees-par-un-grand-editeur\">De fausses études scientifiques générées par informatique publiées par un grand éditeur</a>, des études scientifiques sont générées par des robots et la lecture est réalisée de manière très efficace (beaucoup d'études relues par personne), à tel point que les lecteurs ne remarquent même pas les absurdités de la génération automatique.</p>\n<blockquote cite=\"http://www.20minutes.fr/sciences/1311302-de-fausses-etudes-scientifiques-generees-par-informatique-publiees-par-un-grand-editeur\"><p>Ce programme produit en un seul clic une étude truffée de termes techniques avec graphiques, citations et références à l'appui. Bref, un papier présentant à première vue tous les critères d'une authentique étude. Sauf qu'une lecture approfondie révèle des théories absurdes et des phrases sans queue ni tête.</p>\n</blockquote>\n<h3>La notion d'objectifs</h3>\n<p>Dans cet autre exemple <a href=\"http://www.atlantico.fr/pepites/pollution-chinoise-proche-hiver-nucleaire-994692.html#I0M2YAS7lie7kQVm.99\">La pollution chinoise proche d’un \"hiver nucléaire\"</a>, la société désireuse de mieux (produire plus, réduire la pauvreté,…) n'a juste pas mesuré qu'elle était en train de provoquer un hiver nucléaire ; un \"climat\" dans lequel il n'y a plus de photosynthèse donc plus de vie.</p>\n<blockquote cite=\"http://www.atlantico.fr/pepites/pollution-chinoise-proche-hiver-nucleaire-994692.html#I0M2YAS7lie7kQVm.99\"><p>les spécialistes affirment que \"le refroidissement engendré par l’obscurité aurait provoqué l’apparition d’un hiver nucléaire, y compris dans des régions au climat tempéré.</p>\n</blockquote>\n<p>En promouvant une société meilleure, on en arrive à en détruire les fondamentaux.</p>\n<h2>La dépression</h2>\n<p>Il existe plusieurs tentatives d'explication de la dépression. Pour Pierre Janet, il y aurait une origine possible dans une grande partie d'entre elles dans la fatigue. L'exécution rapide de tâches sans possibilités de recul ou de repos ferait tendre le cerveaux vers une focalisation sur un problème unique qu'il faudrait résoudre en priorité.</p>\n<p>Ne pas se laisser le temps d'avoir du recul parce que vous ne pouvez pas évoquer vos conditions de travail à qui que se soit ou être entrainé dans des rythmes de travail avec des objectifs à trop court terme, vous rend aussi abruti que le lion affamé.</p>\n<h2>Conclusion</h2>\n<p>En médecine chinoise, on voit le corps comme un tout et les médecins essayent d'agir à la racine du mal. Chez les européens, la spécialisation amène a, parfois, agir sur l'organe qui exprime le mal sans comprendre que la cause peut être autre.</p>\n<p>Il convient donc, sûrement, de voir les choses comme un tout.</p>\n<p>En web, que l'on mette en place les méthodes les plus à la mode n'est pas d'un intérêt majeur. Il faut penser à la vision d'ensemble.</p>\n<p>Le partage de cette vision globale est un contrat qui s'établit dès le démarrage d'un projet en fonction des objectifs et des compétences de chacun.</p>\n<p>Cette considération peut ainsi éviter de s'opposer sur des détails et s'intéresser plutôt à l'ensemble.</p>\n"
+"id": "/2014/02/28/la-vision-du-tout",
+"title": "La vision du tout ?",
+"url": "https://bertrandkeller.info/2014/02/28/la-vision-du-tout/",
+"date": 1393613213,
+"html": "
+<p>Allez comprendre pourquoi, avec le recul, vous n'avez pas mis en place des choses parfois aussi simples que des tests automatisés ou un système de démarrage (bootstrap) de sites web ? Pourtant vous n'avez pas démérité, vous avez bossé dur chaque jour pour faire au mieux. Mais avez vous déjà pris le temps ?</p>
+\n
+<h2>La focalisation</h2>
+\n
+<p>Dans l'article <a href=\"https://blog.crafting-labs.fr/?post/2014/02/22/La-vision-du-lion\">la vision du lion</a>, Antoine parle de la faculté qu'ont certaines personnes à se focaliser sur certaine partie (optimisation locale) en oubliant la notion d'ensemble.</p>
+\n
+<blockquote cite=\"https://blog.crafting-labs.fr/?post/2014/02/22/La-vision-du-lion\">
+  <p>Quand j'arrive sur un projet, je rencontre beaucoup de lions en train de mâchouiller un bout de cuisse sans se poser la question de son propriétaire. Ou plutôt des gens qui ont l'esprit tellement occupé par des détails qu'ils n'arrivent plus à voir l'image dans son entièreté. Qui ne peuvent pas se rendre compte que ce qu'ils cherchent à résoudre à tout prix n'est pas un problème, mais le symptôme d'un problème.</p>
+  \n</blockquote>
+\n
+<h2>La course</h2>
+\n
+<p>Vous le savez, notre société est obsédée par la notion de productivité ; valeur fournie/temps passé. Pour augmenter cette productivité, vous avez le choix entre augmenter la valeur ou diminuer le temps. Souvent, pour avoir juste la sensation d'être plus productif, on passe juste un peu moins de temps sur une tâche.</p>
+\n
+<p>La productivité est une chose, on peut être efficace, réaliser plus vite une tâche, sans pour autant être efficient, réaliser plus une tâche mais avec un degré de qualité égal voir plus important.</p>
+\n
+<h3>Le processus</h3>
+\n
+<p>À se focaliser sur la productivité et une certaine efficacité d'une tâche en particulier ; on arrive à des aberration, dans cet exemple <a href=\"http://www.20minutes.fr/sciences/1311302-de-fausses-etudes-scientifiques-generees-par-informatique-publiees-par-un-grand-editeur\">De fausses études scientifiques générées par informatique publiées par un grand éditeur</a>, des études scientifiques sont générées par des robots et la lecture est réalisée de manière très efficace (beaucoup d'études relues par personne), à tel point que les lecteurs ne remarquent même pas les absurdités de la génération automatique.</p>
+\n
+<blockquote cite=\"http://www.20minutes.fr/sciences/1311302-de-fausses-etudes-scientifiques-generees-par-informatique-publiees-par-un-grand-editeur\">
+  <p>Ce programme produit en un seul clic une étude truffée de termes techniques avec graphiques, citations et références à l'appui. Bref, un papier présentant à première vue tous les critères d'une authentique étude. Sauf qu'une lecture approfondie révèle des théories absurdes et des phrases sans queue ni tête.</p>
+  \n</blockquote>
+\n
+<h3>La notion d'objectifs</h3>
+\n
+<p>Dans cet autre exemple <a href=\"http://www.atlantico.fr/pepites/pollution-chinoise-proche-hiver-nucleaire-994692.html#I0M2YAS7lie7kQVm.99\">La pollution chinoise proche d’un \"hiver nucléaire\"</a>, la société désireuse de mieux (produire plus, réduire la pauvreté,…) n'a juste pas mesuré qu'elle était en train de provoquer un hiver nucléaire ; un \"climat\" dans lequel il n'y a plus de photosynthèse donc plus de vie.</p>
+\n
+<blockquote cite=\"http://www.atlantico.fr/pepites/pollution-chinoise-proche-hiver-nucleaire-994692.html#I0M2YAS7lie7kQVm.99\">
+  <p>les spécialistes affirment que \"le refroidissement engendré par l’obscurité aurait provoqué l’apparition d’un hiver nucléaire, y compris dans des régions au climat tempéré.</p>
+  \n</blockquote>
+\n
+<p>En promouvant une société meilleure, on en arrive à en détruire les fondamentaux.</p>
+\n
+<h2>La dépression</h2>
+\n
+<p>Il existe plusieurs tentatives d'explication de la dépression. Pour Pierre Janet, il y aurait une origine possible dans une grande partie d'entre elles dans la fatigue. L'exécution rapide de tâches sans possibilités de recul ou de repos ferait tendre le cerveaux vers une focalisation sur un problème unique qu'il faudrait résoudre en priorité.</p>
+\n
+<p>Ne pas se laisser le temps d'avoir du recul parce que vous ne pouvez pas évoquer vos conditions de travail à qui que se soit ou être entrainé dans des rythmes de travail avec des objectifs à trop court terme, vous rend aussi abruti que le lion affamé.</p>
+\n
+<h2>Conclusion</h2>
+\n
+<p>En médecine chinoise, on voit le corps comme un tout et les médecins essayent d'agir à la racine du mal. Chez les européens, la spécialisation amène a, parfois, agir sur l'organe qui exprime le mal sans comprendre que la cause peut être autre.</p>
+\n
+<p>Il convient donc, sûrement, de voir les choses comme un tout.</p>
+\n
+<p>En web, que l'on mette en place les méthodes les plus à la mode n'est pas d'un intérêt majeur. Il faut penser à la vision d'ensemble.</p>
+\n
+<p>Le partage de cette vision globale est un contrat qui s'établit dès le démarrage d'un projet en fonction des objectifs et des compétences de chacun.</p>
+\n
+<p>Cette considération peut ainsi éviter de s'opposer sur des détails et s'intéresser plutôt à l'ensemble.</p>
+\n",
+"markdown": "
+<p>Allez comprendre pourquoi, avec le recul, vous n'avez pas mis en place des choses parfois aussi simples que des tests automatisés ou un système de démarrage (bootstrap) de sites web ? Pourtant vous n'avez pas démérité, vous avez bossé dur chaque jour pour faire au mieux. Mais avez vous déjà pris le temps ?</p>
+\n
+<h2>La focalisation</h2>
+\n
+<p>Dans l'article <a href=\"https://blog.crafting-labs.fr/?post/2014/02/22/La-vision-du-lion\">la vision du lion</a>, Antoine parle de la faculté qu'ont certaines personnes à se focaliser sur certaine partie (optimisation locale) en oubliant la notion d'ensemble.</p>
+\n
+<blockquote cite=\"https://blog.crafting-labs.fr/?post/2014/02/22/La-vision-du-lion\">
+  <p>Quand j'arrive sur un projet, je rencontre beaucoup de lions en train de mâchouiller un bout de cuisse sans se poser la question de son propriétaire. Ou plutôt des gens qui ont l'esprit tellement occupé par des détails qu'ils n'arrivent plus à voir l'image dans son entièreté. Qui ne peuvent pas se rendre compte que ce qu'ils cherchent à résoudre à tout prix n'est pas un problème, mais le symptôme d'un problème.</p>
+  \n</blockquote>
+\n
+<h2>La course</h2>
+\n
+<p>Vous le savez, notre société est obsédée par la notion de productivité ; valeur fournie/temps passé. Pour augmenter cette productivité, vous avez le choix entre augmenter la valeur ou diminuer le temps. Souvent, pour avoir juste la sensation d'être plus productif, on passe juste un peu moins de temps sur une tâche.</p>
+\n
+<p>La productivité est une chose, on peut être efficace, réaliser plus vite une tâche, sans pour autant être efficient, réaliser plus une tâche mais avec un degré de qualité égal voir plus important.</p>
+\n
+<h3>Le processus</h3>
+\n
+<p>À se focaliser sur la productivité et une certaine efficacité d'une tâche en particulier ; on arrive à des aberration, dans cet exemple <a href=\"http://www.20minutes.fr/sciences/1311302-de-fausses-etudes-scientifiques-generees-par-informatique-publiees-par-un-grand-editeur\">De fausses études scientifiques générées par informatique publiées par un grand éditeur</a>, des études scientifiques sont générées par des robots et la lecture est réalisée de manière très efficace (beaucoup d'études relues par personne), à tel point que les lecteurs ne remarquent même pas les absurdités de la génération automatique.</p>
+\n
+<blockquote cite=\"http://www.20minutes.fr/sciences/1311302-de-fausses-etudes-scientifiques-generees-par-informatique-publiees-par-un-grand-editeur\">
+  <p>Ce programme produit en un seul clic une étude truffée de termes techniques avec graphiques, citations et références à l'appui. Bref, un papier présentant à première vue tous les critères d'une authentique étude. Sauf qu'une lecture approfondie révèle des théories absurdes et des phrases sans queue ni tête.</p>
+  \n</blockquote>
+\n
+<h3>La notion d'objectifs</h3>
+\n
+<p>Dans cet autre exemple <a href=\"http://www.atlantico.fr/pepites/pollution-chinoise-proche-hiver-nucleaire-994692.html#I0M2YAS7lie7kQVm.99\">La pollution chinoise proche d’un \"hiver nucléaire\"</a>, la société désireuse de mieux (produire plus, réduire la pauvreté,…) n'a juste pas mesuré qu'elle était en train de provoquer un hiver nucléaire ; un \"climat\" dans lequel il n'y a plus de photosynthèse donc plus de vie.</p>
+\n
+<blockquote cite=\"http://www.atlantico.fr/pepites/pollution-chinoise-proche-hiver-nucleaire-994692.html#I0M2YAS7lie7kQVm.99\">
+  <p>les spécialistes affirment que \"le refroidissement engendré par l’obscurité aurait provoqué l’apparition d’un hiver nucléaire, y compris dans des régions au climat tempéré.</p>
+  \n</blockquote>
+\n
+<p>En promouvant une société meilleure, on en arrive à en détruire les fondamentaux.</p>
+\n
+<h2>La dépression</h2>
+\n
+<p>Il existe plusieurs tentatives d'explication de la dépression. Pour Pierre Janet, il y aurait une origine possible dans une grande partie d'entre elles dans la fatigue. L'exécution rapide de tâches sans possibilités de recul ou de repos ferait tendre le cerveaux vers une focalisation sur un problème unique qu'il faudrait résoudre en priorité.</p>
+\n
+<p>Ne pas se laisser le temps d'avoir du recul parce que vous ne pouvez pas évoquer vos conditions de travail à qui que se soit ou être entrainé dans des rythmes de travail avec des objectifs à trop court terme, vous rend aussi abruti que le lion affamé.</p>
+\n
+<h2>Conclusion</h2>
+\n
+<p>En médecine chinoise, on voit le corps comme un tout et les médecins essayent d'agir à la racine du mal. Chez les européens, la spécialisation amène a, parfois, agir sur l'organe qui exprime le mal sans comprendre que la cause peut être autre.</p>
+\n
+<p>Il convient donc, sûrement, de voir les choses comme un tout.</p>
+\n
+<p>En web, que l'on mette en place les méthodes les plus à la mode n'est pas d'un intérêt majeur. Il faut penser à la vision d'ensemble.</p>
+\n
+<p>Le partage de cette vision globale est un contrat qui s'établit dès le démarrage d'un projet en fonction des objectifs et des compétences de chacun.</p>
+\n
+<p>Cette considération peut ainsi éviter de s'opposer sur des détails et s'intéresser plutôt à l'ensemble.</p>
+\n"
 }

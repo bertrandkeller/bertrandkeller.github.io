@@ -1,8 +1,16 @@
 {
-  "id": "/2009/01/15/michael-wandelmaier",
-  "title": "Michael Wandelmaier",
-  "url": "https://bertrandkeller.info/2009/01/15/michael-wandelmaier/",
-  "date": 1232027278,
-  "html": "<p>Le portfolio de <a href=\"http://www.wandelmaier.com/\">Michael Wandelmaier</a> présente des créations picturales dans lesquelles on ne distingue pas exactement l'animal de l'homme et l'homme du monstre.</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/whoolywhale_large.jpg\" alt=\"Michael Wandelmaier\" /></div>\n",
-  "markdown": "<p>Le portfolio de <a href=\"http://www.wandelmaier.com/\">Michael Wandelmaier</a> présente des créations picturales dans lesquelles on ne distingue pas exactement l'animal de l'homme et l'homme du monstre.</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/whoolywhale_large.jpg\" alt=\"Michael Wandelmaier\" /></div>\n"
+"id": "/2009/01/15/michael-wandelmaier",
+"title": "Michael Wandelmaier",
+"url": "https://bertrandkeller.info/2009/01/15/michael-wandelmaier/",
+"date": 1232027278,
+"html": "
+<p>Le portfolio de <a href=\"http://www.wandelmaier.com/\">Michael Wandelmaier</a> présente des créations picturales dans lesquelles on ne distingue pas exactement l'animal de l'homme et l'homme du monstre.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/whoolywhale_large.jpg\" alt=\"Michael Wandelmaier\" /></div>
+\n",
+"markdown": "
+<p>Le portfolio de <a href=\"http://www.wandelmaier.com/\">Michael Wandelmaier</a> présente des créations picturales dans lesquelles on ne distingue pas exactement l'animal de l'homme et l'homme du monstre.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/whoolywhale_large.jpg\" alt=\"Michael Wandelmaier\" /></div>
+\n"
 }

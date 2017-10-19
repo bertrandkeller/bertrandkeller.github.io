@@ -1,8 +1,52 @@
 {
-  "id": "/2009/10/12/paris-web-2009-web-symbiotique",
-  "title": "Paris Web 2009, un pas vers le web symbiotique (web 4.0)",
-  "url": "https://bertrandkeller.info/2009/10/12/paris-web-2009-web-symbiotique/",
-  "date": 1255350887,
-  "html": "<p><a href=\"http://www.paris-web.fr/2009/\" title=\"Paris Web 2009\">Paris Web</a>, c'est le nom le plus minable qu'on puisse trouver pour une conférence, mais c'est aussi la meilleure conférence du monde à propos du webdesign, la qualité, l'accessibilité et tous les autres trucs dans le genre. Organisée uniquement par des bénévoles, le calembour est de rigueur, elle fait passer les orateurs pour autre choses que des experts ; elle les place au rang d'hommes qui aiment leur métier, pas plus, pas moins.</p>\n<p>En 2008, l'accessibilité occupait une large place dans les conférences, le public notait chacune des petites astuces à connaître pour avoir un site irréprochable, les procédures pour organiser le travail d'intégration avec la meilleure qualité possible.</p>\n<p>En 2009, le programme a bien suivi l'évolution du web en présentant les problématiques de l'identitée numérique, celles qui régissent le monde du <a href=\"http://www.marcuscake.com/key-concepts/internet-evolution\" title=\"Web 1.0, Web 2.0, Web 3.0 and Web 4.0 explained\">web 4.0</a> ; selon <a href=\"http://affordance.typepad.com/mon_weblog/2008/02/technologies-de.html\" title=\"Technologies de la relation\">Olivier Ertzscheid</a> : c'est à dire l'internet des objets, un internet \"pervasif\", ubiquitaire, immersif.</p>\n<p>Certains sujets ont donc été lourds à digérer, pour autant les aspects techniques ont gardé une bonne place. Ces prochains mois, les objectifs se porteront sur :</p>\n<ol>\n<li>CSS orienté objet</li>\n<li>Design itératif</li>\n<li>Tests automatisés</li>\n<li>Portabilité des données</li>\n<li>Web mobile</li>\n</ol>\n<p>Paris Web 2009, génial et indispensable, ça reste super : <a href=\"http://www.bertrandkeller.info/2008/11/17/277-paris-web-2008-c-est-super/\" title=\"Paris Web 2008, c’est super\">Paris Web 2008, c’est super</a>.</p>\n",
-  "markdown": "<p><a href=\"http://www.paris-web.fr/2009/\" title=\"Paris Web 2009\">Paris Web</a>, c'est le nom le plus minable qu'on puisse trouver pour une conférence, mais c'est aussi la meilleure conférence du monde à propos du webdesign, la qualité, l'accessibilité et tous les autres trucs dans le genre. Organisée uniquement par des bénévoles, le calembour est de rigueur, elle fait passer les orateurs pour autre choses que des experts ; elle les place au rang d'hommes qui aiment leur métier, pas plus, pas moins.</p>\n<p>En 2008, l'accessibilité occupait une large place dans les conférences, le public notait chacune des petites astuces à connaître pour avoir un site irréprochable, les procédures pour organiser le travail d'intégration avec la meilleure qualité possible.</p>\n<p>En 2009, le programme a bien suivi l'évolution du web en présentant les problématiques de l'identitée numérique, celles qui régissent le monde du <a href=\"http://www.marcuscake.com/key-concepts/internet-evolution\" title=\"Web 1.0, Web 2.0, Web 3.0 and Web 4.0 explained\">web 4.0</a> ; selon <a href=\"http://affordance.typepad.com/mon_weblog/2008/02/technologies-de.html\" title=\"Technologies de la relation\">Olivier Ertzscheid</a> : c'est à dire l'internet des objets, un internet \"pervasif\", ubiquitaire, immersif.</p>\n<p>Certains sujets ont donc été lourds à digérer, pour autant les aspects techniques ont gardé une bonne place. Ces prochains mois, les objectifs se porteront sur :</p>\n<ol>\n<li>CSS orienté objet</li>\n<li>Design itératif</li>\n<li>Tests automatisés</li>\n<li>Portabilité des données</li>\n<li>Web mobile</li>\n</ol>\n<p>Paris Web 2009, génial et indispensable, ça reste super : <a href=\"http://www.bertrandkeller.info/2008/11/17/277-paris-web-2008-c-est-super/\" title=\"Paris Web 2008, c’est super\">Paris Web 2008, c’est super</a>.</p>\n"
+"id": "/2009/10/12/paris-web-2009-web-symbiotique",
+"title": "Paris Web 2009, un pas vers le web symbiotique (web 4.0)",
+"url": "https://bertrandkeller.info/2009/10/12/paris-web-2009-web-symbiotique/",
+"date": 1255350887,
+"html": "
+<p><a href=\"http://www.paris-web.fr/2009/\" title=\"Paris Web 2009\">Paris Web</a>, c'est le nom le plus minable qu'on puisse trouver pour une conférence, mais c'est aussi la meilleure conférence du monde à propos du webdesign, la qualité, l'accessibilité et tous les autres trucs dans le genre. Organisée uniquement par des bénévoles, le calembour est de rigueur, elle fait passer les orateurs pour autre choses que des experts ; elle les place au rang d'hommes qui aiment leur métier, pas plus, pas moins.</p>
+\n
+<p>En 2008, l'accessibilité occupait une large place dans les conférences, le public notait chacune des petites astuces à connaître pour avoir un site irréprochable, les procédures pour organiser le travail d'intégration avec la meilleure qualité possible.</p>
+\n
+<p>En 2009, le programme a bien suivi l'évolution du web en présentant les problématiques de l'identitée numérique, celles qui régissent le monde du <a href=\"http://www.marcuscake.com/key-concepts/internet-evolution\" title=\"Web 1.0, Web 2.0, Web 3.0 and Web 4.0 explained\">web 4.0</a> ; selon <a href=\"http://affordance.typepad.com/mon_weblog/2008/02/technologies-de.html\" title=\"Technologies de la relation\">Olivier Ertzscheid</a> : c'est à dire l'internet des objets, un internet \"pervasif\", ubiquitaire, immersif.</p>
+\n
+<p>Certains sujets ont donc été lourds à digérer, pour autant les aspects techniques ont gardé une bonne place. Ces prochains mois, les objectifs se porteront sur :</p>
+\n
+<ol>\n
+  <li>CSS orienté objet</li>
+  \n
+  <li>Design itératif</li>
+  \n
+  <li>Tests automatisés</li>
+  \n
+  <li>Portabilité des données</li>
+  \n
+  <li>Web mobile</li>
+  \n</ol>
+\n
+<p>Paris Web 2009, génial et indispensable, ça reste super : <a href=\"http://www.bertrandkeller.info/2008/11/17/277-paris-web-2008-c-est-super/\" title=\"Paris Web 2008, c’est super\">Paris Web 2008, c’est super</a>.</p>
+\n",
+"markdown": "
+<p><a href=\"http://www.paris-web.fr/2009/\" title=\"Paris Web 2009\">Paris Web</a>, c'est le nom le plus minable qu'on puisse trouver pour une conférence, mais c'est aussi la meilleure conférence du monde à propos du webdesign, la qualité, l'accessibilité et tous les autres trucs dans le genre. Organisée uniquement par des bénévoles, le calembour est de rigueur, elle fait passer les orateurs pour autre choses que des experts ; elle les place au rang d'hommes qui aiment leur métier, pas plus, pas moins.</p>
+\n
+<p>En 2008, l'accessibilité occupait une large place dans les conférences, le public notait chacune des petites astuces à connaître pour avoir un site irréprochable, les procédures pour organiser le travail d'intégration avec la meilleure qualité possible.</p>
+\n
+<p>En 2009, le programme a bien suivi l'évolution du web en présentant les problématiques de l'identitée numérique, celles qui régissent le monde du <a href=\"http://www.marcuscake.com/key-concepts/internet-evolution\" title=\"Web 1.0, Web 2.0, Web 3.0 and Web 4.0 explained\">web 4.0</a> ; selon <a href=\"http://affordance.typepad.com/mon_weblog/2008/02/technologies-de.html\" title=\"Technologies de la relation\">Olivier Ertzscheid</a> : c'est à dire l'internet des objets, un internet \"pervasif\", ubiquitaire, immersif.</p>
+\n
+<p>Certains sujets ont donc été lourds à digérer, pour autant les aspects techniques ont gardé une bonne place. Ces prochains mois, les objectifs se porteront sur :</p>
+\n
+<ol>\n
+  <li>CSS orienté objet</li>
+  \n
+  <li>Design itératif</li>
+  \n
+  <li>Tests automatisés</li>
+  \n
+  <li>Portabilité des données</li>
+  \n
+  <li>Web mobile</li>
+  \n</ol>
+\n
+<p>Paris Web 2009, génial et indispensable, ça reste super : <a href=\"http://www.bertrandkeller.info/2008/11/17/277-paris-web-2008-c-est-super/\" title=\"Paris Web 2008, c’est super\">Paris Web 2008, c’est super</a>.</p>
+\n"
 }

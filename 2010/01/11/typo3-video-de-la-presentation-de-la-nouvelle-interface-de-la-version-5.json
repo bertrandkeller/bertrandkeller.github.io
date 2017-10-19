@@ -1,8 +1,19 @@
 {
-  "id": "/2010/01/11/typo3-video-de-la-presentation-de-la-nouvelle-interface-de-la-version-5",
-  "title": "TYPO3 : vidéo de la présentation de la nouvelle interface de la version 5",
-  "url": "https://bertrandkeller.info/2010/01/11/typo3-video-de-la-presentation-de-la-nouvelle-interface-de-la-version-5/",
-  "date": 1263205342,
-  "html": "<p>Nous attendons la version 5 de TYPO3 ; c'est pas pour tout de suite. Pour patienter, une petit vidéo.</p>\n<p><object width=\"535\" height=\"401\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"movie\" value=\"https://vimeo.com/moogaloop.swf?clip_id=8648219&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff8700&amp;fullscreen=1\" /><embed src=\"https://vimeo.com/moogaloop.swf?clip_id=8648219&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff8700&amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"535\" height=\"401\" /></embed></object>\n<p><a href=\"https://vimeo.com/8648219\">The radically new interface - TYPO3 5.0</a> from <a href=\"https://vimeo.com/wrybit\">Jens Hoffmann</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>\n</p>\n",
-  "markdown": "<p>Nous attendons la version 5 de TYPO3 ; c'est pas pour tout de suite. Pour patienter, une petit vidéo.</p>\n<p><object width=\"535\" height=\"401\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"movie\" value=\"https://vimeo.com/moogaloop.swf?clip_id=8648219&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff8700&amp;fullscreen=1\" /><embed src=\"https://vimeo.com/moogaloop.swf?clip_id=8648219&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff8700&amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"535\" height=\"401\"></embed></object>\n<p><a href=\"https://vimeo.com/8648219\">The radically new interface - TYPO3 5.0</a> from <a href=\"https://vimeo.com/wrybit\">Jens Hoffmann</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>\n"
+"id": "/2010/01/11/typo3-video-de-la-presentation-de-la-nouvelle-interface-de-la-version-5",
+"title": "TYPO3 : vidéo de la présentation de la nouvelle interface de la version 5",
+"url": "https://bertrandkeller.info/2010/01/11/typo3-video-de-la-presentation-de-la-nouvelle-interface-de-la-version-5/",
+"date": 1263205342,
+"html": "
+<p>Nous attendons la version 5 de TYPO3 ; c'est pas pour tout de suite. Pour patienter, une petit vidéo.</p>
+\n
+<p><object width=\"535\" height=\"401\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"movie\" value=\"https://vimeo.com/moogaloop.swf?clip_id=8648219&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff8700&amp;fullscreen=1\" /><embed src=\"https://vimeo.com/moogaloop.swf?clip_id=8648219&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff8700&amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"535\" height=\"401\" />&lt;/embed&gt;</object>\n
+  <p><a href=\"https://vimeo.com/8648219\">The radically new interface - TYPO3 5.0</a> from <a href=\"https://vimeo.com/wrybit\">Jens Hoffmann</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>
+  \n</p>
+\n",
+"markdown": "
+<p>Nous attendons la version 5 de TYPO3 ; c'est pas pour tout de suite. Pour patienter, une petit vidéo.</p>
+\n
+<p><object width=\"535\" height=\"401\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"movie\" value=\"https://vimeo.com/moogaloop.swf?clip_id=8648219&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff8700&amp;fullscreen=1\" /><embed src=\"https://vimeo.com/moogaloop.swf?clip_id=8648219&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff8700&amp;fullscreen=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"535\" height=\"401\"></embed></object>\n
+<p><a href=\"https://vimeo.com/8648219\">The radically new interface - TYPO3 5.0</a> from <a href=\"https://vimeo.com/wrybit\">Jens Hoffmann</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>
+\n"
 }

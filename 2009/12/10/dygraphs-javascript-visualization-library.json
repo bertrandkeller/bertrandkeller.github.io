@@ -1,8 +1,40 @@
 {
-  "id": "/2009/12/10/dygraphs-javascript-visualization-library",
-  "title": "dygraphs JavaScript Visualization Library",
-  "url": "https://bertrandkeller.info/2009/12/10/dygraphs-javascript-visualization-library/",
-  "date": 1260461533,
-  "html": "<p>dygraphs est une librairie JavaScript pour la visualisation de données. Elle est dédiée à l'affichage de données denses.</p>\n<blockquote cite=\"http://www.danvk.org/dygraphs/\"><p>The dygraphs JavaScript library produces produces interactive, zoomable charts of time series. It is designed to display dense data sets and enable users to explore and interpret them.</p>\n</blockquote>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/dygraphs-Temperature.jpg\" alt=\"dygraphs-Temperature\" title=\"dygraphs-Temperature\" width=\"535\" height=\"236\" class=\"aligncenter size-full wp-image-1665\" /></div>\n<p>Les graphiques de la librairie dygraphs affichent la valeur des points (abscisses et ordonnées) que la souris survole. Il est possible de comparer la valeur de 2 courbes à une date donnée.</p>\n<p>En bas à gauche des graphiques, se trouve un champ texte avec un chiffre. La modification de ce chiffre permet le lissage de chacune des courbes. Le rendu est donc moins précis mais permet d'avoir une appréciation de tendances.</p>\n<p>Encore mieux, la définition d'un cadre à l'intérieur du graphique par un clic prolongé permet de zoomer sur les données. Un double clic réinitialise le graphique comme à son origine.</p>\n<p>Voir <a href=\"http://www.danvk.org/dygraphs/\" title=\"dygraphs JavaScript Visualization Library\">dygraphs JavaScript Visualization Library</a>.</p>\n",
-  "markdown": "<p>dygraphs est une librairie JavaScript pour la visualisation de données. Elle est dédiée à l'affichage de données denses.</p>\n<blockquote cite=\"http://www.danvk.org/dygraphs/\"><p>The dygraphs JavaScript library produces produces interactive, zoomable charts of time series. It is designed to display dense data sets and enable users to explore and interpret them.</p>\n</blockquote>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/dygraphs-Temperature.jpg\" alt=\"dygraphs-Temperature\" title=\"dygraphs-Temperature\" width=\"535\" height=\"236\" class=\"aligncenter size-full wp-image-1665\" /></div>\n<p>Les graphiques de la librairie dygraphs affichent la valeur des points (abscisses et ordonnées) que la souris survole. Il est possible de comparer la valeur de 2 courbes à une date donnée.</p>\n<p>En bas à gauche des graphiques, se trouve un champ texte avec un chiffre. La modification de ce chiffre permet le lissage de chacune des courbes. Le rendu est donc moins précis mais permet d'avoir une appréciation de tendances.</p>\n<p>Encore mieux, la définition d'un cadre à l'intérieur du graphique par un clic prolongé permet de zoomer sur les données. Un double clic réinitialise le graphique comme à son origine.</p>\n<p>Voir <a href=\"http://www.danvk.org/dygraphs/\" title=\"dygraphs JavaScript Visualization Library\">dygraphs JavaScript Visualization Library</a>.</p>\n"
+"id": "/2009/12/10/dygraphs-javascript-visualization-library",
+"title": "dygraphs JavaScript Visualization Library",
+"url": "https://bertrandkeller.info/2009/12/10/dygraphs-javascript-visualization-library/",
+"date": 1260461533,
+"html": "
+<p>dygraphs est une librairie JavaScript pour la visualisation de données. Elle est dédiée à l'affichage de données denses.</p>
+\n
+<blockquote cite=\"http://www.danvk.org/dygraphs/\">
+  <p>The dygraphs JavaScript library produces produces interactive, zoomable charts of time series. It is designed to display dense data sets and enable users to explore and interpret them.</p>
+  \n</blockquote>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/dygraphs-Temperature.jpg\" alt=\"dygraphs-Temperature\" title=\"dygraphs-Temperature\" width=\"535\" height=\"236\" class=\"aligncenter size-full wp-image-1665\" /></div>
+\n
+<p>Les graphiques de la librairie dygraphs affichent la valeur des points (abscisses et ordonnées) que la souris survole. Il est possible de comparer la valeur de 2 courbes à une date donnée.</p>
+\n
+<p>En bas à gauche des graphiques, se trouve un champ texte avec un chiffre. La modification de ce chiffre permet le lissage de chacune des courbes. Le rendu est donc moins précis mais permet d'avoir une appréciation de tendances.</p>
+\n
+<p>Encore mieux, la définition d'un cadre à l'intérieur du graphique par un clic prolongé permet de zoomer sur les données. Un double clic réinitialise le graphique comme à son origine.</p>
+\n
+<p>Voir <a href=\"http://www.danvk.org/dygraphs/\" title=\"dygraphs JavaScript Visualization Library\">dygraphs JavaScript Visualization Library</a>.</p>
+\n",
+"markdown": "
+<p>dygraphs est une librairie JavaScript pour la visualisation de données. Elle est dédiée à l'affichage de données denses.</p>
+\n
+<blockquote cite=\"http://www.danvk.org/dygraphs/\">
+  <p>The dygraphs JavaScript library produces produces interactive, zoomable charts of time series. It is designed to display dense data sets and enable users to explore and interpret them.</p>
+  \n</blockquote>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/dygraphs-Temperature.jpg\" alt=\"dygraphs-Temperature\" title=\"dygraphs-Temperature\" width=\"535\" height=\"236\" class=\"aligncenter size-full wp-image-1665\" /></div>
+\n
+<p>Les graphiques de la librairie dygraphs affichent la valeur des points (abscisses et ordonnées) que la souris survole. Il est possible de comparer la valeur de 2 courbes à une date donnée.</p>
+\n
+<p>En bas à gauche des graphiques, se trouve un champ texte avec un chiffre. La modification de ce chiffre permet le lissage de chacune des courbes. Le rendu est donc moins précis mais permet d'avoir une appréciation de tendances.</p>
+\n
+<p>Encore mieux, la définition d'un cadre à l'intérieur du graphique par un clic prolongé permet de zoomer sur les données. Un double clic réinitialise le graphique comme à son origine.</p>
+\n
+<p>Voir <a href=\"http://www.danvk.org/dygraphs/\" title=\"dygraphs JavaScript Visualization Library\">dygraphs JavaScript Visualization Library</a>.</p>
+\n"
 }

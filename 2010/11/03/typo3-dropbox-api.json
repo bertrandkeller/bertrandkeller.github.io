@@ -1,8 +1,36 @@
 {
-  "id": "/2010/11/03/typo3-dropbox-api",
-  "title": "TYPO3 : Dropbox API",
-  "url": "https://bertrandkeller.info/2010/11/03/typo3-dropbox-api/",
-  "date": 1288777168,
-  "html": "<p>Cette semaine, par la force des connexions twitter et des échanges électroniques, Xavier Perseguers a mis en ligne la Dropbox API, comme sur Drupal.</p>\n<p>Tout a commencé bêtement sur twitter (il me semble), d'une demande d'une connexion à Dropbox (espace de stockage en ligne) identique à celle de Drupal : <a href=\"http://drupal.org/project/dropbox\">Dropbox Integration</a>. Voilà le résultat et merci à Xavier.</p>\n<blockquote cite=\"http://forge.typo3.org/projects/extension-dropbox_api\">\n<p>Connect to your Dropbox account from TYPO3.</p>\n<p>At the moment, a simple form provided by a frontend plugin allows you to send files to the root of your dropbox.</p>\n<p>What could be great is being able to have a directory inside fileadmin that would be \"mapped\" to some Dropbox folder. At least I guess it could be cool.</p>\n</blockquote>\n<p>Lire <a href=\"http://forge.typo3.org/projects/extension-dropbox_api\">Dropbox API</a></p>\n",
-  "markdown": "<p>Cette semaine, par la force des connexions twitter et des échanges électroniques, Xavier Perseguers a mis en ligne la Dropbox API, comme sur Drupal.</p>\n<p>Tout a commencé bêtement sur twitter (il me semble), d'une demande d'une connexion à Dropbox (espace de stockage en ligne) identique à celle de Drupal : <a href=\"http://drupal.org/project/dropbox\">Dropbox Integration</a>. Voilà le résultat et merci à Xavier.</p>\n<blockquote cite=\"http://forge.typo3.org/projects/extension-dropbox_api\">\n<p>Connect to your Dropbox account from TYPO3.</p>\n<p>At the moment, a simple form provided by a frontend plugin allows you to send files to the root of your dropbox.</p>\n<p>What could be great is being able to have a directory inside fileadmin that would be \"mapped\" to some Dropbox folder. At least I guess it could be cool.</p>\n</blockquote>\n<p>Lire <a href=\"http://forge.typo3.org/projects/extension-dropbox_api\">Dropbox API</a></p>\n"
+"id": "/2010/11/03/typo3-dropbox-api",
+"title": "TYPO3 : Dropbox API",
+"url": "https://bertrandkeller.info/2010/11/03/typo3-dropbox-api/",
+"date": 1288777168,
+"html": "
+<p>Cette semaine, par la force des connexions twitter et des échanges électroniques, Xavier Perseguers a mis en ligne la Dropbox API, comme sur Drupal.</p>
+\n
+<p>Tout a commencé bêtement sur twitter (il me semble), d'une demande d'une connexion à Dropbox (espace de stockage en ligne) identique à celle de Drupal : <a href=\"http://drupal.org/project/dropbox\">Dropbox Integration</a>. Voilà le résultat et merci à Xavier.</p>
+\n
+<blockquote cite=\"http://forge.typo3.org/projects/extension-dropbox_api\">\n
+  <p>Connect to your Dropbox account from TYPO3.</p>
+  \n
+  <p>At the moment, a simple form provided by a frontend plugin allows you to send files to the root of your dropbox.</p>
+  \n
+  <p>What could be great is being able to have a directory inside fileadmin that would be \"mapped\" to some Dropbox folder. At least I guess it could be cool.</p>
+  \n</blockquote>
+\n
+<p>Lire <a href=\"http://forge.typo3.org/projects/extension-dropbox_api\">Dropbox API</a></p>
+\n",
+"markdown": "
+<p>Cette semaine, par la force des connexions twitter et des échanges électroniques, Xavier Perseguers a mis en ligne la Dropbox API, comme sur Drupal.</p>
+\n
+<p>Tout a commencé bêtement sur twitter (il me semble), d'une demande d'une connexion à Dropbox (espace de stockage en ligne) identique à celle de Drupal : <a href=\"http://drupal.org/project/dropbox\">Dropbox Integration</a>. Voilà le résultat et merci à Xavier.</p>
+\n
+<blockquote cite=\"http://forge.typo3.org/projects/extension-dropbox_api\">\n
+  <p>Connect to your Dropbox account from TYPO3.</p>
+  \n
+  <p>At the moment, a simple form provided by a frontend plugin allows you to send files to the root of your dropbox.</p>
+  \n
+  <p>What could be great is being able to have a directory inside fileadmin that would be \"mapped\" to some Dropbox folder. At least I guess it could be cool.</p>
+  \n</blockquote>
+\n
+<p>Lire <a href=\"http://forge.typo3.org/projects/extension-dropbox_api\">Dropbox API</a></p>
+\n"
 }

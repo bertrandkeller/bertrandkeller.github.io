@@ -1,8 +1,106 @@
 {
-  "id": "/2013/12/20/la-nature-utopique-de-la-conception-web",
-  "title": "La nature utopique de la conception web",
-  "url": "https://bertrandkeller.info/2013/12/20/la-nature-utopique-de-la-conception-web/",
-  "date": 1387557439,
-  "html": "<p>On réfléchissait ce matin sur la manière de valoriser un parti pris pour la réalisation d'une interface. Quels sont les arguments qui peuvent faire rendre compte à un client qu'une hiérarchisation de contenu est primordiale pour mettre en place un sens de lecture pertinent.</p>\n<h2>La saturation cognitive</h2>\n<p>L'expérience de la réalisation de sites web, la fréquentation quotidienne d'applications, vous montrent que la navigation est une chose complexe qui peut vite devenir fastidieuse.</p>\n<p>Si l'effort cognitif est trop important pour valider un choix, vous allez simplement abandonner la page et vous diriger vers une autre interface.</p>\n<p>Les personnes qui ont quelques notions de conception web appellent ça la saturation cognitive. En gros quand un lecteur vient visiter une page (surtout la première fois), il ne peut pas lire et comprendre l'ensemble du contenu.</p>\n<p>Ainsi, pour favoriser la \"transformation\", on essayera de mettre en valeur des \"call to action\" (incitation à l'action) qui vont diriger (le plus directement) l'utilisateur vers le contenu (plus ou moins présumé) qu'il cherchait.</p>\n<h2>La volonté du client</h2>\n<p>Si vous parlez avec un client de ce phénomène, il va comprendre assez facilement ce principe, mais pas forcément y adhérer sur la longueur de conception du projet.</p>\n<p>Avec mes camarades, on se disait que finalement ce que désirait un client dans l'absolu pour un utilisateur, c'était qu'il lance son navigateur et qu'il arrive directement au contenu souhaité.</p>\n<p>Le client rêve de fournir cette interface idéale dans laquelle l'énergie cognitive à fournir devient nulle. Il s'agit évidemment du sain Graal technologique ; l'appuie sur un bouton permettant de faire disparaître les efforts inutiles.</p>\n<h2>La conséquence sur la conception</h2>\n<p>Studieux, sur ce projet, on avait établit une conception selon les principes du \"contenu d'abord\", la relation client était plus que parfaite à ce sujet. Seulement au fil du temps on avait remarqué que certaines parties des fonctionnalités étaient remontés dans la bannière principale.</p>\n<p>Après avoir passé 2 jours à revoir le fonctionnement responsive pour que la comportement soit convenable, on a commencé à se demander ce qu'il pouvait se passer. On a donc arrêté convaincu qu'on était rentré dans une phase de flou dans la définition de l'interface et qu'il fallait absolument redéfinir tout ça.</p>\n<h2>Les forces en action</h2>\n<p>Admettons que vous êtes une personne de métier avec un réel besoin d'accompagnement responsable de vos collaborateurs ; pas un commercial ou chef de projet qui répondra qu'il va demander à ses développeurs si c'est possible.</p>\n<h3>L'expérience utilisateur - l'organisation</h3>\n<p>Votre interaction avec le client se dirigera dans sens dans lequel vous désirez que le besoin de l'utilisateur soit assouvi. Avec votre expérience, vous savez qu'il est nécessaire de respecter les règles de lecture/navigation du web et de bien définir les interactions/messages auxquels l'utilisateur va être confronté. Vous allez poussez des conseils permettant de concevoir l'expérience utilisateur (UX).</p>\n<h3>L'immédiateté - la gravité</h3>\n<p>De l'autre côté, votre client, lui, espère que l'utilisateur accède le plus rapidement à l'information sans en privilégier une par rapport à l'autre ; à tout mettre sur la page d'accueil de peur que l'utilisateur ne trouve pas quelque chose.</p>\n<h2>Conclusion</h2>\n<p>Lors de la conception d'une page ou d'un site web, l'expérience va vous montrer, qu'en tant qu'utilisateur, une interface est plus conviviale si elle présente un nombre d'actions claires et limitées. Il faut prendre un parti pris.</p>\n<p>Seulement, (on va dire très souvent), un client, pris de panique ou ne sachant pas trancher sur le service que doit proposer son interface, va pousser pour placer un maximum de fonctionnalités en avant (les faire remonter dans la page) ou à l'inverse les placer dans des zones invisibles ne sachant pas quoi en faire.<br />\nVous pourriez même le suivre petit à petit dans cette direction pour que ne pas le perdre.</p>\n<p>Ainsi, pour faire une interface cohérente, il est nécessaire de lutter au quotidien contre cette représentation utopique de la conception de sites web dans laquelle un utilisateur tombe directement sur l'information souhaitée.</p>\n<p>Vous devez vous faire violence pour construire vos outils de conception et définir/hiérarchiser tout ce qui peut l'être.</p>\n",
-  "markdown": "<p>On réfléchissait ce matin sur la manière de valoriser un parti pris pour la réalisation d'une interface. Quels sont les arguments qui peuvent faire rendre compte à un client qu'une hiérarchisation de contenu est primordiale pour mettre en place un sens de lecture pertinent.</p>\n<h2>La saturation cognitive</h2>\n<p>L'expérience de la réalisation de sites web, la fréquentation quotidienne d'applications, vous montrent que la navigation est une chose complexe qui peut vite devenir fastidieuse.</p>\n<p>Si l'effort cognitif est trop important pour valider un choix, vous allez simplement abandonner la page et vous diriger vers une autre interface.</p>\n<p>Les personnes qui ont quelques notions de conception web appellent ça la saturation cognitive. En gros quand un lecteur vient visiter une page (surtout la première fois), il ne peut pas lire et comprendre l'ensemble du contenu.</p>\n<p>Ainsi, pour favoriser la \"transformation\", on essayera de mettre en valeur des \"call to action\" (incitation à l'action) qui vont diriger (le plus directement) l'utilisateur vers le contenu (plus ou moins présumé) qu'il cherchait.</p>\n<h2>La volonté du client</h2>\n<p>Si vous parlez avec un client de ce phénomène, il va comprendre assez facilement ce principe, mais pas forcément y adhérer sur la longueur de conception du projet.</p>\n<p>Avec mes camarades, on se disait que finalement ce que désirait un client dans l'absolu pour un utilisateur, c'était qu'il lance son navigateur et qu'il arrive directement au contenu souhaité.</p>\n<p>Le client rêve de fournir cette interface idéale dans laquelle l'énergie cognitive à fournir devient nulle. Il s'agit évidemment du sain Graal technologique ; l'appuie sur un bouton permettant de faire disparaître les efforts inutiles.</p>\n<h2>La conséquence sur la conception</h2>\n<p>Studieux, sur ce projet, on avait établit une conception selon les principes du \"contenu d'abord\", la relation client était plus que parfaite à ce sujet. Seulement au fil du temps on avait remarqué que certaines parties des fonctionnalités étaient remontés dans la bannière principale.</p>\n<p>Après avoir passé 2 jours à revoir le fonctionnement responsive pour que la comportement soit convenable, on a commencé à se demander ce qu'il pouvait se passer. On a donc arrêté convaincu qu'on était rentré dans une phase de flou dans la définition de l'interface et qu'il fallait absolument redéfinir tout ça.</p>\n<h2>Les forces en action</h2>\n<p>Admettons que vous êtes une personne de métier avec un réel besoin d'accompagnement responsable de vos collaborateurs ; pas un commercial ou chef de projet qui répondra qu'il va demander à ses développeurs si c'est possible.</p>\n<h3>L'expérience utilisateur - l'organisation</h3>\n<p>Votre interaction avec le client se dirigera dans sens dans lequel vous désirez que le besoin de l'utilisateur soit assouvi. Avec votre expérience, vous savez qu'il est nécessaire de respecter les règles de lecture/navigation du web et de bien définir les interactions/messages auxquels l'utilisateur va être confronté. Vous allez poussez des conseils permettant de concevoir l'expérience utilisateur (UX).</p>\n<h3>L'immédiateté - la gravité</h3>\n<p>De l'autre côté, votre client, lui, espère que l'utilisateur accède le plus rapidement à l'information sans en privilégier une par rapport à l'autre ; à tout mettre sur la page d'accueil de peur que l'utilisateur ne trouve pas quelque chose.</p>\n<h2>Conclusion</h2>\n<p>Lors de la conception d'une page ou d'un site web, l'expérience va vous montrer, qu'en tant qu'utilisateur, une interface est plus conviviale si elle présente un nombre d'actions claires et limitées. Il faut prendre un parti pris.</p>\n<p>Seulement, (on va dire très souvent), un client, pris de panique ou ne sachant pas trancher sur le service que doit proposer son interface, va pousser pour placer un maximum de fonctionnalités en avant (les faire remonter dans la page) ou à l'inverse les placer dans des zones invisibles ne sachant pas quoi en faire.<br />\nVous pourriez même le suivre petit à petit dans cette direction pour que ne pas le perdre.</p>\n<p>Ainsi, pour faire une interface cohérente, il est nécessaire de lutter au quotidien contre cette représentation utopique de la conception de sites web dans laquelle un utilisateur tombe directement sur l'information souhaitée.</p>\n<p>Vous devez vous faire violence pour construire vos outils de conception et définir/hiérarchiser tout ce qui peut l'être.</p>\n"
+"id": "/2013/12/20/la-nature-utopique-de-la-conception-web",
+"title": "La nature utopique de la conception web",
+"url": "https://bertrandkeller.info/2013/12/20/la-nature-utopique-de-la-conception-web/",
+"date": 1387557439,
+"html": "
+<p>On réfléchissait ce matin sur la manière de valoriser un parti pris pour la réalisation d'une interface. Quels sont les arguments qui peuvent faire rendre compte à un client qu'une hiérarchisation de contenu est primordiale pour mettre en place un sens de lecture pertinent.</p>
+\n
+<h2>La saturation cognitive</h2>
+\n
+<p>L'expérience de la réalisation de sites web, la fréquentation quotidienne d'applications, vous montrent que la navigation est une chose complexe qui peut vite devenir fastidieuse.</p>
+\n
+<p>Si l'effort cognitif est trop important pour valider un choix, vous allez simplement abandonner la page et vous diriger vers une autre interface.</p>
+\n
+<p>Les personnes qui ont quelques notions de conception web appellent ça la saturation cognitive. En gros quand un lecteur vient visiter une page (surtout la première fois), il ne peut pas lire et comprendre l'ensemble du contenu.</p>
+\n
+<p>Ainsi, pour favoriser la \"transformation\", on essayera de mettre en valeur des \"call to action\" (incitation à l'action) qui vont diriger (le plus directement) l'utilisateur vers le contenu (plus ou moins présumé) qu'il cherchait.</p>
+\n
+<h2>La volonté du client</h2>
+\n
+<p>Si vous parlez avec un client de ce phénomène, il va comprendre assez facilement ce principe, mais pas forcément y adhérer sur la longueur de conception du projet.</p>
+\n
+<p>Avec mes camarades, on se disait que finalement ce que désirait un client dans l'absolu pour un utilisateur, c'était qu'il lance son navigateur et qu'il arrive directement au contenu souhaité.</p>
+\n
+<p>Le client rêve de fournir cette interface idéale dans laquelle l'énergie cognitive à fournir devient nulle. Il s'agit évidemment du sain Graal technologique ; l'appuie sur un bouton permettant de faire disparaître les efforts inutiles.</p>
+\n
+<h2>La conséquence sur la conception</h2>
+\n
+<p>Studieux, sur ce projet, on avait établit une conception selon les principes du \"contenu d'abord\", la relation client était plus que parfaite à ce sujet. Seulement au fil du temps on avait remarqué que certaines parties des fonctionnalités étaient remontés dans la bannière principale.</p>
+\n
+<p>Après avoir passé 2 jours à revoir le fonctionnement responsive pour que la comportement soit convenable, on a commencé à se demander ce qu'il pouvait se passer. On a donc arrêté convaincu qu'on était rentré dans une phase de flou dans la définition de l'interface et qu'il fallait absolument redéfinir tout ça.</p>
+\n
+<h2>Les forces en action</h2>
+\n
+<p>Admettons que vous êtes une personne de métier avec un réel besoin d'accompagnement responsable de vos collaborateurs ; pas un commercial ou chef de projet qui répondra qu'il va demander à ses développeurs si c'est possible.</p>
+\n
+<h3>L'expérience utilisateur - l'organisation</h3>
+\n
+<p>Votre interaction avec le client se dirigera dans sens dans lequel vous désirez que le besoin de l'utilisateur soit assouvi. Avec votre expérience, vous savez qu'il est nécessaire de respecter les règles de lecture/navigation du web et de bien définir les interactions/messages auxquels l'utilisateur va être confronté. Vous allez poussez des conseils permettant de concevoir l'expérience utilisateur (UX).</p>
+\n
+<h3>L'immédiateté - la gravité</h3>
+\n
+<p>De l'autre côté, votre client, lui, espère que l'utilisateur accède le plus rapidement à l'information sans en privilégier une par rapport à l'autre ; à tout mettre sur la page d'accueil de peur que l'utilisateur ne trouve pas quelque chose.</p>
+\n
+<h2>Conclusion</h2>
+\n
+<p>Lors de la conception d'une page ou d'un site web, l'expérience va vous montrer, qu'en tant qu'utilisateur, une interface est plus conviviale si elle présente un nombre d'actions claires et limitées. Il faut prendre un parti pris.</p>
+\n
+<p>Seulement, (on va dire très souvent), un client, pris de panique ou ne sachant pas trancher sur le service que doit proposer son interface, va pousser pour placer un maximum de fonctionnalités en avant (les faire remonter dans la page) ou à l'inverse les placer dans des zones invisibles ne sachant pas quoi en faire.<br />
+  \nVous pourriez même le suivre petit à petit dans cette direction pour que ne pas le perdre.</p>
+\n
+<p>Ainsi, pour faire une interface cohérente, il est nécessaire de lutter au quotidien contre cette représentation utopique de la conception de sites web dans laquelle un utilisateur tombe directement sur l'information souhaitée.</p>
+\n
+<p>Vous devez vous faire violence pour construire vos outils de conception et définir/hiérarchiser tout ce qui peut l'être.</p>
+\n",
+"markdown": "
+<p>On réfléchissait ce matin sur la manière de valoriser un parti pris pour la réalisation d'une interface. Quels sont les arguments qui peuvent faire rendre compte à un client qu'une hiérarchisation de contenu est primordiale pour mettre en place un sens de lecture pertinent.</p>
+\n
+<h2>La saturation cognitive</h2>
+\n
+<p>L'expérience de la réalisation de sites web, la fréquentation quotidienne d'applications, vous montrent que la navigation est une chose complexe qui peut vite devenir fastidieuse.</p>
+\n
+<p>Si l'effort cognitif est trop important pour valider un choix, vous allez simplement abandonner la page et vous diriger vers une autre interface.</p>
+\n
+<p>Les personnes qui ont quelques notions de conception web appellent ça la saturation cognitive. En gros quand un lecteur vient visiter une page (surtout la première fois), il ne peut pas lire et comprendre l'ensemble du contenu.</p>
+\n
+<p>Ainsi, pour favoriser la \"transformation\", on essayera de mettre en valeur des \"call to action\" (incitation à l'action) qui vont diriger (le plus directement) l'utilisateur vers le contenu (plus ou moins présumé) qu'il cherchait.</p>
+\n
+<h2>La volonté du client</h2>
+\n
+<p>Si vous parlez avec un client de ce phénomène, il va comprendre assez facilement ce principe, mais pas forcément y adhérer sur la longueur de conception du projet.</p>
+\n
+<p>Avec mes camarades, on se disait que finalement ce que désirait un client dans l'absolu pour un utilisateur, c'était qu'il lance son navigateur et qu'il arrive directement au contenu souhaité.</p>
+\n
+<p>Le client rêve de fournir cette interface idéale dans laquelle l'énergie cognitive à fournir devient nulle. Il s'agit évidemment du sain Graal technologique ; l'appuie sur un bouton permettant de faire disparaître les efforts inutiles.</p>
+\n
+<h2>La conséquence sur la conception</h2>
+\n
+<p>Studieux, sur ce projet, on avait établit une conception selon les principes du \"contenu d'abord\", la relation client était plus que parfaite à ce sujet. Seulement au fil du temps on avait remarqué que certaines parties des fonctionnalités étaient remontés dans la bannière principale.</p>
+\n
+<p>Après avoir passé 2 jours à revoir le fonctionnement responsive pour que la comportement soit convenable, on a commencé à se demander ce qu'il pouvait se passer. On a donc arrêté convaincu qu'on était rentré dans une phase de flou dans la définition de l'interface et qu'il fallait absolument redéfinir tout ça.</p>
+\n
+<h2>Les forces en action</h2>
+\n
+<p>Admettons que vous êtes une personne de métier avec un réel besoin d'accompagnement responsable de vos collaborateurs ; pas un commercial ou chef de projet qui répondra qu'il va demander à ses développeurs si c'est possible.</p>
+\n
+<h3>L'expérience utilisateur - l'organisation</h3>
+\n
+<p>Votre interaction avec le client se dirigera dans sens dans lequel vous désirez que le besoin de l'utilisateur soit assouvi. Avec votre expérience, vous savez qu'il est nécessaire de respecter les règles de lecture/navigation du web et de bien définir les interactions/messages auxquels l'utilisateur va être confronté. Vous allez poussez des conseils permettant de concevoir l'expérience utilisateur (UX).</p>
+\n
+<h3>L'immédiateté - la gravité</h3>
+\n
+<p>De l'autre côté, votre client, lui, espère que l'utilisateur accède le plus rapidement à l'information sans en privilégier une par rapport à l'autre ; à tout mettre sur la page d'accueil de peur que l'utilisateur ne trouve pas quelque chose.</p>
+\n
+<h2>Conclusion</h2>
+\n
+<p>Lors de la conception d'une page ou d'un site web, l'expérience va vous montrer, qu'en tant qu'utilisateur, une interface est plus conviviale si elle présente un nombre d'actions claires et limitées. Il faut prendre un parti pris.</p>
+\n
+<p>Seulement, (on va dire très souvent), un client, pris de panique ou ne sachant pas trancher sur le service que doit proposer son interface, va pousser pour placer un maximum de fonctionnalités en avant (les faire remonter dans la page) ou à l'inverse les placer dans des zones invisibles ne sachant pas quoi en faire.<br />
+  \nVous pourriez même le suivre petit à petit dans cette direction pour que ne pas le perdre.</p>
+\n
+<p>Ainsi, pour faire une interface cohérente, il est nécessaire de lutter au quotidien contre cette représentation utopique de la conception de sites web dans laquelle un utilisateur tombe directement sur l'information souhaitée.</p>
+\n
+<p>Vous devez vous faire violence pour construire vos outils de conception et définir/hiérarchiser tout ce qui peut l'être.</p>
+\n"
 }

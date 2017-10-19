@@ -1,8 +1,28 @@
 {
-  "id": "/2009/01/22/ava-7-patterns-des-fonds-pour-site-web",
-  "title": "Ava 7 Patterns : des fonds de page pour site web",
-  "url": "https://bertrandkeller.info/2009/01/22/ava-7-patterns-des-fonds-pour-site-web/",
-  "date": 1232641897,
-  "html": "<p>Version V3 des patterns de chez <a href=\"http://ava7.com/\">ava7</a>. Ava7 patterns est une bibliothèque de fonds de page pour sites web.</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/ava7%20patterns%20-%20background.png\" alt=\"background pattern\" /></div>\n<p>C'est très pratique, il est possible de faire une recherche générale sur tous les éléments ou de encore de sélectionner un fond de page grâce à des filtres d'affichage : par couleur et par géometrie.</p>\n<p>Sur chaque fond de page, l'utilisateur peut indiquer une appréciation avec des petits coeurs, marquer un commentaire, télécharger l'image .png et même observer le rendu grâce à une preview.</p>\n<p>Grâce à  <a href=\"http://patterns.ava7.com\" title=\"ava7 patterns\">ava7 patterns</a> affichez votre papier peint préféré sur votre site perso.</p>\n",
-  "markdown": "<p>Version V3 des patterns de chez <a href=\"http://ava7.com/\">ava7</a>. Ava7 patterns est une bibliothèque de fonds de page pour sites web.</p>\n<div class=\"center\"><img src=\"{{ site.baseurl }}/assets/ava7%20patterns%20-%20background.png\" alt=\"background pattern\" /></div>\n<p>C'est très pratique, il est possible de faire une recherche générale sur tous les éléments ou de encore de sélectionner un fond de page grâce à des filtres d'affichage : par couleur et par géometrie.</p>\n<p>Sur chaque fond de page, l'utilisateur peut indiquer une appréciation avec des petits coeurs, marquer un commentaire, télécharger l'image .png et même observer le rendu grâce à une preview.</p>\n<p>Grâce à  <a href=\"http://patterns.ava7.com\" title=\"ava7 patterns\">ava7 patterns</a> affichez votre papier peint préféré sur votre site perso.</p>\n"
+"id": "/2009/01/22/ava-7-patterns-des-fonds-pour-site-web",
+"title": "Ava 7 Patterns : des fonds de page pour site web",
+"url": "https://bertrandkeller.info/2009/01/22/ava-7-patterns-des-fonds-pour-site-web/",
+"date": 1232641897,
+"html": "
+<p>Version V3 des patterns de chez <a href=\"http://ava7.com/\">ava7</a>. Ava7 patterns est une bibliothèque de fonds de page pour sites web.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/ava7%20patterns%20-%20background.png\" alt=\"background pattern\" /></div>
+\n
+<p>C'est très pratique, il est possible de faire une recherche générale sur tous les éléments ou de encore de sélectionner un fond de page grâce à des filtres d'affichage : par couleur et par géometrie.</p>
+\n
+<p>Sur chaque fond de page, l'utilisateur peut indiquer une appréciation avec des petits coeurs, marquer un commentaire, télécharger l'image .png et même observer le rendu grâce à une preview.</p>
+\n
+<p>Grâce à  <a href=\"http://patterns.ava7.com\" title=\"ava7 patterns\">ava7 patterns</a> affichez votre papier peint préféré sur votre site perso.</p>
+\n",
+"markdown": "
+<p>Version V3 des patterns de chez <a href=\"http://ava7.com/\">ava7</a>. Ava7 patterns est une bibliothèque de fonds de page pour sites web.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/ava7%20patterns%20-%20background.png\" alt=\"background pattern\" /></div>
+\n
+<p>C'est très pratique, il est possible de faire une recherche générale sur tous les éléments ou de encore de sélectionner un fond de page grâce à des filtres d'affichage : par couleur et par géometrie.</p>
+\n
+<p>Sur chaque fond de page, l'utilisateur peut indiquer une appréciation avec des petits coeurs, marquer un commentaire, télécharger l'image .png et même observer le rendu grâce à une preview.</p>
+\n
+<p>Grâce à  <a href=\"http://patterns.ava7.com\" title=\"ava7 patterns\">ava7 patterns</a> affichez votre papier peint préféré sur votre site perso.</p>
+\n"
 }

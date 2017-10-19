@@ -1,5 +1,5 @@
 
-/rss.php /feed/ 200
+/rss.php /feed 301
 
 /formation-jekyll/ /formation-jekyll-hugo/ 200
 

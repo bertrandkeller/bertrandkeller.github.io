@@ -1,8 +1,46 @@
 {
-  "id": "/2008/09/26/typo3-configurer-les-container-div-pour-le-rte",
-  "title": "TYPO3 : configurer les container (div) pour le RTE",
-  "url": "https://bertrandkeller.info/2008/09/26/typo3-configurer-les-container-div-pour-le-rte/",
-  "date": 1222435679,
-  "html": "<p>Petite recherche pour la configuration du code des div (container) qu'il est possible d'ajouter sur la version du Rich Text Editor de la version 4.2 de TYPO3.</p>\n<h3>Code</h3>\n<p> <code>\n<pre> // Permet l'insertion de balises en dehors de balises p lib.parseFunc_RTE.externalBlocks = table,blockquote,ol,ul,hr,div lib.parseFunc_RTE.externalBlocks { \tdiv { \t\t// Indentation du code HTML \t\tstripNL = 1 \t\t// Repasse du parser HTML sur le contenu interne à la div \t\tcallRecursive = 1 \t} } </pre>\n<p> &lt;/code&gt;\n<p>Ces lignes de code permettent d'avoir une balise div en dehors d'une balise p (sinon une balise p est rajoutée autour de la div lors du rendu) et aussi de faire repasser le Parser à l'intérieur du contenu de cette même div (sinon le texte à l'intérieur de la div est affiché sans balises p lors du rendu).</p>\n<h3>Ressources</h3>\n<ul>\n<li><a href=\"http://bugs.typo3.org/view.php?id=5896\">Insérer un hr dans le RTE</a> - bugtracker TYPO3</li>\n<li><a href=\"http://www.onscreen.at/newsgroups/article.php?id=87663&amp;group=typo3.english\">Indentation problem in typo3 4.2</a> - onscreen</li>\n</ul>\n</p></code></p>\n",
-  "markdown": "<p>Petite recherche pour la configuration du code des div (container) qu'il est possible d'ajouter sur la version du Rich Text Editor de la version 4.2 de TYPO3.</p>\n<h3>Code</h3>\n<p> <code>\n<pre> // Permet l'insertion de balises en dehors de balises p lib.parseFunc_RTE.externalBlocks = table,blockquote,ol,ul,hr,div lib.parseFunc_RTE.externalBlocks { \tdiv { \t\t// Indentation du code HTML \t\tstripNL = 1 \t\t// Repasse du parser HTML sur le contenu interne à la div \t\tcallRecursive = 1 \t} } </pre>\n<p> </code>\n<p>Ces lignes de code permettent d'avoir une balise div en dehors d'une balise p (sinon une balise p est rajoutée autour de la div lors du rendu) et aussi de faire repasser le Parser à l'intérieur du contenu de cette même div (sinon le texte à l'intérieur de la div est affiché sans balises p lors du rendu).</p>\n<h3>Ressources</h3>\n<ul>\n<li><a href=\"http://bugs.typo3.org/view.php?id=5896\">Insérer un hr dans le RTE</a> - bugtracker TYPO3</li>\n<li><a href=\"http://www.onscreen.at/newsgroups/article.php?id=87663&group=typo3.english\">Indentation problem in typo3 4.2</a> - onscreen</li>\n</ul>\n"
-}
+"id": "/2008/09/26/typo3-configurer-les-container-div-pour-le-rte",
+"title": "TYPO3 : configurer les container (div) pour le RTE",
+"url": "https://bertrandkeller.info/2008/09/26/typo3-configurer-les-container-div-pour-le-rte/",
+"date": 1222435679,
+"html": "
+<p>Petite recherche pour la configuration du code des div (container) qu'il est possible d'ajouter sur la version du Rich Text Editor de la version 4.2 de TYPO3.</p>
+\n
+<h3>Code</h3>
+\n
+<p> <code>\n
+    <pre> // Permet l'insertion de balises en dehors de balises p lib.parseFunc_RTE.externalBlocks = table,blockquote,ol,ul,hr,div lib.parseFunc_RTE.externalBlocks { \tdiv { \t\t// Indentation du code HTML \t\tstripNL = 1 \t\t// Repasse du parser HTML sur le contenu interne à la div \t\tcallRecursive = 1 \t} } </pre>
+    \n
+    <p> &lt;/code&gt;\n
+      <p>Ces lignes de code permettent d'avoir une balise div en dehors d'une balise p (sinon une balise p est rajoutée autour de la div lors du rendu) et aussi de faire repasser le Parser à l'intérieur du contenu de cette même div (sinon le texte à l'intérieur de la div est affiché sans balises p lors du rendu).</p>
+      \n
+      <h3>Ressources</h3>
+      \n
+      <ul>\n
+        <li><a href=\"http://bugs.typo3.org/view.php?id=5896\">Insérer un hr dans le RTE</a> - bugtracker TYPO3</li>
+        \n
+        <li><a href=\"http://www.onscreen.at/newsgroups/article.php?id=87663&amp;group=typo3.english\">Indentation problem in typo3 4.2</a> - onscreen</li>
+        \n</ul>
+      \n</p>
+  </code></p>
+\n",
+"markdown": "
+<p>Petite recherche pour la configuration du code des div (container) qu'il est possible d'ajouter sur la version du Rich Text Editor de la version 4.2 de TYPO3.</p>
+\n
+<h3>Code</h3>
+\n
+<p> <code>\n
+    <pre> // Permet l'insertion de balises en dehors de balises p lib.parseFunc_RTE.externalBlocks = table,blockquote,ol,ul,hr,div lib.parseFunc_RTE.externalBlocks { \tdiv { \t\t// Indentation du code HTML \t\tstripNL = 1 \t\t// Repasse du parser HTML sur le contenu interne à la div \t\tcallRecursive = 1 \t} } </pre>
+    \n
+    <p> </code>\n
+    <p>Ces lignes de code permettent d'avoir une balise div en dehors d'une balise p (sinon une balise p est rajoutée autour de la div lors du rendu) et aussi de faire repasser le Parser à l'intérieur du contenu de cette même div (sinon le texte à l'intérieur de la div est affiché sans balises p lors du rendu).</p>
+    \n
+    <h3>Ressources</h3>
+    \n
+    <ul>\n
+      <li><a href=\"http://bugs.typo3.org/view.php?id=5896\">Insérer un hr dans le RTE</a> - bugtracker TYPO3</li>
+      \n
+      <li><a href=\"http://www.onscreen.at/newsgroups/article.php?id=87663&group=typo3.english\">Indentation problem in typo3 4.2</a> - onscreen</li>
+      \n</ul>
+    \n"
+    }

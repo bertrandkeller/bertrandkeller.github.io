@@ -1,8 +1,12 @@
 {
-  "id": "/2009/02/26/appel-hadopi-black-out-du-net-francais",
-  "title": "APPEL HADOPI : «black-out» du Net français",
-  "url": "https://bertrandkeller.info/2009/02/26/appel-hadopi-black-out-du-net-francais/",
-  "date": 1235638640,
-  "html": "<div class=\"center\"><a href=\"http://www.laquadrature.net/HADOPI\" title=\"HADOPI - Le Net en France : black-out\"><img src=\"{{ site.baseurl }}/assets/Quadrature_black-out_HADOPI_468x60px.gif\" border=\"0\" alt=\"HADOPI - Le Net en France : black-out\" /></a></div>\n",
-  "markdown": "<div class=\"center\"><a href=\"http://www.laquadrature.net/HADOPI\" title=\"HADOPI - Le Net en France : black-out\"><img src=\"{{ site.baseurl }}/assets/Quadrature_black-out_HADOPI_468x60px.gif\" border=\"0\" alt=\"HADOPI - Le Net en France : black-out\" /></a></div>\n"
+"id": "/2009/02/26/appel-hadopi-black-out-du-net-francais",
+"title": "APPEL HADOPI : «black-out» du Net français",
+"url": "https://bertrandkeller.info/2009/02/26/appel-hadopi-black-out-du-net-francais/",
+"date": 1235638640,
+"html": "
+<div class=\"aspectratio\" data-ratio=\"4/3\"><a href=\"http://www.laquadrature.net/HADOPI\" title=\"HADOPI - Le Net en France : black-out\"><img src=\"{{ site.baseurl }}/assets/Quadrature_black-out_HADOPI_468x60px.gif\" border=\"0\" alt=\"HADOPI - Le Net en France : black-out\" /></a></div>
+\n",
+"markdown": "
+<div class=\"aspectratio\" data-ratio=\"4/3\"><a href=\"http://www.laquadrature.net/HADOPI\" title=\"HADOPI - Le Net en France : black-out\"><img src=\"{{ site.baseurl }}/assets/Quadrature_black-out_HADOPI_468x60px.gif\" border=\"0\" alt=\"HADOPI - Le Net en France : black-out\" /></a></div>
+\n"
 }

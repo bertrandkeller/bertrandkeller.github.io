@@ -1,8 +1,104 @@
 {
-  "id": "/2012/06/04/la-saturation-cognitive-dans-les-projets",
-  "title": "La saturation cognitive dans les projets",
-  "url": "https://bertrandkeller.info/2012/06/04/la-saturation-cognitive-dans-les-projets/",
-  "date": 1338825612,
-  "html": "<p>Ce matin en réunion, deux personnes se toisent. Alors toi ? Bah moi, 200. Ah, 200, ouais ça va, moi 300. Oui, 300 mails par jour en moyenne, ça impressionne, mais la question est plutôt de combien de temps disposes-tu pour pouvoir les traiter ?</p>\n<p>Un aspect qu'une personne ayant un poste à responsabilité ne veut pas évoquer est certainement sa capacité à traiter de grandes masses d'information. Dans notre culture de celui qui a la plus grosse... cervelle, de la compétition sportive sensée représenter l'ultime élévation de l'esprit humain, il est de bon ton d'affirmer sa position en étalant le volume de son carnet de contacts ainsi que le nombre de projets dans lesquels on est impliqué.</p>\n<p>Cependant, l'expérience empirique autant que les études sociologiques les plus pointues montrent que le cerveau humain n'est pas en capacité de gérer un volume infini d'informations.</p>\n<div class=\"center\"><a href=\"http://www.fabrice-aimetti.fr/dotclear/index.php?post/2011/04/22/Livrer-tot-est-different-de-maximiser-le-retour-sur-investissement\"><img src=\"{{ site.baseurl }}/assets/featurecompletionovertime.png\" alt=\"\" title=\"featurecompletionovertime\" width=\"544\" height=\"344\" class=\"aligncenter size-full wp-image-3108\" /></a></div>\n<h3>La saturation cognitive ou Cognitive Overflow Syndrome</h3>\n<p>A l'image du condensateur ou du microprocesseur, le nombre d'informations qu'un cerveau peut gérer tend vers une limite. Si une personne prétend gérer autant d'informations que possible (qu'elle n'a pas de limites), elle ment certainement.</p>\n<p>Dans les faits, soit elle traite l'information sur un temps plus court, donc elle ne les gère pas en profondeur ou en totalité ; soit elle en redirige un certain nombre (stagiaire, c'est là que tu interviens). Et dans le cas où vraiment elle y arrive s'attendre un vieillissement prématuré du composant.</p>\n<p>C'est pourquoi, on peut lire des choses à propos de la taille limite d'un équipe comme :</p>\n<blockquote cite=\"http://www.m2ie.fr/management-2-0-les-vertus-des-petites-equipes/\"><p>Jeff Bezos, le fondateur et PDG d’Amazon, a l’habitude de dire qu’une équipe qu’on ne peut pas nourrir avec deux pizzas est trop grosse.</p>\n</blockquote>\n<p>Ou encore</p>\n<blockquote cite=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\"><p>S’agissant de diriger l’exécution de tâches complexes et évoluant rapidement, un manager ne peut habituellement contrôler plus de 5 à 7 personnes.</p>\n<p>Cette limite est imposée par le fait que le nombre de relations significatives devant être régulées croît très vite avec le nombre de subordonnés, de telle sorte que le nombre de ces relations et la cadence à laquelle elles doivent être redéfinies dépasse rapidement les capacités d’un seul esprit humain.</p>\n</blockquote>\n<p>Plus les tâches peuvent se révéler complexes, moins une personne est en capacité de centraliser l'information. C'est pourtant ce qu'on demande à un chef de projets en agence web ou dans d'autres secteurs.</p>\n<p>D'expérience, ce qui est difficile à faire comprendre à vos collaborateurs, c'est que oui ça marche, ça peut marcher, on l'a déjà vu marcher, mais le principe n'est pas adapté pour les problèmes de haute complexité (l'innovation par exemple).</p>\n<h3>L’adhocratie de Mintzberg ou la collaboration entre individus</h3>\n<p>Pour contrer la saturation de votre cerveau central incapable de prendre les décisions adéquates pour la résolution de problèmes ciblées et complexes, il convient d'imaginer un système dans lequel on répartit la charge sur l'ensemble des processeurs disponibles.</p>\n<p>On pourrait donc imaginer un système décentralisé avec des circuits autonomes de traitement de l'information. C'est justement ce à quoi à réfléchit Mintzberg avec l’adhocratie.</p>\n<blockquote cite=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\"><p>Le mode de coordination mis en avant par Mintzberg est basé sur la réciprocité, l’ajustement mutuel, et la coopération. Il se caractérise par des relations de travail peu formalisées au sein de petites équipes. Son fonctionnement est le fruit d’interactions constantes. Il privilégie le mode projet et a inspiré le modèle de l’ingénierie concourante.</p>\n</blockquote>\n<p>En fonction du type de projet sur lequel vous travaillez, sachez repérer les limites au traitement de l'information.</p>\n<p>Il n'est pas rare, dans des agences web, de donner à des chefs de projets (juniors ou non-techniques), la fonction de traiter l'ensemble de toute l'information qui circule : clients, développeurs, patron... Si vous sentez un manque d'attention, une incapacité de sa part, soyez indulgents, il sature.</p>\n<p>Lire <a href=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\">Entreprise 2.0 : coordination et coopération dans l’entreprise – réseau</a>.</p>\n",
-  "markdown": "<p>Ce matin en réunion, deux personnes se toisent. Alors toi ? Bah moi, 200. Ah, 200, ouais ça va, moi 300. Oui, 300 mails par jour en moyenne, ça impressionne, mais la question est plutôt de combien de temps disposes-tu pour pouvoir les traiter ?</p>\n<p>Un aspect qu'une personne ayant un poste à responsabilité ne veut pas évoquer est certainement sa capacité à traiter de grandes masses d'information. Dans notre culture de celui qui a la plus grosse... cervelle, de la compétition sportive sensée représenter l'ultime élévation de l'esprit humain, il est de bon ton d'affirmer sa position en étalant le volume de son carnet de contacts ainsi que le nombre de projets dans lesquels on est impliqué.</p>\n<p>Cependant, l'expérience empirique autant que les études sociologiques les plus pointues montrent que le cerveau humain n'est pas en capacité de gérer un volume infini d'informations.</p>\n<div class=\"center\"><a href=\"http://www.fabrice-aimetti.fr/dotclear/index.php?post/2011/04/22/Livrer-tot-est-different-de-maximiser-le-retour-sur-investissement\"><img src=\"{{ site.baseurl }}/assets/featurecompletionovertime.png\" alt=\"\" title=\"featurecompletionovertime\" width=\"544\" height=\"344\" class=\"aligncenter size-full wp-image-3108\" /></a></div>\n<h3>La saturation cognitive ou Cognitive Overflow Syndrome</h3>\n<p>A l'image du condensateur ou du microprocesseur, le nombre d'informations qu'un cerveau peut gérer tend vers une limite. Si une personne prétend gérer autant d'informations que possible (qu'elle n'a pas de limites), elle ment certainement.</p>\n<p>Dans les faits, soit elle traite l'information sur un temps plus court, donc elle ne les gère pas en profondeur ou en totalité ; soit elle en redirige un certain nombre (stagiaire, c'est là que tu interviens). Et dans le cas où vraiment elle y arrive s'attendre un vieillissement prématuré du composant.</p>\n<p>C'est pourquoi, on peut lire des choses à propos de la taille limite d'un équipe comme :</p>\n<blockquote cite=\"http://www.m2ie.fr/management-2-0-les-vertus-des-petites-equipes/\"><p>Jeff Bezos, le fondateur et PDG d’Amazon, a l’habitude de dire qu’une équipe qu’on ne peut pas nourrir avec deux pizzas est trop grosse.</p>\n</blockquote>\n<p>Ou encore</p>\n<blockquote cite=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\"><p>S’agissant de diriger l’exécution de tâches complexes et évoluant rapidement, un manager ne peut habituellement contrôler plus de 5 à 7 personnes.</p>\n<p>Cette limite est imposée par le fait que le nombre de relations significatives devant être régulées croît très vite avec le nombre de subordonnés, de telle sorte que le nombre de ces relations et la cadence à laquelle elles doivent être redéfinies dépasse rapidement les capacités d’un seul esprit humain.</p>\n</blockquote>\n<p>Plus les tâches peuvent se révéler complexes, moins une personne est en capacité de centraliser l'information. C'est pourtant ce qu'on demande à un chef de projets en agence web ou dans d'autres secteurs.</p>\n<p>D'expérience, ce qui est difficile à faire comprendre à vos collaborateurs, c'est que oui ça marche, ça peut marcher, on l'a déjà vu marcher, mais le principe n'est pas adapté pour les problèmes de haute complexité (l'innovation par exemple).</p>\n<h3>L’adhocratie de Mintzberg ou la collaboration entre individus</h3>\n<p>Pour contrer la saturation de votre cerveau central incapable de prendre les décisions adéquates pour la résolution de problèmes ciblées et complexes, il convient d'imaginer un système dans lequel on répartit la charge sur l'ensemble des processeurs disponibles.</p>\n<p>On pourrait donc imaginer un système décentralisé avec des circuits autonomes de traitement de l'information. C'est justement ce à quoi à réfléchit Mintzberg avec l’adhocratie.</p>\n<blockquote cite=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\"><p>Le mode de coordination mis en avant par Mintzberg est basé sur la réciprocité, l’ajustement mutuel, et la coopération. Il se caractérise par des relations de travail peu formalisées au sein de petites équipes. Son fonctionnement est le fruit d’interactions constantes. Il privilégie le mode projet et a inspiré le modèle de l’ingénierie concourante.</p>\n</blockquote>\n<p>En fonction du type de projet sur lequel vous travaillez, sachez repérer les limites au traitement de l'information.</p>\n<p>Il n'est pas rare, dans des agences web, de donner à des chefs de projets (juniors ou non-techniques), la fonction de traiter l'ensemble de toute l'information qui circule : clients, développeurs, patron... Si vous sentez un manque d'attention, une incapacité de sa part, soyez indulgents, il sature.</p>\n<p>Lire <a href=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\">Entreprise 2.0 : coordination et coopération dans l’entreprise – réseau</a>.</p>\n"
+"id": "/2012/06/04/la-saturation-cognitive-dans-les-projets",
+"title": "La saturation cognitive dans les projets",
+"url": "https://bertrandkeller.info/2012/06/04/la-saturation-cognitive-dans-les-projets/",
+"date": 1338825612,
+"html": "
+<p>Ce matin en réunion, deux personnes se toisent. Alors toi ? Bah moi, 200. Ah, 200, ouais ça va, moi 300. Oui, 300 mails par jour en moyenne, ça impressionne, mais la question est plutôt de combien de temps disposes-tu pour pouvoir les traiter ?</p>
+\n
+<p>Un aspect qu'une personne ayant un poste à responsabilité ne veut pas évoquer est certainement sa capacité à traiter de grandes masses d'information. Dans notre culture de celui qui a la plus grosse... cervelle, de la compétition sportive sensée représenter l'ultime élévation de l'esprit humain, il est de bon ton d'affirmer sa position en étalant le volume de son carnet de contacts ainsi que le nombre de projets dans lesquels on est impliqué.</p>
+\n
+<p>Cependant, l'expérience empirique autant que les études sociologiques les plus pointues montrent que le cerveau humain n'est pas en capacité de gérer un volume infini d'informations.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><a href=\"http://www.fabrice-aimetti.fr/dotclear/index.php?post/2011/04/22/Livrer-tot-est-different-de-maximiser-le-retour-sur-investissement\"><img src=\"{{ site.baseurl }}/assets/featurecompletionovertime.png\" alt=\"\" title=\"featurecompletionovertime\" width=\"544\" height=\"344\" class=\"aligncenter size-full wp-image-3108\" /></a></div>
+\n
+<h3>La saturation cognitive ou Cognitive Overflow Syndrome</h3>
+\n
+<p>A l'image du condensateur ou du microprocesseur, le nombre d'informations qu'un cerveau peut gérer tend vers une limite. Si une personne prétend gérer autant d'informations que possible (qu'elle n'a pas de limites), elle ment certainement.</p>
+\n
+<p>Dans les faits, soit elle traite l'information sur un temps plus court, donc elle ne les gère pas en profondeur ou en totalité ; soit elle en redirige un certain nombre (stagiaire, c'est là que tu interviens). Et dans le cas où vraiment elle y arrive s'attendre un vieillissement prématuré du composant.</p>
+\n
+<p>C'est pourquoi, on peut lire des choses à propos de la taille limite d'un équipe comme :</p>
+\n
+<blockquote cite=\"http://www.m2ie.fr/management-2-0-les-vertus-des-petites-equipes/\">
+  <p>Jeff Bezos, le fondateur et PDG d’Amazon, a l’habitude de dire qu’une équipe qu’on ne peut pas nourrir avec deux pizzas est trop grosse.</p>
+  \n</blockquote>
+\n
+<p>Ou encore</p>
+\n
+<blockquote cite=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\">
+  <p>S’agissant de diriger l’exécution de tâches complexes et évoluant rapidement, un manager ne peut habituellement contrôler plus de 5 à 7 personnes.</p>
+  \n
+  <p>Cette limite est imposée par le fait que le nombre de relations significatives devant être régulées croît très vite avec le nombre de subordonnés, de telle sorte que le nombre de ces relations et la cadence à laquelle elles doivent être redéfinies dépasse rapidement les capacités d’un seul esprit humain.</p>
+  \n</blockquote>
+\n
+<p>Plus les tâches peuvent se révéler complexes, moins une personne est en capacité de centraliser l'information. C'est pourtant ce qu'on demande à un chef de projets en agence web ou dans d'autres secteurs.</p>
+\n
+<p>D'expérience, ce qui est difficile à faire comprendre à vos collaborateurs, c'est que oui ça marche, ça peut marcher, on l'a déjà vu marcher, mais le principe n'est pas adapté pour les problèmes de haute complexité (l'innovation par exemple).</p>
+\n
+<h3>L’adhocratie de Mintzberg ou la collaboration entre individus</h3>
+\n
+<p>Pour contrer la saturation de votre cerveau central incapable de prendre les décisions adéquates pour la résolution de problèmes ciblées et complexes, il convient d'imaginer un système dans lequel on répartit la charge sur l'ensemble des processeurs disponibles.</p>
+\n
+<p>On pourrait donc imaginer un système décentralisé avec des circuits autonomes de traitement de l'information. C'est justement ce à quoi à réfléchit Mintzberg avec l’adhocratie.</p>
+\n
+<blockquote cite=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\">
+  <p>Le mode de coordination mis en avant par Mintzberg est basé sur la réciprocité, l’ajustement mutuel, et la coopération. Il se caractérise par des relations de travail peu formalisées au sein de petites équipes. Son fonctionnement est le fruit d’interactions constantes. Il privilégie le mode projet et a inspiré le modèle de l’ingénierie concourante.</p>
+  \n</blockquote>
+\n
+<p>En fonction du type de projet sur lequel vous travaillez, sachez repérer les limites au traitement de l'information.</p>
+\n
+<p>Il n'est pas rare, dans des agences web, de donner à des chefs de projets (juniors ou non-techniques), la fonction de traiter l'ensemble de toute l'information qui circule : clients, développeurs, patron... Si vous sentez un manque d'attention, une incapacité de sa part, soyez indulgents, il sature.</p>
+\n
+<p>Lire <a href=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\">Entreprise 2.0 : coordination et coopération dans l’entreprise – réseau</a>.</p>
+\n",
+"markdown": "
+<p>Ce matin en réunion, deux personnes se toisent. Alors toi ? Bah moi, 200. Ah, 200, ouais ça va, moi 300. Oui, 300 mails par jour en moyenne, ça impressionne, mais la question est plutôt de combien de temps disposes-tu pour pouvoir les traiter ?</p>
+\n
+<p>Un aspect qu'une personne ayant un poste à responsabilité ne veut pas évoquer est certainement sa capacité à traiter de grandes masses d'information. Dans notre culture de celui qui a la plus grosse... cervelle, de la compétition sportive sensée représenter l'ultime élévation de l'esprit humain, il est de bon ton d'affirmer sa position en étalant le volume de son carnet de contacts ainsi que le nombre de projets dans lesquels on est impliqué.</p>
+\n
+<p>Cependant, l'expérience empirique autant que les études sociologiques les plus pointues montrent que le cerveau humain n'est pas en capacité de gérer un volume infini d'informations.</p>
+\n
+<div class=\"aspectratio\" data-ratio=\"4/3\"><a href=\"http://www.fabrice-aimetti.fr/dotclear/index.php?post/2011/04/22/Livrer-tot-est-different-de-maximiser-le-retour-sur-investissement\"><img src=\"{{ site.baseurl }}/assets/featurecompletionovertime.png\" alt=\"\" title=\"featurecompletionovertime\" width=\"544\" height=\"344\" class=\"aligncenter size-full wp-image-3108\" /></a></div>
+\n
+<h3>La saturation cognitive ou Cognitive Overflow Syndrome</h3>
+\n
+<p>A l'image du condensateur ou du microprocesseur, le nombre d'informations qu'un cerveau peut gérer tend vers une limite. Si une personne prétend gérer autant d'informations que possible (qu'elle n'a pas de limites), elle ment certainement.</p>
+\n
+<p>Dans les faits, soit elle traite l'information sur un temps plus court, donc elle ne les gère pas en profondeur ou en totalité ; soit elle en redirige un certain nombre (stagiaire, c'est là que tu interviens). Et dans le cas où vraiment elle y arrive s'attendre un vieillissement prématuré du composant.</p>
+\n
+<p>C'est pourquoi, on peut lire des choses à propos de la taille limite d'un équipe comme :</p>
+\n
+<blockquote cite=\"http://www.m2ie.fr/management-2-0-les-vertus-des-petites-equipes/\">
+  <p>Jeff Bezos, le fondateur et PDG d’Amazon, a l’habitude de dire qu’une équipe qu’on ne peut pas nourrir avec deux pizzas est trop grosse.</p>
+  \n</blockquote>
+\n
+<p>Ou encore</p>
+\n
+<blockquote cite=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\">
+  <p>S’agissant de diriger l’exécution de tâches complexes et évoluant rapidement, un manager ne peut habituellement contrôler plus de 5 à 7 personnes.</p>
+  \n
+  <p>Cette limite est imposée par le fait que le nombre de relations significatives devant être régulées croît très vite avec le nombre de subordonnés, de telle sorte que le nombre de ces relations et la cadence à laquelle elles doivent être redéfinies dépasse rapidement les capacités d’un seul esprit humain.</p>
+  \n</blockquote>
+\n
+<p>Plus les tâches peuvent se révéler complexes, moins une personne est en capacité de centraliser l'information. C'est pourtant ce qu'on demande à un chef de projets en agence web ou dans d'autres secteurs.</p>
+\n
+<p>D'expérience, ce qui est difficile à faire comprendre à vos collaborateurs, c'est que oui ça marche, ça peut marcher, on l'a déjà vu marcher, mais le principe n'est pas adapté pour les problèmes de haute complexité (l'innovation par exemple).</p>
+\n
+<h3>L’adhocratie de Mintzberg ou la collaboration entre individus</h3>
+\n
+<p>Pour contrer la saturation de votre cerveau central incapable de prendre les décisions adéquates pour la résolution de problèmes ciblées et complexes, il convient d'imaginer un système dans lequel on répartit la charge sur l'ensemble des processeurs disponibles.</p>
+\n
+<p>On pourrait donc imaginer un système décentralisé avec des circuits autonomes de traitement de l'information. C'est justement ce à quoi à réfléchit Mintzberg avec l’adhocratie.</p>
+\n
+<blockquote cite=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\">
+  <p>Le mode de coordination mis en avant par Mintzberg est basé sur la réciprocité, l’ajustement mutuel, et la coopération. Il se caractérise par des relations de travail peu formalisées au sein de petites équipes. Son fonctionnement est le fruit d’interactions constantes. Il privilégie le mode projet et a inspiré le modèle de l’ingénierie concourante.</p>
+  \n</blockquote>
+\n
+<p>En fonction du type de projet sur lequel vous travaillez, sachez repérer les limites au traitement de l'information.</p>
+\n
+<p>Il n'est pas rare, dans des agences web, de donner à des chefs de projets (juniors ou non-techniques), la fonction de traiter l'ensemble de toute l'information qui circule : clients, développeurs, patron... Si vous sentez un manque d'attention, une incapacité de sa part, soyez indulgents, il sature.</p>
+\n
+<p>Lire <a href=\"http://www.m2ie.fr/entreprise-2-0-coordination-et-cooperation-dans-lentreprise-reseau/\">Entreprise 2.0 : coordination et coopération dans l’entreprise – réseau</a>.</p>
+\n"
 }

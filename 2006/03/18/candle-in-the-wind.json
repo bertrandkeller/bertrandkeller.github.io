@@ -1,8 +1,19 @@
 {
-  "id": "/2006/03/18/candle-in-the-wind",
-  "title": "Candle in the wind",
-  "url": "https://bertrandkeller.info/2006/03/18/candle-in-the-wind/",
-  "date": 1142697405,
-  "html": "<p> \n<div style=\"text-align: center;\"><a href=\"http://emmanuel.clement.free.fr/etudes/boulangerie.htm\"><img src=\"{{ site.baseurl }}/assets/baguette_gratuite.png\" alt=\"\" /></a>&nbsp;&nbsp;&nbsp;</div>\n<p></p>\n</p>\n",
-  "markdown": "<p> \n<div style=\"text-align: center;\"><a href=\"http://emmanuel.clement.free.fr/etudes/boulangerie.htm\"><img src=\"{{ site.baseurl }}/assets/baguette_gratuite.png\" alt=\"\" /></a>&nbsp;&nbsp;&nbsp;</div>\n<p></p>\n"
-}
+"id": "/2006/03/18/candle-in-the-wind",
+"title": "Candle in the wind",
+"url": "https://bertrandkeller.info/2006/03/18/candle-in-the-wind/",
+"date": 1142697405,
+"html": "
+<p> \n
+  <div style=\"text-align: center;\"><a href=\"http://emmanuel.clement.free.fr/etudes/boulangerie.htm\"><img src=\"{{ site.baseurl }}/assets/baguette_gratuite.png\" alt=\"\" /></a>&nbsp;&nbsp;&nbsp;</div>
+  \n
+  <p></p>
+  \n</p>
+\n",
+"markdown": "
+<p> \n
+  <div style=\"text-align: center;\"><a href=\"http://emmanuel.clement.free.fr/etudes/boulangerie.htm\"><img src=\"{{ site.baseurl }}/assets/baguette_gratuite.png\" alt=\"\" /></a>&nbsp;&nbsp;&nbsp;</div>
+  \n
+  <p></p>
+  \n"
+  }

@@ -1,8 +1,44 @@
 {
-  "id": "/2008/09/22/la-communaute-web-aria",
-  "title": "La communauté WAI-ARIA",
-  "url": "https://bertrandkeller.info/2008/09/22/la-communaute-web-aria/",
-  "date": 1222080932,
-  "html": "<p>La communauté ARIA est lancée, c'est Access Garage qui l'annonce dans <a href=\"http://accessgarage.wordpress.com/2008/09/09/free-aria-community-launched/\">Free-ARIA Community Launched</a>.</p>\n<p>Cette Free ARIA Community présente ses axes de travail sous <a href=\"http://groups.google.com/group/free-aria\">Google Groupes</a> :</p>\n<ul>\n<li>JavaScript toolkits</li>\n<li>Testing tools for authors</li>\n<li>Testcases</li>\n<li>Training materials</li>\n<li>Browsers</li>\n<li>Assistive technologies</li>\n</ul>\n",
-  "markdown": "<p>La communauté ARIA est lancée, c'est Access Garage qui l'annonce dans <a href=\"http://accessgarage.wordpress.com/2008/09/09/free-aria-community-launched/\">Free-ARIA Community Launched</a>.</p>\n<p>Cette Free ARIA Community présente ses axes de travail sous <a href=\"http://groups.google.com/group/free-aria\">Google Groupes</a> :</p>\n<ul>\n<li>JavaScript toolkits</li>\n<li>Testing tools for authors</li>\n<li>Testcases</li>\n<li>Training materials</li>\n<li>Browsers</li>\n<li>Assistive technologies</li>\n</ul>\n"
+"id": "/2008/09/22/la-communaute-web-aria",
+"title": "La communauté WAI-ARIA",
+"url": "https://bertrandkeller.info/2008/09/22/la-communaute-web-aria/",
+"date": 1222080932,
+"html": "
+<p>La communauté ARIA est lancée, c'est Access Garage qui l'annonce dans <a href=\"http://accessgarage.wordpress.com/2008/09/09/free-aria-community-launched/\">Free-ARIA Community Launched</a>.</p>
+\n
+<p>Cette Free ARIA Community présente ses axes de travail sous <a href=\"http://groups.google.com/group/free-aria\">Google Groupes</a> :</p>
+\n
+<ul>\n
+  <li>JavaScript toolkits</li>
+  \n
+  <li>Testing tools for authors</li>
+  \n
+  <li>Testcases</li>
+  \n
+  <li>Training materials</li>
+  \n
+  <li>Browsers</li>
+  \n
+  <li>Assistive technologies</li>
+  \n</ul>
+\n",
+"markdown": "
+<p>La communauté ARIA est lancée, c'est Access Garage qui l'annonce dans <a href=\"http://accessgarage.wordpress.com/2008/09/09/free-aria-community-launched/\">Free-ARIA Community Launched</a>.</p>
+\n
+<p>Cette Free ARIA Community présente ses axes de travail sous <a href=\"http://groups.google.com/group/free-aria\">Google Groupes</a> :</p>
+\n
+<ul>\n
+  <li>JavaScript toolkits</li>
+  \n
+  <li>Testing tools for authors</li>
+  \n
+  <li>Testcases</li>
+  \n
+  <li>Training materials</li>
+  \n
+  <li>Browsers</li>
+  \n
+  <li>Assistive technologies</li>
+  \n</ul>
+\n"
 }
