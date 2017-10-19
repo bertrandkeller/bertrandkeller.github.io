@@ -13,7 +13,6 @@ const cacheList = [
     imagesCacheName
 ];
 
-
 const offlinePages = [
     "/",
     {% for page in site.html_pages %}
@@ -24,7 +23,6 @@ const offlinePages = [
     {% endfor %}
     '/index.html'
 ];
-
 
 function updateStaticCache() {
     return caches.open(staticCacheName)

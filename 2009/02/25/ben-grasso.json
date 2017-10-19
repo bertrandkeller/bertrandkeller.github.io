@@ -1,16 +1,1 @@
-{
-"id": "/2009/02/25/ben-grasso",
-"title": "Ben Grasso",
-"url": "https://bertrandkeller.info/2009/02/25/ben-grasso/",
-"date": 1235552169,
-"html": "
-<p><a href=\"http://bengrasso.com/\">Ben Grasso</a>, un artiste de la déconstruction et de la destruction.</p>
-\n
-<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/ben-grasso.jpg\" alt=\"ben grasso\" /></div>
-\n",
-"markdown": "
-<p><a href=\"http://bengrasso.com/\">Ben Grasso</a>, un artiste de la déconstruction et de la destruction.</p>
-\n
-<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/ben-grasso.jpg\" alt=\"ben grasso\" /></div>
-\n"
-}
+{ "id": "/2009/02/25/ben-grasso", "title": "Ben Grasso", "url": "https://bertrandkeller.info/2009/02/25/ben-grasso/", "date": 1235552169, "html": "<p><a href=\"http://bengrasso.com/\">Ben Grasso</a>, un artiste de la déconstruction et de la destruction.</p>\n<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/ben-grasso.jpg\" alt=\"ben grasso\"/></div>\n", "markdown": "<p><a href=\"http://bengrasso.com/\">Ben Grasso</a>, un artiste de la déconstruction et de la destruction.</p>\n<div class=\"aspectratio\" data-ratio=\"4/3\"><img src=\"{{ site.baseurl }}/assets/ben-grasso.jpg\" alt=\"ben grasso\"/></div>\n" }

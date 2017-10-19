@@ -95,7 +95,7 @@ exclude:
   - LICENSE
 
 jekyll_tidy:
-    compress_html: true
+  compress_html: true
 
 Plugin: jekyll-assets
 assets:

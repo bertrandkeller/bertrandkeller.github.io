@@ -1,12 +1,1 @@
-{
-"id": "/2010/05/31/impossible-abscence",
-"title": "Impossible abscence par Bernard Stiegler",
-"url": "https://bertrandkeller.info/2010/05/31/impossible-abscence/",
-"date": 1275307252,
-"html": "
-<div class=\"aspectratio\" data-ratio=\"4/3\"><object width=\"535\" height=\"322\"><param name=\"movie\" value=\"https://www.youtube.com/v/TFiIxr2lU6s&amp;hl=fr_FR&amp;fs=1&amp;\" /><param name=\"allowFullScreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><embed src=\"https://www.youtube.com/v/TFiIxr2lU6s&amp;hl=fr_FR&amp;fs=1&amp;\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"535\" height=\"322\" />&lt;/embed&gt;</object></div>
-\n",
-"markdown": "
-<div class=\"aspectratio\" data-ratio=\"4/3\"><object width=\"535\" height=\"322\"><param name=\"movie\" value=\"https://www.youtube.com/v/TFiIxr2lU6s&hl=fr_FR&fs=1&\" /><param name=\"allowFullScreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><embed src=\"https://www.youtube.com/v/TFiIxr2lU6s&hl=fr_FR&fs=1&\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"535\" height=\"322\"></embed></object></div>
-\n"
-}
+{ "id": "/2010/05/31/impossible-abscence", "title": "Impossible abscence par Bernard Stiegler", "url": "https://bertrandkeller.info/2010/05/31/impossible-abscence/", "date": 1275307252, "html": "<div class=\"aspectratio\" data-ratio=\"4/3\"><object width=\"535\" height=\"322\"><param name=\"movie\" value=\"https://www.youtube.com/v/TFiIxr2lU6s&amp;hl=fr_FR&amp;fs=1&amp;\"/><param name=\"allowFullScreen\" value=\"true\"/><param name=\"allowscriptaccess\" value=\"always\"/><embed src=\"https://www.youtube.com/v/TFiIxr2lU6s&amp;hl=fr_FR&amp;fs=1&amp;\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"535\" height=\"322\"/>&lt;/embed&gt;</object></div>\n", "markdown": "<div class=\"aspectratio\" data-ratio=\"4/3\"><object width=\"535\" height=\"322\"><param name=\"movie\" value=\"https://www.youtube.com/v/TFiIxr2lU6s&hl=fr_FR&fs=1&\"/><param name=\"allowFullScreen\" value=\"true\"/><param name=\"allowscriptaccess\" value=\"always\"/><embed src=\"https://www.youtube.com/v/TFiIxr2lU6s&hl=fr_FR&fs=1&\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"535\" height=\"322\"></embed></object></div>\n" }
