@@ -2,19 +2,19 @@
 title: Pourquoi passer au Markdown et se passer d'un WYSWYG ?
 ---
 
-Parler de [générateurs de site statique](/generateur-site-statique/) s'est forcément tourner autour de la question épineuse de l'édition en format Markdown. Évoquons ce sujet brièvement pour présenter leur orientation d'usage différentes.
+Parler de [générateurs de site statique](/generateur-site-statique/) s'est forcément tourner autour de la question épineuse de l'édition en format Markdown. Évoquons ce sujet brièvement pour présenter leur orientations d'usage différentes.
 
 ## Markdown sujet de toutes les discordes
 
-Dans une conversation entre développeurs (ou autres personnes), la discussion autour des  gestionnaires de site statique débute assez souvent sur les bénéfices de passer Markdown pour éditer le contenu.
+Dans une conversation entre développeurs (ou autres personnes), la discussion autour des gestionnaires de site statique débute assez souvent sur les bénéfices de passer à Markdown pour éditer le contenu.
 
-En effet, le Markdown représente la solution pour se passer de contenu stocker en base de données ; et ainsi sortir de toutes les problématiques de maintenance serveur et gestion de base de données. Ce serait un comme prendre un tram pour aller au travail et ne plus prendre la voiture avec tout cela exige comme entretien et temps perdu dans les bouchons.
+En effet, le Markdown représente la solution pour se passer de contenu stocker en base de données ; et ainsi sortir de toutes les problématiques de maintenance serveurs et gestion de base de données. Ce serait un comme prendre un tram pour aller au travail et ne plus prendre la voiture avec tout cela exige comme entretien et temps perdu dans les bouchons.
 
 Seulement vient le problème de l'équation : le client.
 
 Bien entendu, le client lui n'est pas prêt à aller à la décheterie en bus, à être dépendant des horaires des transports ou encore aller faire ses courses en vélo.
 
-Ceux qui ont tenté l'expérience sans voiture diront que la vie est tellement plus belle sans voiture. Cela demande des ajustement mais c'est vraiment mieux. Ils diront mais pourquoi on a utilisé la voiture à un niveau industriel et poursuiverons par : mais pourquoi a-t-on inventer les éditeurs wyswyg ?
+Ceux qui ont tenté l'expérience sans voiture diront que la vie est tellement plus belle sans voiture. Cela demande des ajustements mais c'est vraiment mieux. Ils diront mais pourquoi on a utilisé la voiture à un niveau industriel et poursuiverons par : mais pourquoi a-t-on inventer les éditeurs wyswyg ?
 
 ## Pourquoi a-t-on inventer les éditeurs wyswyg ?
 
@@ -22,7 +22,7 @@ Ceux qui ont tenté l'expérience sans voiture diront que la vie est tellement p
 
 Les éditeurs de textes riches (Rich Text editor) sont présents sur la quasi totalité de ce qu'on nomme les CMS. Ces éditeurs prennent lieu et place sur le champ qui permet d'éditer le contenu du corps du texte (le body).
 
-Il y a quelques années la communauté Drupal se prenait la tête à ce sujet en se demandant si le succès de WordPress n'était pu dû là la qualité de leur éditeur de texte riche. En effet, malgré tous les milliards d'heure passé à configurer la machine, une fois le système dans les mains du client on se retrouvait avec du contenu de piètre qualité. L'édition était une vrai plaie.
+Il y a quelques années la communauté Drupal se prenait la tête à ce sujet en se demandant si le succès de WordPress n'était pas dû à la qualité de leur éditeur de texte riche. En effet, malgré tous les milliards d'heures passées à configurer la machine, une fois le système dans les mains du client on se retrouvait avec du contenu de piètre qualité. L'édition était une vrai plaie.
 
 Quand une logique comme celle du CMS est de dire : “vous avez un besoin technologique quelqu'il soit on va y répondre" ; lorsque le client demande si on peut mettre des images alignées à droite avec du texte à gauche, vous faites tout pour que cela soit possible.
 
@@ -44,7 +44,7 @@ Cela demande évidemment un investissement d'apprentissage pour monter en compé
 
 Cela semble difficile mais c'est par cette étape qu'on intègre ces rédacteurs ou clients aux notions de processus de déploiement du code et que les équipes peuvent discuter d'égal à égal sur le sujet majeur de la pérénité du code.
 
-Il sera bien entendu difficile de demander à des clients non investis dans leur site de se lancer dasn cette démarche.
+Il sera bien entendu difficile de demander à des clients non investis dans leur site de se lancer dans cette démarche.
 
 ### Ouvrir la rédaction à différents profils de rédacteurs
 
@@ -56,11 +56,11 @@ C'est exactement sur ce crénaux que se positionnenent des entreprises comme : F
 
 ## Conclusion
 
-Après réflexion, il n'y a pas vraiment de raison d'éditer du contneu avec un éditeur WYSWYG. Il s'agit d'une reproduction du monde physique de l'édition à de la rédaction numérique. Cela plait aux rédacteurs qui sont dans cette logique et ne veulent pas en changer.
+Après réflexion, il n'y a pas vraiment de raison d'éditer du contenu avec un éditeur WYSWYG. Il s'agit d'une reproduction du monde physique de l'édition à de la rédaction numérique. Cela plait aux rédacteurs qui sont dans cette logique et ne veulent pas en changer.
 
-Pourtant, cela ne répond pas aux exigeance de chacun en terme de qualité du code, référencent lisibilité pour les lecteur…
+Pourtant, cela ne répond pas aux exigeances de chacun en terme de qualité du code, référencement, lisibilité pour les lecteur…
 
-La rédaction en MarkDown n'est pas à opposer à une édition à l'aide d'un WYSWYG car elle répondent toutes les 2 à des nécessités. Pourtant, si on prend en compte les besoins et les contraintes l'édition MarkDown propose de très gros avantages.
+La rédaction en MarkDown n'est pas à opposer à une édition à l'aide d'un WYSWYG car elle répondent toutes les 2 à des nécessités. Pourtant, si on prend en compte les besoins et les contraintes d'un projet web, l'édition MarkDown propose de très gros avantages.
 
-Vous pouvez aussi utiliser du MarkDown en utlisant des interfaces WYSWYG, pour essayer des avantages du MarkDown en ne pertubant pas les rédaceurs, mais sachez que n'aurez fait que la moitié du chemin.
+Vous pouvez aussi utiliser du MarkDown en utlisant des interfaces WYSWYG, pour essayer d'avoir les avantages du MarkDown en ne pertubant pas les rédacteurs, mais sachez que n'aurez fait que la moitié du chemin.
 
