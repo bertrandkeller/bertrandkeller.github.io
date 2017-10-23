@@ -4,7 +4,7 @@ Title: Pourquoi passer au Markdown et se passer d'un WYSWYG ?
 
 Parler de [générateurs de site statique](/generateur-site-statique/) s'est forcément tourner autour de la question épineuse de l'édition en format Markdown. Évoquons ce sujet brièvement pour présenter leur orientation d'usage différentes.
 
-##Markdown sujet de toutes les discordes
+## Markdown sujet de toutes les discordes
 
 Dans une conversation entre développeurs (ou autres personnes), la discussion autour des  gestionnaires de site statique débute assez souvent sur les bénéfices de passer Markdown pour éditer le contenu.
 
