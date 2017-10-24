@@ -41,7 +41,7 @@ Le problème est que si ce que vous proposez à votre client un site qui répond
 
 Les générateurs de sites statiques ont un bel avenir devant eux, seulement leur utilisation demandent une forte implication avec le client pour la définition des données.
 
-Même si dans les faits cela ne diffèrent pas grandement de l'utilisation d'un CMS (il s'agit tout autant de la réalisation d‘un site). Comme les données et le site ne sont pas cristalisés, il est plus long de maîtriser les stratégies de mise en place.
+Même si dans les faits cela ne diffèrent pas grandement de l'utilisation d'un CMS (il s'agit tout autant de la réalisation d'un site). Comme les données et le site ne sont pas cristalisés, il est plus long de maîtriser les stratégies de mise en place.
 
 Ces stratégies sont encore en construction, des nouveaux outils se développent actuellement, je pense personnellement maîtriser de mieux en mieux la gestion d'un site propulsé par un générateur de site statique.
 

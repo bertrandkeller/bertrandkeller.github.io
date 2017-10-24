@@ -153,30 +153,30 @@ type: article
 <section id="id-conseil" class="panel">
     <div class="gallery-module">
         <h2>Conseil Stratégique</h2>
-        <p>Ma formation d'ingénieur à l‘Université de Technologie de Compiègne et une large expérience de plus de 10 années m'ont permis de développer de sérieuses compétences en assistance de réalisation de sites web.</p>
-        <p>Le web est devenu l‘outil de travail d'une entreprise et de ses équipes. L‘enjeu du web n'est pas tant de mettre en ligne des interfaces mais surtout de mettre en place des méthodes de travail en développant une culture numérique innovante.</p>
-        <p>L‘intérêt de faire appel à mes services est que je suis au quotidien les innovations des domaines du web et que je peux mettre en place une stratégie à long terme pour optimiser l‘utilisation de différentes ressources.</p>
+        <p>Ma formation d'ingénieur à l'Université de Technologie de Compiègne et une large expérience de plus de 10 années m'ont permis de développer de sérieuses compétences en assistance de réalisation de sites web.</p>
+        <p>Le web est devenu l'outil de travail d'une entreprise et de ses équipes. L'enjeu du web n'est pas tant de mettre en ligne des interfaces mais surtout de mettre en place des méthodes de travail en développant une culture numérique innovante.</p>
+        <p>L'intérêt de faire appel à mes services est que je suis au quotidien les innovations des domaines du web et que je peux mettre en place une stratégie à long terme pour optimiser l'utilisation de différentes ressources.</p>
     </div>
 </section>
 
 <section id="id-integration" class="panel bg-black">
   <div class="gallery-module">
         <h2>Intégration web</h2>
-        <p>L‘intégration web est mon cœur de métier. Il est indispensable pour moi de la pratiquer afin d'avoir une vision claire des évolutions et tendances en cours.</p>
+        <p>L'intégration web est mon cœur de métier. Il est indispensable pour moi de la pratiquer afin d'avoir une vision claire des évolutions et tendances en cours.</p>
         <p>Je manipule les dernières méthodologies HTML et CSS pour avoir un site le plus lisible et le plus rapide à charger possible.</p>
-        <p>Plus que simplement décliner des pages, l‘objectif est de péreniser une charte graphique afin de garantir un coût de maintenance raisonnable.</p>
-        <p>C‘est pour ça que j'interviens auprès d'équipes de développement afin de les aider à améliorer leur manière d'entrevoir le code.</p>
+        <p>Plus que simplement décliner des pages, l'objectif est de péreniser une charte graphique afin de garantir un coût de maintenance raisonnable.</p>
+        <p>C'est pour ça que j'interviens auprès d'équipes de développement afin de les aider à améliorer leur manière d'entrevoir le code.</p>
   </div>
 </section>
 
 <section id="id-jekyll" class="panel">
   <div class="gallery-module">
       <h2>Formation Jekyll ou Hugo</h2>
-      <p>Depuis 3 années, j‘enseigne Jekyll dans différentes structures et notamment à des élèves de licence à l'IUT d'Elbeuf près de Rouen.</p>
+      <p>Depuis 3 années, j'enseigne Jekyll dans différentes structures et notamment à des élèves de licence à l'IUT d'Elbeuf près de Rouen.</p>
       <p>Jekyll, et les générateurs de contenu statique, sont en train de devenir des plateformes de documentation pour la réalisation et le suivi de projets.</p>
       <p>A très peu de frais, ils permettent d'éditer sous forme de fichiers textes aussi bien du contenu que des données qui peuvent être publiés sous différents formats : HTML, PDF…</p>
-      <p>Apprendre Jekyll ou Hugo, c‘est devenir autonome, avoir une souplesse pour éditer des données sur le web ou tout autre support de communication.</p>
-      <p><strong>=> Voir la page d‘offre de <a href="/formation-jekyll-hugo/">formations à Jekyll ou hugo</a>.</strong></p>
+      <p>Apprendre Jekyll ou Hugo, c'est devenir autonome, avoir une souplesse pour éditer des données sur le web ou tout autre support de communication.</p>
+      <p><strong>=> Voir la page d'offre de <a href="/formation-jekyll-hugo/">formations à Jekyll ou hugo</a>.</strong></p>
   </div>
 </section>
 

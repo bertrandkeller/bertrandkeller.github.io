@@ -5,7 +5,7 @@ title: 2017, les CMS sont morts
 Désolé de commencer l’année par une rubrique nécrologique, ce titre n’est pas de moi ; il vient d’un article publié il y a déjà 1 an et demi : [The CMS is dead. Long live Hugo, Wercker, Prose.io and CloudFront
 ](http://atchai.com/blog/the-cms-is-dead-long-live-hugo-wercker-proseio-and-cloudfront/).
 
-L‘année dernière a été l’occasion de me pencher encore plus en profondeur sur le phénomène des sites statiques et j’ai pu découvrir les nombreuses avantages que cela peut procurer.
+L'année dernière a été l’occasion de me pencher encore plus en profondeur sur le phénomène des sites statiques et j’ai pu découvrir les nombreuses avantages que cela peut procurer.
 
 ## La base de données est une plaie
 
