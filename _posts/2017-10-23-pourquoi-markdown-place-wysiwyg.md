@@ -48,7 +48,7 @@ Il sera bien entendu difficile de demander à des clients non investis dans leur
 
 ### Ouvrir la rédaction à différents profils de rédacteurs
 
-Si jamais sur un site, un ou plusieurs rédacteurs de contenu écrivaient du contenu avec un éditeur de code en utilisant le terminal pour synchorniser son dépôt avec Git. Il ne serait pas impossible que l'édition de contenu soit ouverte à des rédacteurs occasionnels.
+Si jamais sur un site, un ou plusieurs rédacteurs de contenu écrivaient du contenu avec un éditeur de code en utilisant le terminal pour synchroniser son dépôt avec Git. Il ne serait pas impossible que l'édition de contenu soit ouverte à des rédacteurs occasionnels.
 
 Ce principe est réalisable sur les CMS avec la gestion de rôles. Mais reste aussi tout à fait envisageable avec du Markdown en ouvrant des interfaces de rédaction spécifiques.
 
