@@ -58,8 +58,8 @@ C'est exactement sur ce créneau que se positionnent des entreprises comme : For
 
 Après réflexion, il n'y a pas vraiment de raison d'éditer du contenu avec un éditeur WYSIWYG. Il s'agit d'une reproduction du monde physique de l'édition à de la rédaction numérique. Cela plait aux rédacteurs qui sont dans cette logique et ne veulent pas en changer.
 
-Pourtant, cela ne répond pas aux exigeances de chacun en terme de qualité du code, référencement, lisibilité pour les lecteurs…
+Pourtant cela ne répond pas aux exigeances de chacun en terme de qualité du code, référencement, lisibilité pour les lecteurs…
 
 La rédaction en Markdown n'est pas à opposer à une édition à l'aide d'un WYSIWYG car elles répondent toutes les deux à des nécessités. Pourtant, si on prend en compte les besoins et les contraintes d'un projet web, l'édition Markdown propose de très gros avantages.
 
-Vous pouvez aussi utiliser du Markdown en utlisant des interfaces WYSIWYG, pour essayer d'avoir les avantages du Markdown en ne pertubant pas les rédacteurs, mais sachez que vous n'aurez fait que la moitié du chemin.
+Vous pouvez aussi utiliser du Markdown en utilisant des interfaces WYSIWYG, pour essayer d'avoir les avantages du Markdown en ne pertubant pas les rédacteurs, mais sachez que vous n'aurez fait que la moitié du chemin.
