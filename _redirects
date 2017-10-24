@@ -1,7 +1,10 @@
 
-/rss.php /feed 301
+/rss.php /feed/ 301
 
 /formation-jekyll/ /formation-jekyll-hugo/ 200
+
+/2017/10/23/pourquoi-markdown-place-wyswyg/ /2017/10/23/pourquoi-markdown-place-wysiwyg/ 200
+
 
 /2015/10/03/parisweb-cest-quoi-les-metiers-du-web /2015/10/03/parisweb-cest-quoi-les-metiers-du-web/ 200
 /2015/06/24/summer-festival-nwx-reunions-collaboratives-pour-un-meilleur-business-plan /2015/06/24/summer-festival-nwx-reunions-collaboratives-pour-un-meilleur-business-plan/ 200
