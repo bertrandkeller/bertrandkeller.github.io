@@ -96,7 +96,7 @@ exclude:
 
 jekyll_tidy:
   compress_html: true
-  exclude: ["sw.js"]
+  exclude: ["sw.js","404.html","offline.md"]
 
 Plugin: jekyll-assets
 assets:
