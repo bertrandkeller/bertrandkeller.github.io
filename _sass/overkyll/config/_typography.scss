@@ -41,8 +41,8 @@ body {
 }
 
 h3,
-h2 { line-height: $base * $ms1; }
-h1 { line-height: $base * $ms0; }
+h2,
+h1 { line-height: $base * $ms1; }
 
 h6, .h6 { font-size: $smaller; }
 h5, .h5 { font-size: $normal; }
@@ -51,7 +51,7 @@ h3, .h3 { font-size: $title3; }
 h2, .h2 { font-size: $title2; }
 h1, .h1 { font-size: $title1; }
 
-// Calculate progressive fontsize between 2 breapoint :: insert the value of your breakpoint and of your 2 fontsize value for each breakpoint
+// Calculate progressive fontsize between 2 breakpoints :: insert the value of your breakpoint and of your 2 fontsize value for each breakpoint
 // from https://fvsch.com/code/css-locks/
 // https://css-tricks.com/between-the-lines/
 @mixin csslock-fontsize($breakpoint-down:$breakpoint-down, $breakpoint-up:$breakpoint-up, $size-down:$size-down, $size-up:$size-up) {
