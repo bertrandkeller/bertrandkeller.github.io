@@ -19,6 +19,10 @@ encoding: utf-8
  # seo-tag
 author: Bertrand Keller
 logo: /assets/bertrandkeller.png
+image:
+  path: /assets/bertrandkeller.png
+  height: 200
+  width: 200
 twitter:
   username: bertrandkeller
 social:
@@ -39,7 +43,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      image: "/assets/bertrandkeller.png"
       publisher: Bertrand Keller
 
 # HTML Compression
