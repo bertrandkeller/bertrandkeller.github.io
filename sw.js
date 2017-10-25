@@ -17,12 +17,11 @@ const cacheList = [
 const offlinePages = [
     "/",
     {% for page in site.html_pages %}
-      '{{ page.url }}',
+      '{{ site.baseurl }}{{ page.url }}',
     {% endfor %}
     {% for post in site.posts limit:3 %}
-      '{{ post.url }}',
+      '{{ site.baseurl }}{{ post.url }}',
     {% endfor %}
-    '/index.html'
 ];
 
 function updateStaticCache() {
