@@ -1,25 +1,32 @@
 <head itemscope itemtype="http://schema.org/WebSite">
   <meta charset="utf-8">
   <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- SEO -->
   <title>{% if page.title %}{{ page.title }}{% endif %} | {% if page.description %}{{ page.description }} - {% endif %}{{ site.title }}</title>
   {% seo title=false %}
   {% if page.type %}
   <meta property="og:type" content="{{ page.type }}"/>
   {% endif %}
+  <meta name="subject" content="{{ site.subject }}">
+  <meta name="generator" content="jekyll">
+  <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% endif %} | {% if page.description %}{{ page.description }} - {% endif %}{{ site.title }}">
+  <meta itemprop="description" content="{{ site.subject}}">
+  <meta itemprop="image" content="{{ site.image.path }}">
 
   <!-- CSS -->
   <script data-no-instant>
     {% include_cached localfont.js %}
   </script>
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?v={{site.time | date: '%Y%m%d%H%M%S'}}">
+  <link href="{{ '/assets/css/main.css' | relative_url }}?v={{site.time | date: '%Y%m%d%H%M%S'}}" rel="stylesheet">
 
   <!-- Profiles -->
-  <link type="text/plain" rel="author" href="/humans.txt" />
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS Feed" href="https://bertrandkeller.info/feed/"/>
+  <link href="/humans.txt" rel="author" type="text/plain" />
+  <link href="https://bertrandkeller.info/feed/" rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS Feed"/>
   <meta name="google-site-verification" content="TLPgjqS26dGLPiEz9QUF3u5uaTQnvQRAc3HoaRvC_S8" />
+  {% if page.image %}
+  <link rel="preload" href="{{ page.image }}" as="image">
+  {% endif %}
 
   <!-- Favicons -->
   {% include_cached favicons.html %}

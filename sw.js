@@ -17,10 +17,10 @@ const cacheList = [
 const offlinePages = [
     "/",
     {% for page in site.html_pages %}
-      '{{ site.baseurl }}{{ page.url }}',
+    '{{ page.url  | relative_url }}',
     {% endfor %}
     {% for post in site.posts limit:3 %}
-      '{{ site.baseurl }}{{ post.url }}',
+    '{{ post.url  | relative_url }}',
     {% endfor %}
 ];
 
@@ -29,12 +29,13 @@ function updateStaticCache() {
     .then(cache => {
       // These items won't block the installation of the Service Worker
       cache.addAll([
-        '/assets/js/instantclick.min.js',
+        //'/assets/js/instantclick.min.js',
       ].concat(offlinePages));
       // These items must be cached for the Service Worker to complete installation
       return cache.addAll([
-        '/assets/js/fetch-inject.js',
+        //'/assets/js/fetch-inject.js',
         '{{ "/assets/css/main.css" | relative_url }}?v={{site.time | date: "%Y%m%d%H%M%S"}}',
+        '{{ "/assets/css/font.css" | relative_url }}',
       ]);
     });
 }
@@ -92,14 +93,14 @@ self.addEventListener('fetch', event => {
   let request = event.request;
   let url = new URL(request.url);
 
-  // Ignore non-GET requests
+  Ignore non-GET requests
   if (request.method !== 'GET') {
     return;
   }
-
+  
   // For HTML requests, try the network first, fall back to the cache, finally the offline page
   if (request.headers.get('Accept').includes('text/html')) {
-
+    
     event.respondWith(
       fetch(request)
       .then(response => {
