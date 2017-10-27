@@ -29,12 +29,12 @@ function updateStaticCache() {
     .then(cache => {
       // These items won't block the installation of the Service Worker
       cache.addAll([
-        '{{ site.url }}/assets/js/instantclick.min.js',
+        '/assets/js/instantclick.min.js',
       ].concat(offlinePages));
       // These items must be cached for the Service Worker to complete installation
       return cache.addAll([
-        '{{ site.url }}/assets/js/fetch-inject.js',
-        '{{ "/assets/css/main.css" | relative_url }}',
+        '/assets/js/fetch-inject.js',
+        '{{ "/assets/css/main.css" | relative_url }}?v={{site.time | date: "%Y%m%d%H%M%S"}}',
       ]);
     });
 }
@@ -116,7 +116,7 @@ self.addEventListener('fetch', event => {
       .catch(() => {
         // CACHE or FALLBACK
         return caches.match(request)
-          .then(response => response || caches.match('/404.tml'));
+          .then(response => response || caches.match('/offline/'));
       })
     );
     return;
