@@ -19,7 +19,7 @@ namespace :build do
   desc "Regenerate files for development"
   task :dev do
     puts "* Regenerating files for development..."
-    system "bundle exec jekyll serve -L --limit_posts 5 --incremental --profile --config _config.yml,_config_dev.yml --profile"
+    system "JEKYLL_ENV=development bundle exec jekyll serve -L --limit_posts 5 --incremental --profile --config _config.yml,_config_dev.yml --profile"
   end
 
   desc "Regenerate files and drafts for development"
