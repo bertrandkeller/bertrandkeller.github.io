@@ -22,7 +22,11 @@ type: website
       <p><strong>{{ post.description }}</strong></p>
     {% endif %}
     {% if post.image %}
-      <img src="{{ post.image }}" alt="{{ post.title }}">
+    {% if site.environment != 'development' %}
+    {% cloudinary {{post.image}} alt="{{post.title}}" %}
+    {% else %}
+    <img src="{{ post.image }}" alt="{{ post.title }}">
+    {% endif %}
     {% endif %}
     {{ post.content | markdownify }}
   </section>

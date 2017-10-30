@@ -11,7 +11,7 @@ layout: default
     {% endif %}
     {% if page.image %}
     {% if site.environment != 'development' %}
-    {% cloudinary page.image alt="beautiful!" %}
+    {% cloudinary {{page.image}} alt="{{page.title}}" %}
     {% else %}
     <img src="{{ page.image }}" alt="{{ page.title }}">
     {% endif %}
