@@ -34,8 +34,8 @@ function updateStaticCache() {
       // These items must be cached for the Service Worker to complete installation
       return cache.addAll([
         //'/assets/js/fetch-inject.js',
-        '{{ "/assets/css/main.css" | relative_url }}?v={{site.time | date: "%Y%m%d%H%M%S"}}',
-        '{{ "/assets/css/font.css" | relative_url }}',
+        '{{ "/assets/css/main.css" | relative_url }}',
+        //'{{ "/assets/css/font.css" | relative_url }}',
       ]);
     });
 }

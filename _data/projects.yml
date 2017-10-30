@@ -1,0 +1,58 @@
+- name: Service-public.fr
+  url: https://www.service-public.fr/
+  image: bertrandkeller-service-public.png
+  techno: Thymleaf - Java
+- name: Alterecoplus
+  url: https://www.alterecoplus.fr/
+  image: bertrand-keller-alterecoplus-hebdo.jpg
+  techno: Ipad & Android - Drupal
+- name: Fondation de France
+  url: https://www.fondationdefrance.org/sites/default/files/atoms/files/fondation_ra2013_bd_s_0.pdf
+  image: bertrand-keller-fondation-de-france.jpg
+  techno: Rapport annuel - Jekyll
+- name: Air France
+  url: http://corporate.airfrance.com/
+  image: bertrand-keller-airfrance.jpg
+  techno: Compagnie aérienne - TYPO3
+- name: Beecitiz
+  url: http://www.beecitiz.com/
+  image: bertrand-keller-beecitiz.jpg
+  techno: Service de voirie - Symfony
+- name: NoMadMusic
+  url: https://nomadmusic.fr/
+  image: bertrand-keller-nomadmusic.jpg
+  techno: Label de musique - Drupal
+- name: Quai Branly
+  url: http://www.quaibranly.fr/
+  image: bertrand-keller-quai-branly.jpg
+  techno: Musée des arts primitifs - TYPO3
+- name: Ville de Rennes
+  url: http://metropole.rennes.fr/actualites/
+  image: bertrand-keller-rennes.jpg
+  techno: Site de la ville - TYPO3
+- name: Le leem
+  url: http://www.leem.org/
+  image: bertrandkeller-leem.jpg
+  techno: Groupe d'influence - Drupal
+- name: Wise Qatar
+  url: http://www.wise-qatar.org/
+  image: bertrandkeller-wise-qatar.jpg
+  techno: Conférence éducation - Drupal
+- name: Activités Saint Nicaise
+  url: http://activitesaintnicaise.org/
+  image: bertrandkeller-Activite-Saint-Nicaise.jpg
+  techno: Association - Jekyll
+- name: Bouygues Tel Entreprise
+  url: http://www.bouyguestelecom-entreprises.fr/
+  image: bertrandkeller-bouygues-telecom-entreprise.jpg
+  techno: Telecom - Drupal
+- name: Proximeetiz
+  url: http://proximeetiz.sncf.fr/
+  image: bertrandkeller-proximeetiz.jpg
+  techno: Réseau social - Symfony
+- name: Sages femmes Haute Normandie
+  url: https://sagesfemmes-normandie.fr/
+  image: bertrandkeller-sages-femmes-liberales-haute-nomandie.png
+  techno: Gdrive - Jekyll - Netlify
+
+

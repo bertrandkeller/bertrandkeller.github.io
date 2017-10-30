@@ -102,6 +102,7 @@ exclude:
   - README.md
   - dploy.yml
   - LICENSE
+  - node_modules
 
 jekyll_tidy:
   compress_html: true

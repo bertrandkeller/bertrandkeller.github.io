@@ -1,0 +1,35 @@
+- name: Atelier Paris Web - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)
+  url: https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/
+  image: atelier-generateur-site-statique-paris-web.png
+- name: Ne passons pas à côté des choses simples - Présentation 2016 - Paris Web
+  url: http://frank.taillandier.me/presentations/ne-passons-pas-a-cote-des-choses-simples/
+  image: bertrandkeller-simple.png
+- name: Agile pour petits projets - Présentation 2016 - Kiwi Party
+  url: https://bertrandkeller.github.io/Agile-pour-petits-projets/
+  image: presentation-agile-pour-petits-projets.png
+- name: Réunions collaboratives pour un meilleur business plan - Présentation 2015 - NWX Summer festival
+  url: http://bertrandkeller.github.io/collaboration-pour-meilleur-business/
+  image: collaboration-pour-meilleur-business.png
+- name: Pas de vue — pas de prix - Présentation Sud-Web 2015
+  url: http://bertrandkeller.github.io/pas-de-vue-pas-de-prix/
+  image: presentation-pas-de-vue-pas-de-prix.png
+- name: Choisir sa grille CSS - Présentation - NWX design 2015
+  url: http://bertrandkeller.github.io/choisir-sa-grille-css/
+  image: presentation-choisir-sa-grille-css.png
+- name: Hacker l'espace - Présentation - Rencontres intéractives de Cæn 2014
+  url: http://bertrandkeller.github.io/hacker-lespace/
+  image: hackdesk-presentation.jpg
+- name: Les moteurs de templates - Présentation - NWX Tech 2014
+  url: http://bertrandkeller.github.io/conference-moteurs-templating/
+  image: les-moteurs-de-template.png
+- name: Le dessous des grilles - Atelier - Paris Web 2013
+  url: http://bertrandkeller.github.io/Le-dessous-des-grilles/
+  image: bertrandkeller-lesdessous-des-grilles-parisweb.jpg
+- name: Mesure Émoi - Présentation - NWX Tech 2013
+  url: http://bertrandkeller.github.io/mesure-emoi/
+  image: bertrandkeller-mesure-emoi.jpg
+- name: Intégrateur lève toi et conçois - Présentation - Sud-Web 2012
+  url: https://vimeo.com/51941103
+  image: bertrandkeller-integrateur-leve-toi-et-concois.jpg
+
+  

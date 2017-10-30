@@ -1,7 +1,7 @@
 ---
 layout: default
 title: L’offre
-description: Intégrateur Drupal & Jekyll & Hugo - Expert en stratégie web & sites Internet à Rouen
+description: Rouen - stratégie web & sites Internet - Drupal / Jekyll / Hugo
 navigation: true
 image: "/assets/bertrandkeller.png"
 type: article
@@ -214,52 +214,18 @@ type: article
   <p>Présentations que j'ai pu donner lors de conférences francophones aux 4 coins de France.</p>
   <br>
   <div class="gallery">
-    <div class="gallery-module">
-        <h3><a href="https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/">Atelier Paris Web - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)</a></h3>
-        <a href="https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/"><img src="/assets/atelier-generateur-site-statique-paris-web.png" alt="Atelier Paris Web - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://frank.taillandier.me/presentations/ne-passons-pas-a-cote-des-choses-simples/">Ne passons pas à côté des choses simples - Présentation 2016 - Paris Web</a></h3>
-        <a href="https://frank.taillandier.me/presentations/ne-passons-pas-a-cote-des-choses-simples/"><img src="/assets/bertrandkeller-simple.png" alt="Ne passons pas à côté des choses simples - Présentation 2016 - Paris Web" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="https://bertrandkeller.github.io/Agile-pour-petits-projets/">Agile pour petits projets - Présentation 2016 - Kiwi Party</a></h3>
-        <a href="https://bertrandkeller.github.io/Agile-pour-petits-projets/"><img src="/assets/presentation-agile-pour-petits-projets.png" alt="Agile pour petits projets avec Jekyll" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://bertrandkeller.github.io/collaboration-pour-meilleur-business/">Réunions collaboratives pour un meilleur business plan - Présentation 2015 - NWX Summer festival</a></h3>
-        <a href="http://bertrandkeller.github.io/collaboration-pour-meilleur-business/"><img src="/assets/collaboration-pour-meilleur-business.png" alt="Réunions collaboratives pour un meilleur business plan" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://bertrandkeller.github.io/pas-de-vue-pas-de-prix/">Pas de vue — pas de prix - Présentation Sud-Web 2015</a></h3>
-        <a href="http://bertrandkeller.github.io/pas-de-vue-pas-de-prix/"><img src="/assets/presentation-pas-de-vue-pas-de-prix.png" alt="Conférence pas de vue — pas de prix pour sudweb 2015" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://bertrandkeller.github.io/choisir-sa-grille-css/">Choisir sa grille CSS - Présentation - NWX design 2015</a></h3>
-        <a href="http://bertrandkeller.github.io/choisir-sa-grille-css/"><img src="/assets/presentation-choisir-sa-grille-css.png" alt="conférence choisir sa grille CSS pour NWX design" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://bertrandkeller.github.io/hacker-lespace/">Hacker l'espace - Présentation - Rencontres intéractives de Cæn 2014</a></h3>
-        <a href="http://bertrandkeller.github.io/hacker-lespace/"><img src="/assets/hackdesk-presentation.jpg" alt="hackdesk presentation" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://bertrandkeller.github.io/conference-moteurs-templating/">Les moteurs de templates - Présentation - NWX Tech 2014</a>
-        </h3>
-        <a href="http://bertrandkeller.github.io/conference-moteurs-templating/"><img src="{{ site.baseurl }}/assets/les-moteurs-de-template.png" alt="bertrandkeller les moteurs de templates" width="750" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://bertrandkeller.github.io/Le-dessous-des-grilles/">Le dessous des grilles - Atelier - Paris Web 2013</a></h3>
-        <a href="{{ site.baseurl }}/assets/bertrandkeller-lesdessous-des-grilles-parisweb.jpg"><img src="{{ site.baseurl }}/assets/bertrandkeller-lesdessous-des-grilles-parisweb.jpg" alt="bertrandkeller-lesdessous-des-grilles-parisweb" width="750" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://bertrandkeller.github.io/mesure-emoi/">Mesure Émoi - Présentation - NWX Tech 2013</a>
-        </h3>
-        <a href="{{ site.baseurl }}/assets/bertrandkeller-mesure-emoi.jpg"><img src="{{ site.baseurl }}/assets/bertrandkeller-mesure-emoi.jpg" alt="bertrandkeller-mesure-emoi" width="750" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="https://vimeo.com/51941103">Intégrateur lève toi et conçois - Présentation - Sud-Web 2012</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-integrateur-leve-toi-et-concois.jpg"><img src="{{ site.baseurl }}/assets/bertrandkeller-integrateur-leve-toi-et-concois.jpg" alt="bertrandkeller-integrateur-leve-toi-et-concois" width="960" /></a>
-    </div>
+    {% for project in site.data.talks %}
+      <div class="gallery-module">
+        <h3><a href="{{ project.url }}">{{ project.name }}</a></h3>
+        <a class="venobox" href="{{ project.url }}">
+        {% if site.environment != 'development' %}
+        {% cloudinary /assets/{{ project.image }} alt="{{ project.name }}" %}
+        {% else %}
+        <img src="/assets/{{ project.image }}" alt="{{ project.name }}">
+        {% endif %}
+        </a>
+      </div>
+    {% endfor %}
   </div>
 </section>
 
@@ -268,62 +234,18 @@ type: article
   <p>Exemples de sites réalisés sous Drupal, TYPO3, WordPress ou Symfony. J'y ai toujours codé l'interface et souvent dirigé la coordination des différents métiers.</p>
   <br>
   <div class="gallery">
-    <div class="gallery-module">
-        <h3><a href="https://www.service-public.fr/">Service-public.fr - Thymleaf - Java</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-service-public.png"><img src="{{ site.baseurl }}/assets/bertrandkeller-service-public.png" alt="Service-public.fr" width="750" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://www.alterecoplus.fr/">Alterecoplus - Ipad & Android - Drupal</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrand-keller-alterecoplus-hebdo.jpg"><img src="{{ site.baseurl }}/assets/bertrand-keller-alterecoplus-hebdo.jpg" alt="bertrand-keller-alterecoplus-hebdo" width="960" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://www.fondationdefrance.org/fs/ra2013/">Fondation de France - Rapport annuel - Jekyll</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrand-keller-fondation-de-france.jpg"><img src="{{ site.baseurl }}/assets/bertrand-keller-fondation-de-france.jpg" alt="bertrand-keller-fondation-de-france" width="960" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://corporate.airfrance.com/fr/le-voyage/">Air France - Compagnie aérienne - TYPO3</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrand-keller-airfrance.jpg"><img src="{{ site.baseurl }}/assets/bertrand-keller-airfrance.jpg" alt="bertrand-keller-airfrance" width="960" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://www.beecitiz.com/">Beecitiz - Service de voirie - Symfony</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrand-keller-beecitiz.jpg"><img src="{{ site.baseurl }}/assets/bertrand-keller-beecitiz.jpg" alt="bertrand-keller-beecitiz" width="960" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://nomadmusic.fr/fr">NoMadMusic - Label de musique - Drupal</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrand-keller-nomadmusic.jpg"><img src="{{ site.baseurl }}/assets/bertrand-keller-nomadmusic.jpg" alt="bertrand-keller-nomadmusic" width="960" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://www.quaibranly.fr/">Quai Branly - Musée des arts primitifs - TYPO3</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrand-keller-quai-branly.jpg"><img src="{{ site.baseurl }}/assets/bertrand-keller-quai-branly.jpg" alt="bertrand-keller-quai-branly" width="960" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://metropole.rennes.fr/actualites/">Rennes - Site de la ville - TYPO3</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrand-keller-rennes.jpg"><img src="{{ site.baseurl }}/assets/bertrand-keller-rennes.jpg" alt="bertrand-keller-rennes" width="960" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://www.leem.org/">Le Leem - Groupe d'influence - Drupal</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrand-keller-leem.jpg"><img src="{{ site.baseurl }}/assets/bertrand-keller-leem.jpg" alt="bertrand-keller-leem" width="960" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://www.wise-qatar.org/">Wise Qatar - Conférence éducation - Drupal</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrand-keller-wise-qatar.jpg"><img src="{{ site.baseurl }}/assets/bertrand-keller-wise-qatar.jpg" alt="bertrand-keller-wise-qatar" width="960" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://activitesaintnicaise.org/">Activité Saint Nicaise - Association - Jekyll</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-Activite-Saint-Nicaise.jpg"><img src="{{ site.baseurl }}/assets/bertrandkeller-Activite-Saint-Nicaise.jpg" alt="bertrandkeller-Activite-Saint-Nicaise" width="750" class="aligncenter size-full wp-image-3786" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://www.bouyguestelecom-entreprises.fr/">Bouygues Tel Entreprise - Telecom - Drupal</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-bouygues-telecom-entreprise.jpg"><img src="{{ site.baseurl }}/assets/bertrandkeller-bouygues-telecom-entreprise.jpg" alt="bertrandkeller-bouygues-telecom-entreprise" width="750" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://proximeetiz.sncf.fr/">SNCF - Réseau social - Symfony</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-proximeetiz.jpg"><img src="{{ site.baseurl }}/assets/bertrandkeller-proximeetiz.jpg" alt="bertrandkeller-proximeetiz" width="750" /></a>
-    </div>
-    <div class="gallery-module">
-        <h3><a href="http://sagesfemmes-normandie.fr/">Sages femmes libérales - Gdrive - Jekyll - Netlify</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/bertrandkeller-sages-femmes-liberales-haute-nomandie.png"><img src="{{ site.baseurl }}/assets/bertrandkeller-sages-femmes-liberales-haute-nomandie.png" alt="sages-femmes libérales de Normandie" width="750" /></a>
-    </div>
+    {% for project in site.data.projects %}
+      <div class="gallery-module">
+        <h3><a href="{{ project.url }}">{{ project.name }} - {{ project.techno }}</a></h3>
+        <a class="venobox" href="{{ site.baseurl }}/assets/{{ project.image }}">
+        {% if site.environment != 'development' %}
+        {% cloudinary /assets/{{ project.image }} alt="{{ project.name }}" %}
+        {% else %}
+        <img src="/assets/{{ project.image }}" alt="{{ project.name }}">
+        {% endif %}
+        </a>
+      </div>
+    {% endfor %}
   </div>
 </section>
 
