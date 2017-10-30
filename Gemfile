@@ -19,4 +19,5 @@ group :jekyll_plugins do
     gem 'jekyll-livereload'
     gem 'jekyll-include-cache'
     gem 'jekyll-tidy'
+    gem 'jekyll-cloudinary'
 end
