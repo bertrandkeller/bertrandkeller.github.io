@@ -17,10 +17,8 @@
   <meta name="robots" content="{{ site.robots }}">
 
   <!-- CSS -->
-  <script data-no-instant>
-    {% include_cached localfont.js %}
-  </script>
-
+  
+  <link rel="preload" href="{{ '/assets/css/font.css' | relative_url }}" as="stylesheet">
   <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
 
   <!-- Profiles -->
