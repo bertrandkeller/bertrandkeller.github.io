@@ -17,9 +17,10 @@
   <meta name="robots" content="{{ site.robots }}">
 
   <!-- CSS -->
-  <script data-no-instant>
+  <!-- <script data-no-instant>
     {% include_cached localfont.js %}
-  </script>
+  </script> -->
+
   <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
 
   <!-- Profiles -->
@@ -28,7 +29,6 @@
   <meta name="google-site-verification" content="TLPgjqS26dGLPiEz9QUF3u5uaTQnvQRAc3HoaRvC_S8" />
   {% if page.image and page.layout == 'post' %}
   <link rel="dns-prefetch" href="https://res.cloudinary.com/">
-  <link rel="preload" href="https://res.cloudinary.com/{{ site.cloudinary.cloud_name }}/image/fetch/c_limit,f_auto,q_auto/{{site.url}}{{ page.image }}" as="image">
   {% endif %}
 
   <!-- Favicons -->
