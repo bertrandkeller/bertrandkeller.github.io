@@ -21,6 +21,10 @@
   <link rel="preload" href="{{ '/assets/css/font.css' | relative_url }}" as="stylesheet">
   <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
 
+  <script data-no-instant>
+    {% include_cached localfont.js %}
+  </script>
+
   <!-- Profiles -->
   <link href="/humans.txt" rel="author" type="text/plain" />
   <link href="https://bertrandkeller.info/feed/" rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS Feed"/>

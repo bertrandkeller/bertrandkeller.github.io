@@ -34,10 +34,13 @@ $line-height-base:        $base * $ms2;
 $base-line:               floor(($base-em * $line-height-base));
 
 body {
-  font-family: $base-font-family;
+  font-family: system, sans-serif;
   font-size: $base-em * $ms0;
   line-height: $base * $ms3;
   //font-size: calc(4vw + 4vh + 2vmin)
+  &.font-loaded {
+    font-family: $base-font-family;
+  }
 }
 
 h3,
