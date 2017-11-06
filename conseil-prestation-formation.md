@@ -1,140 +1,14 @@
 ---
 layout: default
-title: L’offre
+title: Prestations
 description: Rouen - stratégie web & sites Internet - Drupal / Jekyll / Hugo
 navigation: true
 image: "/assets/bertrandkeller.png"
 type: article
 ---
 
-<style>
-
-  body {
-    margin: 0;
-    padding: 0;
-  }
-
-  .page {
-    padding: 0;
-  }
-
-  .site-header {
-    display: none;
-    min-height: 14vh;
-  }
-
-  .wrapper {
-    margin: 0;
-    padding: 0;
-    max-width: 200rem !important;
-  }
-
-  .nav-back {
-    position: absolute;
-    top: 0.5em;
-    left: 0.5em;
-    padding: 0 0.2em;
-    font-size: 1.5em;
-    font-weight: bold;
-    text-decoration: none;
-    color: #000 !important;
-    background: white;
-
-  }
-
-  .panel {
-    padding: 1em 2vw 3em;
-  }
-
-  .panel-first {
-    min-height: 100vh;
-    text-align: center;
-  }
-
-  .panel-first h1 {
-    font-size: 3.5rem;
-    margin-top: 1.2em;
-    margin-bottom: 0.5em;
-  }
-
-  .panel-first p.anchor {
-    margin: 0 0 0.5rem;
-    font-size: 1.7rem; 
-  }
-
-  .panel-first p.anchor a {
-    text-decoration: none;
-  }
-
-  .bg-black {
-    color: #fff;
-    background: #000;
-
-  }
-
-  .bg-black a {
-      color: #fff;
-  }
-
-  .gallery {
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    display: -o-flex;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-  }
-
-  .gallery-module {
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    display: -o-flex;
-    display: flex;
-    flex-direction: column;
-    flex: 0 0 75%;
-    margin: 0 auto 1rem;
-    max-width: 40em; 
-  }
-
-  .gallery-module h3 {
-    order: 3;
-    font-size: 1.025em;
-  }
-
-  .gallery-module > a {
-    margin: 0 auto;
-    display: block;
-    width: 100%;
-    text-align: center;
-  }
-
-  .gallery img {
-    margin: 0 auto;
-    width: 100%;
-    max-height: 23em;
-    object-fit: cover;
-    border: 1px solid #ccc;
-  }
-
-  @media screen and (min-width: 60.063em) {
-    .gallery-module {
-      flex: 0 0 48%;
-    }
-  }
-
-  @media screen and (min-width: 60.063em) {
-    
-    .gallery-module {
-      flex: 0 0 30%;
-    }
-    .gallery img {
-      max-height: 18em;
-    }
-  }
-
-</style>
+<link rel="preload" href="{{ '/assets/css/onepage.css' | relative_url }}" as="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/onepage.css' | relative_url }}">
 
 <section class="panel panel-first bg-black">
   <a href="/" class="nav-back">Accueil</a>
@@ -143,10 +17,7 @@ type: article
   <p class="anchor"><a href="#id-conseil">Conseil Stratégique</a></p>
   <p class="anchor"><a href="#id-integration">Intégration web</a></p>
   <p class="anchor"><a href="#id-jekyll">Formation Jekyll ou Hugo</a></p>
-  <p>-</p>
   <p class="anchor"><a href="#id-benevolat">Bénévolat</a></p>
-  <p class="anchor"><a href="#id-presentation">Présentations</a></p> 
-  <p class="anchor"><a href="#id-portfolio">Portfolio</a></p> 
 </section>
 
 <section id="id-conseil" class="panel">
@@ -208,45 +79,7 @@ type: article
         <p>Je travaille en collaboration avec <a href="http://apollonet.fr/">Apollonet</a> pour le développement Drupal, <a href="http://ziopod.com/">Ziopod</a> pour du développement applicatif et <a href="http://piapandelakis.com/">Pia Pandelakis</a> pour le graphisme.</p>
     </div>
 </section> -->
-<section id="id-presentation" class="panel">
-  <h2>Présentations</h2>
-  <p>Présentations que j'ai pu donner lors de conférences francophones aux 4 coins de France.</p>
-  <br>
-  <div class="gallery">
-    {% for project in site.data.talks %}
-      <div class="gallery-module">
-        <h3><a href="{{ project.url }}">{{ project.name }}</a></h3>
-        <a class="venobox" href="{{ project.url }}">
-        {% if site.environment != 'development' %}
-        {% cloudinary /assets/{{ project.image }} alt="{{ project.name }}" %}
-        {% else %}
-        <img src="/assets/{{ project.image }}" alt="{{ project.name }}">
-        {% endif %}
-        </a>
-      </div>
-    {% endfor %}
-  </div>
-</section>
 
-<section id="id-portfolio" class="panel bg-black">
-  <h2>Références</h2>
-  <p>Exemples de sites réalisés sous Drupal, TYPO3, WordPress ou Symfony. J'y ai toujours codé l'interface et souvent dirigé la coordination des différents métiers.</p>
-  <br>
-  <div class="gallery">
-    {% for project in site.data.projects %}
-      <div class="gallery-module">
-        <h3><a href="{{ project.url }}">{{ project.name }} - {{ project.techno }}</a></h3>
-        <a class="venobox" href="{{ site.baseurl }}/assets/{{ project.image }}">
-        {% if site.environment != 'development' %}
-        {% cloudinary /assets/{{ project.image }} alt="{{ project.name }}" %}
-        {% else %}
-        <img src="/assets/{{ project.image }}" alt="{{ project.name }}">
-        {% endif %}
-        </a>
-      </div>
-    {% endfor %}
-  </div>
-</section>
 
 <script>
   /*

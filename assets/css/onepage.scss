@@ -1,0 +1,125 @@
+---
+---
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  padding: 0;
+}
+
+.site-header {
+  display: none;
+  min-height: 14vh;
+}
+
+.wrapper {
+  margin: 0;
+  padding: 0;
+  max-width: 200rem !important;
+}
+
+.nav-back {
+  position: absolute;
+  top: 0.5em;
+  left: 0.5em;
+  padding: 0 0.2em;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-decoration: none;
+  color: #000 !important;
+  background: white;
+}
+
+.panel {
+  padding: 1em 2vw 3em;
+}
+
+.panel-first {
+  min-height: 100vh;
+  text-align: center;
+}
+
+.panel-first h1 {
+  font-size: 3.5rem;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.panel-first p.anchor {
+  margin: 0 0 0.5rem;
+  font-size: 1.7rem;
+}
+
+.panel-first p.anchor a {
+  text-decoration: none;
+}
+
+.bg-black {
+  color: #fff;
+  background: #000;
+}
+
+.bg-black a {
+  color: #fff;
+}
+
+.gallery {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.gallery-module {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 75%;
+  margin: 0 auto 1rem;
+  max-width: 40em;
+}
+
+.gallery-module h3 {
+  order: 3;
+  font-size: 1.025em;
+}
+
+.gallery-module>a {
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.gallery img {
+  margin: 0 auto;
+  width: 100%;
+  max-height: 23em;
+  object-fit: cover;
+  border: 1px solid #ccc;
+}
+
+@media screen and (min-width: 60.063em) {
+  .gallery-module {
+    flex: 0 0 48%;
+  }
+}
+
+@media screen and (min-width: 60.063em) {
+  .gallery-module {
+    flex: 0 0 30%;
+  }
+  .gallery img {
+    max-height: 18em;
+  }
+}
+

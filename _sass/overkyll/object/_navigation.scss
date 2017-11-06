@@ -9,9 +9,6 @@ nav {
   ul {
     list-style: none;
   }
-  a {
-    text-decoration: none;
-  }
 }
 
 .nav-main {
@@ -31,12 +28,12 @@ nav {
     display: inline-block;
     text-align: center;
     margin: 0;
-    padding: 0.2rem 1.6rem 0;
+    padding: $base-line/4 $base-line/2 0;
   }
   a {
     font-weight: bold;
     & + & {
-       margin-left: 1em;
+       margin-left: $base-line/2;
     }
   }
 }
