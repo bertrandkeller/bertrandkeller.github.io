@@ -113,7 +113,6 @@ type: article
   .gallery img {
     margin: 0 auto;
     width: 100%;
-    height: 300px;
     max-height: 23em;
     object-fit: cover;
     border: 1px solid #ccc;
@@ -128,7 +127,7 @@ type: article
   @media screen and (min-width: 60.063em) {
     
     .gallery-module {
-      flex: 0 0 22%;
+      flex: 0 0 30%;
     }
     .gallery img {
       max-height: 18em;

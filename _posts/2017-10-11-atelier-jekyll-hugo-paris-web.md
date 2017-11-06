@@ -5,7 +5,7 @@ title: Atelier Paris Web 2017 sur les générateurs de sites statiques
 Samedi 7 octobre j'ai animé un atelier à la conférence française sur le web : Paris Web. Mon objectif étaient de pourvoir donner une dimension de la compléxité cognitive pour utiliser ou migrer sur un [générateur de site statique](/generateur-site-statique/).
 
 <figure markdown="1">
-[![Atelier Paris Web - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)](/assets/atelier-generateur-site-statique-paris-web.png)](https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/)<br>
+[![Atelier Paris Web - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)](/assets/presentation-atelier-generateur-site-statique-paris-web.png)](https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/)<br>
 Accéder à la présentation : [Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)](https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/)
 </figure>
 
