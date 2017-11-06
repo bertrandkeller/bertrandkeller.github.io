@@ -31,7 +31,8 @@ Il est désormais possible, une fois équipé d'un périphérique adapté, de do
 
 Rappellons le encore une fois, un [générateur de site statique](/generateur-site-statique/) est un script qui prend des fichiers en entrée et les convertis en d'autres fichiers. Le processus le plus utilisé est celui de convertir des fichiers Markdown (.md) en fichier HTML (.html).
 
-Le Markdown est l'une des manière le plus simple d'écrire du contenu sémantisé ; la sémantisation est indipensable pour structurer une document. Sur ce blog nous parlons des avantages du Markdown pour la réalisation éventuelle des sites ambitieux et volumineux. Cependant, n'oublions pas que le plus simple des blogs ou la plus simple des documentations peut être écrit en Markdown (ex:&nbsp;[README.md de jamstatic.fr](https://raw.githubusercontent.com/jamstatic/jamstatic-fr/master/README.md))
+Le Markdown est l'une des manière le plus simple d'écrire du contenu sémantisé ; la sémantisation est indipensable pour structurer une document. Sur ce blog nous parlons des avantages du Markdown pour la réalisation éventuelle des sites ambitieux et volumineux. Cependant, n'oublions pas que le plus simple des blogs ou la plus simple des documentations peut être écrit en Markdown (ex:&nbsp;[README.md de jamstatic.fr](https://raw.githubusercontent.com/jamstatic/jamstatic-fr/master/README.md
+))
 
 Vous pouvez de la manière la plus simple qu'il soit, écrire, grâce à un logiciel approprié, vos notes en Markdown. C'est-à-dire écrire votre documentation personnelle grâce à un logiciel de notes qui prend en compte le Markdown. En gros vous auto-documenter en écrivant en Markdown. Voire même, auto-documenter à plusieurs un travail collectif en partageant des notes écrites en Markdown.
 
