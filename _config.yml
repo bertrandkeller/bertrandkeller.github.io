@@ -3,7 +3,7 @@ name: 'Bertrand Keller'
 title: bertrandkeller
 email: bertrand.keller@gmail.com
 description: Découvrir des choses et d'autres
-subject: Histoire de gestion de contenu, générateur de site statique et autres
+subject: Histoire de gestion de contenu, générateur de site internet statique et autres
 
 # Site settings
 baseurl: ""
@@ -21,6 +21,13 @@ robot: index,follow
 cloudinary:
   cloud_name: dou0m7u5s
   verbose: true
+  presets:
+    default:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 800
+      steps: 5
+      sizes: "(min-width:40em) 40em, 90vw"
 
  # seo-tag
 author: Bertrand Keller
