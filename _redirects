@@ -1,7 +1,7 @@
 
 /rss.php /feed/ 301
 /index.php / 200
-/:year/:month/:date/:id-:slug  /:year/:month/:date/:slug
+/:year/:month/:date/:id-*  /:year/:month/:date/:splat
 
 /formation-jekyll/ /formation-jekyll-hugo/ 200
 /site-internet-conference/ /site-internet-conference-rouen/ 200
