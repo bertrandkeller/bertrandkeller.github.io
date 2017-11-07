@@ -9,7 +9,7 @@ type: website
   <div class="wrapper">
     Vous pouvez me payer en Agnel
     <small>La monnaie locale de Rouen</small>
-    <a href="/conseil-prestation-formation/">Voir la page offre</a>
+    Embauchez moi, pour de la <a href="/conseil-prestation-formation/">Prestation</a> ou de la <a href="/formation-jekyll-hugo/">Formation</a> !
   </div>
 </div>
 

@@ -3,7 +3,6 @@ source 'https://rubygems.org'
 group :development do
     gem 'rake'
     gem 'foreman'
-    gem 'octopress-autoprefixer'
 end
 
 group :test do
@@ -20,4 +19,5 @@ group :jekyll_plugins do
     gem 'jekyll-include-cache'
     gem 'jekyll-tidy'
     gem 'jekyll-cloudinary'
+    gem "autoprefixer-rails"
 end

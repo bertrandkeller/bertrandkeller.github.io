@@ -53,9 +53,9 @@ type: article
 <section id="id-benevolat" class="panel bg-black">
     <div class="gallery-module">
         <h2>Actions bénévoles</h2>
-        <p>Agir fait partie de mon quotidien. Je participe tout d'abord à l'organisation de 2 conférences web importantes au niveau national : <a href="http://codeursenseine.com">http://codeursenseine.com</a> et <a href="http://sudweb.fr">Sud-Web</a>. Cette action permet de rester au plus près des problématiques technologiques, mais aussi de préserver les valeurs de partage propres au web.</p>
+        <p>Agir fait partie de mon quotidien. Je participe tout d'abord à l'organisation de 2 conférences web importantes au niveau national : <a href="http://codeursenseine.com">http://codeursenseine.com</a> et <a href="https://sudweb.fr">Sud-Web</a>. Cette action permet de rester au plus près des problématiques technologiques, mais aussi de préserver les valeurs de partage propres au web.</p>
         <p>Je m'implique dans des projets citoyens comme <a href="http://hopdurable.fr">Hop!Durable</a> qui promeut une culture de l’aménagement durable par des lieux de référence à pédagogie active.</p>
-        <p>En plus de cela, je pratique des activités manuelles de manière régulière que ce soit par de la réparation de vélo à l'association <a href="http://www.guidoline.com/">Guidoline</a> ou avec la réfection de fauteuils avec l'association <a href="activitesaintnicaise.org">Activités Saint Nicaise.</a></p>
+        <p>En plus de cela, je pratique des activités manuelles de manière régulière que ce soit par de la réparation de vélo à l'association <a href="http://www.guidoline.com/">Guidoline</a> ou avec la réfection de fauteuils avec l'association <a href="https://activitesaintnicaise.org">Activités Saint Nicaise.</a></p>
     </div>
 </section>
 <!-- <section class="panel">

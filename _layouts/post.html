@@ -10,6 +10,7 @@ layout: default
       <p><strong>{{ page.description }}</strong></p>
     {% endif %}
     {% if page.image %}
+    {% cloudinary {{page.image}} alt="{{page.title}}" %}
     {% if site.environment != 'development' %}
     {% cloudinary {{page.image}} alt="{{page.title}}" %}
     {% else %}

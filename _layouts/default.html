@@ -10,6 +10,7 @@
     <main id="main" role="main">
       {{ content }}
     </main>
+    
     <script src="{{ site.url }}/assets/js/fetch-inject.js"></script>
     <script>
     fetchInject([
@@ -18,6 +19,7 @@
         InstantClick.init();
       })
     </script>
+    
     {% include_cached serviceworkers.html %}
   </body>
 </html>
