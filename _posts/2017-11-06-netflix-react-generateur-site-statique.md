@@ -1,6 +1,6 @@
 ---
 title: Netflix abandonne React.js pour ses landing pages
-image: https://pbs.twimg.com/media/DNB78-zVAAA88QM.jpg
+image: /assets/netflix-performance.webp
 description: "Netflix vient d'annoncer leur abandon de React.js sur leurs pages d'interface et ils ont vue les performances de chargement s'améliorer de 50%."
 ---
 
