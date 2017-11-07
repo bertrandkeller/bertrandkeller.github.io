@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Portfolio
-description: Intégrateur générateur de site statique et déclinaison HTML/CSS
+description: Intégrateur générateur de site internet statique et déclinaison HTML/CSS à Rouen
 navigation: true
 image: "/assets/bertrandkeller.png"
 type: article
+permalink: /site-internet-conference-rouen/
 ---
 
 <link rel="preload" href="{{ '/assets/css/onepage.css' | relative_url }}" as="stylesheet">
