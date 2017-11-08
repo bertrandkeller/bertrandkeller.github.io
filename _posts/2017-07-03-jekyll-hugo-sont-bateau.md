@@ -34,7 +34,7 @@ Le plugin le plus performant reste celui de fantastique Nicolas Hoizey ([Jekyll 
 ### Hugo
 Hugo, lui, propose la possibilité d'insérer le code pour sizes ou srcset, mais je n'ai rien trouvé pour la génération (on-the-fly) des images aux différents formats. 
 
-Pour le moment, j'ai ajouté le module [gulp-gm](https://www.npmjs.com/package/gulp-gm) à mon fichier Gulp général avec les règles de génération dasn trois formats de mon choix. Encore une fois, Hugo delègue une tâche automatisé à un script externe.
+Pour le moment, j'ai ajouté le module [gulp-gm](https://www.npmjs.com/package/gulp-gm) à mon fichier Gulp général avec les règles de génération dans trois formats de mon choix. Encore une fois, Hugo delègue une tâche automatisé à un script externe.
 
 ## Le moteur de recherche Algolia
 

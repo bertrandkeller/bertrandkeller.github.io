@@ -32,7 +32,7 @@ type: article
             </g>
         </g>
         </svg>
-  <p class="anchor"><a href="#id-conseil">Conseil Stratégique</a></p>
+  <p class="anchor"><a href="#id-conseil">Conseil stratégique</a></p>
   <p class="anchor"><a href="#id-integration">Intégration web</a></p>
   <p class="anchor"><a href="#id-jekyll">Formation Jekyll ou Hugo</a></p>
   <p class="anchor"><a href="#id-benevolat">Bénévolat</a></p>
@@ -54,7 +54,7 @@ type: article
 </section>
 
 <section id="id-conseil" class="panel">
-    <div class="gallery-module">
+    <div class="panel-wrapper">
         <h2>
         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
             width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
@@ -71,15 +71,20 @@ type: article
             </g>
         </g>
         </svg>
-        Conseil Stratégique</h2>
+        Conseil stratégique</h2>
         <p>Ma formation d'ingénieur à l'Université de Technologie de Compiègne et une large expérience de plus de 10 années m'ont permis de développer de sérieuses compétences en assistance de réalisation de sites web.</p>
         <p>Le web est devenu l'outil de travail d'une entreprise et de ses équipes. L'enjeu du web n'est pas tant de mettre en ligne des interfaces mais surtout de mettre en place des méthodes de travail en développant une culture numérique innovante.</p>
+        <ol class="panel-list">
+            <li><span>Positionnement web</span></li>
+            <li><span>Stratégie éditoriale</span></li>
+            <li><span>Méthodologie de groupe</span></li>
+        </ol>
         <p>L'intérêt de faire appel à mes services est que je suis au quotidien les innovations des domaines du web et que je peux mettre en place une stratégie à long terme pour optimiser l'utilisation de différentes ressources.</p>
     </div>
 </section>
 
 <section id="id-integration" class="panel bg-black">
-  <div class="gallery-module">
+  <div class="panel-wrapper">
         <h2><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
             <g id="BROWSER__x2F__OK_1_" enable-background="new    ">
@@ -98,13 +103,18 @@ type: article
         Intégration web</h2>
         <p>L'intégration web est mon cœur de métier. Il est indispensable pour moi de la pratiquer afin d'avoir une vision claire des évolutions et tendances en cours.</p>
         <p>Je manipule les dernières méthodologies HTML et CSS pour avoir un site le plus lisible et le plus rapide à charger possible.</p>
+        <ol class="panel-list">
+            <li><span>Déclinaison de gabarits</span></li>
+            <li><span>Création de chartes graphiques</span></li>
+            <li><span>Optimisation de chargement</span></li>
+        </ol>
         <p>Plus que simplement décliner des pages, l'objectif est de péreniser une charte graphique afin de garantir un coût de maintenance raisonnable.</p>
         <p>C'est pour ça que j'interviens auprès d'équipes de développement afin de les aider à améliorer leur manière d'entrevoir le code.</p>
   </div>
 </section>
 
 <section id="id-jekyll" class="panel">
-  <div class="gallery-module">
+  <div class="panel-wrapper">
       <h2><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
             <g id="FOLDER_1_" enable-background="new    ">
@@ -120,13 +130,18 @@ type: article
       <p>Depuis 3 années, j'enseigne Jekyll dans différentes structures et notamment à des élèves de licence à l'IUT d'Elbeuf près de Rouen.</p>
       <p>Jekyll, et les générateurs de contenu statique, sont en train de devenir des plateformes de documentation pour la réalisation et le suivi de projets.</p>
       <p>A très peu de frais, ils permettent d'éditer sous forme de fichiers textes aussi bien du contenu que des données qui peuvent être publiés sous différents formats : HTML, PDF…</p>
+      <ol class="panel-list">
+            <li><span>Apprendre l'histoire du web</span></li>
+            <li><span>Devenir autonome</span></li>
+            <li><span>Progresser par soit même</span></li>
+        </ol>
       <p>Apprendre Jekyll ou Hugo, c'est devenir autonome, avoir une souplesse pour éditer des données sur le web ou tout autre support de communication.</p>
       <p><strong>=> Voir la page d'offre de <a href="/formation-jekyll-hugo/">formations à Jekyll ou hugo</a>.</strong></p>
   </div>
 </section>
 
 <section id="id-benevolat" class="panel bg-black">
-    <div class="gallery-module">
+    <div class="panel-wrapper">
         <h2>
         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
@@ -145,13 +160,18 @@ type: article
 </g>
 </svg>
 Actions bénévoles</h2>
-        <p>Agir fait partie de mon quotidien. Je participe tout d'abord à l'organisation de 2 conférences web importantes au niveau national : <a href="http://codeursenseine.com">http://codeursenseine.com</a> et <a href="https://sudweb.fr">Sud-Web</a>. Cette action permet de rester au plus près des problématiques technologiques, mais aussi de préserver les valeurs de partage propres au web.</p>
-        <p>Je m'implique dans des projets citoyens comme <a href="http://hopdurable.fr">Hop!Durable</a> qui promeut une culture de l’aménagement durable par des lieux de référence à pédagogie active.</p>
+        <p>Agir fait partie de mon quotidien. Je participe tout d'abord à l'organisation de 2 conférences web importantes au niveau national : <a href="http://codeursenseine.com">Codeurs en Seine</a> et <a href="https://sudweb.fr">Sud-Web</a>. Cette action permet de rester au plus près des problématiques technologiques, mais aussi de préserver les valeurs de partage propres au web.</p>
+        <p>Je m'implique dans des projets citoyens comme <a href="https://hopdurable.fr">Hop!Durable</a> qui promeut une culture de l’aménagement durable par des lieux de référence à pédagogie active.</p>
+        <ol class="panel-list">
+            <li><span>Prendre du plaisir</span></li>
+            <li><span>Aller vers les autres</span></li>
+            <li><span>Expérimenter de nouvelles choses</span></li>
+        </ol>
         <p>En plus de cela, je pratique des activités manuelles de manière régulière que ce soit par de la réparation de vélo à l'association <a href="http://www.guidoline.com/">Guidoline</a> ou avec la réfection de fauteuils avec l'association <a href="https://activitesaintnicaise.org">Activités Saint Nicaise.</a></p>
     </div>
 </section>
 <!-- <section class="panel">
-    <div class="gallery-module">
+    <div class="panel-wrapper">
         <h2>Au quotidien</h2>
         <p>Je travaille sur l'amélioration des méthodes de réalisation d'interfaces web (UX design). Depuis 2005, les occasions se sont multipliées pour maîtriser les multiples paramètres qui permettent de mettre en ligne un site de qualité : méthodes Agiles, accessibilité, Responsive Web Design, performance web,…</p>
         <p>Organiser le chaos, maîtriser la complexité, valoriser la marginalité. J'élabore ces stratégies innovantes de conception de projets web. Expert en développement d'interfaces, je suis les préceptes du management par la joie.</p>
@@ -163,7 +183,7 @@ Actions bénévoles</h2>
     </div>
 </section> -->
 <!-- <section class="panel bg-black">
-    <div class="gallery-module">
+    <div class="panel-wrapper">
         <h2>Profil et offres</h2>
         <p>Voir le profil LinkedIn de <a href="http://www.linkedin.com/in/bertrandkeller">bertrandkeller</a></p>
         <p>Je propose des prestations de définition du besoin, d'audit qualité et d'assistance à maîtrise d'ouvrage mais aussi de la déclinaisons CSS, de l'optimisation de performance et mise en place de processus de conformité accessibilité RGAA.</p>

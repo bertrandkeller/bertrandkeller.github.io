@@ -38,22 +38,18 @@ permalink: /site-internet-conference-rouen/
     </svg></a></p>
 </section>
 
-<section id="id-portfolio" class="panel bg-black">
+<section id="id-portfolio" class="panel">
   <h2><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-        <g id="VOLUME_2_1_" enable-background="new    ">
-            <g id="VOLUME_2">
-                <g>
-                    <path d="M50.701,10.128l-2.848,2.848C52.292,18.07,55,24.712,55,32s-2.708,13.93-7.146,19.023l2.848,2.849
-                        C55.861,48.049,59,40.393,59,32C59,23.607,55.861,15.951,50.701,10.128z M31,15c-0.721,0-1.374,0.265-1.891,0.689L29.1,15.678
-                        l-10.162,8.315H8.992v0.008C7.339,24.006,6,25.346,6,27v10c0,1.657,1.343,3,3,3h10.024l10.211,7.426l0.005-0.007
-                        C29.736,47.781,30.34,48,31,48c1.657,0,3-1.343,3-3V18C34,16.343,32.657,15,31,15z M42.902,17.926l-2.846,2.847
-                        C42.52,23.852,44,27.75,44,32s-1.48,8.148-3.943,11.227l2.846,2.848C46.083,42.26,48,37.355,48,32
-                        C48,26.645,46.083,21.74,42.902,17.926z"/>
-                </g>
+    <g id="POLAROID_1_" enable-background="new    ">
+        <g id="POLAROID">
+            <g>
+                <path d="M53,6H11C9.343,6,8,7.343,8,9v46c0,1.657,1.343,3,3,3h42c1.657,0,3-1.343,3-3V9C56,7.343,54.657,6,53,6z M50,43H14V12h36
+                    V43z"/>
             </g>
         </g>
-        </svg>
+    </g>
+    </svg>
         Références</h2>
   <p>Exemples de sites réalisés sous Drupal, TYPO3, WordPress ou Symfony. J'y ai toujours codé l'interface et souvent dirigé la coordination des différents métiers.</p>
   <br>
@@ -73,19 +69,23 @@ permalink: /site-internet-conference-rouen/
   </div>
 </section>
 
-<section id="id-presentation" class="panel">
+<section id="id-presentation" class="panel bg-black">
   <h2>
-  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-    <g id="POLAROID_1_" enable-background="new    ">
-        <g id="POLAROID">
-            <g>
-                <path d="M53,6H11C9.343,6,8,7.343,8,9v46c0,1.657,1.343,3,3,3h42c1.657,0,3-1.343,3-3V9C56,7.343,54.657,6,53,6z M50,43H14V12h36
-                    V43z"/>
+        <g id="VOLUME_2_1_" enable-background="new    ">
+            <g id="VOLUME_2">
+                <g>
+                    <path d="M50.701,10.128l-2.848,2.848C52.292,18.07,55,24.712,55,32s-2.708,13.93-7.146,19.023l2.848,2.849
+                        C55.861,48.049,59,40.393,59,32C59,23.607,55.861,15.951,50.701,10.128z M31,15c-0.721,0-1.374,0.265-1.891,0.689L29.1,15.678
+                        l-10.162,8.315H8.992v0.008C7.339,24.006,6,25.346,6,27v10c0,1.657,1.343,3,3,3h10.024l10.211,7.426l0.005-0.007
+                        C29.736,47.781,30.34,48,31,48c1.657,0,3-1.343,3-3V18C34,16.343,32.657,15,31,15z M42.902,17.926l-2.846,2.847
+                        C42.52,23.852,44,27.75,44,32s-1.48,8.148-3.943,11.227l2.846,2.848C46.083,42.26,48,37.355,48,32
+                        C48,26.645,46.083,21.74,42.902,17.926z"/>
+                </g>
             </g>
         </g>
-    </g>
-    </svg>
+        </svg>
     Présentations</h2>
   <p>Présentations que j'ai pu donner lors de conférences francophones aux 4 coins de France.</p>
   <br>

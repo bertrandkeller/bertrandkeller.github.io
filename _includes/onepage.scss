@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  counter-reset: section;
 }
 
 .page {
@@ -62,6 +63,13 @@ body {
 .bg-black {
   color: #fff;
   background: #000;
+  .panel-list li {
+    color: #000;
+    background: #fff;
+    &:before {
+      background: #dedede;
+    }
+  }
 }
 
 .bg-black a {
@@ -90,6 +98,10 @@ body {
   display: flex;
   flex-direction: column;
   flex: 0 0 75%;
+  margin-bottom: 1.5rem;
+}
+
+.panel-wrapper {
   margin: 0 auto 1rem;
   max-width: 40em;
 }
@@ -101,6 +113,41 @@ body {
   height: auto;
   margin-bottom: 0.2rem;
   margin-right: 0.4rem;
+}
+
+.panel-list {
+  counter-reset: section;
+  display: flex;
+  flex-direction: column;
+  @media screen and (min-width: 60.063em) {
+    flex-direction: row;
+  }
+  margin: 0 -1em 1.5rem;
+  padding: 0;
+  list-style-type: none;
+  li {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    margin: 1em 1em 0;
+    line-height: 1.4;
+    color: #fff;
+    background: #000;
+    &:before {
+      display: flex;
+      align-items: center;
+      padding: 0 1rem;
+      height: 100%;
+      font-weight: bold;
+      background: #222;
+      counter-increment: section;                 /* Increment the value of section counter by 1 */
+      content: counter(section);
+      font-size: 200%;
+    }
+  }
+  span {
+    padding: 1em 0.5em 1em 1em;
+  }
 }
 
 .gallery-module h3 {
@@ -148,4 +195,3 @@ body {
     max-height: 18em;
   }
 }
-
