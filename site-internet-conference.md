@@ -8,8 +8,12 @@ type: article
 permalink: /site-internet-conference-rouen/
 ---
 
-<link rel="preload" href="{{ '/assets/css/onepage.css' | relative_url }}" as="stylesheet">
-<link rel="stylesheet" href="{{ '/assets/css/onepage.css' | relative_url }}">
+<style type="text/css">
+    {% capture include_to_scssify %}
+      {% include onepage.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+</style>
 
 <section class="panel panel-first bg-black">
   <a href="/" class="nav-back">Accueil</a>
