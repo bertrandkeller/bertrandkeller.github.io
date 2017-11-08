@@ -50,6 +50,10 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+collections:
+  casestudies:
+    output: true
+
 defaults:
   -
     scope:
@@ -57,6 +61,11 @@ defaults:
     values:
       layout: "post"
       publisher: Bertrand Keller
+  - scope:
+      path: ""
+      type: casestudies
+    values:
+      layout: page
 
 # HTML Compression
 compress_html:
