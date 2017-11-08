@@ -2,7 +2,7 @@
 title: Développeur sur générateurs de site statique
 ---
 
-Je m’amuse en ce moment à travailler mon positionnement SEO sur les [générateurs de site statique](generateur-site-statique/). Premièrement, je me rends compte qu’il n'existe pas beaucoup de développeurs qui se postionnent sur le secteur ; deuxièmement, j'ai aussi l'impression que ça n'intéresse personne.
+Je m’amuse en ce moment à travailler mon positionnement SEO sur les [générateurs de site statique](/generateur-site-statique/). Premièrement, je me rends compte qu’il n'existe pas beaucoup de développeurs qui se postionnent sur le secteur ; deuxièmement, j'ai aussi l'impression que ça n'intéresse personne.
 
 ## Travailler sur le statique
 
