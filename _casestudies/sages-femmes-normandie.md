@@ -1,7 +1,8 @@
 ---
 title: Sages Femmes de Haute Normandie
-description: "Association des Sages Femmes de Haute normandie"
+description: "Lister des adhérents d’une association avec une feuille excel pour l’édition"
 url: https://sagesfemmes-normandie.fr/
+image: sagesfemmes-carte.png
 herbergement: Github
 ---
 

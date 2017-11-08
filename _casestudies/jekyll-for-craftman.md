@@ -1,9 +1,9 @@
 ---
 title: Jekyll - Un thème pour artisans
-description: "Céramiste"
+description: "Site présentant les œuvres d'artisans avec un répertoire synchronisé pour l'édition"
 url: http://jekyll-for-craftman.netlify.com/
 herbergement: Github
-image: /assets/casestudies/jekyll-for-craftman-site.png
+image: jekyll-for-craftman-site.png
 ---
 
 ## Processus éditorial

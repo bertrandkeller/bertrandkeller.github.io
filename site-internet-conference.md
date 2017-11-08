@@ -19,6 +19,7 @@ permalink: /site-internet-conference-rouen/
   <a href="/" class="nav-back">Accueil</a>
   <h1>bertrandkeller<br><small>Sites Web à Rouen</small></h1>
   <p>bertrand.keller(@)gmail.com</p>
+  <p class="anchor"><a href="#id-casetude">Cas d'étude</a></p>
   <p class="anchor"><a href="#id-portfolio">Références</a></p>
   <p class="anchor"><a href="#id-presentation">Conférences</a></p>
   <p class="anchor arrow"><a href="#id-portfolio">
@@ -38,7 +39,41 @@ permalink: /site-internet-conference-rouen/
     </svg></a></p>
 </section>
 
-<section id="id-portfolio" class="panel">
+<section id="id-casetude" class="panel">
+  <h2><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+        <g id="BOOK_1_" enable-background="new    ">
+            <g id="BOOK">
+                <g>
+                    <path d="M10,18h8c1.657,0,3-1.343,3-3s-1.343-3-3-3h-8c-1.657,0-3,1.343-3,3S8.343,18,10,18z M10,35h8c1.657,0,3-1.343,3-3
+                        s-1.343-3-3-3h-8c-1.657,0-3,1.343-3,3S8.343,35,10,35z M54,3h-3v58h3c1.657,0,3-1.343,3-3V6C57,4.343,55.657,3,54,3z M13,6v3h5
+                        c3.314,0,6,2.686,6,6s-2.686,6-6,6h-5v5h5c3.314,0,6,2.686,6,6c0,3.314-2.686,6-6,6h-5v5h5c3.314,0,6,2.686,6,6s-2.686,6-6,6h-5
+                        v3c0,1.657,1.343,3,3,3h32V3H16C14.343,3,13,4.343,13,6z M21,49c0-1.657-1.343-3-3-3h-8c-1.657,0-3,1.343-3,3s1.343,3,3,3h8
+                        C19.657,52,21,50.657,21,49z"/>
+                </g>
+            </g>
+        </g>
+        </svg>
+        Cas d'études</h2>
+  <br>
+  <div class="gallery">
+    {% for casestudie in site.casestudies %}
+      <div class="gallery-module">
+        <h3><a href="{{ casestudie.url }}">{{ casestudie.title }}</a></h3>
+        <p>{{ casestudie.description }}</p>
+        <a class="venobox" href="{{ casestudie.url }}">
+        {% if site.environment != 'development' %}
+        {% cloudinary /assets/casestudies/{{ casestudie.image }} alt="{{ casestudie.name }}" %}
+        {% else %}
+        <img src="/assets/casestudies/{{ casestudie.image }}" alt="{{ casestudie.title }}">
+        {% endif %}
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section id="id-portfolio" class="panel bg-black">
   <h2><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
     <g id="POLAROID_1_" enable-background="new    ">
@@ -69,7 +104,7 @@ permalink: /site-internet-conference-rouen/
   </div>
 </section>
 
-<section id="id-presentation" class="panel bg-black">
+<section id="id-presentation" class="panel">
   <h2>
     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
