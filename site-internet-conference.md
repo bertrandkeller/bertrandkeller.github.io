@@ -17,7 +17,7 @@ permalink: /site-internet-conference-rouen/
 
 <section class="panel panel-first bg-black">
   <a href="/" class="nav-back">Accueil</a>
-  <h1>bertrandkeller<br><small>Sites Web à Rouen</small></h1>
+  <h1>bertrand keller<br><small>Sites Web à Rouen</small></h1>
   <p>bertrand.keller(@)gmail.com</p>
   <p class="anchor"><a href="#id-casetude">Cas d'étude</a></p>
   <p class="anchor"><a href="#id-portfolio">Références</a></p>

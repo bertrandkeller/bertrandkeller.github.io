@@ -109,7 +109,8 @@ body {
 .panel svg {
   display: inline-block;
   vertical-align: bottom;
-  width: 5vmin;
+  width: 10%;
+  max-width: 2rem;
   height: auto;
   margin-bottom: 0.2rem;
   margin-right: 0.4rem;
