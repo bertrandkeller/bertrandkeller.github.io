@@ -17,7 +17,7 @@ Mais dans le cas, où leurs pages étaient déjà rapides à charger, on peut di
 Lorsque l’ont parle de ressenti utilisateur dans les conférences de web, on aura plutôt tendance à vous le présenter sous une forme visuelle. Sur l'illustration ci-desous, on insère une sorte de faux contenu en lieu et place des zones de contenus en attendant que le vrai contenu se charge.
 
 <div class="center" markdown="1">	
-{% cloudinary "/assets/place-holder-content.gif" alt="faux contenu HTML" %}
+{% cloudinary /assets/place-holder-content.gif alt="faux contenu HTML" %}
 </div>
 
 L'utilisateur observant cette animation aura moins la sensation d'attendre, donc un meilleur ressenti de rapidité de chargement. Personnellement, je vois cet effet sur nombre d'interfaces JS lentes à charger et j'ai tendance à haïr les services car je préferais qu'ils optimisent leurs pages plutôt que de me faire charger un élément inutile qui me trompe.
