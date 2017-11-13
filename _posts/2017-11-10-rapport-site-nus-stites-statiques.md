@@ -14,20 +14,19 @@ Les services workers permettent de consulter des pages "hors lignes", mais plus 
 
 Le type de sites qu'on peut réaliser ne se limite donc pas à des sites de contenus mais aussi à des applications (ex: une site de vente en ligne).
 
-
 ## Le réseau
 
 Dans mon dernier article, je montrais que lors de l'ouragan Irma, des personnes consultaient des sites nus (très légers), car ils avaient une très faible connexion à ce moment là.
 
 Les exemples que j'ai montré sont de grands journaux à fort trafic qui ne se situent pas sur la zone où s'est déroulée la catastrophe. Les rédacteurs n'ont à priori pas de soucis de connexion. Le site nus n'est qu'une simple visualisation sans images, vidéos ou styles.
 
-Imginons maintenant que des personnes au milieu de la catastrophe veulent éditer un sites pour informer les personnes aux alentours, alors elles auront une faible connexion pour éditer leurs pages.
+Imaginons maintenant que des personnes au milieu de la catastrophe veulent éditer un sites pour informer les personnes aux alentours, alors elles auront une faible connexion pour éditer leurs pages.
 
-Dasn ce cas là, ce qui me semble le plus robuste, le plus simple et qui demande le moins de ressources réseaux, c'est d'écrire des fichiers textes (de type Markdown) et de les envoyer (ou les corriger) en réalisant un commit sur un dépôt (pas besoin d'interface CMS).
+Dans ce cas là, ce qui me semble le plus robuste, le plus simple et qui demande le moins de ressources réseaux, c'est d'écrire des fichiers textes (de type Markdown) et de les envoyer (ou les corriger) en réalisant un commit sur un dépôt (pas besoin d'interface CMS).
 
 ## Le nomadisme
 
-A ce stade on pourrait dire que ce n'est pas tous les jours qu'un ouragan frappe mon village et que ces problémétiques de faible réseau ne s'appliquent que très rarement sous nos tropiques.
+A ce stade on pourrait dire que ce n'est pas tous les jours qu'un ouragan frappe mon village et que ces problématiques de faible réseau ne s'appliquent que très rarement sous nos tropiques.
 
 Les sites statiques ne sont pas qu'un outil technique pour générer des pages. Ils sont un des moyen les plus simples et les moins chers pour répondre aux nouvelles manières de naviguer sur le web.
 
@@ -35,7 +34,7 @@ Les utilisateurs ne sont plus cantonnées sur leur machine puissante. Ils consul
 
 ## Le rapport entre sites nus et les sites statiques
 
-Les utilisateurs ont désormais des pratiques de consultation nomades. On voit avec les sites nus, qu'en situation ou le résau est faible, peu importe la mise en forme et la décoration.
+Les utilisateurs ont désormais des pratiques de consultation nomades. On voit avec les sites nus, qu'en situation ou le réseau est faible, peu importe la mise en forme et la décoration.
 
 Le futur du web est à des utilisateurs nomades qui sont assez fréquemments dans des situations dans lesquelles le réseau peut être coupé ou faible. Ils veulent consulter du contenu mais aussi agir dessus.
 
