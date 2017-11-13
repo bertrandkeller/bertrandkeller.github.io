@@ -16,6 +16,7 @@ type: article
 
 <section class="panel panel-first bg-black">
   <a href="/" class="nav-back">Accueil</a>
+  <div class="panel_int">
   <h1>bertrand keller<br><small>Sites Web à Rouen</small></h1>
   <p>bertrand.keller(@)gmail.com</p>
   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -51,6 +52,7 @@ type: article
         </g>
     </g>
     </svg></a></p>
+    </div>
 </section>
 
 <section id="id-conseil" class="panel">

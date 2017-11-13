@@ -17,6 +17,7 @@ permalink: /site-internet-conference-rouen/
 
 <section class="panel panel-first bg-black">
   <a href="/" class="nav-back">Accueil</a>
+  <div class="panel_int">
   <h1>bertrand keller<br><small>Sites Web à Rouen</small></h1>
   <p>bertrand.keller(@)gmail.com</p>
   <p class="anchor"><a href="#id-casetude">Cas d'étude</a></p>
@@ -37,6 +38,7 @@ permalink: /site-internet-conference-rouen/
         </g>
     </g>
     </svg></a></p>
+    </div>
 </section>
 
 <section id="id-casetude" class="panel">
