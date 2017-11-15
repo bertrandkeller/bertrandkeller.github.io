@@ -27,4 +27,4 @@ Faire comprendre aux participants que les générateurs de site statique ne sont
 
 Combien voit-on de personne dire : moi aussi je les utilise j'en ai installé un pour réaliser un blog.
 
-Je veux montrer comment leur utilisation change complétement la manière de faire du web en ouvrant des portes vers une autre façon de manipuler de la donnée.
+Je veux montrer comment leur utilisation change complètement la manière de faire du web en ouvrant des portes vers une autre façon de manipuler de la donnée.

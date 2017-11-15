@@ -14,12 +14,12 @@ Rien de nouveau dans cette activité car nous la pratiquons au quotidien de mani
 
 * Prendre des notes (ex: réunion)
 * Noter un processus (ex: cuisine)
-* Dessiner (ex: jardinnage)
+* Dessiner (ex: jardinage)
 * Prendre une série de photos (ex: voyage)
 
 ## L'auto-documentation à l'ère du numérique
 
-L'auto-documentation sert à concerver de la mémoire (individuelle ou collective) sur un support physique. Les souvenirs peuvent être stockés dans votre mémoire humaine, mais étant donnée sa faillibilité ; les humains ont décidé de conserver une partie de leurs souvenirs sur des supports matériels : pierre (ex: arc de triomphe), papier (ex: livres), disques durs (ex : facebook)…
+L'auto-documentation sert à conserver de la mémoire (individuelle ou collective) sur un support physique. Les souvenirs peuvent être stockés dans votre mémoire humaine, mais étant donnée sa faillibilité ; les humains ont décidé de conserver une partie de leurs souvenirs sur des supports matériels : pierre (ex: arc de triomphe), papier (ex: livres), disques durs (ex : facebook)…
 
 Avant l'ère industrielle, les livres et autre supports de mémoire écrits existaient mais ils étaient réservés à une classe de la population qui savait les décoder ; cela servait à des pratiques bien particulières comme le droit. La majeure partie des autres personnes, qui vivaient dans la subsistance, se transmettaient leur savoir de manière orale et à travers la reproduction de gestes et techniques manuelles.
 

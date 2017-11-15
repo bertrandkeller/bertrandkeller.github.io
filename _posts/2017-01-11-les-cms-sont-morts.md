@@ -23,7 +23,7 @@ Les sites sont en production, fonctionnent et sont édités régulièrement par 
 
 ## 2017, encore plus loin
 
-Je maitrise désormais les gestionnaires de site statique en terme de gestion de projet et de développement.
+Je maîtrise désormais les gestionnaires de site statique en terme de gestion de projet et de développement.
 
 En 2017, je cherche des occasions d’aller encore plus loin en intégrant d’autres types de contenu : des produits e-commerce, des magazines…
 

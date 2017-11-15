@@ -12,7 +12,7 @@ Paul Jorion expliquait dans un de ses livres que la limite humaine faisait que d
 
 La trading haute fréquence (THF) est une réponse à cette limite des cerveaux humains en se servant de la puissance d’un ordinateur pour comprendre un plus grand ensemble de données.
 
-Paul Jorion montrait aussi que la modélisation d’un marché (si ma mémoire est bonne) allait forcément vers sa « chute ». L’utilisation d’ordinateur à la milli-seconde n’était qu’une façon de créer un déséquilibre entre les acteurs de la bourse.
+Paul Jorion montrait aussi que la modélisation d’un marché (si ma mémoire est bonne) allait forcément vers sa « chute ». L’utilisation d’ordinateur à la milliseconde n’était qu’une façon de créer un déséquilibre entre les acteurs de la bourse.
 
 ## Le football
 

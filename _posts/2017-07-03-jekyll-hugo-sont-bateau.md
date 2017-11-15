@@ -6,7 +6,7 @@ Les générateurs de sites statiques sont géniaux, ils font le thé et le café
 
 ## Hugo en mode Turbo
 
-Actuellement le développement de Jekyll n'apporte plus de grandes fonctionalités, il correspond aux besoins de Github (Avec github Pages) ; c'est-à-dire permettre d'éditer un site simple à partir d'un vulgaire dépôt de contenu (Chargement d'une thème avec 1 fichier de configuration).
+Actuellement le développement de Jekyll n'apporte plus de grandes fonctionnalités, il correspond aux besoins de Github (Avec github Pages) ; c'est-à-dire permettre d'éditer un site simple à partir d'un vulgaire dépôt de contenu (Chargement d'une thème avec 1 fichier de configuration).
 
 Grandement limité par sa vitesse d'exécution, les themers de GSS se tourne vers Hugo qui propose des performances ahurissantes (de la seconde pour Jekyll à la milliseconde pour Hugo). Le langage Go va bien plus vite que Ruby, mais c'est oublier aussi que Hugo n'a ni les même objectifs, ni la même largeur de spectre que Jekyll.
 
@@ -34,7 +34,7 @@ Le plugin le plus performant reste celui de fantastique Nicolas Hoizey ([Jekyll 
 ### Hugo
 Hugo, lui, propose la possibilité d'insérer le code pour sizes ou srcset, mais je n'ai rien trouvé pour la génération (on-the-fly) des images aux différents formats. 
 
-Pour le moment, j'ai ajouté le module [gulp-gm](https://www.npmjs.com/package/gulp-gm) à mon fichier Gulp général avec les règles de génération dans trois formats de mon choix. Encore une fois, Hugo delègue une tâche automatisé à un script externe.
+Pour le moment, j'ai ajouté le module [gulp-gm](https://www.npmjs.com/package/gulp-gm) à mon fichier Gulp général avec les règles de génération dans trois formats de mon choix. Encore une fois, Hugo délègue une tâche automatisé à un script externe.
 
 ## Le moteur de recherche Algolia
 
@@ -51,7 +51,7 @@ Personnellement, je ne me suis pas embêté, j'installe le plugin Jekyll sur mon
 ## Conclusion
 Les tutoriaux "hello world" semblent toujours présenter des technologies sous leur jour le plus prometteur. Jekyll et Hugo sont 2 outils très puissant mais qui n'ont pas les mêmes philosophies.
 
-Ainsi passer à Hugo peut présenter certaines découvenues dans le cas où l'ont désire mettre en place des choses précises (et qu'on vient d'une autre techno qu'on maîtrisait). De plus il demande de passer par du Node.js pour le scripting, là ou Jekyll utilise Ruby c'est-à-dire le même langage avec lequel il est codé.
+Ainsi passer à Hugo peut présenter certaines déconvenues dans le cas où l'ont désire mettre en place des choses précises (et qu'on vient d'une autre techno qu'on maîtrisait). De plus il demande de passer par du Node.js pour le scripting, là ou Jekyll utilise Ruby c'est-à-dire le même langage avec lequel il est codé.
 
 Cet article montre que, parfois, il faut savoir utiliser des solutions hybrides pour avancer. 
 

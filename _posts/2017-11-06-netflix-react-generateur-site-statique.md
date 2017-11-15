@@ -35,9 +35,9 @@ Aujourd'hui avec la multiplicité des FrameWorks JS (React.js, Angular.js, Vue.j
 
 ## Prise de conscience
 
-C'est assez risible pour des intégrateurs comme moi qui militons depuis des années pour une optimistation des pages sans JS inutiles de voir les développeurs de Netflix faire ce revirement.
+C'est assez risible pour des intégrateurs comme moi qui militons depuis des années pour une optimisation des pages sans JS inutiles de voir les développeurs de Netflix faire ce revirement.
 
-Depuis plusieurs années, les offres d'embauches de développeurs Front "à tout faire" sont pléthore ; les entreprises donnent la réalisation des interfaces à des développeurs JS qui souvent (mais pas tout le temps) utilisent une techno parce qu'on leur demande alors qu'elle n'est pas forcément justifée.
+Depuis plusieurs années, les offres d'embauches de développeurs Front "à tout faire" sont pléthore ; les entreprises donnent la réalisation des interfaces à des développeurs JS qui souvent (mais pas tout le temps) utilisent une techno parce qu'on leur demande alors qu'elle n'est pas forcément justifiée.
 
 La volonté d'utiliser des technologies à la mode a détourné certaines équipes de ce que les utilisateurs avaient vraiment besoin.
 

@@ -2,13 +2,13 @@
 title: Développeur sur générateurs de site statique
 ---
 
-Je m’amuse en ce moment à travailler mon positionnement SEO sur les [générateurs de site statique](/generateur-site-statique/). Premièrement, je me rends compte qu’il n'existe pas beaucoup de développeurs qui se postionnent sur le secteur ; deuxièmement, j'ai aussi l'impression que ça n'intéresse personne.
+Je m’amuse en ce moment à travailler mon positionnement SEO sur les [générateurs de site statique](/generateur-site-statique/). Premièrement, je me rends compte qu’il n'existe pas beaucoup de développeurs qui se positionnent sur le secteur ; deuxièmement, j'ai aussi l'impression que ça n'intéresse personne.
 
 ## Travailler sur le statique
 
 Depuis quelques mois, on sent que les professionnels du domaines sont convaincus de l’avantage des sites statiques par rapport aux sites utilisant des bases de données (wordpress par exemple). Voir la conférence [Ne passons pas à côté des choses simples Paris Web 2016](/2016/10/04/ne-passons-pas-cote-choses-simples/).
 
-Cependant, il n’existe très peu de demande pour l’accompagnement ou la réalisaton de sites statiques. D’un côté, il est vrai que ça ne semble pas compliqué à faire, mais d’un autre côté il existe pas mal de petite choses à savoir qui peuvent tout changer sur la configuration d’un site.
+Cependant, il n’existe très peu de demande pour l’accompagnement ou la réalisation de sites statiques. D’un côté, il est vrai que ça ne semble pas compliqué à faire, mais d’un autre côté il existe pas mal de petite choses à savoir qui peuvent tout changer sur la configuration d’un site.
 
 ## Une complexité mal perçue
 

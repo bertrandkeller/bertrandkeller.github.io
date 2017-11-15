@@ -18,7 +18,7 @@ Je pense donc que les [générateurs de site statique](/generateur-site-statique
 
 Pendant que des frameworks JS se tirent la bourre pour la création d'applications dans le navigateur, je trace mon bonhomme de chemin en créant directement avec des clients des nouveaux processus éditoriaux.
 
-On ne peut pas dire que ça morde énormémenent mais je pense avoir un bon spot.
+On ne peut pas dire que ça morde énormément mais je pense avoir un bon spot.
 
 ## Publier
 

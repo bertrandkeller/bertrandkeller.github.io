@@ -4,7 +4,7 @@ description: "Dans des cas où il est nécessaire d'échanger immédiatement un 
 image: /assets/text-only-site-static.png
 ---
 
-Rappellez vous la citation de mon dernier article à propos de l'[abandon de React.js par Netflix pour leurs landing pages](/2017/11/06/netflix-react-generateur-site-statique/).
+Rappelez vous la citation de mon dernier article à propos de l'[abandon de React.js par Netflix pour leurs landing pages](/2017/11/06/netflix-react-generateur-site-statique/).
 
 > By getting rid of React and moving to plain JavaScript, we saw a 50% reduction in our Time to interactive metric.
 
@@ -24,9 +24,9 @@ L'utilisateur observant cette animation aura moins la sensation d'attendre, donc
 
 Je suis peut-être un étrange utilisateur, intéressé par le texte, le rédactionnel, mais ce qui m'importe c'est que le contenu s'affiche quelque soit la mise en forme.
 
-Apparement, je ne suis pas le seul.
+Apparemment, je ne suis pas le seul.
 
-## Les sites présentants du texte et seulement du texte.
+## Les sites présentant du texte et seulement du texte.
 
 Je vous conseille la lecture de cet article : [Text-only news sites are slowly making a comeback. Here's why.](https://www.poynter.org/news/text-only-news-sites-are-slowly-making-comeback-heres-why).
 
