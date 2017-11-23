@@ -35,6 +35,3 @@ Page sur mes articles à propos des générateurs de site statique.
   - [Ne passons pas à côté des choses simples Paris Web 2016](/2016/10/04/ne-passons-pas-cote-choses-simples/)
   - [Atelier sur les GSS à Paris Web 2017](/2017/06/25/conference-paris-web-2017/)
   - [Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…) à Paris Web 2018](https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/)
-  
-  
-  
