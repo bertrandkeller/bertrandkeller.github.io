@@ -9,16 +9,16 @@ Les avantages des fichiers statiques est partagé par la majorité, mais beaucou
 
 ## MarkDown d'où ça vient ?
 
-MarkDown a était inventé pour écrire de manière structurée un texte, c'est-à-dire, plus ou moins, écrire du HTML sans avoir à manipuler un langage de balisage verbeux.
+MarkDown a été inventé pour écrire de manière structurée un texte, c'est-à-dire, plus ou moins, écrire du HTML sans avoir à manipuler un langage de balisage verbeux.
 
 > Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
 
 On sait que la lecture sur un écran demande de la structuration. Présenter des éléments de manière structurée permet d'améliorer la lecture des humains mais aussi des machines.
 
 Par exemple, une liste numérotée permet :
-- de présenter différents points selon un ordre clair au lecteur,
-- de lister les points dans une synthèse vocale pour des malvoyants (comme pour un menu de navigation)
-- d’indiquer à un moteur de recherche qu'il s'agit de trois éléments séparés, ce qui aide au référencement
+- de présenter différents points selon un ordre clair au lecteur ;
+- de lister les points dans une synthèse vocale pour des malvoyants (comme pour un menu de navigation) ;
+- d’indiquer à un moteur de recherche qu'il s'agit de trois éléments séparés, ce qui aide au référencement.
 
 Si vous voulez structurer un texte avec des titres, des paragraphes, du **gras**, de l'*italique*, il n'y a pas d'autres moyens que de l'indiquer dans le document : ça c'est un titre, ça c'est une liste…
 
@@ -28,7 +28,7 @@ Certaines personnes ont peur de MarkDown car il s'agit d'une syntaxe particuliè
 
 ## Mais pourquoi MarkDown, alors ?
 
-Tout d'abord, il existe plusieurs langages de balisage concurrent à MarkDown, il font à peu près la même chose. MarkDown s'est peut-être imposé car il est plus simple de prise en main et qu'il se destine à de la rédaction de documents sans grande complexité (contrairement à LaTeX par exemple qui est utilisé pour des documents scientifiques).
+Tout d'abord, il existe plusieurs langages de balisage concurrents à MarkDown, il font à peu près la même chose. MarkDown s'est peut-être imposé car il est plus simple de prise en main et qu'il se destine à de la rédaction de documents sans grande complexité (contrairement à LaTeX par exemple qui est utilisé pour des documents scientifiques).
 
 MarkDown est simple, portable et léger.
 
@@ -40,7 +40,7 @@ La formation est facile ; l’expérience montre que les rédacteurs ne se plaig
 
 ## Conclusion
 
-Il y a bien entendu plusieurs manières d'éditer du MarkDown. Nous verrons dans des prochains billets qu'on peut aller de l'utilisation d'un éditeur de texte ou de note jusqu'à l'utilisation d'une interface en ligne.
+Il y a bien entendu plusieurs manières d'éditer du MarkDown. Nous verrons dans des prochains billets qu'on peut aller de l'utilisation d'un éditeur de texte ou de notes jusqu'à l'utilisation d'une interface en ligne.
 
 Néanmoins, l'utilisation de la technologie MarkDown, c'est-à-dire passer par des fichiers textes pour enregistrer du contenu (plus de base de données), simplifie la complexité des sites qui servent principalement à de la publication de contenu.
 
