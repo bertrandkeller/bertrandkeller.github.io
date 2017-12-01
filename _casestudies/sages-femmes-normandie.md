@@ -15,7 +15,7 @@ Le site présente 2 types de contenu :
 
 ### Les activités
 
-Les activités sont des contenus de qui ne changent pas beaucoup dans le temps. Le contenu se trouve dans des fichiers MarkDown présents sur le dépôt.
+Les activités sont des contenus de qui ne changent pas beaucoup dans le temps. Le contenu se trouve dans des fichiers Markdown présents sur le dépôt.
 
 Ils sont édités sur le dépôt par le client grâce au service [prose.io](https://prose.io). Le client ne m'a remonté aucun souci pour la rédaction et je n'ai observé aucun problème de mon côté.
 

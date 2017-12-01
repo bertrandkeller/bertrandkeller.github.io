@@ -35,7 +35,7 @@ Pour les œuvres qui ont plusieurs images, il est possible de les ajouter dans l
 
 ### Les pages
 
-Les pages sont des fichiers MarkDown spécifiques, elles s'ajoutent à l'aborescence du menu principal. Un champ de l'entête de la page (ex: slug: raku) permet d'afficher toutes les images du répertoire images (décrit ci-dessus) dont le nom commence par le slug (ex: raku-Vases+vase-rouge-bombé+principal+yasefanprod)
+Les pages sont des fichiers Markdown spécifiques, elles s'ajoutent à l'aborescence du menu principal. Un champ de l'entête de la page (ex: slug: raku) permet d'afficher toutes les images du répertoire images (décrit ci-dessus) dont le nom commence par le slug (ex: raku-Vases+vase-rouge-bombé+principal+yasefanprod)
 
 <div>
 {% cloudinary /assets/casestudies/jekyll-for-craftman-pages.png alt="Jekyll - Un thème pour artisans" %}
