@@ -17,7 +17,7 @@ profile: true
 encoding: utf-8
 
 robot: index,follow
- 
+
 cloudinary:
   cloud_name: dou0m7u5s
   verbose: true
