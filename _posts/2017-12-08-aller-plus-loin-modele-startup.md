@@ -23,11 +23,11 @@ Ce qui me fait rebondir sur ce blog c'est la partie de cet article parlant de la
 
 Hubert évoque même le destin inéluctable des Startups, celui de se faire racheter par une plateforme (Google, microsoft…)
 
-Il parle ensuite de cette focalisation sur les nouvelles technologies innovantes alors que la création d'emplois dans ce secteur est moindre que dans l'économie sociale et solidaire (ESS).
+Il parle ensuite de cette focalisation sur les nouvelles technologies innovantes alors que la création d'emplois dans ce secteur est par rapport à celle de l'économie sociale et solidaire (ESS).
 
 > L’ESS représente 10,5 % du PIB de la France, 220 000 établissements, 2,4 millions de salariés sans compter les 730 000 structures associatives, ses 23 millions d’adhérents, ses 16 millions de bénévoles, ses 21 000 coopératives…
 
-N'est-ce pas plutôt ce secteur porteur qui aurait besoin aurait besoin d'investissement pour améliorer ses processus d'innovation ?
+N'est-ce pas plutôt ce secteur porteur qui aurait besoin d'investissements pour améliorer ses processus d'innovation ?
 
 ## Les générateurs de site statique
 
@@ -35,6 +35,6 @@ Les GSS ne sont que des outils, ils ne participent en rien à la défense d'un m
 
 En revanche, quand je décide d'étudier le fonctionnement des générateurs de sites statiques, c'est parce que c'est un moyen peu coûteux et robuste pour outiller des personnes ou des associations.
 
-En ce moment, je continue d'assister des associations ou petites structures.
+En ce moment, je continue d'assister des associations ou petites structures. Le travail est toujours en cours et leurs sites sont en perpétuelle évolution.
 
 Le numérique n'est qu'un outil, intéressez vous d'abord au fonctionnement des humains, ensuite voyez si certains processus peuvent être automatisés. Si oui, pensez à moi et aux [générateurs de site statique](/generateur-site-statique/).
