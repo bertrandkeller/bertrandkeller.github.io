@@ -29,7 +29,7 @@ Il parle ensuite de cette focalisation sur les nouvelles technologies innovantes
 
 N'est-ce pas plutôt ce secteur porteur qui aurait besoin d'investissements pour améliorer ses processus d'innovation ?
 
-## Les générateurs de site statique
+## Les générateurs de site statique 
 
 Les GSS ne sont que des outils, ils ne participent en rien à la défense d'un modèle ou d'un autre. Ils peuvent utilisés par n'importe qui.
 
