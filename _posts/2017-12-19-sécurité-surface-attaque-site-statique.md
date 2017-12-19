@@ -20,7 +20,7 @@ Ce n'est souvent qu'après une attaque, un vol, qu'on se soucie de ce problème 
 
 Une des première chose à faire pour réduire les attaques reste de diminuer au maximum sa surface d'attaque.
 
-{% cloudinary /assets/Kaspersky_Lab_Infographic_B2B_1_reducing_attack_surface.png) alt="Kaspersky Lab Infographic Attack surfaceY}" %}
+![Kaspersky Lab Infographic Attack surfaceY](/assets/Kaspersky_Lab_Infographic_B2B_1_reducing_attack_surface.png)
 
 ## La cas WordPress
 
