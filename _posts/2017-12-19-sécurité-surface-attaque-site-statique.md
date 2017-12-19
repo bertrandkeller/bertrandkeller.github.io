@@ -20,8 +20,6 @@ Ce n'est souvent qu'après une attaque, un vol, qu'on se soucie de ce problème 
 
 Une des première chose à faire pour réduire les attaques reste de diminuer au maximum sa surface d'attaque.
 
-![Kaspersky Lab Infographic Attack surfaceY](/assets/Kaspersky_Lab_Infographic_B2B_1_reducing_attack_surface.png)
-
 ## La cas WordPress
 
 On compare souvent les sites statiques à WordPress en essayant de lister le pour et les contres dans les 2 approches. Ces 2 systèmes sont différents et ne peuvent pas être comparés point à point car ils ne répondent pas toujours aux mêmes besoins.
