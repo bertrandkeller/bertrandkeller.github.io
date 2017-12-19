@@ -22,6 +22,11 @@ Page sur mes articles à propos des générateurs de site statique.
   - [Les générateurs de site statique, remèdes contre la complexité](/2016/09/15/Jekyll-remede-complexite/)
   - [2017, les CMS sont morts](/2017/01/11/les-cms-sont-morts/)
   - [L'économie du statique](/2017/06/28/economie-sites-statiques/)
+  - [Pourquoi passer au Markdown et se passer d'un WYSIWYG ?](/2017/10/23/pourquoi-markdown-place-wysiwyg/)
+  - [Markdown et auto-documentation](/2017/10/25/markdown-et-autodocumentation/)
+  - [Netflix abandonne React.js pour ses landing pages](/2017/11/06/netflix-react-generateur-site-statique/)
+  - [Passer au statique en utilisant Next.JS et GraphQL](/2017/11/23/passer-au-statique-graphQL/)
+  - [Mes utilisateurs ne peuvent pas éditer de Markdown !](/2017/11/27/les-utilisateurs-ne-peuvent-pas-editer-le-markdown/)
 
 ## En particulier
 
