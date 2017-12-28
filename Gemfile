@@ -20,4 +20,5 @@ group :jekyll_plugins do
     gem 'jekyll-tidy'
     gem 'jekyll-cloudinary'
     gem "autoprefixer-rails"
+    gem 'jekyll-twitter-plugin'
 end

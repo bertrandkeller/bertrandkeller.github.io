@@ -93,6 +93,7 @@ plugins:
   - jekyll-assets
   - jekyll-include-cache
   - jekyll-tidy
+  - jekyll-twitter-plugin
 
 include:
   - _redirects
