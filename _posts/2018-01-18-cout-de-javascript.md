@@ -3,10 +3,6 @@ title: Le coût de JavaScript
 image: /assets/site-web-poid.png
 ---
 
-<div class="center">
-	{% twitter https://twitter.com/wycats/status/942908325775077376 %}
-</div>
-
 <h2>Je veux un site qui claque</h2>
 
 Selon Yehuda Katz le JavaScript serait plus important en terme de chargement qu'une image. Depuis quelques années déjà, les développeurs d'expérience, comme moi, suivons invariablement le poids de pages augmenter sans cesse.
@@ -16,6 +12,10 @@ Selon Yehuda Katz le JavaScript serait plus important en terme de chargement qu'
 Il y a 10 ans, les décorations de nos sites web étaient le fruit d'un découpage minutieux de maquettes Photoshop réalisées au pixel. La méthode fait sourire aujourd’hui puisque nous avions pour mission de réaliser des sites identiques dans des navigateurs qui interprétaient le code de manières différentes.
 
 L'arrivé de CSS3 fut comme une sorte d'aubaine. Nous allions enfin supprimer toutes ces requêtes inutiles et pouvoir baisser le drastiquement le poids de nos CSS. Les décorations seraient définies en CSS.
+
+<div class="center">
+	{% twitter https://twitter.com/wycats/status/942908325775077376 %}
+</div>
 
 C'était sans compter sur les polices Web et les héros images (grande images d'entête) intégrées de manière amateure. Le poids moyen des sites augmente encore et encore jusqu'à atteindre celui d'un jeu comme Doom (2Mb).
 
@@ -39,7 +39,7 @@ Je vous laisse lire cet article très complet :
 
 Si on évoque le chargement dans le vrai monde ([Beyond the Bubble: Real world performance](https://building.calibreapp.com/beyond-the-bubble-real-world-performance-9c991dcd5342)), on voit que le chargement d’une page web est bien différent en fonction des pays, mais aussi en fonction du processeur de votre mobile (le mien n'est même pas listé).
 
-![Temps de chargement selon le type de mobile](/assets/temps-chargement-type-mobile.jpeg)
+{% cloudinary /assets/temps-chargement-type-mobile.jpeg alt="Temps de chargement selon le type de mobile" %}
 
 JavaScript a un coût ([The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)). Je continue de préférer, tel un vieux développeur que je suis, à construire des coquilles.
 
