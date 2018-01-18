@@ -4,8 +4,8 @@ namespace :build do
   desc "Regenerate files for production"
   task :prod do
     puts "* Regenerating files for production... first time"
-    puts "rvm install ruby-2.3.0"
-    puts "rvm use ruby-2.3.0"
+    puts "rvm install ruby-2.3.1"
+    puts "rvm use ruby-2.3.1"
     system "bundle exec jekyll build"
     puts "* Finish"
   end
@@ -19,7 +19,7 @@ namespace :build do
   desc "Regenerate files for development"
   task :dev do
     puts "* Regenerating files for development..."
-    system "JEKYLL_ENV=development bundle exec jekyll serve -L --limit_posts 3 --incremental --profile --config _config.yml,_config_dev.yml --profile"
+    system "JEKYLL_ENV=development bundle exec jekyll serve --limit_posts 3 --incremental --config _config.yml,_config_dev.yml --profile"
   end
 
   desc "Regenerate files and drafts for development"
