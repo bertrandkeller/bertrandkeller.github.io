@@ -34,7 +34,7 @@ Le plugin le plus performant reste celui de fantastique Nicolas Hoizey ([Jekyll 
 ### Hugo
 Hugo, lui, propose la possibilité d'insérer le code pour sizes ou srcset, mais je n'ai rien trouvé pour la génération (on-the-fly) des images aux différents formats. 
 
-Pour le moment, j'ai ajouté le module [gulp-gm](https://www.npmjs.com/package/gulp-gm) à mon fichier Gulp général avec les règles de génération dans trois formats de mon choix. Encore une fois, Hugo délègue une tâche automatisé à un script externe.
+Pour le moment, j'ai ajouté le module [gulp-gm](https://www.npmjs.com/package/gulp-gm) à mon fichier Gulp général avec les règles de génération dans trois formats de mon choix. Encore une fois, Hugo délègue une tâche automatisée à un script externe.
 
 ## Le moteur de recherche Algolia
 
@@ -49,10 +49,10 @@ Pas de plugin algoliasearch-hugo. Ce serait tellement génial d'avoir ce plugin 
 Personnellement, je ne me suis pas embêté, j'installe le plugin Jekyll sur mon dépôt, je configure un petit hook pour modifier le chemin des collections et de la metadonnées "url" (nécessaire pour générer des liens) pour l'index Algolia et je configure mon dépôt pour la mise à jour de l'index Algolia à chaque modification du dépôt.
 
 ## Conclusion
-Les tutoriaux "hello world" semblent toujours présenter des technologies sous leur jour le plus prometteur. Jekyll et Hugo sont 2 outils très puissant mais qui n'ont pas les mêmes philosophies.
+Les tutoriaux "hello world" semblent toujours présenter des technologies sous leur jour le plus prometteur. Jekyll et Hugo sont 2 outils très puissants mais qui n'ont pas les mêmes philosophies.
 
 Ainsi passer à Hugo peut présenter certaines déconvenues dans le cas où l'ont désire mettre en place des choses précises (et qu'on vient d'une autre techno qu'on maîtrisait). De plus il demande de passer par du Node.js pour le scripting, là ou Jekyll utilise Ruby c'est-à-dire le même langage avec lequel il est codé.
 
-Cet article montre que, parfois, il faut savoir utiliser des solutions hybrides pour avancer. 
+Cet article montre que, parfois, il faut savoir utiliser des solutions hybrides pour avancer.
 
 Si Jekyll, Hugo et tous les autres étaient donc dans un bateau et bien je pense qu'il faudrait savoir donner sa chance à chacun de ces petits outils car ils peuvent répondre rapidement à des besoins simples.

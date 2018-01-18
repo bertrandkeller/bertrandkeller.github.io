@@ -30,7 +30,10 @@ node_modules
 _site/
 .sass-cache/
 .asset-cache/
+.tweet-cache/
 .jekyll-metadata
+gems/
+.bundle
 
 # node-waf configuration
 .DS_Store
