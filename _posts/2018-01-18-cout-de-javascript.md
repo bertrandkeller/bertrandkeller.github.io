@@ -49,4 +49,4 @@ Depuis 10 ans, le poids des pages augmente, aussi, parce que la complexité du w
 
 Ainsi, je préconise avant tout de réfléchir sur ses méthodes de développement : de rester humble et mesuré.
 
-Je continue d'utiliser des [générateurs de site statique](/generateur-site-statique/) parce que pour servir du contenu statique je garde une complexité la plus basse possible..
+Je continue d'utiliser des [générateurs de site statique](/generateur-site-statique/) parce que pour servir du contenu statique je garde une complexité la plus basse possible.
