@@ -12,7 +12,7 @@ L'avantage du statique est que vous pouvez mixer du contenus à volonté sans av
 
 ## Ne pas appeler Contentful «CMS» mais plutôt infrastructure de contenu.
 
-Le directeur du marketing de Contentful, Chris Schagen pense que les architectures modulaires basées sur le cloud sont devenues la norme - les composants réutilisables permettent aux équipes de s'adapter sans effort, de développer facilement de nouveaux canaux et de parcourir plus rapidement que jamais de nouveaux produits. de nombreuses entreprises rencontrent un obstacle majeur sue la route vers l'avenir numérique: **contenu**.
+Le directeur du marketing de Contentful, Chris Schagen pense que les architectures modulaires basées sur le cloud sont devenues la norme - les composants réutilisables permettent aux équipes de s'adapter sans effort, de développer facilement de nouveaux canaux et de parcourir plus rapidement que jamais de nouveaux produits. de nombreuses entreprises rencontrent un obstacle majeur sue la route vers l'avenir numérique : **contenu**.
 
 > La manière dont nous travaillons maintenant, dont le logiciel est construit, a radicalement changé.
 
@@ -33,7 +33,7 @@ Le démarche statique quoi : aller prendre du contenu, le structurer à sa sauce
 
 Ainsi donc la manière de faire des interfaces aurait évoluée. La logique de pages uniques serait en train d'évoluer.
 
-Le gestion du contenu pour ces interfaces ne pourrait plus se faire uniquement à l'aide de CMS orientés dans leur structuration.ﬂ
+Le gestion du contenu pour ces interfaces ne pourrait plus se faire uniquement à l'aide de CMS orientés dans leur structuration.
 
 
 Lire [Don’t Call Contentful’s Content Infrastructure a ‘CMS’](https://thenewstack.io/dont-call-contentfuls-content-infrastructure-cms/).
