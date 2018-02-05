@@ -14,6 +14,6 @@ L'utilisation de CV, de profils de sites de rencontres, de préjugés… sont au
 
 Je me disais donc que si le cerveau fonctionne de manière quantique, nos méthodes de management, qui correspondent au fonctionnement de nos processeurs actuels, sont donc inopérantes pour comprendre et donc gérer nos cerveaux.
 
-Ainsi, ces cerveaux qui nous gouvernent, choisis pour leurs capacités calculatoires, nous toisent de leur supériorité, alors qu'ils sont que de vulgaire abrutis qui jouent avec un outil dont 'ils ne comprennent pas le fonctionnement.
+Ainsi, ces cerveaux qui nous gouvernent, choisis pour leurs capacités calculatoires, nous toisent de leur supériorité, alors qu'ils sont que de vulgaires abrutis qui jouent avec un outil dont ils ne comprennent pas le fonctionnement.
 
 Pas étonnant de l'état de notre monde malgré la bonne volonté de mieux toujours affichée.
