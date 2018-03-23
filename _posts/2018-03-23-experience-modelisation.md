@@ -28,7 +28,7 @@ Finalement aujourd’hui, une partie du contenu pourrait nous être directement 
 
 ## Où je veux en venir ?
 
-Pour ce 2 projets, j’ai réalisé un gros travail de réflexion sur la manière dont devait être écrit le contenu. J’ai du comprendre comment fonctionnaient les formats comme YAML ou TOML ; ainsi que la manière dont on pouvait aller appeler de la donnée.
+Pour ces 2 projets, j’ai réalisé un gros travail de réflexion sur la manière dont devait être écrit le contenu. J’ai du comprendre comment fonctionnaient les formats comme YAML ou TOML ; ainsi que la manière dont on pouvait aller appeler de la donnée.
 
 Même si les 2 expériences n'ont rien à voir en terme de structure, dans les 2 cas, je suis toujours partie d’une modélisation simple et qui a évolué par la suite, au fur et à mesure que le projet évoluait.
 
