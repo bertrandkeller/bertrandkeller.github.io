@@ -34,7 +34,7 @@ Je vous conseille la lecture de cet article : [Text-only news sites are slowly m
 
 Vous pourrez découvrir cette histoire écrite par Melody Kramer dans laquelle CNN créa un site en version text-only (texte seulement - pas d'images, pas de vidéos, pas de publicités ou de tracking) après le passage de l'ouragan Irma : [CNN - Breaking News, Latest News and Videos](http://lite.cnn.io/en). 
 
-Les sites présentants seulement du texte ne sont pas récents, on avait déjà vu l'expérience se concrétiser lors du 11 septembre 2001 ; époque à laquelle le réseau (général) n'était pas aussi rapide qu'aujourd'hui. Ce qui change c'est qu'après une grande période de consultation sur écrans de bureau et mobiles en ville. Des utilisateurs consultent des pages web avec des mobiles dans des zones avec un faible réseau et que cela représente une grande partie de leur relation avec le monde.
+Les sites présentant seulement du texte ne sont pas récents, on avait déjà vu l'expérience se concrétiser lors du 11 septembre 2001 ; époque à laquelle le réseau (général) n'était pas aussi rapide qu'aujourd’hui. Ce qui change c'est qu'après une grande période de consultation sur écrans de bureau et mobiles en ville. Des utilisateurs consultent des pages web avec des mobiles dans des zones avec un faible réseau et que cela représente une grande partie de leur relation avec le monde.
 
 Ces pages peuvent sembler rudimentaires, mais dans l'article que je cite, [Albert Bowden](https://twitter.com/jalbertbowdenii) ne manque pas d'énumérer plusieurs avantages :
 
