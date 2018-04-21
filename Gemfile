@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+
+# gem 'jekyll', :github => 'jekyll', :branch => 'master'
+# gem 'jekyll', :github => 'ashmaroli/jekyll', :branch => '3.8.0-alpha'
+gem 'jekyll', :github => 'ashmaroli/jekyll', :branch => 'optima/benchmark'
+
 group :development do
     gem 'rake'
     gem 'foreman'

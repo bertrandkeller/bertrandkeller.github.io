@@ -46,11 +46,11 @@
         {% endfor %}
       {% endcapture %}{{- source -}}
     </main>
-    
+
     <script src="{{ site.url }}/assets/js/fetch-inject.js"></script>
     <script>fetchInject(['{{ site.url }}/assets/js/instantclick.min.js']).then(() => {InstantClick.init();})</script>
 
     {% include_cached serviceworkers.html %}
-    
+
   </body>
 </html>
