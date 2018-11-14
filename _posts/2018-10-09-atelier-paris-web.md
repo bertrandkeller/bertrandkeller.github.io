@@ -27,4 +27,4 @@ J'ai mis en place un arborescence avec Jekyll permettant de décliner des exempl
 
 Pour le moment, c'est mon framework de formulaires. Mais il ne tient qu'à vous de tout copier ou, si vous êtes chaud, de contribuer.
 
-Merci à l’équipe de Paris Web qui a été très présente avec les orateurs. Ça a fait plaisir de venir encore une fois. Marci à Goulven Baron pour l'illustration.
+Merci à l’équipe de Paris Web qui a été très présente avec les orateurs. Ça a fait plaisir de venir encore une fois. Merci à Goulven Baron pour l'illustration.

@@ -1,3 +1,9 @@
+- name: Les sites statiques en 2018
+  url: https://bertrandkeller.github.io/Gss-en-2018/
+  image: presentation-gss-en-2018.png
+- name: Atelier Paris Web 2018 - Le formulaire parfait
+  url: https://bertrandkeller.github.io/perfect-form/
+  image: presentation-atelier-generateur-site-statique-paris-web.png
 - name: Atelier Paris Web 2017 - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)
   url: https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/
   image: presentation-atelier-generateur-site-statique-paris-web.png
@@ -35,5 +41,3 @@
   url: http://bertrandkeller.github.io/conference-integrateur-leve-toi-et-concoit/
   image: presentation-bertrandkeller-integrateur-leve-toi-et-concois.jpg
   video: https://vimeo.com/51941103
-
-  

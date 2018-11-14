@@ -1,3 +1,20 @@
+
+- name: Télérecours
+  url: https://www.telerecours.fr
+  image: bertrandkeller-telerecours.png
+  techno: Hugo
+- name: Ooreka
+  url: https://ooreka.fr/
+  image: bertrandkeller-ooreka.png
+  techno: Python
+- name: Ecole de lettres
+  url: https://ecoledeslettres.fr/
+  image: bertrandkeller-ecoledeslettres.png
+  techno: PHP - MarkDown - Algolia 
+- name: Alkeymia
+  url: https://alkeymia.com/
+  image: bertrandkeller-alkeymia.png
+  techno: Jekyll
 - name: Service-public.fr
   url: https://www.service-public.fr/
   image: bertrandkeller-service-public.png
@@ -6,10 +23,12 @@
   url: https://www.alterecoplus.fr/
   image: bertrand-keller-alterecoplus-hebdo.jpg
   techno: Ipad & Android - Drupal
+  linkbroken: TRUE
 - name: Fondation de France
   url: https://www.fondationdefrance.org/sites/default/files/atoms/files/fondation_ra2013_bd_s_0.pdf
   image: bertrand-keller-fondation-de-france.jpg
   techno: Rapport annuel - Jekyll
+  linkbroken: TRUE
 - name: Air France
   url: http://corporate.airfrance.com/
   image: bertrand-keller-airfrance.jpg
@@ -18,6 +37,7 @@
   url: http://www.beecitiz.com/
   image: bertrand-keller-beecitiz.jpg
   techno: Service de voirie - Symfony
+  linkbroken: TRUE
 - name: NoMadMusic
   url: https://nomadmusic.fr/
   image: bertrand-keller-nomadmusic.jpg
@@ -50,6 +70,7 @@
   url: http://proximeetiz.sncf.fr/
   image: bertrandkeller-proximeetiz.jpg
   techno: Réseau social - Symfony
+  linkbroken: TRUE
 - name: Sages femmes Haute Normandie
   url: https://sagesfemmes-normandie.fr/
   image: bertrandkeller-sages-femmes-liberales-haute-nomandie.png

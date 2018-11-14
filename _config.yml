@@ -15,6 +15,7 @@ mainColor: '#000000'
 incremental: true
 profile: true
 encoding: utf-8
+repository: bertrandkeller/bertrandkeller.github.io
 
 robot: index,follow
 

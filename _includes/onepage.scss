@@ -19,6 +19,27 @@ body {
   max-width: 200rem !important;
 }
 
+//broken link styles!
+a[href="#"],.link-broken {
+  position: relative;
+  &:after {
+    content: 'Lien cassé';
+    text-transform: uppercase;
+    font-family: Courier;
+    font-size: .625rem;
+    position: absolute;
+    left: 40%;
+    top: 8px;
+    box-shadow: 0px 1px 3px 0px slateblue;
+    color: black;
+    padding: 3px;
+    transform: rotate(-17deg);
+    background-color: yellow;
+  }
+}
+
+
+
 a.nav-back.nav-back {
   position: absolute;
   top: 0.5em;
