@@ -1,10 +1,10 @@
-- name: Émanciper par la rédaction web
+- name: Émanciper par la rédaction web - Passage en Seine 2018
   url: https://bertrandkeller.github.io/conference-ecriture-web-PSES-2018/
   image: presentation-bertrandkeller-emanciper-redaction-web.png
-- name: Les sites statiques en 2018
+- name: Les sites statiques en 2018 - Présentation entreprise
   url: https://bertrandkeller.github.io/Gss-en-2018/
   image: presentation-gss-en-2018.png
-- name: Atelier Paris Web 2018 - Le formulaire parfait
+- name: Atelier Paris Web 2018 - Le formulaire parfait - Paris Web 2018
   url: https://bertrandkeller.github.io/perfect-form/
   image: presentation-formulaire-parfait.png
 - name: Atelier Paris Web 2017 - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)

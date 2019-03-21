@@ -54,6 +54,9 @@ a.nav-back.nav-back {
 
 .panel {
   padding: 1em 2vw 3em;
+  h2 {
+    color: currentColor;
+  }
 }
 
 .panel-first {
@@ -81,6 +84,7 @@ a.nav-back.nav-back {
   font-size: 3.5rem;
   margin-top: 1.2em;
   margin-bottom: 0.5em;
+  color: currentColor;
 }
 
 .panel-first p.anchor {

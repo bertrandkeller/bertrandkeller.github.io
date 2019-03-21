@@ -17,7 +17,7 @@
     # XSS
     X-XSS-Protection:1; mode=block
     X-Frame-Option:SAMEORIGIN
-	
+
 # Assets preload
 /
   Link: </assets/css/main.css>; rel=preload; as=stylesheet
@@ -26,4 +26,4 @@
   #Link: </assets/js/instantclick.min.js>; rel=preload; as=script
 
 /assets/*
-  Cache-Control:public,max-age=990000
+  Cache-Control: public,max-age=990000
