@@ -5,7 +5,9 @@
 
   <body class="page" itemscope itemtype="http://schema.org/WebPage">
 
+    {% if page.type != 'article' %}
     {% include_cached header.html %}
+    {% endif %}
 
     <main id="main" role="main">
       {% capture source %}

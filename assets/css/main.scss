@@ -3,6 +3,24 @@
 
 @import "overkyll-jekyll-theme";
 
+header.site-header {
+  display: flex;
+  align-items: center;
+  min-height: 25vmin;
+  color: #fff;
+  background: #121212;
+  p {
+    margin: 1rem 0 0;
+  }
+  a, a:visited {
+    color: currentColor;
+  }
+}
+
+h1, .h1 {
+  font-size: $base-em * $ms5;
+}
+
 .twitter-tweet {
-	margin: auto !important;
+  margin: auto !important;
 }

@@ -1,9 +1,7 @@
 source 'https://rubygems.org'
 
-
-gem 'jekyll', :github => 'jekyll', :branch => 'master'
-# gem 'jekyll', :github => 'ashmaroli/jekyll', :branch => '3.8.0-alpha'
-# gem 'jekyll', :github => 'ashmaroli/jekyll', :branch => 'optima/benchmark'
+gem 'liquid', :git => 'https://github.com/Shopify/liquid.git', branch: 'master'
+gem 'sassc'
 
 group :development do
     gem 'rake'
@@ -26,5 +24,5 @@ group :jekyll_plugins do
     gem 'jekyll-cloudinary'
     gem "autoprefixer-rails"
     gem 'jekyll-twitter-plugin'
-    gem "liquid-c", "~> 4.0"
+    gem 'jekyll-commonmark'
 end

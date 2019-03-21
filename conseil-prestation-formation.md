@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prestations
-description: Rouen - stratégie web & sites Internet - Drupal / Jekyll / Hugo
+description: Rouen - stratégie web & sites Internet - Drupal / Jekyll / Hugo / Nuxt
 navigation: true
 image: "/assets/bertrandkeller.png"
 type: article
