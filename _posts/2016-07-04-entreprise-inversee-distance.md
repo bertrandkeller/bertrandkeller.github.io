@@ -33,7 +33,7 @@ Si un collaborateur s'engage à participer à une entreprise à lui de proposer 
 
 ## Le travail à distance
 
-Dans l'entreprise inversée, il n'y a pas de lieu de travail déterminé. Les équipes partent d'un travail à distance à priori.
+Dans l'entreprise inversée, il n'y a pas de lieu de travail déterminé. Les équipes partent d'un travail à distancea priori.
 
 Qu'ils puissent se réunir dans un lieu ou pas, tout est organisé pour pouvoir échanger à distance. Il existe aujourd'hui beaucoup de retour d'expériences avec des outils numériques pointus : chat, partage de documents, visioconférence…
 
