@@ -7,11 +7,11 @@ Je communique toujours sur les sites statiques. Depuis 1 an, je travaille sur un
 
 ## L'état du statique (et de la JAMStack)
 
-Je me suis lancé sur le sujet du statique voilà 5 ans. C'est marrant comme les gens à qui j'en parlais étaient légèrement moqueurs sur le principe, alors que maintenant, non seulement il y a pléthore d'outils sur le marché, mais en plus les structures des entreprises deviennent mures pour l'adopter.
+Je me suis lancé sur le sujet du statique voilà 5 ans. C'est marrant comme les gens à qui j’en parlais étaient légèrement moqueurs sur le principe, alors que maintenant, non seulement il y a pléthore d'outils sur le marché, mais en plus les structures des entreprises deviennent mures pour l'adopter.
 
 ### Une grande division ?
 
-Il y aurait une [grande division](https://css-tricks.com/the-great-divide/) (article de Chris Coyier sur CSS Tricks) ; séparation que j'estime se situer entre web applicatif et web de publication. 
+Il y aurait une [grande division](https://css-tricks.com/the-great-divide/) (article de Chris Coyier sur CSS Tricks) ; séparation que j’estime se situer entre web applicatif et web de publication. 
 
 Avec d’un côté des gens qui développent (les fameux développeurs – doit-on tous savoir coder ?) et de l'autre les usagers (les bidouilleurs, utilisateurs, rédacteurs, intégrateurs – doit-on savoir comment ça marche le web ?)
 
@@ -19,7 +19,7 @@ Nous avons promu les gestionnaires de site statique comme solution particulière
 
 ### L’équilibre de la balance
 
-Sauf que maintenant, les développeurs se sont emparés sur ce principe en utilisant des outils comme Gatsby, Next ou Nuxt et marchent sur nos plates bandes. Je n'ai rien contre ses outils, j’ai d'ailleurs pendant des années essayé de dégonfler la guéguerre entre CMS, mais il est possible que les développeurs guident encore une fois les choix technologiques des usagers
+Sauf que maintenant, les développeurs se sont emparés sur ce principe en utilisant des outils comme Gatsby, Next ou Nuxt et marchent sur nos plates bandes. Je n'ai rien contre ces outils, j’ai d'ailleurs pendant des années essayé de dégonfler la guéguerre entre CMS, mais il est possible que les développeurs guident encore une fois les choix technologiques des usagers
 
 ## L'état du marché
 
@@ -31,7 +31,7 @@ Une autre partie de mon temps, je soumets des sujets de conférences et je regar
 
 Pour avoir un aperçu des conférences qui évoquent les technologies web dans le monde, vous pouvez consulter la page des [conférences dans lesquelles a parlé Harry](https://csswizardry.com/speaking/).
 
-Il y en a 1 à 2 par mois, minimum. Harry y présente à priori tout le temps les mêmes sujets. Si vous allez voir les programmations, elles sont quasiment identiques et quasiment toutes en anglais. Seule la localisation change finalement.
+Il y en a 1 à 2 par mois, minimum. Harry y présentea priori tout le temps les mêmes sujets. Si vous allez voir les programmations, elles sont quasiment identiques et quasiment toutes en anglais. Seule la localisation change finalement.
 
 ### Un déséquilibre
 
