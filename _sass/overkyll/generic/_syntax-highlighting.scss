@@ -1,10 +1,10 @@
 /**
  * Syntax highlighting styles
  */
- 
+
 .highlight {
-    margin: 0 0 $base_line / 2;
-    text-align: left !important; // override .post .figure 
+    margin: 0 0 $base_line;
+    text-align: left !important; // override .post .figure
     background: #fff;
 
     .highlighter-rouge & {
