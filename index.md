@@ -32,7 +32,7 @@ type: website
     </div> 
     {% endif %}
 
-    {% if post.title == 'Transmutation' %} 
+    {% if post.title == 'Transmutation' %}
     <div class="pagination--prev">
       <a class="pagination--item" href="/2015/10/03/parisweb-cest-quoi-les-metiers-du-web">
         ParisWeb - c'est quoi les métiers du web ?
