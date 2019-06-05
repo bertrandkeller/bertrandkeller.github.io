@@ -3,7 +3,7 @@ layout: default
 title: Pensées d'un écrivain numérique de sites statiques à Rouen
 image: "/assets/bertrandkeller.png"
 type: website
---- 
+---
 
 <div class="wrapper">
   {% assign post = site.posts.first %}
@@ -29,7 +29,7 @@ type: website
       <a class="pagination--item" href="{{ post.previous.url }}">
         {{ post.previous.title }}
       </a>
-    </div> 
+    </div>
     {% endif %}
 
     {% if post.title == 'Transmutation' %}
