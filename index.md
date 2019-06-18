@@ -8,9 +8,9 @@ type: website
 <div class="wrapper">
   {% assign post = site.posts.first %}
   <section class="post">
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <h1><a href="{{ post.url }}" class="text-bg-fx">{{ post.title }}</a></h1>
     <p class="post-meta">{% include date.html date=post.date %}</p>
-    {% if post.description %} 
+    {% if post.description %}
       <p><strong>{{ post.description }}</strong></p>
     {% endif %}
     {% if post.image %}
