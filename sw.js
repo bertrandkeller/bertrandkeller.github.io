@@ -2,7 +2,7 @@
 layout: null
 ---
 
-'use strict';
+"use strict";
 
 const staticCacheName = "version-{{site.time | date: '%Y%m%d%H%M%S'}}";
 const pagesCacheName  = 'pages';
@@ -97,10 +97,10 @@ self.addEventListener('fetch', event => {
   if (request.method !== 'GET') {
     return;
   }
-  
+
   // For HTML requests, try the network first, fall back to the cache, finally the offline page
   if (request.headers.get('Accept').includes('text/html')) {
-    
+
     event.respondWith(
       fetch(request)
       .then(response => {

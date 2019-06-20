@@ -17,7 +17,7 @@
   <meta name="robots" content="{{ site.robots }}">
 
   <!-- CSS -->
-  <link rel="preload" href="{{ '/assets/css/font.css' | relative_url }}" as="stylesheet">
+  <link rel="preload" href="{{ '/assets/css/font.css' | relative_url }}" as="style">
   <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
 
   <script data-no-instant>
@@ -33,7 +33,7 @@
   <link rel="preconnect" href="https://res.cloudinary.com/">
 
   <!-- JS -->
-  <link rel="preload" href="{{ site.url }}/assets/js/fetch-inject.js" as="script">
+  <link rel="preload" href="/assets/js/fetch-inject.js" as="script">
 
   <!-- Favicons -->
   {% include_cached favicons.html %}
