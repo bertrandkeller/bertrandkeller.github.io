@@ -1,6 +1,6 @@
 /* ABOUT */
 
-  Twitter:
+  Twitter:      bertrandkeller
   Location:     Rouen
   Front-End:    bertrandkeller
 
@@ -9,4 +9,8 @@
   Language:     French
   Built with:   Jekyll <http://jekyllrb.com>
                 Github Pages <https://pages.github.com/>
-
+  Standards: HTML, CSS, JavaScript
+  Software : Jekyll, Cloudinary
+  Tools    : VS Code
+  Hosting  : Netlify
+  Code     : https://github.com/bertrandkeller/bertrandkeller.github.io
