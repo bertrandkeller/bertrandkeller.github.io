@@ -3,4 +3,6 @@ title: Pensées d’un écrivain numérique sur les sites statiques et la Low Te
 image: "/assets/bertrandkeller.png"
 ---
 
-Hello
+Pensées d’un écrivain numérique sur les sites statiques et la Low Tech
+
+Allez sur [Bertrand Keller](https://bertrandkeller.info).
