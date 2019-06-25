@@ -124,12 +124,12 @@ h1, .h1 {
 
 // https://codyhouse.co/blog/post/multi-line-text-background
 h1 a, .post a {
-  display: inline-block;
+  display: inline;
   background-repeat: no-repeat;
   background-size: 0% 100%;
   will-change: background-size;
   transition: background-size .3s ease-in-out;
-  background-image: linear-gradient(transparent calc(100% - 8px), currentColor calc(100% - 8px), currentColor calc(100% - 4px), transparent 2px);
+  background-image: linear-gradient(transparent calc(100% - 16%),currentColor calc(100% - 16%),currentColor calc(100% - 9%),transparent 2%);
   text-decoration: underline;
 
   &:hover {
