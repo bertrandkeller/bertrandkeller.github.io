@@ -48,5 +48,16 @@ type: website
     </div>
     {% endif %}
   </div>
+
+  {% assign posts = site.posts %}
+  <section class="posts">
+    <h2>Derniers articles</h2>  
+    <ul>
+    {% for post in posts offset:1 limit:5 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.categories %} <span class="categorie">{{ post.categories }}</span>{% endif %}</li>
+    {% endfor %}
+    </ul><!--/posts-archive-last-->
+  </section>
+
 </div>
 
