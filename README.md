@@ -1,7 +1,9 @@
 # bertrandkeller
 
 ## Pré-requis
-Le site est géré via [Github Pages](https://pages.github.com/) et [Jekyll](http://jekyllrb.com/) et nécessite Ruby 2.1.x
+[Jekyll](http://jekyllrb.com/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1ee5503-4991-4d93-a8c9-aa1ebb51a807/deploy-status)](https://app.netlify.com/sites/printer-snake-55560/deploys)
 
 ## Travailler en local
 
