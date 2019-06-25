@@ -35,13 +35,13 @@ namespace :serve do
   desc "Serve development Jekyll site locally"
   task :dev do
     puts "Starting up development Jekyll site server..."
-    system "JEKYLL_ENV=development bundle exec jekyll clean && bundle exec jekyll s --config _config.yml,_config_dev.yml --profile --trace"
+    system "JEKYLL_ENV=development bundle exec jekyll clean && bundle exec jekyll s --config _config.yml,_config_dev.yml --profile --trace --limit_posts 3"
   end
 
   desc "Serve development Jekyll site locally"
   task :reload do
     puts "Starting up development Jekyll site server with livereload..."
-    system "JEKYLL_ENV=development bundle exec jekyll clean && bundle exec jekyll s --config _config.yml,_config_dev.yml --profile --trace --livereload port:6000"
+    system "JEKYLL_ENV=development bundle exec jekyll clean && bundle exec jekyll s --config _config.yml,_config_dev.yml --profile --trace  --limit_posts 3 --livereload port:6000"
   end
 
   desc "Serve production Jekyll site locally"
