@@ -9,8 +9,8 @@ namespace :build do
   desc "Regenerate files for production"
   task :prod do
     puts "* Regenerating files for production... first time"
-    puts "rvm install ruby-2.6.3"
-    puts "rvm use ruby-2.6.3"
+    puts "rvm install ruby-2.6.2"
+    puts "rvm use ruby-2.6.2"
     system "bundle exec jekyll build"
     puts "* Finish"
   end

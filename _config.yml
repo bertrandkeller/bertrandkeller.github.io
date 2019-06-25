@@ -97,7 +97,7 @@ webmentions:
   pause_lookups: false
   collections:
     - links
-  js: false
+  js: true
   legacy_domains:
     - http://bertrandkeller.info
   throttle_lookups:
