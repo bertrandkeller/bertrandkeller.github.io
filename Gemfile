@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'liquid', :git => 'https://github.com/Shopify/liquid.git', branch: 'master'
 gem 'sassc'
+gem 'uglifier'
 
 group :development do
     gem 'rake'
@@ -18,11 +19,11 @@ group :jekyll_plugins do
     gem 'jekyll-feed'
     gem "jekyll-seo-tag"
     gem 'jekyll-github-metadata'
-    gem 'jekyll-livereload'
     gem 'jekyll-include-cache'
     gem 'jekyll-tidy'
     gem 'jekyll-cloudinary'
     gem "autoprefixer-rails"
     gem 'jekyll-twitter-plugin'
     gem 'jekyll-commonmark'
+    gem 'jekyll-webmention_io'
 end
