@@ -6,7 +6,7 @@
   <body class="page" itemscope itemtype="http://schema.org/WebPage">
 
     {% if page.type != 'article' %}
-    {% include_cached header.html %}
+    {% include header.html %}
     {% endif %}
 
     <main id="main" role="main">
@@ -53,6 +53,7 @@
     <script>fetchInject(['/assets/js/instantclick.min.js']).then(() => {InstantClick.init();})</script>
 
     {% include_cached serviceworkers.html %}
+    {% webmentions_js %}
 
   </body>
 </html>

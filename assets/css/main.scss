@@ -90,6 +90,21 @@ header.site-header {
   font-size: $title1;
 }
 
+.nav-social {
+  position: absolute;
+  right: 1em;
+  font-size: 75%;
+  li {
+    margin: 0;
+  }
+  a {
+    text-decoration: none;
+    &:hover path{
+      fill: #cecece;
+    }
+  }
+}
+
 h1, .h1 {
   margin-bottom: 0;
   font-size: $base-em * $ms5;
