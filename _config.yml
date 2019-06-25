@@ -11,7 +11,7 @@ permalink: /:year/:month/:day/:title/
 url: "https://bertrandkeller.info"
 lang: fr
 timezone: Europe/Paris
-mainColor: '#000000'
+mainColor: '#111111'
 incremental: true
 profile: true
 encoding: utf-8
@@ -87,6 +87,25 @@ text:
     newer: 'Précédent'
     older: 'Suivant'
 
+
+# Webmention
+webmentions:
+  debug: true
+  username: bertrandkeller
+  cache_folder: _data/webmentions
+  cache_bad_uris_for: 5
+  pause_lookups: false
+  collections:
+    - links
+  js: false
+  legacy_domains:
+    - http://bertrandkeller.info
+  throttle_lookups:
+    #   last_week: daily
+    last_month: daily
+    last_year: weekly
+    older: every 2 weeks
+
 plugins:
   - jekyll-github-metadata
   - jekyll-sitemap
@@ -132,7 +151,7 @@ assets:
   compress:
     css:  sass
     js:   uglifier
-sources:
-  - assets/js
-  - assets/css
+  sources:
+    - assets/js
+    - assets/css
 
