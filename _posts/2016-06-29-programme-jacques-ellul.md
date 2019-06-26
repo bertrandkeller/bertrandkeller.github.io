@@ -1,5 +1,7 @@
 ---
 title: Le programme de Jacques Ellul
+categories:
+- Technocritique
 ---
 
 Pour Ellul la technique n'obéit à aucune finalité.

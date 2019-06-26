@@ -1,5 +1,7 @@
 ---
 title: Outils pour l'écriture riche - Ovide/Tiddlywiki/Odyssey
+categories:
+- Écriture
 ---
 
 Certains groupes de personnes ou communautés peuvent avoir besoin de structures de contenus différentes. Voici 3 outils un peu originaux.

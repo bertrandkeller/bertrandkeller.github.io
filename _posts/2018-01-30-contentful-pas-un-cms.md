@@ -1,5 +1,7 @@
 ---
 title: Contenful n'est pas un CMS
+categories:
+- Sites Statiques
 ---
 
 Contentful est une solution d'édition de contenu disponible à partir d'une API. Lorsque vous mettez en place des [générateurs de site statique](/generateur-site-statique/) le contenu peut être hébergé à différents endroits.

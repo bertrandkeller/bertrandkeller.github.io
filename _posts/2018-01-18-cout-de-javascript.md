@@ -1,6 +1,8 @@
 ---
 title: Le coût de JavaScript
 image: /assets/site-web-poid.png
+categories:
+- Performance
 ---
 
 <h2>Je veux un site qui claque</h2>

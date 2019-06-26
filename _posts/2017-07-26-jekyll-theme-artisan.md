@@ -1,12 +1,14 @@
 ---
 title: Jekyll - Un thème pour artisans
+categories:
+- Sites Statiques
 ---
 
 Travailler avec des sites statiques, c'est apprendre à se désolidariser de la notion d'administration ; apprendre à éditer le contenu au plus près. Je vous présente ici un thème que j'ai développé pour un artisan céramiste.
 
 ## Présentation du thème
 
-Le thème que j'ai développé reste à améliorer car il est difficilement utilisable tel quel. Il faudrait que je simplifie certaines choses et que je complète la notice.  
+Le thème que j'ai développé reste à améliorer car il est difficilement utilisable tel quel. Il faudrait que je simplifie certaines choses et que je complète la notice.
 Vous pouvez néanmoins essayer de l'installer pour corriger ce premier jet.
 
 ## Découverte du thème

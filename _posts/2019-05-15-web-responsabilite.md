@@ -1,6 +1,8 @@
 ---
 title: Ce que nous détruisons, notre responsabilité ?
 image: https://res.cloudinary.com/dou0m7u5s/image/fetch/c_limit,f_auto,q_auto,w_800,h_500,c_crop/https://frontendmasters.com/books/front-end-handbook/2019/assets/images/frontend.png
+categories:
+- Métier
 ---
 
 Cette question de notre responsabilité de mettre en place des sites dit de qualité n’est pas nouvelle. Des conférences comme Paris-Web a réuni et continue de réunir un public de personnes soucieuses qu‘un site respecte des principes d’accessibilité, de lisibilité, de performance… Pourtant, malgré ces initiatives, la tendance semble encore aller de plus en plus vers la destruction de cet espace de partage.

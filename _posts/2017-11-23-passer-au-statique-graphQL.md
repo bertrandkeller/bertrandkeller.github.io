@@ -2,6 +2,8 @@
 title: Passer au statique en utilisant Next.JS et GraphQL
 description: "Retour d'expérience sur l'utilisation de Next.JS et GraphCMS pour la génération d’un site statique."
 image: /assets/schema-static-graphql.png
+categories:
+- Sites Statiques
 ---
 
 Dans l'article [The Emerging GraphQL and Serverless Stack for Building Static Web Sites](https://thenewstack.io/emerging-graphql-serverless-stack-building-static-web-sites/), Hugo Meissner remarque que la capacité de préchargement (prefetch) est un besoin important pour les sites à grand trafic. Il s'agit de précharger d'autres pages que celle appelée par l'utilisateur, de sorte que les futures pages du site soient délivrées instantanément.

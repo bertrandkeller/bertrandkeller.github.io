@@ -1,5 +1,7 @@
 ---
 title: Les éditions 01 Techno-Critique
+categories:
+- Technocritiques
 ---
 
 Je suis tombé sur un livre de la collection techno-critique paru en 1971 : *l’école à perpétuité*. C’est incroyable comme on a l’impression que ce livre est toujours d’actualité.

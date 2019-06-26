@@ -1,5 +1,7 @@
 ---
-title: Mon processus d'édition
+title: Mon processus d’édition
+categories:
+- Sites Statiques
 ---
 
 Ce site a vu sa fréquence d'édition baisser depuis presque 2 ans. La vérité c'est que mon changement de statut et de vie m'a peu laissé de temps et de raisons d'écrire. Comment vais-je essayer de mettre à jour ma pratique ?

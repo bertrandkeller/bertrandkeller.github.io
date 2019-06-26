@@ -1,5 +1,7 @@
 ---
 title: Déploiement de votre premier site web statique sur IPFS
+categories:
+- Sites Statiques
 ---
 
 Traduction de l’article [The Complete Beginner’s Guide to Deploying Your First Static Website to IPFS](https://medium.com/interplanetary-gatsby/the-complete-beginners-guide-to-deploying-your-first-static-website-to-ipfs-103b27e8822e).

@@ -1,7 +1,9 @@
 ---
 title: Markdown et auto-documentation
 image: /assets/auto-documentation.jpg
-description: "S'il y a bien un concept que je n'ai vu être développé nul part à propos du Markdown c'est bien celui de l'auto-documentation. On comprend qu'il soit possible de créer de la documentation avec un corpus composé de fichiers Markdown ; mais on oublie que celui-ci permet aussi de rédiger de l'auto-documentation."
+description: "S’il y a bien un concept que je n'ai vu être développé nul part à propos du Markdown c'est bien celui de l'auto-documentation. On comprend qu'il soit possible de créer de la documentation avec un corpus composé de fichiers Markdown ; mais on oublie que celui-ci permet aussi de rédiger de l'auto-documentation."
+categories:
+- Sites Statiques
 ---
 
 ## Qu'est-ce que l'auto-documentation ?

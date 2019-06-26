@@ -1,5 +1,7 @@
 ---
 title: Les générateurs de site statique, remèdes contre la complexité
+categories:
+- Sites Statiques
 ---
 
 La technique est une chose difficile à apprivoiser par l'homme. D'un côté, elle lui apporte, bien évidemment, des bénéfices lui permettant de survivre dans une environnement hostile ; d'une autre côté, elle peut être source de remise en question sociale, déséquilibrante pour le groupe ou la société.

@@ -1,5 +1,7 @@
 ---
-title: Atelier sur les GSS à Paris Web 2017 
+title: Atelier sur les GSS à Paris Web 2017
+categories:
+- Sites Statiques
 ---
 
 Première étape de la communication sur les générateurs de sites statiques, la propostion d'un atelier à Paris Web 2017. Mon sujet [Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)](https://www.paris-web.fr/2017/ateliers/decliner-des-sites-statiques-performants-avec-un-gss-jekyll-hugo.php) s'orientera sur la compréhension du processus de mise en ligne : de l'installation à l'hébergement.

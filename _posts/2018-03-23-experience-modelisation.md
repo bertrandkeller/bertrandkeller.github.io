@@ -1,5 +1,7 @@
 ---
 title: Sites statiques expérience de modélisation
+categories:
+- Sites Statiques
 ---
 
 Ce début d'année, j'ai travaillé sur plusieurs petits projets en statique ; ce qui m’a permis d’aller encore plus loin dans mes connaissances de la modélisation de contenu.

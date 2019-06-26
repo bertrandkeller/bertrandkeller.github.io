@@ -1,5 +1,7 @@
 ---
 title: Web Low Tech
+categories:
+- Low-Tech
 ---
 
 Étrangement, je n’ai jamais abordé le sujet de la Low Tech sur ce blog. Plus précisément, je n’ai jamais vraiment utilisé ce mot qui me semble s’opposer à des High Tech que je trouve ni bien, ni mal en soit. Pour moi, juste l'efficience est importante. Pourtant, je me résous à utiliser ce terme pour rejoindre un mouvement dont je ne suis pas éloigné.
@@ -16,7 +18,7 @@ Il est possible de mettre ça en place, on peut accéder à n’importe quel sit
 
 Le web Low Tech se serait un site web qui ne présente que des pages HTML avec des images en faible résolution, pas de JS et avec pas mal de cache ?
 
-D’accord, mais en réalité mesurer l’impact d’un site énergétique d’un site web c’est compliqué si on ne prend en compte que la page d’accueil au premier chargement. Ok, c’est indicatif, mais ça ne dit pas grand chose.
+D’accord, mais en réalité mesurer l’impact énergétique d’un site web c’est compliqué si on ne prend en compte que la page d’accueil au premier chargement. Ok, c’est indicatif, mais ça ne dit pas grand chose.
 
 En effet, il est possible de mettre en cache pas mal d’éléments de la page (comme les polices, les styles, les JS… un peu tout) et de charger ces éléments à partir de son cache navigateur aux chargement suivants.
 

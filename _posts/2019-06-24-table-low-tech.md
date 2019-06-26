@@ -1,5 +1,7 @@
 ---
 title: Les tables de la Low (Tech)
+categories:
+- Low-Tech
 ---
 
 Parlons de Low Tech, parlons de Low Tech appliqué au web, mais d’abord définissons ce qu’est la Low Tech.

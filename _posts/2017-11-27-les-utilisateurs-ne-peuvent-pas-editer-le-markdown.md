@@ -1,6 +1,8 @@
 ---
 title: Mes utilisateurs ne peuvent pas éditer de Markdown !
 description: "Petits descriptifs sur les raisons de l’utilisation de Markdown par des rédacteurs"
+categories:
+- Écriture
 ---
 
 Les avantages des fichiers statiques est partagé par la majorité, mais beaucoup ne veulent pas utiliser ce système car les rédacteurs ne sont pas capables d’éditer du Markdown (entendre éditer en utilisant la syntaxe Markdown).

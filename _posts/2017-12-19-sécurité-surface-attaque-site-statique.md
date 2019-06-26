@@ -2,6 +2,8 @@
 title: Sécurité - la surface d'attaque
 description: On parle de sécurité, de système qui peuvent être plus sécurisés que les autres ; mais les failles de sécurité sont partout et il s'agit souvent de problème humain. A rigueur égale en sécurité, il est nécessaire de penser à sa surface d'attaque.
 image: /assets/massive-brute-force-attack-Dec18.png
+categories:
+- Sites Statiques
 ---
 
 **Note :** bien entendu, la sécurité n'est pas mon domaine, je manipule des concepts que je ne maîtrise pas complètement.

@@ -1,5 +1,7 @@
 ---
 title: 2017, les CMS sont morts
+categories:
+- Sites Statiques
 ---
 
 Désolé de commencer l’année par une rubrique nécrologique, ce titre n’est pas de moi ; il vient d’un article publié il y a déjà 1 an et demi : [The CMS is dead. Long live Hugo, Wercker, Prose.io and CloudFront

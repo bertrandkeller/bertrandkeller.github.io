@@ -1,5 +1,7 @@
 ---
 title: Jekyll et Hugo sont dans un bateau
+categories:
+- Sites Statiques
 ---
 
 Les générateurs de sites statiques sont géniaux, ils font le thé et le café en étant super rapides ; mais des GSS, il y en a la dose ; se lancer dans la maîtrise d'un en particulier demande du temps. Alors, on revoit fleurir, comme pour toutes les technologies, des oppositions entre les avantages de tel ou tel GSS.

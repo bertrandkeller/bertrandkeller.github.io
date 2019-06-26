@@ -1,5 +1,7 @@
 ---
 title: La communauté Jekyll
+categories:
+- Sites Statiques
 ---
 
 Récemment s'est lancé la communauté [Jekyll France](http://jekyll-fr.org/). Un petit groupe de discussion autour des évolutions de ce [générateur de site statique](/generateur-site-statique/).

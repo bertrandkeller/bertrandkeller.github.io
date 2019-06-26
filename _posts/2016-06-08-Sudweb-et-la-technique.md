@@ -1,5 +1,7 @@
 ---
 title: Sud-Web et la technique
+categories:
+- Technocritique
 ---
 
 Qu'est-ce qui caractérise la conférence Sud-Web, la conférence itinérante qui parle de web mais pas que.

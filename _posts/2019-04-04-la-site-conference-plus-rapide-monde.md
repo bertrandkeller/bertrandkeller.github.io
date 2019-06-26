@@ -1,6 +1,8 @@
 ---
 title: Sud Web - Le site de conférence le plus rapide du monde
 image: /assets/winner.jpg
+categories:
+- Sites Statiques
 ---
 
 Peut-être avez-vous vu ce billet de Malte Ubl : [How we built the fastest conference website in the world](https://2019.jsconf.eu/news/how-we-built-the-fastest-conference-website-in-the-world/) (comment mettre en ligne le site le plus rapide du monde) ? Le texte est très intéressant mais le titre est mensongé car [https://2019.jsconf.eu](https://2019.jsconf.eu) n’est pas le site le plus rapide du monde.

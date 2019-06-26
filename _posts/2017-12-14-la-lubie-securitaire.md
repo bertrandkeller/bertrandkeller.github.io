@@ -2,6 +2,8 @@
 title: La lubie sécuritaire
 description: La sécurité des données c'est important, mais parfois la meilleure manière d'éviter les soucis c'est éviter de s’exposer.
 image: /assets/jon-moore-cadenas.jpg
+categories:
+- Sécurité
 ---
 
 Présent à une conférence sur la sécurité, [Netsecure Day](https://www.netsecure-day.fr/), à Rouen. Je fais le tour des hackers adeptes des [bugs bounties](https://fr.wikipedia.org/wiki/Bug_bounty), solutions d'identification et description de la RGPD.

@@ -1,5 +1,7 @@
 ---
 title: Intégrateur paysan
+categories:
+- Métier
 ---
 
 La semaine dernière, j'ai eu 2 discussions qui m‘ont fait me questionner sur mon métier et la manière dont avait évolué le développement Front-End.

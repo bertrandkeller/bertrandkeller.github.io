@@ -1,5 +1,7 @@
 ---
 title: Liste de mes articles sur les générateurs de site statique
+categories:
+- Sites Statiques
 ---
 
 Je devrais certainement écrire plus d'articles sur les générateurs de site statique, faire des liens vers plus de ressources ou présenter quelques petits articles de démonstration.

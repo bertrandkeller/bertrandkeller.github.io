@@ -1,5 +1,7 @@
 ---
 title: Pourquoi passer au Markdown et se passer d'un WYSIWYG ?
+categories:
+- Écriture web
 ---
 
 Parler de [générateurs de site statique](/generateur-site-statique/) c'est forcément tourner autour de la question épineuse de l'édition en format Markdown. Évoquons ce sujet brièvement pour présenter leurs orientations d'usage différentes.

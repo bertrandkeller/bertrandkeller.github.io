@@ -1,5 +1,7 @@
 ---
 title: Recentrage sur le statique
+categories:
+- Sites Statiques
 ---
 
 Ces 6 derniers mois, je me suis beaucoup dissipé sur des questions de technique, d'organisation et relation aux autres. Après avoir élagué pas mal de choses, je continue mon recentrage sur des activités plus valorisantes.
@@ -12,7 +14,7 @@ Vouloir suivre différents chevaux, pour être sur de trouver le bon, conduit in
 
 ## Tour d'observation
 
-Bouger pour suivre ou survivre, se transformer pour exister… mais pourquoi ne simplement ne pas bouger et observer. Survivre c'est aussi savoir dépenser le moins d'énergie possible et attendre que les choses arrivent à soit. 
+Bouger pour suivre ou survivre, se transformer pour exister… mais pourquoi ne simplement ne pas bouger et observer. Survivre c'est aussi savoir dépenser le moins d'énergie possible et attendre que les choses arrivent à soit.
 
 Je pense donc que les [générateurs de site statique](/generateur-site-statique/) restent un outil formidable pour promouvoir un web qui me semble bien moribond. Un web de publication de données qui apportent connaissances et partages à notre société.
 

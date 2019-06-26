@@ -1,11 +1,13 @@
 ---
 title: Notre société est-elle médiocre ?
+categories:
+- Technocritiques
 ---
- 
+
 Bonne question ! Si on se place dans une analyse systémique de notre société, tout ce que nous produisons (pommes, voitures, logiciels,…) se réalise de la même manière. Et notre mode de production privilégie la standardisation.
 
 ## Pourquoi les médiocres ont pris le pouvoir
- 
+
 Le philosophe québécois Alain Deneault pense que notre société vise une moyenne.
 
 > La division et l'industrialisation du travail – manuel et intellectuel – ont largement contribué à l'avènement du pouvoir médiocre. Au XIXe siècle, le « métier » devient « emploi ». Le travail, désormais standardisé, réduit à une activité moyenne avec des critères précis et inflexibles, s'en trouve dépourvu de sens.

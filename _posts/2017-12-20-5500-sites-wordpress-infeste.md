@@ -2,6 +2,8 @@
 title: 5 500 sites Wordpress infestés
 image: /assets/depense-securite-site-web-statique.png
 description: Je republie un billet sur la sécurité de WordPress, mais c'est uniquement parce que je ne me rendais pas compte de l'ampleur du phénomène.
+categories:
+- Sécurité
 ---
 
 > Cybersecurity spending has been growing for the last decade — in 2017 it grew up to $85bn! There are many opportunities for startups.

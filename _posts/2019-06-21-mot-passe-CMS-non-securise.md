@@ -1,5 +1,7 @@
 ---
 title: Les CMS les plus populaires ne sont pas assez sécurisés
+categories:
+- Sécurité
 ---
 
 J’ai déjà écrit sur le sujet. Les systèmes comportant des interfaces de connexions utilisateurs présentent des portes d’entrés soumises à d’éventuelles failles de sécurités.

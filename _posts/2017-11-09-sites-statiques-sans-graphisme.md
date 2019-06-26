@@ -2,6 +2,8 @@
 title: Les sites sans mise en page font leur grand retour
 description: "Dans des cas où il est nécessaire d'échanger immédiatement un contenu simple, on voit des personnes privilégier des sites sans mise en page, avec seulement du contenu texte."
 image: /assets/text-only-site-static.png
+categories:
+- Sites Statiques
 ---
 
 Rappelez vous la citation de mon dernier article à propos de l'[abandon de React.js par Netflix pour leurs landing pages](/2017/11/06/netflix-react-generateur-site-statique/).

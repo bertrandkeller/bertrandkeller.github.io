@@ -1,5 +1,7 @@
 ---
 title: Quel est le rapport entre les sites nus et les sites statiques
+categories:
+- Sites Statiques
 ---
 
 On m'a posé la question sur Twitter de savoir quel était le rapport entre les sites statiques et les sites nus. J'accorde que le rapport (que je voulais montrer) n'est pas si évident alors je vais le détailler.

@@ -1,5 +1,7 @@
 ---
 title: HTML est le web
+categories:
+- Support
 ---
 
 HTML ? Mais qu'est ce que ce sigle ? Que désigne-t-il ? HyperText Markup Language ou Langage de balisage hypertexte. On considère sa maîtrise souvent comme acquise ; pourtant c’est loin d’être le cas. Ses 116 balises sont comme les 26 lettres de l’alphabet, la base de notre communication sur le web. Ce n‘est pas pour cette raison que les équipes y apportent un intérêt particulier.
