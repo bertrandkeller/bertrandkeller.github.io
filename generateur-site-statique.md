@@ -15,7 +15,7 @@ Ainsi, il est possible de séparer la forme (le code), du fond (les articles). L
 
 Le fond est donc modifiable par tout le monde (accessible), il est transportable (passer d'un site à un autre). Il demande un faible espace de stockage, il est résilient (durable). IL peut servir à présenter des informations importantes ou de la documentation (utile).
 
-Les générateurs de site statique rendre pleinement dans une logique [Low Tech](/low-tech-site-web-internet/) pour réaliser des sites web.
+Les générateurs de site statique rendre pleinement dans une logique [Low-Tech](/low-tech-site-web-internet/) pour réaliser des sites web.
 
 ## En général
 <ul class="posts-list">

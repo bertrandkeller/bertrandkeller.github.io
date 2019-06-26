@@ -38,7 +38,7 @@ Alors que nous petits intégrateurs, clope au bec, on cherche à faire cohabiter
 
 Si le web était un bien commun, alors le monde serait plus simple pour le petit intégrateur paysan. Mais le web s'est transformé en un espace marchand centralisé.
 
-C'est pour ça, que je suis en train d’entamer encore une nouvelle réflexion sur des sujets comme la low tech ou le web décentralisé.
+C'est pour ça, que je suis en train d’entamer encore une nouvelle réflexion sur des sujets comme la Low-Tech ou le web décentralisé.
 
 Pour continuer à se battre afin de préserver des écosystèmes pérennes.
 
