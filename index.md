@@ -31,7 +31,6 @@ type: website
       </a>
     </div>
     {% endif %}
-
     {% if post.title == 'Transmutation' %}
     <div class="pagination--prev">
       <a class="pagination--item" href="/2015/10/03/parisweb-cest-quoi-les-metiers-du-web">
@@ -39,7 +38,6 @@ type: website
       </a>
     </div>
     {% endif %}
-
     {% if post.next %}
     <div class="pagination--next">
       <a class="pagination--item" href="{{ post.next.url }}">
@@ -48,16 +46,13 @@ type: website
     </div>
     {% endif %}
   </div>
-
-  {% assign posts = site.posts %}
   <section class="posts">
-    <h2>Derniers articles</h2>  
-    <ul>
-    {% for post in posts offset:1 limit:5 %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.categories %} <span class="categorie">{{ post.categories }}</span>{% endif %}</li>
+    <h2>Derniers articles</h2>
+    <ul class="posts-list">
+    {% for post in site.posts offset:1 limit:5 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.categories %} <span class="categorie">{{ post.categories | array_to_sentence_string: '/'}}</span>{% endif %}</li>
     {% endfor %}
     </ul><!--/posts-archive-last-->
   </section>
-
 </div>
 
