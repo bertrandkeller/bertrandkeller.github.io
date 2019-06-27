@@ -4,7 +4,7 @@ categories:
 - Low-Tech
 ---
 
-Dans le précédent billet, nous avons discuté de ce qui pouvait se cacher derrière le terme de Low-Tech ([Les tables de la Low (Tech)](2019/06/24/table-low-tech/)). Essayons de creuser un peu pour savoir si on peut dégager un sens commun au terme.
+Dans le précédent billet, nous avons discuté de ce qui pouvait se cacher derrière le terme de Low-Tech ([Les tables de la Low (Tech)](/2019/06/24/table-low-tech/)). Essayons de creuser un peu pour savoir si on peut dégager un sens commun au terme.
 
 Je suis en train de veiller de manière attentive l’utilisation du mot Low-Tech. Il semble que nous avons un mouvement de plus en plus important de personnes qui se lancent dans une démarche d’urgence (climatique). Le terme remonte fréquemment mais n’est pas forcément utilisé par tous pour désigner la même chose.
 
@@ -20,7 +20,7 @@ Mais on perd un usage. Le concept de Low-Tech est réalisé avec l’utilisation
 
 ## L’homme est la nature
 
-Dans l’article ([Les tables de la Low (Tech)](2019/06/24/table-low-tech/)), j’ai repris la définition donnée par le [Low-Tech Lab](https://lowtechlab.org), pour la questionner. Je n’ai pas vu dans la définition, de notion de perte d’usage. On parle d’utilité, d’accessibilité, de durabilité ; c'est-à-dire un concept de but mais pas de perte d’usage sous prétexte que ça consomme moins d’énergie.
+Dans l’article ([Les tables de la Low (Tech)](/2019/06/24/table-low-tech/)), j’ai repris la définition donnée par le [Low-Tech Lab](https://lowtechlab.org), pour la questionner. Je n’ai pas vu dans la définition, de notion de perte d’usage. On parle d’utilité, d’accessibilité, de durabilité ; c'est-à-dire un concept de but mais pas de perte d’usage sous prétexte que ça consomme moins d’énergie.
 
 Si je prends le temps de développer tout cela, c'est parce qu’il y a toujours moyen de dire qu’une technologie consomme trop ; qu’il y a plus Low-Tech que la Low-Tech (la Low-Low-Tech ou la Slow-Low-Tech peut-être). Il y a toujours moyen d’avoir encore moins d’impact.
 

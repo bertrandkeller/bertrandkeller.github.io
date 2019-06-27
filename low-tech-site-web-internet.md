@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La Low-Tech appliquée au web et aux sites internet 
+title: La Low-Tech appliquée au web à internet
 navigation: false
 type: article
 category: Low-Tech
