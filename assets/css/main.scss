@@ -4,12 +4,18 @@
 @import "overkyll-jekyll-theme";
 
 body {
-  font-family: Overpass,system,sans-serif;
+  font-family: Overpass, system, sans-serif;
 }
 
 main {
   color: #303030;
-  h1, h2, h3, h4, h5, h6 {
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     color: #121212;
   }
 }
@@ -26,28 +32,27 @@ https://css-tricks.com/easing-linear-gradients/
 
 @mixin scrimGradient($startColor: $color-black, $direction: 'to bottom') {
 
-  $scrimCoordinates: (
-    0: 1,
-    19: 0.980,
-    34: 0.970,
-    47: 0.960,
-    56.5: 0.950,
-    65: 0.940,
-    73: 0.930,
-    80.2: 0.920,
-    86.1: 0.910,
-    91: 0.900,
-    95.2: 0.890,
-    98.2: 0.880,
-    100: 0.870
-  );
+  $scrimCoordinates: (0: 1,
+      19: 0.980,
+      34: 0.970,
+      47: 0.960,
+      56.5: 0.950,
+      65: 0.940,
+      73: 0.930,
+      80.2: 0.920,
+      86.1: 0.910,
+      91: 0.900,
+      95.2: 0.890,
+      98.2: 0.880,
+      100: 0.870);
 
   $hue: hue($startColor);
   $saturation: saturation($startColor);
   $lightness: lightness($startColor);
   $stops: ();
 
-  @each $colorStop, $alphaValue in $scrimCoordinates {
+  @each $colorStop,
+  $alphaValue in $scrimCoordinates {
     $stop: hsla($hue, $saturation, $lightness, $alphaValue) percentage($colorStop/100);
     $stops: append($stops, $stop, comma);
   }
@@ -65,14 +70,18 @@ header.site-header {
   min-height: 30vmin;
   color: #fff;
   background: #121212;
-  background: linear-gradient(45deg, rgba(54,54,54,1) 0%, rgba(0,0,0,1) 100%);
+  background: linear-gradient(45deg, rgba(54, 54, 54, 1) 0%, rgba(0, 0, 0, 1) 100%);
   @include scrimGradient(#000, 'to left');
+
   p {
     margin: 1rem 0 0;
   }
-  a, a:visited {
+
+  a,
+  a:visited {
     color: currentColor;
   }
+
   &:after {
     position: absolute;
     z-index: -1;
@@ -94,20 +103,25 @@ header.site-header {
   position: absolute;
   right: 1em;
   font-size: 75%;
+
   li {
     margin: 0;
   }
+
   a {
     text-decoration: none;
-    &:hover path{
+
+    &:hover path {
       fill: #cecece;
     }
   }
 }
 
-h1, .h1 {
+h1,
+.h1 {
   font-size: $base-em * $ms5;
-  & + .post-meta {
+
+  &+.post-meta {
     margin-top: -2em;
   }
 }
@@ -120,17 +134,21 @@ h1, .h1 {
   margin: 0;
   padding: 0;
   list-style-type: none;
+
   li {
     display: flex;
     align-items: baseline;
     border-bottom: 1px solid #dedede;
+
     &:before {
       content: "‣";
     }
   }
+
   a {
     padding: 0 $base-line/3 $base-line/3;
     text-decoration: none;
+
     &:hover {
       text-decoration: underline;
     }
@@ -146,24 +164,113 @@ h1, .h1 {
 }
 
 .post img {
-  border: 0.6em solid rgba(0,0,0,0.7);
+  border: 0.6em solid rgba(0, 0, 0, 0.7);
 }
 
 .twitter-tweet {
   margin: auto !important;
 }
 
+.block-moto {
+  position: relative;
+  overflow: visible;
+  margin-top: -5em;
+  padding: 1em 0;
+  background: #f1f1f1;
+  &:before,
+  &:after {
+    position: absolute;
+    z-index: 2;
+    content: '';
+    left: 0;
+    width: 0;
+    height: 0;
+
+  }
+  &:before {
+    top: -1.5em;
+    border-top: 1.5em solid transparent;
+    border-left: 100vw solid #f1f1f1;
+  }
+  &:after {
+    bottom: 0;
+    border-bottom: 1.5em solid #fff;
+    border-right: 100vw solid #f1f1f1;
+  }
+}
+
 // https://codyhouse.co/blog/post/multi-line-text-background
-h1 a, .post a {
+h1 a,
+.post a,
+.moto a {
   display: inline;
   background-repeat: no-repeat;
   background-size: 0% 100%;
   will-change: background-size;
   transition: background-size .3s ease-in-out;
-  background-image: linear-gradient(transparent calc(100% - 16%),currentColor calc(100% - 16%),currentColor calc(100% - 2%),transparent 2%);
+  background-image: linear-gradient(transparent calc(100% - 16%), currentColor calc(100% - 16%), currentColor calc(100% - 2%), transparent 2%);
   text-decoration: underline;
+  font-weight: bold;
 
   &:hover {
     background-size: 100% 100%;
   }
+}
+
+.moto {
+  margin: 0 0 1em;
+  padding-bottom: 1.5rem;
+  font-size: 1.15em;
+  overflow: hidden;
+
+  span {
+    width: 100%;
+    float: left;
+    -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 80%);
+    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 80%);
+    transform: translateY(-50px);
+    opacity: 0;
+    animation-name: titleAnimation;
+    animation-timing-function: ease;
+    animation-duration: 3s;
+  }
+}
+
+.moto span {
+  animation-delay: 0.6s;
+  -webkit-animation-fill-mode: forwards;
+
+  &:first-child {
+    animation-delay: 0.7s;
+  }
+
+  &:last-child {
+    color: #444;
+    animation-delay: 0.5s;
+  }
+}
+
+
+@keyframes titleAnimation {
+  0% {
+    transform: translateY(-50px);
+    opacity: 0;
+    -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 80%);
+    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 80%);
+  }
+
+  20% {
+    transform: translateY(0);
+    opacity: 1;
+    -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 15%);
+    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 15%);
+  }
+
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+    -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0%);
+    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0%);
+  }
+
 }

@@ -73,9 +73,9 @@ type: article
             </g>
         </g>
         </svg>
-        Conseil stratégique</h2>
-        <p>Ma formation d'ingénieur à l'Université de Technologie de Compiègne et une large expérience de plus de 10 années m'ont permis de développer de sérieuses compétences en assistance de réalisation de sites web.</p>
-        <p>Le web est devenu l'outil de travail d'une entreprise et de ses équipes. L'enjeu du web n'est pas tant de mettre en ligne des interfaces mais surtout de mettre en place des méthodes de travail en développant une culture numérique innovante.</p>
+        Transition Low-Tech</h2>
+        <p>Ma formation d'ingénieur à l'Université de Technologie de Compiègne et une expérience de plus de 10 années m'ont permis de développer de bonnes compétences pour la réalisation de sites web.</p>
+        <p>Le web est devenu l’outil de travail d’une entreprise et de ses équipes. L'enjeu du web n'est pas juste de mettre en ligne des interfaces mais surtout de mettre en place des méthodes de travail en développant une culture numérique innovante.</p>
         <ol class="panel-list">
             <li><span>Positionnement web</span></li>
             <li><span>Stratégie éditoriale</span></li>
@@ -104,14 +104,14 @@ type: article
             </svg>
         Intégration web</h2>
         <p>L'intégration web est mon cœur de métier. Il est indispensable pour moi de la pratiquer afin d'avoir une vision claire des évolutions et tendances en cours.</p>
-        <p>Je manipule les dernières méthodologies HTML et CSS pour avoir un site le plus lisible et le plus rapide à charger possible.</p>
+        <p>Je manipule les dernières méthodologies HTML, CSS et JS pour avoir un site le plus lisible et le plus rapide à charger possible.</p>
         <ol class="panel-list">
             <li><span>Déclinaison de gabarits</span></li>
-            <li><span>Création de chartes graphiques</span></li>
-            <li><span>Optimisation de chargement</span></li>
+            <li><span>Design Systems</span></li>
+            <li><span>Optimisation / Performance</span></li>
         </ol>
         <p>Plus que simplement décliner des pages, l'objectif est de péreniser une charte graphique afin de garantir un coût de maintenance raisonnable.</p>
-        <p>C'est pour ça que j'interviens auprès d'équipes de développement afin de les aider à améliorer leur manière d'entrevoir le code.</p>
+        <p>C’est pour ça que j'interviens auprès d'équipes de développement afin de les aider à améliorer leur manière d'entrevoir le code.</p>
   </div>
 </section>
 
@@ -129,12 +129,12 @@ type: article
             </g>
             </svg> 
             Formation Jekyll ou Hugo</h2>
-      <p>Depuis 3 années, j'enseigne Jekyll dans différentes structures et notamment à des élèves de licence à l'IUT d'Elbeuf près de Rouen.</p>
-      <p>Jekyll, et les générateurs de contenu statique, sont en train de devenir des plateformes de documentation pour la réalisation et le suivi de projets.</p>
+      <p>J'enseigne Jekyll dans différentes structures et notamment à des élèves de licence à l'IUT d'Elbeuf près de Rouen.</p>
+      <p>Jekyll/Hugo, et les générateurs de contenu statique, sont en train de devenir des plateformes de documentation pour la réalisation et le suivi de projets.</p>
       <p>A très peu de frais, ils permettent d'éditer sous forme de fichiers textes aussi bien du contenu que des données qui peuvent être publiés sous différents formats : HTML, PDF…</p>
       <ol class="panel-list">
-            <li><span>Apprendre l'histoire du web</span></li>
-            <li><span>Devenir autonome</span></li>
+            <li><span>Apprendre l’histoire du web</span></li>
+            <li><span>Autonomie</span></li>
             <li><span>Progresser par soit même</span></li>
         </ol>
       <p>Apprendre Jekyll ou Hugo, c'est devenir autonome, avoir une souplesse pour éditer des données sur le web ou tout autre support de communication.</p>
@@ -169,7 +169,7 @@ Actions bénévoles</h2>
             <li><span>Aller vers les autres</span></li>
             <li><span>Expérimenter de nouvelles choses</span></li>
         </ol>
-        <p>En plus de cela, je pratique des activités manuelles de manière régulière que ce soit par de la réparation de vélo à l'association <a href="http://www.guidoline.com/">Guidoline</a> ou avec la réfection de fauteuils avec l'association <a href="https://activitesaintnicaise.org">Activités Saint Nicaise.</a></p>
+        <p>En plus de cela, je pratique des activités manuelles de manière régulière que ce soit par de la réparation de vélo à l’association <a href="http://www.guidoline.com/">Guidoline</a> ou avec la réfection de fauteuils avec l'association <a href="https://activitesaintnicaise.org">Activités Saint Nicaise.</a></p>
     </div>
 </section>
 <!-- <section class="panel">
