@@ -8,7 +8,7 @@ category: Low-Tech
 
 La Low-Tech est un mouvement qui gagne du terrain dans les esprits. Il semble de plus en plus parler fortement aux personnes que le principe d’urgence climatique se répand.
 
-Pourquoi cette page ? Pourquoi des articles ? 
+Pourquoi cette page ? Pourquoi des articles ?
 
 Parce que je milite depuis des années (au milieu de plein d’autres personnes) pour un web **accessible** et **durable**. Le web est un moyen extraordinaire d’**émancipation** qui se produit par la circulation des idées (indispensable à l’innovation technologique & sociale).
 
