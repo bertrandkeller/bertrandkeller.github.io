@@ -3,7 +3,7 @@ title: Carte élection européenne 2019 - les radicaux sur le climat
 image: /cartographie/europeenne2019/carte-resistance-climat.jpg
 description: 'Pour ceux qui me suivent, vous aurez vu que la consommation d’énergie, la sobriété, le climat sont des sujets qui m’intéressent. J’étais en train de m’amuser à faire une carte des résultats des élections européennes 2019 pour des raisons personnelles ; et puis, je me suis dis : mets là en ligne, c’est ça le web, le partage.'
 categories:
-- Low-Tech
+- Cartographie
 ---
 
 ## La méthodologie

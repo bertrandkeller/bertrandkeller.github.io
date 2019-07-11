@@ -20,7 +20,7 @@ Le type de sites qu'on peut réaliser ne se limite donc pas à des sites de cont
 
 Dans mon dernier article, je montrais que lors de l'ouragan Irma, des personnes consultaient des sites nus (très légers), car ils avaient une très faible connexion à ce moment là.
 
-Les exemples que j'ai montré sont de grands journaux à fort trafic qui ne se situent pas sur la zone où s'est déroulée la catastrophe. Les rédacteurs n'onta priori pas de soucis de connexion. Le site nus n'est qu'une simple visualisation sans images, vidéos ou styles.
+Les exemples que j'ai montré sont de grands journaux à fort trafic qui ne se situent pas sur la zone où s'est déroulée la catastrophe. Les rédacteurs n'ont a priori pas de soucis de connexion. Le site nus n'est qu'une simple visualisation sans images, vidéos ou styles.
 
 Imaginons maintenant que des personnes au milieu de la catastrophe veulent éditer un sites pour informer les personnes aux alentours, alors elles auront une faible connexion pour éditer leurs pages.
 
