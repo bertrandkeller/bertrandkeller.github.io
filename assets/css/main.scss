@@ -227,7 +227,7 @@ h1 a,
     width: 100%;
     float: left;
     -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 80%);
-    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 80%);
+    clip-path: polygon(100% 100%, 100% 100%, 0 100%, 0 100%);
     transform: translateY(-50px);
     opacity: 0;
     animation-name: titleAnimation;
