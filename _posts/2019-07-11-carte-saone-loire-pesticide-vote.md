@@ -1,7 +1,7 @@
 ---
 title: Carte relation entre pesticide et vote aux élections européennes en Saône-et-Loire
 image: https://res.cloudinary.com/dou0m7u5s/image/upload/v1562860043/carto-pesticide-glyphosate-bourgogne.png
-description: 'En ce moment, je me suis lancé dans la cartographie. Exercice que j’aime beaucoup mais qui est cependant assez prennant en temps'
+description: 'En ce moment, je me suis lancé dans la cartographie. Exercice que j’aime beaucoup mais qui est cependant assez prenant en temps'
 categories:
 - Cartographie
 ---
