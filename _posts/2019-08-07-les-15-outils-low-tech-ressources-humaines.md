@@ -5,7 +5,7 @@ categories:
 - Low-Tech
 ---
 
-On pense Low-Tech web donc pages dégradées qui demandent peu de ressources. Mais la sobriété est avant tout une manière de collaborer au quotidien avec des semblables. Il est possible de le faire de manière simple et agréable ; en levant les fesses de sa chaise.
+On pense [Low-Tech](/low-tech-site-web-internet/) web donc pages dégradées qui demandent peu de ressources. Mais la sobriété est avant tout une manière de collaborer au quotidien avec des semblables. Il est possible de le faire de manière simple et agréable ; en levant les fesses de sa chaise.
 
 Une machine à calculer
 : Elle peut être plus performante que les calculs de tête.

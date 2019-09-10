@@ -78,7 +78,7 @@ Pour faire des sites web responsables c’est donc compliqué, cela ne peut veni
 
 J’ai trouvé des indicateurs pour déterminer si votre site web était plus ou moins sobre. J'ai trouvé quelque entreprises qui faisaient de l’éco-conception. Sur leur site vitrine j’ai trouvé du jQuery (Temps de d’éxécution souvent 4x supérieur à du JavaScript natif).
 
-Se lancer dans la Low-Tech, les sites sobres, l’éco-conception est un peu suicidaire. La darwinisme social estime que les actions altruistes pour le groupe ne doivent pas être soutenus.
+Se lancer dans la [Low-Tech](/low-tech-site-web-internet/), les sites sobres, l’éco-conception est un peu suicidaire. La darwinisme social estime que les actions altruistes pour le groupe ne doivent pas être soutenus.
 
 Donc, on ne trouve pas beaucoup d’activité. Tant que le cadre général de soutenir la démarche d’être le premier ne sera pas modifié, l’activité de faire des sites sobres (peu consommateurs en énergie) ne sera pas valorisée (Alors même que ça ferait dépenser moins d’argent aux entreprises).
 

@@ -32,7 +32,7 @@ Cela concernerait donc :
 
 Voilà donc une bonne raison de ne pas exposer vos utilisateurs à ce genre de mésaventure et vous dirigez vers des générateurs de site statique, si cela est possible.
 
-Donc le cadre d’éco-conception ou de réflexion Low-Tech. Ne pas avoir de formulaire de connexion permet aussi de ne pas recevoir d’attaques permanentes sur votre serveur et donc de diminuer l'empreinte énergétique de votre site.
+Donc le cadre d’éco-conception ou de réflexion [Low-Tech](/low-tech-site-web-internet/). Ne pas avoir de formulaire de connexion permet aussi de ne pas recevoir d’attaques permanentes sur votre serveur et donc de diminuer l'empreinte énergétique de votre site.
 
 Tout cela va dans le même sens.
 

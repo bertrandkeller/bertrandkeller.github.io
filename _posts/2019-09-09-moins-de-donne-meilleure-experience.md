@@ -2,7 +2,7 @@
 title: Moins de données ne signifie pas une expérience moindre
 description: "Tim Kadlec nous communique un petit message pour nous dire que vouloir afficher moins de données aux utilisateurs n’est pas synonyme d’une moins bonne expérience pour l’usager."
 categories:
-- Low-Tech
+- Performance
 ---
 
 Voilà donc la liste des éléments d’éléments que Tim Kadlec pense qu’il est possible d’optimiser sans pour autant diminuer l’expérience.

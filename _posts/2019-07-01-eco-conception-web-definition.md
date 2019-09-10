@@ -4,7 +4,7 @@ categories:
 - Low-Tech
 ---
 
-Il y a une pratique qui se rapproche de la Low-Tech, c'est ce qu'on appelle l’éco-conception.
+Il y a une pratique qui se rapproche de la [Low-Tech](/low-tech-site-web-internet/), c'est ce qu'on appelle l’éco-conception.
 
 > L’éco-conception consiste à intégrer la protection de l’environnement dès la conception des biens ou services. Elle a pour objectif de réduire les impacts environnementaux des produits tout au long de leur cycle de vie : extraction des matières premières, production, distribution, utilisation et fin de vie.  
 [L’éco-conception des produits](https://www.ecologique-solidaire.gouv.fr/leco-conception-des-produits)

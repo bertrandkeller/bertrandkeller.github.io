@@ -4,7 +4,7 @@ categories:
 - Low-Tech
 ---
 
-Parlons de Low-Tech, parlons de Low-Tech appliqué au web, mais d’abord définissons ce qu’est la Low-Tech.
+Parlons de [Low-Tech](/low-tech-site-web-internet/), parlons de Low-Tech appliqué au web, mais d’abord définissons ce qu’est la Low-Tech.
 
 Je vais reprendre simplement ce que définit le [Low-Tech Lab](https://lowtechlab.org).
 
