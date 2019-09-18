@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Portfolio
-description: Intégrateur générateur de site internet statique et déclinaison HTML/CSS à Rouen
+description: Intégrateur / développeur - générateur de sites internet statiques, déclinaison HTML/CSS à Rouen, Low-Tech et éco-conception
 navigation: true
 image: "/assets/bertrandkeller.png"
 type: article

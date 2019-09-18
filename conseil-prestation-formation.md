@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prestations
-description: Rouen - stratégie web & sites Internet - Drupal / Jekyll / Hugo / Nuxt
+description: Développeur sites Internet - Drupal / Jekyll / Hugo / Nuxt - Low-Tech & éco-conception
 navigation: true
 image: "/assets/bertrandkeller.png"
 type: article
@@ -32,7 +32,7 @@ type: article
                 </g>
             </g>
         </g>
-        </svg>
+  </svg>
   <p class="anchor"><a href="#id-conseil">Conseil stratégique</a></p>
   <p class="anchor"><a href="#id-integration">Intégration web</a></p>
   <p class="anchor"><a href="#id-jekyll">Formation Jekyll ou Hugo</a></p>
@@ -193,7 +193,6 @@ Actions bénévoles</h2>
         <p>Je travaille en collaboration avec <a href="http://apollonet.fr/">Apollonet</a> pour le développement Drupal, <a href="http://ziopod.com/">Ziopod</a> pour du développement applicatif et <a href="http://piapandelakis.com/">Pia Pandelakis</a> pour le graphisme.</p>
     </div>
 </section> -->
-
 
 <script>
   /*

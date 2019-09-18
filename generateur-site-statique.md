@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Les générateurs de site statique
+title: Développeur avec générateurs de site statique
 navigation: false
 image: "/assets/bertrandkeller.png"
 type: article
