@@ -4,7 +4,7 @@ categories:
 - Low-Tech
 ---
 
-Geoffrey Dorne ne publiait plus depuis un petit moment ? Voilà qu’il poste à propos de la Low-Tech ? Les grands esprits se rencontrent ?
+Geoffrey Dorne ne publiait plus depuis un petit moment ? Voilà qu’il poste à propos de la [Low-Tech](/low-tech-site-web-internet/) ? Les grands esprits se rencontrent ?
 En tout les cas, voilà un bel article que je vous relaie qui fait la liste de différents points sur lesquels il est possible d’agir.
 
 1. L’utilité de ce qu’on va mettre sur Internet.

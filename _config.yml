@@ -23,6 +23,8 @@ cloudinary:
   cloud_name: dou0m7u5s
   origin_url: https://bertrandkeller.info
   verbose: true
+  attributes:
+    loading: "lazy"
   presets:
     default:
       min_width: 320
@@ -31,7 +33,7 @@ cloudinary:
       steps: 5
       sizes: "(min-width:40em) 40em, 90vw"
 
- # seo-tag
+# seo-tag
 author: Bertrand Keller
 logo: /assets/bertrandkeller.png
 image:

@@ -46,9 +46,6 @@
       {% endcapture %}{{- source -}}
     </main>
 
-    <script src="/assets/js/fetch-inject.js"></script>
-    <script>fetchInject(['/assets/js/instantclick.min.js']).then(() => {InstantClick.init();})</script>
-
     {% include_cached serviceworkers.html %}
 
   </body>

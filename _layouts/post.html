@@ -10,11 +10,7 @@ layout: default
       <p><strong>{{ page.description }}</strong></p>
     {% endif %}
     {% if page.image %}
-    {% if site.environment != 'development' %}
-    {% cloudinary {{page.image}} alt="{{page.title}}" %}
-    {% else %}
-    <img src="{{ page.image }}" alt="{{ page.title }}">
-    {% endif %}
+    {% cloudinary {{page.image}} alt="{{page.title}}" loading="lazy" %}
     {% endif %}
     {{ content | markdownify }}
   </article>

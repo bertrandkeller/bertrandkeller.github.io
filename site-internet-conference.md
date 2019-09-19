@@ -13,14 +13,13 @@ permalink: /site-internet-conference-rouen/
       {% include onepage.scss %}
     {% endcapture %}
     {{ include_to_scssify | scssify }}
-</style> 
+</style>
 
 <section class="panel panel-first bg-black">
   <a href="/" class="nav-back">Accueil</a>
   <div class="panel_int">
     <h1>bertrand keller<br><small>Sites Web à Rouen</small></h1>
     <p>bertrand.keller(@)gmail.com</p>
-    <p class="anchor"><a href="#id-casetude">Cas d'étude</a></p>
     <p class="anchor"><a href="#id-portfolio">Références</a></p>
     <p class="anchor"><a href="#id-presentation">Conférences</a></p>
     <p class="anchor arrow">
@@ -41,7 +40,7 @@ permalink: /site-internet-conference-rouen/
     </p>
   </div>
 </section>
-<section id="id-casetude" class="panel">
+<!--<section id="id-casetude" class="panel">
   <h2>
   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
       y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
@@ -74,8 +73,8 @@ permalink: /site-internet-conference-rouen/
     </div>
     {% endfor %}
   </div>
-</section>
-<section id="id-portfolio" class="panel bg-black">
+</section>-->
+<section id="id-portfolio" class="panel">
   <h2><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
       y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
       <g id="POLAROID_1_" enable-background="new    ">
@@ -94,15 +93,23 @@ permalink: /site-internet-conference-rouen/
   <div class="gallery">
     {% for project in site.data.projects %}
     <div class="gallery-module gallery-module-image">
-      <h3><a {% if project.linkbroken %}class="link-broken" {% endif %} href="{{ project.url }}">{{ project.name }} -
+      <div class="face face1">
+        <div class="content">
+          <a class="venobox" href="{{ site.baseurl }}/assets/{{ project.image }}">
+            {% if site.environment != 'development' %}
+            {% cloudinary /assets/{{ project.image }} alt="{{ project.name }}" %}
+            {% else %}
+            <img src="/assets/{{ project.image }}" alt="{{ project.name }}">
+            {% endif %}
+          </a>
+        </div>
+      </div>
+      <div class="face face2">
+        <div class="content">
+          <h3><a {% if project.linkbroken %}class="link-broken" {% endif %} href="{{ project.url }}">{{ project.name }} -
           {{ project.techno }}</a></h3>
-      <a class="venobox" href="{{ site.baseurl }}/assets/{{ project.image }}">
-        {% if site.environment != 'development' %}
-        {% cloudinary /assets/{{ project.image }} alt="{{ project.name }}" %}
-        {% else %}
-        <img src="/assets/{{ project.image }}" alt="{{ project.name }}">
-        {% endif %}
-      </a>
+        </div>
+      </div>
     </div>
     {% endfor %}
   </div>
