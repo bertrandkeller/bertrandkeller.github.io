@@ -10,10 +10,10 @@
 - name: Ecole de lettres
   url: https://ecoledeslettres.fr/
   image: bertrandkeller-ecoledeslettres.png
-  techno: PHP - MarkDown - Algolia 
+  techno: PHP - MarkDown - Algolia
 - name: Alkeymia
   url: https://alkeymia.com/
-  image: bertrandkeller-alkeymia.png
+  image: bertrandkeller-alkeymia.jpg
   techno: Jekyll
 - name: Service-public.fr
   url: https://www.service-public.fr/
@@ -62,6 +62,7 @@
   url: http://activitesaintnicaise.org/
   image: bertrandkeller-Activite-Saint-Nicaise.jpg
   techno: Association - Jekyll
+  linkbroken: TRUE
 - name: Bouygues Tel Entreprise
   url: http://www.bouyguestelecom-entreprises.fr/
   image: bertrandkeller-bouygues-telecom-entreprise.jpg

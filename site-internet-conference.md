@@ -93,7 +93,7 @@ permalink: /site-internet-conference-rouen/
   <br>
   <div class="gallery">
     {% for project in site.data.projects %}
-    <div class="gallery-module">
+    <div class="gallery-module gallery-module-image">
       <h3><a {% if project.linkbroken %}class="link-broken" {% endif %} href="{{ project.url }}">{{ project.name }} -
           {{ project.techno }}</a></h3>
       <a class="venobox" href="{{ site.baseurl }}/assets/{{ project.image }}">

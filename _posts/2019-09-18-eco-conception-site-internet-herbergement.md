@@ -4,13 +4,13 @@ categories:
 - Éco-conception
 ---
 
-S’il y a bien des indicateurs qui permettent de savoir si vos pages sont trop lourdes (demandent une consommation trop importante), il n’y a pas moyen de savoir directement si votre hébergement respectent des normes en terme énergétique.
+S’il y a bien des indicateurs qui permettent de savoir si vos pages sont trop lourdes (demandent une consommation trop importante), il n’y a pas moyen de savoir directement si votre hébergement respecte des normes en terme énergétique.
 
 ## Des critères ?
 
 Si on consulte la page de l’[ekopedia](https://www.ekopedia.fr/wiki/H%C3%A9bergement_Internet), on trouve quelques critères objectifs pour déterminer si un hébergeur est respectueux de l’environnement.
 
-On a des choses comme : Utilisation de standards ouverts, utilisation d'énergies renouvelables, Pas de finalité de profit, organisation sans but lucratif…
+On a des choses comme : utilisation de standards ouverts, utilisation d'énergies renouvelables, Pas de finalité de profit, organisation sans but lucratif…
 
 Être un hébergeur vert c’est bien, mais responsable c’est mieux. Être vertueux c’est aussi garantir une pérennité des logiciels dans le temps. Utiliser des logiciels libres et utiliser des standards ouverts permet d’éviter de ses retrouver coincé avec une solution sans lendemain (éviter une lourde migration, permettre une maintenance aisée…).
 
