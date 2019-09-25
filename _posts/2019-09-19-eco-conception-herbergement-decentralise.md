@@ -3,7 +3,7 @@ title: Éco-conception, hébergement décentralisé
 image: /assets/herbergement-decentralise-site-web.png
 description: "Je vous parlais hier de l’hébergement, d’un hébergement respectueux et peu consommateur d’énergie. Sachez qu’actuellement notre d’accès aux données est plutôt basé sur un modèle centralisé. En existe-il un autre ?"
 categories:
-- Low-Tech
+  - Éco-conception
 ---
 
 ## Le cloud

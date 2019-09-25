@@ -56,7 +56,7 @@
     <script>
       if ("fonts" in document) {
         var Optiker = new FontFace("Optiker-K","url(assets/fonts/Optiker-K.woff2) format('woff2')", {weight: "300"});
-        var IBMPlexMonoBold = new FontFace("IBMPlexMono","url(assets/fonts/IBMPlexMono-Medium.woff2) format('woff2')", {weight: "300",unicode-range: U+0030-0039;});
+        var IBMPlexMonoBold = new FontFace("IBMPlexMono","url(assets/fonts/IBMPlexMono-Medium.woff2) format('woff2')", {weight: "300",unicode-range: "U+0030-0039";});
         var PublicSansExtraLight = new FontFace("PublicSans","url(assets/fonts/PublicSans-ExtraLight.woff2) format('woff2')", {weight: "100"});
         var PublicSansRegular = new FontFace("PublicSans","url(assets/fonts/PublicSans-Regular.woff2) format('woff2')", {weight: "300"});
         Promise.all([PublicSansRegular.load(), PublicSansExtraLight.load(), IBMPlexMonoBold.load(), Optiker.load()]).then(function (fonts) {
