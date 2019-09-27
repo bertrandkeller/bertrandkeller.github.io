@@ -109,7 +109,6 @@ webmentions:
     older: every 2 weeks
 
 plugins:
-  - jekyll-github-metadata
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag

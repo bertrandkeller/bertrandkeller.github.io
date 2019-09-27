@@ -36,7 +36,7 @@ let container = document.querySelector(".livehouse")
 function setUpQuery() {
 const api = 'https://www.googleapis.com/pagespeedonline/v5/runPagespeed';
 const parameters = {
-url: encodeURIComponent('https://wexample.com')
+url: encodeURIComponent('https://www.hopdurable.fr/')
 };
 let query = `${api}?`;
 for (key in parameters) {

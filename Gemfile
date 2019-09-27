@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
+#gem 'jekyll', :github => 'jekyll', :branch => 'master'
 gem 'liquid', :git => 'https://github.com/Shopify/liquid.git', branch: 'master'
-gem 'sassc'
-gem 'uglifier'
+gem "liquid-c"
 
 group :development do
     gem 'rake'
@@ -18,7 +18,7 @@ group :jekyll_plugins do
     gem 'jekyll-assets'
     gem 'jekyll-feed'
     gem "jekyll-seo-tag"
-    gem 'jekyll-github-metadata'
+    # gem 'jekyll-github-metadata'
     gem 'jekyll-include-cache'
     gem 'jekyll-tidy'
     gem 'jekyll-cloudinary'

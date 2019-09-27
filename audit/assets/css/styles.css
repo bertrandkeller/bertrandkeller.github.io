@@ -352,8 +352,9 @@ a {
   font-family: IBMPlexMono, optiker, sans-serif;
   font-size: 1.3rem;
   color: #fefefe;
-  border-radius: 50%;
   background: #333;
+  min-width: 2.5em;
+  text-align: center;
 }
 
 .grid:not(:nth-last-child(-n+3)) ul li {
@@ -886,6 +887,7 @@ a {
   margin: 0;
   padding: 1rem 1.5rem;
   background: #fff;
+  overflow: hidden;
 }
 
 @media screen and (min-width: 1024px) {
@@ -953,6 +955,7 @@ a {
   text-align: center;
   font-weight: bold;
   font-family: Optiker;
+  line-height: 1;
 }
 
 .progress.progress-number li b {
@@ -1015,7 +1018,7 @@ a {
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 100%;
+  height: 6.3rem;
   font-family: IBMPlexMono, optiker, sans-serif;
   font-size: 2.3em;
   text-align: center;
