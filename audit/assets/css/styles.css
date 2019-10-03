@@ -5,7 +5,7 @@
 body {
   overflow: scroll;
   line-height: 1.5;
-  font-family: PublicSans, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
   color: #232323;
   background: #ac7a36;
   background: rgba(172, 41, 32, 0.05);
@@ -22,12 +22,19 @@ header {
 
 header a {
   display: block;
-  padding: 1em 0 1em 0.5em;
+  padding: 0.5em 0 1em 0.5em;
   text-decoration: none;
   font-weight: 200;
-  &, small {
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
-  }
+}
+
+header a,
+header small {
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+}
+
+header svg {
+  display: inline-block;
+  vertical-align: sub;
 }
 
 .wrapper {
@@ -95,7 +102,7 @@ h3+p {
 
 h2 small,
 h3 small {
-  font-family: PublicSans, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
 }
 
 header h1,
@@ -655,7 +662,7 @@ a {
 
 .number {
   line-height: 1.5;
-  font-size: 1.5rem;
+  font-size: 1.35rem;
   font-weight: bold;
   font-family: IBMPlexMono, optiker, sans-serif;
 }
