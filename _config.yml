@@ -21,6 +21,8 @@ robot: index,follow
 
 cloudinary:
   cloud_name: dou0m7u5s
+  only_prod: false
+  verbose: true
   origin_url: https://bertrandkeller.info
   verbose: true
   attributes:
@@ -116,6 +118,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-tidy
   - jekyll-twitter-plugin
+  - jekyll-cloudinary
 
 include:
   - _redirects

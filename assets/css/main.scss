@@ -250,6 +250,27 @@ h1 a,
   }
 }
 
+.btn-link {
+  padding: 1em 0 0;
+  text-align: center;
+  a {
+    display: block;
+    margin: auto;
+    padding: 1em;
+    max-width: 28em;
+    font-size: 1.25em;  
+    color: #fefefe;
+    background: #333;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    &:hover {
+      color: #cecece;
+      background: #000;
+    }
+  }
+}
+
 
 @keyframes titleAnimation {
   0% {
