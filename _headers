@@ -16,7 +16,7 @@
     Service-Worker-Allowed: /
     # XSS
     X-XSS-Protection:1; mode=block
-    X-Frame-Option:SAMEORIGIN
+    X-Frame-Option: SAMEORIGIN
     cache-control: public,max-age=990000
     Save-Data: on
 
@@ -24,8 +24,6 @@
 /
   Link: </assets/css/main.css>; rel=preload; as=stylesheet
   Link: </assets/css/font.css>; rel=preload; as=stylesheet
-  #Link: </assets/js/fetch-inject.js>; rel=preload; as=script
-  #Link: </assets/js/instantclick.min.js>; rel=preload; as=script
 
 /assets/*
   Cache-Control: public,max-age=990000
