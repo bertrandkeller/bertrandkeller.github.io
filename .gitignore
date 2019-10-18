@@ -39,7 +39,7 @@ gems/
 # node-waf configuration
 .DS_Store
 dploy.yaml
-*.lock
+# *.lock
 .vscode/
 
 # Jekyll
@@ -50,9 +50,6 @@ _posts/*
 bertrandkeller.wordpress.2016-03-07.xml
 
 \.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
-
 \.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/09/696c64d41f22c0558ed2e49019c861ba5d5a12cf60ff6b274d045ae6fb855b
-
 \.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0f/37fb010b099f3ff04e9fbe9c62463fc4b0ac68dac2079db99619d9c09a9005
-
 \.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/12/d9087f352a08638584800eb36d6e7c5806b36c594c7b8957cf0852295137e6

@@ -24,7 +24,6 @@ cloudinary:
   only_prod: false
   verbose: true
   origin_url: https://bertrandkeller.info
-  verbose: true
   attributes:
     loading: "lazy"
   presets:
@@ -114,11 +113,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-assets
   - jekyll-include-cache
   - jekyll-tidy
   - jekyll-twitter-plugin
-  - jekyll-cloudinary
 
 include:
   - _redirects
@@ -148,14 +145,3 @@ exclude:
 jekyll_tidy:
   compress_html: true
   exclude: ["sw.js","404.html","offline.md"]
-
-assets:
-  autoprefixer:
-    browsers: ["last 2 versions","> 5%","IE 9"]
-  compress:
-    css:  sass
-    js:   uglifier
-  sources:
-    - assets/js
-    - assets/css
-
