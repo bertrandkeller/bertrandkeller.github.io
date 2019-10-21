@@ -3,7 +3,6 @@ title: Audit de l’impact énergie des agences web de sites éco-conçus
 image: https://d33wubrfki0l68.cloudfront.net/de8f30bef04c9fbf84ab40913d00adeb182e4f2c/17adf/assets/lowtus.png
 description: "Réalisation d‘une page d’audit des sites des agences web présentant leur démarche de conception comme écologique."
 categories:
-- Éco-conception
 - Audit
 ---
 
