@@ -135,7 +135,7 @@ type: article
       <ol class="panel-list">
             <li><span>Apprendre l’histoire du web</span></li>
             <li><span>Autonomie</span></li>
-            <li><span>Progresser par soit même</span></li>
+            <li><span>Progresser par soi-même</span></li>
         </ol>
       <p>Apprendre Jekyll ou Hugo, c'est devenir autonome, avoir une souplesse pour éditer des données sur le web ou tout autre support de communication.</p>
       <p><strong>=> Voir la page d'offre de <a href="/formation-jekyll-hugo/">formations à Jekyll ou hugo</a>.</strong></p>
