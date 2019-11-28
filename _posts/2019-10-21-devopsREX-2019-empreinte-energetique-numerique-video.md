@@ -4,7 +4,7 @@ categories:
 - Low-Tech
 ---
 
-Je vous transmets la vidéo de mon intervention lors de la conférence devopsREX 2019.
+Je vous transmets la vidéo de mon intervention lors de la conférence DevOpsREX 2019.
 
 <div class="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C2Xr_R6D6MY" frameborder="0" allowfullscreen></iframe>
