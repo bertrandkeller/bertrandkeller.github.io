@@ -1,6 +1,6 @@
 ---
 title: 4 facteurs de changement pour la sobriété énergétique
-image: /assets/presentation-bertrandkeller-empreinte-energie.png
+image: /assets/2019-11-28-4-facteurs-changement-low-tech.png
 description: "Comme vous le savez, je suis intervenu, à DevOpsRex 2019, pour présenter à la fois un état des lieux de la consommation d’énergie dans le numérique et aussi pour proposer des orientations permettant de mieux aborder la manière de réaliser des applications."
 categories:
 - Low-Tech
