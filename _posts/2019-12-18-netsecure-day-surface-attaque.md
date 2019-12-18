@@ -21,7 +21,7 @@ Je suis intervenu avec une idée sur la prévention, qui consiste grosso-modo à
 
 ## Sites critiques Vs non critiques
 
-J’ai fait le parti pris de parler non pas des sites dit **critiques** (applications complexes à forte valeur économique, le truc noble), mais des sites considérés comme **non critique** (le truc pour les non dev) mais qui, s'ils tombent, peuvent nuire l’image de l'entreprise (par exemple)..
+J’ai fait le parti pris de parler non pas des sites dit **critiques** (applications complexes à forte valeur économique, le truc noble), mais des sites considérés comme **non critique** (le truc pour les non dev) mais qui, s'ils tombent, peuvent nuire à l’image de l'entreprise (par exemple)..
 
 Pour moi un site **non critique** va être ce site WordPress laissé à la Comm parce qu'elle connaît bien l’outil. La vision sécurité, (essayer de minimiser le risque) ne comprends pas ce principe car les WordPress mis en place sont des sources de dépense d’énergie.
 
