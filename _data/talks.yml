@@ -1,3 +1,6 @@
+- name: Surface d’attaque et sites statiques - Construire un site Low-Tech - NetSecureDay 2019
+  url: https://bertrandkeller.github.io/conference-netsecure-day-surface-attaque-site-low-tech/
+  image: netsecure-day-site-map-surface.png
 - name: Keynote sur l’empreinte énergétique du numérique - DevopsREX 2019
   url: https://bertrandkeller.github.io/conference-devopsrex-empreinte-energie/
   image: presentation-bertrandkeller-empreinte-energie.png
