@@ -1,5 +1,5 @@
 ---
-title: Vulnérabilité et résilience d’un système - WordPress et l'épuisement
+title: Vulnérabilité et résilience d’un système - WordPress et l’épuisement
 description: "Dans mon dernier billet je faisais un comparatif possible entre la résilience d’un site avec une base de données et un site statique."
 categories:
 - Low-Tech
