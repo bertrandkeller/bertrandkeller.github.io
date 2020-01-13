@@ -31,7 +31,7 @@ Pourquoi on laisse les WordPress ? Pour la bonne et simple raison que la Comm ou
 
 On peut gagner sur tous les tableaux en supprimant cette pratique d’un autre âge (pour le coup, on peut dire ça je pense) en passant sur des (gestionnaires de) sites statiques.
 
-Les sites statiques font quasiment tout ce que peux faire un site dynamique. Ce qu'il ne fait n’est que très peu utilisé par les utilisateurs.
+Les sites statiques font quasiment tout ce que peux faire un site dynamique. Ce qu'il ne fait n’est que très peu utilisé par les utilisateurs des sites dynamiques.
 
 Les gens pensent qu'un site statique doit être édité à la main par un développeur. Euh… en fait non, on a déjà de très belles interfaces magnifiques qui font la taf.
 
