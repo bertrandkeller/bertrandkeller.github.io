@@ -22,7 +22,7 @@ Les économies d'énergie dans le développement web ne font pas partie de la cu
 
 Le web permet des choses extraordinaires. Il a été créé pour échanger des papiers universitaires et participer à une coopération entre chercheurs afin (de manière idéale) de participer à un monde meilleur. Chose qui se produit encore aujourd’hui avec la possibilité de pouvoir éditer son propre site ou de se former en ligne.
 
-Seulement, il y a eu une modification de la typologie des équipes de développement ces dernières années. je n’ai pas de preuves irréfutables à ce sujet, je ne suis pas non plus chercheur sur le sujet. Mais entre 2010 et 2019, la popularité des langages s’est modifiée ; notamment concernant Javascript.
+Seulement, l’usage du web a évolué pour gérer des sites commerciaux ; il y a eu une modification de la typologie des équipes de développement ces dernières années. Je n’ai pas de preuves irréfutables à ce sujet, je ne suis pas non plus chercheur sur le sujet ; mais entre 2010 et 2019, la popularité des langages s’est modifiée ; notamment concernant Javascript.
 
 ### Les chiffres
 
@@ -42,7 +42,7 @@ Et s’il ne sont pas passés au développement Front, ils sont devenus directeu
 
 ## Le problème
 
-Il est possible qu’on a fait passé la culture informatique des logiciels (qui s'exécute directement sur des machines) sur le web. Le web qui est un concept tout autre sur lequel on charge des contenus à travers le réseau.
+Il est possible qu’on a fait passé la culture informatique des logiciels (qui s'exécute directement sur des machines) sur le web. Le web qui est un concept tout autre avec lequel on charge des contenus à travers le réseau (le transfert de données coûte très très cher).
 
 > De plus, dans de nombreux cas, le choix du langage lui-même a été choisi parce qu'il est «cool» plutôt que parce qu'il est adapté au projet..
 **@cheatmaster30** - [Putting devs before users: how frameworks destroyed web performance](https://uxdesign.cc/putting-devs-before-users-how-frameworks-destroyed-web-performance-6b2c2a506aab)
@@ -51,8 +51,8 @@ Que ce soit dans les entreprises, dans les écoles… on n’apprend pas à fair
 
 L’objectif est de numériser pour contrôler, pouvoir "scaler" et livrer vite. Car il faut mettre une culture de la livraison dans les entreprises et non pas une culture de la qualité.
 
-Pour aller vite et loin, on anticipe un maximum et on équipe le projet d‘outils qui ne sont pas indispensables. Comme on ne connaît pas forcément bien le web, on se base sur des Frameworks populaires qui, a priori, intègrent la gestion de cas d’usage liés au web.
+Pour aller vite et loin, on anticipe un maximum et on équipe le projet d’outils qui ne sont pas indispensables. Comme on ne connaît pas forcément bien le web, on se base sur des Frameworks populaires qui, a priori, intègrent la gestion de cas d’usage liés au web.
 
 Cette manière de faire mène à de la monoculture et à des pages trop lourdes par rapport au besoin réel des usagers. Voilà pourquoi, les frameworks ont détruit la performance Web.
 
-
+Le web est sensé être centré usagers, le développement est trop centré développeurs.
