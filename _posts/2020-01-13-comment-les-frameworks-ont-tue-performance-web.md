@@ -38,7 +38,7 @@ En Janvier 2018, la popularité de JavaScript concernait 10% des questions sur S
 
 Mon analyse ne peut être que partielle, car le développement web ne concerne qu’une part minime du développement en général. Cependant, vu la décrue de PHP et de Java, je pense qu’une partie de ce qu'on appelait des développeurs Back (à l’époque) est passé dans du développement Front aujourd‘hui.
 
-Et s’il ne sont pas passés au développement Front, ils sont devenus directeurs techniques d’équipes et dirigent des développeurs Front (qui ne sont qu’une équipe de développement parmi les autres équipes de développement).
+Et s’ils ne sont pas passés au développement Front, ils sont devenus directeurs techniques d’équipes et dirigent des développeurs Front (qui ne sont qu’une équipe de développement parmi les autres équipes de développement).
 
 ## Le problème
 
