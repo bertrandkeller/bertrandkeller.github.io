@@ -1,6 +1,6 @@
 ---
 title: Comment les frameworks ont détruit la performance Web ?
-image: 
+image: /assets/http-archive-page-weight-2010-2019.png
 categories:
 - Low-Tech
 ---
