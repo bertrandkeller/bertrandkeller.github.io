@@ -15,7 +15,7 @@ N’est-ce pas formidable ? Pouvoir accéder à une application en utilisant un 
 
 A condition de pouvoir s'en acheter une. Et d’avoir un bon forfait. Et aussi un bon processeur et de la RAM et la bonne version d’OS… sinon ça rame un peu… mais bon sinon c’est plutôt pas mal.
 
-En gros React.js, c’est un peu le futur ou tout le web deviendrait applicatif. La technologie que tout le monde doit adopter pour proposer "numériser" ses services.
+En gros React.js, c’est un peu le futur ou tout le web deviendrait applicatif. La technologie que tout le monde doit adopter pour "numériser" ses services.
 
 Ainsi, qu’observe-t-on ? La plus grande partie des offres d’emplois dans le développement Front concernent React.js. Les entreprises ne cherchent pas des développeurs, mais des développeurs React. Indépendamment des compétences du développeur ou de sa capacité à progresser.
 
@@ -58,7 +58,7 @@ Andy Bell n‘est pas content :
 <div class="center">
 	{% twitter https://twitter.com/hankchizljaw/status/1224972729373405185 %}
 </div>
-
+<br>
 Lire aussi [Honesty is the best policy](https://hankchizljaw.com/wrote/honesty-is-the-best-policy/) d’Andy Bell.
 
 
