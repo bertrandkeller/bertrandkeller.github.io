@@ -2,7 +2,7 @@
 layout: null
 ---
 
-"use strict";
+'use strict';
 
 const staticCacheName = "version-{{site.time | date: '%Y%m%d%H%M%S'}}";
 const pagesCacheName  = 'pages';
