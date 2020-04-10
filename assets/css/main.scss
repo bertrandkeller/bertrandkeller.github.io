@@ -100,10 +100,13 @@ header.site-header {
 }
 
 .nav-social {
+  display: none;
   position: absolute;
   right: 1em;
   font-size: 75%;
-
+  @media #{$medium-up} {
+    display: block;
+  }
   li {
     margin: 0;
   }
