@@ -7,7 +7,7 @@ categories:
 ---
 
 <div class="btn-link">
-<a href="https://bertrandkeller.info/audit/agencesecoconception/">Classement des agences web de sites éco-conçus</a>.
+<a href="https://lowtus.fr/audits/agences-web-eco-conception/">Classement des agences web de sites éco-conçus</a>.
 </div>
 
 ## La situation
@@ -38,7 +38,7 @@ L’indicateur énergétique est une échelle ouverte (on peut avoir plus de 100
 
 Sur 13 agences, on trouve 6 agences qui ont vraiment un bon score ; je dirais 6 agences qui ont essayé d’avoir un bon classement à l'ecoindex (ce qui est normale pour celles qui ont suivi la formation).
 
-### L’aspect 
+### L’aspect
 
 À partir de la 7ème place, les agences semblent avoir choisi de faire des sites plus fournis dans leur présentation et ceci au détriment du poids de la page. C’est évidemment courant de succomber aux sirènes du Design pour impressionner les clients potentiels ; il est compliqué de penser qu’on va pouvoir convaincre avec 3 blocs et 2 images ; ça peut faire pauvre.
 
@@ -66,4 +66,4 @@ Elles sont engagées dans l'éco-conception et c’est très bien. Intéressés 
 
 *Je ne me suis pas mis dans le classement, mais je suis disponible pour vos questions*
 
-Visiter le <a href="https://bertrandkeller.info/audit/agencesecoconception/">Classement des agences web de sites éco-conçus</a>.
+Visiter le <a href="https://lowtus.fr/audits/agences-web-eco-conception/">Classement des agences web de sites éco-conçus</a>.

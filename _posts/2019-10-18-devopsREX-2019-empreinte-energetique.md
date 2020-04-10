@@ -34,7 +34,7 @@ Je me suis appuyé sur les chiffres du rapport de GreenIT (qui devrait sortir pr
 Pour ceux qui voudrait consulter ce classement, voici le lien.
 
 <div class="btn-link">
-<a href="https://bertrandkeller.info/audit/conferencesweb/">Classement de conférences web</a>.
+<a href="https://lowtus.fr/audits/conferences-web/">Classement de conférences web</a>.
 </div>
 
 ## Conclusion
