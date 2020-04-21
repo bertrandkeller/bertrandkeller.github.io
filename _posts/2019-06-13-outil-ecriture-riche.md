@@ -22,10 +22,6 @@ Avec Peritext, on insère une phase intermédiaire de contextualisation. C'est u
 
 Comme ça, quand le document de la bibliothèque est complété, il met à jour l'ensemble de tous les documents qui l'utilise.
 
-<video controls="">
-    <source src="https://peritext.github.io/assets/sneak-peak.mp4" type="video/mp4">
-</video>
-<br>
 
 Découvrir [Ovide](https://peritext.github.io/ovide/).
 
