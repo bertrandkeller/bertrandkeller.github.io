@@ -17,8 +17,9 @@
   }
 }
 
-.center {
-  margin: 0 auto $line-height-base;
+.center,
+.jekyll-twitter-plugin {
+  margin: 0 auto 1.5rem;
   text-align: center;
 }
 
@@ -103,7 +104,7 @@
   padding: 0;
   overflow: hidden;
   text-align: center;
-  
+
   iframe,
   embed,
   object,
