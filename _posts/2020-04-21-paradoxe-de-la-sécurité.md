@@ -1,0 +1,59 @@
+---
+title: Paradoxe de la sécurité
+categories:
+-   Eco-responsable
+---
+
+Qu'est-ce qu'être éco-responsable ? Moi, Bertrand Keller, je me déclare comme développeur HTML/CSS éco-responsable. Qu'est ce qui fait de moi que je le suis vraiment ?
+
+## Développeur Éco-responsable
+
+Développeur Éco-responsable est un bien grand mot car dans la grande compléxité du web, nous nous adossons souvent à des services qui consomment de l’énergie pour nous. C'est le système.
+
+Dans cette grande lessiveuse, être Éco-responsable, c’est se poser des questions sur le bienfait de l'installation d‘une technologie : ne pas suivre les modes, garantir une mission de conseil client, privilégier le long terme.
+
+Être Éco-responsable, c'est se dire : oui ma tour en Kapla a été réalisée avec le plus grand soin possible, elle est régit par une mise en place au millimètre, elle est plutôt solide,… mais, à par moi, qui peut la maintenir sans qu’un élément bouge, qui peut la faire évoluer sans casser le plan initial ? Résistera-t-elle à un coup de vent, un tremblement du bâtiment ?
+
+Dans Éco-responsable, il y a responsable. C’est-à-dire admettre que s’il n'existe pas les ressources nécessaires pour préserver un système, il faut le dimensionner pour que le système dure le plus dans le temps. Sinon, vous êtes un charlatan.
+
+## Un site en 2020
+
+Le gouvernement anglais a réalisé un site sur le coronavirus, un site d’urgence a priori. Question performance, c'est pas moi qui commente c’est Matthew Somerville :
+
+> To be clear, I am sure the site was put together under a lot of pressure and constraints. It looks well-coded; I am not doing down anyone who worked on it. My concern is that the tools we equip web developers with nowadays are poor for producing resilient websites.
+
+Il pense que l’équipe est certainement très douée, très performante mais très mauvaise pour réaliser des sites résilients. Je vous laisse juge de la performance du site. 18 secondes en 3G pour le site en question ; 5 secondes pour le même site refait par Matthew.
+
+<div class="center">
+	{% twitter https://twitter.com/dracos/status/1251836599421329410 %}
+</div>
+<br>
+
+## Notre-Dame et le paradoxe de la sécurité
+
+Raffaele Alberto Ventura nous explique dans un article du quotidien *Il Foglio*, que l’incendie de Notre-Dame a certainement été causé par une complexité technique importante qui n'était pas été adaptée à un cas spécifique : une cathédrale.
+
+> L’incendie de Notre-Dame est un accident et il serait injuste d’en tirer des conclusions trop générales. Mais il reste paradoxal que, dans l’histoire millénaire de la cathédrale, les dommages les plus graves se soient produits précisément au moment où le système de sécurité considéré comme le plus avancé de l’histoire de l’humanité a été installé.
+
+Oui, en effet, on a jamais été aussi évolué techniquement, mais on ne sait pas détecter un incendie sur une cathédrale. En même temps :
+
+> La personne chargée de surveiller le tableau d’alarme incendie et d’appeler éventuellement les pompiers, employée par une société de sécurité extérieure, travaillait à Notre-Dame depuis… trois jours.
+
+On avait réduit le personnel, mais pourquoi ? Parce que le système est sensé fonctionner sans personne qualifiée, donc on réduit les effectifs, seulement une personne non qualifiée ne sait pas interpréter une alerte. Mais le problème ne réside pas ici spécifiquement car on pourrait penser qu’on pourrait contrôler la machine. En fait, il est plus général :
+
+> Nous avons affaire à un « défaut de compétence » qui ne devient catastrophique que parce que le système suppose une compétence, c’est-à-dire qu’il suppose plus de compétence que celle qui est disponible.
+
+Quel que soit en réalité les moyens mis en œuvre, le système technique complexe provoque un « défaut de compétence » qui aboutira à un accident à plus ou moins long terme.
+
+Plus un système est complexe plus il consomme d’énergie. A partir du moment où il n‘y a plus les ressources nécessaires pour sa survie, il meure.
+
+## Conclusion
+
+Ainsi, cette règle des systèmes complexes vaut pour tout. Elle vaut pour les sites web.
+
+Il est possible de se gargariser de réaliser un site super complexe et super rapide, mais un site complexe cache un besoin en ressources qui fait que tôt ou tard ces ressources viendront à manquer et que le site viendra à planter (ou à ne plus évoluer).
+
+Ainsi, un système complexe peut exister mais il est indispensable de penser sa simplification afin de garantir sa permanence dans le temps.
+
+Ce n’est pas de cette manière dont nous concevons les choses en cette période et c’est pourquoi nous voyons (et nous verrons) beaucoup d’accidents (et de situations de crises).
+
