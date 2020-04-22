@@ -53,7 +53,7 @@ Lire : [Paradoxe de la sécurité](https://legrandcontinent.eu/fr/2020/04/14/not
 
 Ainsi, cette règle des systèmes complexes vaut pour tout. Elle vaut pour les sites web.
 
-Il est possible de se gargariser de réaliser un site super complexe et super rapide, mais un site complexe cache un besoin en ressources qui fait que tôt ou tard ces ressources viendront à manquer et que le site viendra à planter (ou à ne plus évoluer).
+Il est possible de se gargariser de réaliser un site super complexe et super rapide, mais un site complexe cache un besoin en ressources qui fait que tôt ou tard ses ressources viendront à manquer et que le site viendra à planter (ou à ne plus évoluer).
 
 Ainsi, un système complexe peut exister mais il est indispensable de penser sa simplification afin de garantir sa permanence dans le temps.
 
