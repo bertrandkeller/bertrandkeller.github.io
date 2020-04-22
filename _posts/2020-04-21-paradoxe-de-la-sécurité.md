@@ -14,7 +14,7 @@ Dans cette grande lessiveuse, être Éco-responsable, c’est se poser des quest
 
 Être Éco-responsable, c'est se dire : oui ma tour en Kapla a été réalisée avec le plus grand soin possible, elle est régit par une mise en place au millimètre, elle est plutôt solide,… mais, à par moi, qui peut la maintenir sans qu’un élément bouge, qui peut la faire évoluer sans casser le plan initial ? Résistera-t-elle à un coup de vent, un tremblement du bâtiment ?
 
-Dans Éco-responsable, il y a responsable. C’est-à-dire admettre que s’il n'existe pas les ressources nécessaires pour préserver un système, il faut le dimensionner pour que le système dure le plus dans le temps. Sinon, vous êtes un charlatan.
+Dans Éco-responsable, il y a responsable. C’est-à-dire admettre que s’il n'existe pas les ressources nécessaires pour préserver un système, il faut le dimensionner pour que le système dure le plus dans le temps (en fonction des ressources disponibles). Sinon, vous êtes un charlatan.
 
 ## Un site en 2020
 
@@ -46,6 +46,8 @@ On avait réduit le personnel, mais pourquoi ? Parce que le système est sensé 
 Quel que soit en réalité les moyens mis en œuvre, le système technique complexe provoque un « défaut de compétence » qui aboutira à un accident à plus ou moins long terme.
 
 Plus un système est complexe plus il consomme d’énergie. A partir du moment où il n‘y a plus les ressources nécessaires pour sa survie, il meure.
+
+Lire : [Paradoxe de la sécurité](https://legrandcontinent.eu/fr/2020/04/14/notre-dame-raffaele-ventura/)
 
 ## Conclusion
 
