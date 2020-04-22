@@ -8,7 +8,7 @@ Qu'est-ce qu'être éco-responsable ? Moi, Bertrand Keller, je me déclare comme
 
 ## Développeur Éco-responsable
 
-Développeur Éco-responsable est un bien grand mot car dans la grande compléxité du web, nous nous adossons souvent à des services qui consomment de l’énergie pour nous. C'est le système.
+Développeur Éco-responsable est un bien grand mot car dans la grande complexité du web, nous nous adossons souvent à des services qui consomment de l’énergie pour nous. C'est le système.
 
 Dans cette grande lessiveuse, être Éco-responsable, c’est se poser des questions sur le bienfait de l'installation d‘une technologie : ne pas suivre les modes, garantir une mission de conseil client, privilégier le long terme.
 
