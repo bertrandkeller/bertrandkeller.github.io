@@ -59,3 +59,5 @@ Ainsi, un système complexe peut exister mais il est indispensable de penser sa 
 
 Ce n’est pas de cette manière dont nous concevons les choses en cette période et c’est pourquoi nous voyons (et nous verrons) beaucoup d’accidents (et de situations de crises).
 
+À moins de passer à une démarche [Low-Tech](/low-tech-site-web-internet/).
+

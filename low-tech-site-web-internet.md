@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La Low-Tech pour le développement de sites web et internet
+title: Développeur éco-responsable de sites web et internet Low-Tech
 navigation: false
 type: article
 category: Low-Tech
@@ -14,11 +14,12 @@ Parce que je milite depuis des années (au milieu de plein d’autres personnes)
 
 J'ai travaillé sur des petits sites, mais aussi sur des très grosses machines ; j’approfondie l’usage des [générateurs de site statique](/generateur-site-statique/). Quand vous chargez une page web, votre navigateur charge des dizaines, voire des centaines de fichiers (plus ou moins lourds) ; souvent le site peut mettre plusieurs secondes à s’afficher. Est-ce que ces fichiers sont utiles ? Est-ce qu'on peut les optimiser ? Les supprimer ?
 
-Je suis un expert du développement d’interfaces, expert de la **performance web**. Si jamais l’idée vous venait d’entamer une démarche durable pour votre site web, vos outils internes… Il y a moyen de réduire par 5, 10, parfois plus, le poids de votre infrastructure numérique par la diminution drastique de fichiers inutiles mais surtout de pratiques inutiles (à l'origine de la génération de ces fichiers).
+Je suis un expert du développement d’interfaces, expert de la **performance web**, en faveur d’une démarche éco-responsable. Si jamais l’idée vous venait d’entamer une démarche durable pour votre site web, vos outils internes… Il y a moyen de réduire par 5, 10, parfois plus, le poids de votre infrastructure numérique par la diminution drastique de fichiers inutiles mais surtout de pratiques inutiles (à l'origine de la génération de ces fichiers).
 
 Oui, c'est possible assez simplement et, pour tout dire, à travers une démarche de **convivialité** car l’idée est de supprimer les lourdeurs en privilégiant les compétences humaines (plutôt que de mettre de la confiance dans la machine).
 
 ## Articles sur la Low-Tech
+
 <ul class="posts-list">
   {% for post in site.categories[page.category] reversed %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
