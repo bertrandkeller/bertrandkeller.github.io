@@ -18,7 +18,7 @@ Donc, je suis arrivé avec mon initiative, et j'ai pondu cette page :
 <a href="https://www.greenit.fr/etude-empreinte-environnementale-du-numerique-mondial/">Découvrir le rapport sur l’empreinte environnementale du numérique mondial</a>.
 </div>
 
-Ça vaut ce que ça vaut, mais j’ai essayé que cette page soit Low-Tech, se charge le plus rapidement possible et soit navigable sur des petits écrans.
+Ça vaut ce que ça vaut, mais j’ai essayé que cette page soit [Low-Tech](/low-tech-site-web-internet/), se charge le plus rapidement possible et soit navigable sur des petits écrans.
 
 Au niveau technique, j’ai donc inséré un header avec une image dithered (dégradée), un menu d'ancre avec de la navigation douce, des beaux tableaux et des graphiques dynamiques avec une bibliothèque assez légère.
 
