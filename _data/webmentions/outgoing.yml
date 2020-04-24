@@ -149,7 +149,12 @@ https://bertrandkeller.info/2019/06/13/outil-ecriture-riche/:
   https://tiddlywiki.com/: false
   http://cartodb.github.io/odyssey.js/: false
 https://bertrandkeller.info/2019/06/18/HTML-est-le-web/:
-  https://www.petelambert.com/journal/html-is-the-web/: false
+  https://www.petelambert.com/journal/html-is-the-web/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/www.petelambert.com/webmention/J5TgLugDXBh1g4UEhCW1
+    source: https://bertrandkeller.info/2019/06/18/HTML-est-le-web/
+    target: https://www.petelambert.com/journal/html-is-the-web/
 https://bertrandkeller.info/2019/06/20/web-low-tech/:
   http://www.tegola.org.uk/hebnet/: false
 https://bertrandkeller.info/2019/06/21/mot-passe-CMS-non-securise/:
@@ -667,10 +672,20 @@ https://bertrandkeller.info/2006/10/03/babord-tribord/:
   http://www.24heures.ch/vqhome/archives_2006/octobre06/france_campagne_royal.edition=ls.html: false
   http://www.dailymotion.com/video/xg36u_bourdieu-royal-est-de-droite: false
   "//fr.wikipedia.org/wiki/Pierre_Bourdieu": false
-  https://bertrandkeller.info/2006/07/30/jeu-de-familles-du-net/: false
+  https://bertrandkeller.info/2006/07/30/jeu-de-familles-du-net/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/bertrandkeller.info/webmention/NuVCye55u4jIckYyAWMq
+    source: https://bertrandkeller.info/2006/10/03/babord-tribord/
+    target: https://bertrandkeller.info/2006/07/30/jeu-de-familles-du-net/
 https://bertrandkeller.info/2006/10/25/avenir-du-desir/:
   http://presidentielle.2007.free.fr/index.php?2006/10/13/638-thomas-hollande: false
-  https://bertrandkeller.info/2006/10/03/babord-tribord: false
+  https://bertrandkeller.info/2006/10/03/babord-tribord:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/bertrandkeller.info/webmention/8UuPzCA58o_k-d9WUhL0
+    source: https://bertrandkeller.info/2006/10/25/avenir-du-desir/
+    target: https://bertrandkeller.info/2006/10/03/babord-tribord
   http://www.parolesdemilitants.com/article-4159225.html: false
   http://pek.blogs.com/pek/2006/10/episode_12_lant.html: false
   http://mry.blogs.com/les_instants_emery/2006/10/thomas_hollande.html: false
@@ -697,7 +712,12 @@ https://bertrandkeller.info/2006/10/30/internet-governance-forum/:
   http://www.gcn.com/print/25_2/38005-1.html: false
   http://www.wallonie-en-ligne.net/2005: false
   http://www.ingenium.unicaen.fr/themes/catalogue/dvd_pros_gouv.html: false
-  https://bertrandkeller.info/2006/09/07/icann/: false
+  https://bertrandkeller.info/2006/09/07/icann/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/bertrandkeller.info/webmention/aRf3_LBUTsiSXiS3rqh3
+    source: https://bertrandkeller.info/2006/10/30/internet-governance-forum/
+    target: https://bertrandkeller.info/2006/09/07/icann/
   http://www.rsf.org/article.php3?id_article=19468: false
   http://www.amnestyinternational.be/doc/article9238.html: false
   http://web.amnesty.org/library/index/fraMDE131212006?open&of=fra-IRN: false
@@ -894,7 +914,7 @@ https://bertrandkeller.info/2007/08/15/alan-greenspan-conseiller-de-la-deutsche-
   http://www.lexpansion.com/Pages/PrintArticle.asp?ArticleId=139728: false
   http://www.controverses.com/bioethique/hwangwwoo.htm: false
   http://www.lefigaro.fr/marches/20070726.WWW000000537_le_subprime_coule_wall_street.html: false
-  http://fplanque.net/credit-finance/credit/subprime-spam: false
+  http://fplanque.net/credit-finance/credit/subprime-spam: ''
   ? http://today.reuters.fr/news/newsArticle.aspx?type=businessNews&storyID=2007-08-14T095936Z_01_CHE435846_RTRIDST_0_OFRBS-BCE-APPEL-DOFFRES-20070814.XML
   : false
   http://rue89.com: false
@@ -905,7 +925,12 @@ https://bertrandkeller.info/2007/08/15/alan-greenspan-conseiller-de-la-deutsche-
   http://alsace.novopress.info/?p=641: false
   http://www.agoravox.fr/article.php3?id_article=27827: false
 https://bertrandkeller.info/2007/08/19/tir-de-missile-en-georgie-un-cas-pratique/:
-  https://bertrandkeller.info/2007/08/11/confusion-sur-un-tir-de-missiles-en-georgie/: false
+  https://bertrandkeller.info/2007/08/11/confusion-sur-un-tir-de-missiles-en-georgie/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/bertrandkeller.info/webmention/0Pwqx1GyrateE0Uv8iTc
+    source: https://bertrandkeller.info/2007/08/19/tir-de-missile-en-georgie-un-cas-pratique/
+    target: https://bertrandkeller.info/2007/08/11/confusion-sur-un-tir-de-missiles-en-georgie/
   http://www.lorient-lejour.com.lb/page.aspx?page=article&id=349940: false
   http://www.fenetreeurope.com/php/page.php?section=actu&id=8786: false
   http://fr.rian.ru/analysis/20070817/72173108.html: false
@@ -956,7 +981,12 @@ https://bertrandkeller.info/2007/09/24/sweetts-version-111/:
   http://t3n.yeebase.com/aktuell/news/newspost/neue-version-des-typoscript-editors-sweets-erschienen/921/: false
   http://snipplr.com/extras/textmate/: false
 https://bertrandkeller.info/2007/09/26/championnats-du-monde-de-raccourcis-clavier/:
-  https://bertrandkeller.info/?q=clic: false
+  https://bertrandkeller.info/?q=clic:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/bertrandkeller/webmention/zBXksZ9R9CRT9RQvlMIu
+    source: https://bertrandkeller.info/2007/09/26/championnats-du-monde-de-raccourcis-clavier/
+    target: https://bertrandkeller.info/?q=clic
   http://www.keyxl.com: false
   http://www.metropolis.fr/: false
   http://pink-tecktonik.boosterblog.com/: false
@@ -976,7 +1006,12 @@ https://bertrandkeller.info/2007/09/30/pendant-cette-troisieme-mi-temps/:
   http://fr.rian.ru/world/20070925/80874861.html: false
   http://www.colisee.org/article.php?id_article=1679: false
   http://fr.rian.ru/world/20070927/81347926.html: false
-  https://bertrandkeller.info/2007/08/11/confusion-sur-un-tir-de-missiles-en-georgie: false
+  https://bertrandkeller.info/2007/08/11/confusion-sur-un-tir-de-missiles-en-georgie:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/bertrandkeller.info/webmention/6y-xjMN7bnYMV-ZSsAlA
+    source: https://bertrandkeller.info/2007/09/30/pendant-cette-troisieme-mi-temps/
+    target: https://bertrandkeller.info/2007/08/11/confusion-sur-un-tir-de-missiles-en-georgie
   http://afp.google.com/article/ALeqM5hJFMFzqMvYuQF4TGichU_chYc1zw: false
   http://www.voltairenet.org/article141848.html: false
   http://www.voltairenet.org/article140979.html: false
