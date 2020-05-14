@@ -4,7 +4,7 @@ layout: null
 
 'use strict';
 
-const staticCacheName = "version-{{site.time | date: '%Y%m%d%H%M%S'}}";
+const staticCacheName = "version-{{ site.time | date: '%Y%m%d%H%M%S' }}";
 const pagesCacheName  = 'pages';
 const imagesCacheName = 'images';
 
@@ -15,7 +15,6 @@ const cacheList = [
 ];
 
 const offlinePages = [
-    "/",
     {% for page in site.html_pages %}
     '{{ page.url  | relative_url }}',
     {% endfor %}
