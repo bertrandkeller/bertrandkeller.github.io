@@ -47,7 +47,7 @@ Quel que soit en réalité les moyens mis en œuvre, le système technique compl
 
 Plus un système est complexe plus il consomme d’énergie. A partir du moment où il n‘y a plus les ressources nécessaires pour sa survie, il meure.
 
-Lire : [Paradoxe de la sécurité](https://legrandcontinent.eu/fr/2020/04/14/notre-dame-raffaele-ventura/)
+Lire : [Paradoxe de la sécurité](https://legrandcontinent.eu/fr/2020/04/14/notre-dame-raffaele-ventura/).
 
 ## Conclusion
 
