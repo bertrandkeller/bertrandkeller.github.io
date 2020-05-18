@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prestations
-description: Développeur sites Internet - Drupal / Jekyll / Hugo / Nuxt - Low-Tech & éco-conception
+description: Développeur responsable sites Internet - Jekyll/Hugo/Eleventy/Nuxt - Low-Tech & éco-conception
 navigation: true
 image: "/assets/bertrandkeller.png"
 type: article
@@ -35,13 +35,13 @@ type: article
   </svg>
   <p class="anchor"><a href="#id-conseil">Conseil stratégique</a></p>
   <p class="anchor"><a href="#id-integration">Intégration web</a></p>
-  <p class="anchor"><a href="#id-jekyll">Formation Jekyll ou Hugo</a></p>
+  <p class="anchor"><a href="#id-jekyll">Formation Jekyll, Hugo ou Eleventy</a></p>
   <p class="anchor"><a href="#id-benevolat">Bénévolat</a></p>
   <p class="anchor arrow"><a href="#id-conseil">
     Accéder aux panneaux<br>
     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
         width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-    <g id="ARROW__x2F__DOWN_1_" enable-background="new    ">
+    <g id="ARROW__x2F__DOWN_1_" enable-background="new">
         <g id="ARROW__x2F__DOWN">
             <g>
                 <path d="M53,23c0-1.657-1.343-3-3-3c-0.809,0-1.542,0.321-2.082,0.841l-0.001-0.001L31.993,36.764L16.275,21.046
@@ -74,7 +74,7 @@ type: article
         </g>
         </svg>
         Transition Low-Tech</h2>
-        <p>Ma formation d'ingénieur à l'Université de Technologie de Compiègne et une expérience de plus de 10 années m'ont permis de développer de bonnes compétences pour la réalisation de sites web.</p>
+        <p>Ma formation d’ingénieur à l'Université de Technologie de Compiègne et une expérience de plus de 10 années m'ont permis de développer de bonnes compétences pour la réalisation de sites web.</p>
         <p>Le web est devenu l’outil de travail d’une entreprise et de ses équipes. L'enjeu du web n'est pas juste de mettre en ligne des interfaces mais surtout de mettre en place des méthodes de travail en développant une culture numérique innovante.</p>
         <ol class="panel-list">
             <li><span>Positionnement web</span></li>
@@ -128,7 +128,7 @@ type: article
                 </g>
             </g>
             </svg> 
-            Formation Jekyll ou Hugo</h2>
+            Formation Jekyll, Hugo ou Eleventy</h2>
       <p>J'enseigne Jekyll dans différentes structures et notamment à des élèves de licence à l'IUT d'Elbeuf près de Rouen.</p>
       <p>Jekyll/Hugo, et les générateurs de contenu statique, sont en train de devenir des plateformes de documentation pour la réalisation et le suivi de projets.</p>
       <p>A très peu de frais, ils permettent d'éditer sous forme de fichiers textes aussi bien du contenu que des données qui peuvent être publiés sous différents formats : HTML, PDF…</p>
@@ -138,7 +138,7 @@ type: article
             <li><span>Progresser par soi-même</span></li>
         </ol>
       <p>Apprendre Jekyll ou Hugo, c'est devenir autonome, avoir une souplesse pour éditer des données sur le web ou tout autre support de communication.</p>
-      <p><strong>=> Voir la page d'offre de <a href="/formation-jekyll-hugo/">formations à Jekyll ou hugo</a>.</strong></p>
+      <p><strong>=> Voir la page d'offre de <a href="/formation-jekyll-hugo/">formations à Jekyll, Hugo ou Eleventy</a>.</strong></p>
   </div>
 </section>
 
@@ -169,7 +169,7 @@ Actions bénévoles</h2>
             <li><span>Aller vers les autres</span></li>
             <li><span>Expérimenter de nouvelles choses</span></li>
         </ol>
-        <p>En plus de cela, je pratique des activités manuelles de manière régulière que ce soit par de la réparation de vélo à l’association <a href="http://www.guidoline.com/">Guidoline</a> ou avec la réfection de fauteuils avec l'association <a href="https://activitesaintnicaise.org">Activités Saint Nicaise.</a></p>
+        <p>En plus de cela, je pratique des activités manuelles de manière régulière que ce soit par de la réparation de vélo à l’association <a href="http://www.guidoline.com/">Guidoline</a> ou avec la réfection de fauteuils avec l’association <a href="https://activitesaintnicaise.org">Activités Saint Nicaise.</a></p>
     </div>
 </section>
 <!-- <section class="panel">
