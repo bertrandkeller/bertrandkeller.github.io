@@ -8,7 +8,7 @@ Au cours des 10 dernières années, [https://httparchive.org/](Httparchive.org) 
 
 > Pour les pages Web visitées à partir d’un ordinateur de bureau, le temps de chargement médian ne s'est pas amélioré. Les sites Web d’aujourd’hui ne sont pas beaucoup plus rapides qu'ils ne l'étaient il y a 10 ans.
 
-![comparaison dans le temps entre le temps de chargement de pages et la connection internet](https://media.nngroup.com/media/editor/2020/05/08/change-in-page-load-time-vs-connection-speed-desktop.png)
+![comparaison dans le temps entre le temps de chargement de pages et la connection internet](/assets/change-in-page-load-time-vs-connection-speed-desktop.png)
 
 Les règles de la perception humaine du temps fournissent un cadre pour comprendre les effets des retards de page Web : les gens peuvent détecter des retards aussi courts que 1/10e de seconde, donc **tout ce qui prend plus de temps ne semble pas "instantané"**.
 

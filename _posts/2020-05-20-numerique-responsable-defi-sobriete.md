@@ -20,6 +20,6 @@ Des indicateurs environnementaux et sociaux ? Qu'est-ce que c’est ? Comment on
 
 A vrai dire c’est compliqué. Mais justement, il s’agit de la plus value que peut apporter un développeur responsable avec des compétences en éco-conception de sites web.
 
-L’enjeu est non pas de réaliser une interface, mais plutôt de penser l’usage du numérique dans une organisation. Comment il peut servir vraiment les acteurs dans chaque équipe ? Il s’agit de développement, mais aussi de choix d'outils, de formation,… avec en permanence une réflexion sur le coût environnemental et l’exposition (sécurité, perte de service…).
+L’enjeu est non pas de réaliser une interface, mais plutôt de penser l’usage du numérique dans une organisation. Comment il peut servir vraiment les acteurs dans chaque équipe ? Savoir s’il s’agit de développement spécifique, ou de choix d'outils existants, de formation utilisateurs,… avec en permanence une réflexion sur le coût environnemental et l’exposition (sécurité, perte de service…).
 
 Lire l’article [Homo numericus : le défi de la sobriété](https://vivant-le-media.fr/homo-numericus-sobriete-numerique/).
