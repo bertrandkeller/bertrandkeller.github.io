@@ -4,7 +4,7 @@ categories:
 -   Eco-responsable
 ---
 
-Je vous relais cet article rédigé par Alice Rocheman de SQLI : [Une expertise front-end est nécessaire dans les projets d’applications web](https://www.lemagit.fr/tribune/Une-expertise-front-end-est-necessaire-dans-les-projets-dapplication-webr).
+Je vous relais cet article rédigé par Alice Rocheman de SQLI : [Une expertise front-end est nécessaire dans les projets d’applications web](https://www.lemagit.fr/tribune/Une-expertise-front-end-est-necessaire-dans-les-projets-dapplication-web).
 
 À propos des compétences d’un responsable interface, un intégrateur, spécialiste de la lecture de document des usages variés des utilisateurs d'interfaces :
 
