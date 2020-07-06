@@ -1,5 +1,5 @@
 ---
-title: "L’Éthiopie coupe internet, de l'intérêt des sites Low-Tech"
+title: "L’Éthiopie coupe internet, de l’intérêt des sites Low-Tech"
 categories:
 -   Low-Tech
 ---
