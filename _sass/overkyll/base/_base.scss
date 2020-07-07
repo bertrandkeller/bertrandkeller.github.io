@@ -60,6 +60,7 @@ video {
 a {
   text-decoration: underline;
   color: $link-color;
+  word-wrap: break-word;
   &:visited {
     color: $link-color;
   }
