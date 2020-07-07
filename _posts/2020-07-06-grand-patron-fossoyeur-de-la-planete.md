@@ -26,7 +26,7 @@ En effet, au delà, des émissions de carbones, les interfaces High-Tech nous re
 
 On peut débattre sur les bien faits, les méfaits de la 5G. Bon, mauvais, pour la santé, considération dogmatiques des écolos, volonté de suivre la course mondiale pour ne pas se faire dépasser par nos concurrents ?
 
-Mais la 5G est un nouveau moyen de communiquer pour les appareils avec un débit sans précédent jusqu’alors. Si on peut effectivement penser que de nouveaux usages super géniaux pourraient arriver, mais il faut aussi considérer qu'il va falloir pour ça changer ou créer des milliers de nouveaux appareils connectés.
+Mais la 5G est un nouveau moyen de communiquer pour les appareils avec un débit sans précédent jusqu’alors. Si on peut effectivement penser que de nouveaux usages super géniaux pourraient arriver, il faut aussi considérer qu'il va falloir pour ça changer ou créer des milliers de nouveaux appareils connectés.
 
 Je le répète, il faudra produire ces appareils (consommer de la matière première, émettre du carbone, puiser de l'eau au détriment des cultures…), mais aussi fournir l'énergie pour ces appareils sensés évidemment rester allumés en continue (et je ne parle pas du recyclage).
 
@@ -44,9 +44,9 @@ On répète, la France est dans un **scénario improbable** de réduction des é
 
 ## UN SCÉNARIO IMPROBABLE
 
-Les instances démocratiques de notre pays se sont engagées dans un processus sensé "sauver l’humanité" ; les objectifs de ce processus dans lequel nous sommes tous parties prenantes, nous n'arrivons pas à le tenir. Il est nécessaire de prendre des mesures bien plus importantes et de réduire de manière plus conséquente l’empreinte de notre pays.
+Les instances démocratiques de notre pays se sont engagées dans un processus sensé "sauver l’humanité" ; les objectifs de ce processus dans lequel nous sommes tous parties prenantes, nous n'arrivons pas à les tenir. Il est nécessaire de prendre des mesures bien plus importantes et de réduire de manière plus conséquente l’empreinte de notre pays.
 
-Dans cette situation délicate, les patrons et lobbies obtiennent des tribunes pour nous dire que la solution pour réduire nos émissions est de consommer plus (non, l’IA n’optimiseront pas notre consommation, on observe justement le contraire, ça explose).
+Dans cette situation délicate, les patrons et lobbies obtiennent des tribunes pour nous dire que la solution pour réduire nos émissions est de consommer plus (non, l’IA n’optimisera pas notre consommation, on observe justement le contraire, ça explose).
 
 Les patrons et lobbies ont les études entre leur mains, ils ont les chiffres. Il savent. Ils utilisent un subterfuge comptable d’objectifs zéro carbone, car ils savent que la majorité de la consommation est réalisée par les terminaux finaux (vous et moi). Ils peuvent ainsi, dire : *et c'est pas nous, nous sommes vertueux, ce sont les usagers qui consomment mal, on n’y est pour rien*.
 
