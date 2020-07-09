@@ -4,7 +4,7 @@ categories:
 -   Eco-responsable
 ---
 
-Le numérique responsable est en train de devenir un thème très à la mode. Si je vous demande : `êtes vous une personne responsable ? êtes vous une entreprise responsable ?` La réponse sera dans une très grande majorité des cas : `Oui !`. Mais être responsable c’est avoir conscience de la situation du climat et de l’empreinte du numérique. Pour cela quelques ressources ici : [Des liens sur le numérique responsable](liens/numeriques-responsables/).
+Le numérique responsable est en train de devenir un thème très à la mode. Si je vous demande : `êtes vous une personne responsable ? êtes vous une entreprise responsable ?` La réponse sera dans une très grande majorité des cas : `Oui !`. Mais être responsable c’est avoir conscience de la situation du climat et de l’empreinte du numérique. Pour cela quelques ressources ici : [Des liens sur le numérique responsable](/liens/numeriques-responsables/).
 
 ## Le numérique responsable
 
@@ -32,4 +32,4 @@ Alors pour ce faire un idée, je vous partage une page ou je vais mettre mes res
 
 Ce qu’il faudra retenir, c’est que la consommation de numérique demande d’être équipé, que l’équipement est important principalement en Europe et en Amérique du Nord. Ce sont les pays dit « riches » qui ont le plus grande empreinte. Que cette empreinte doit être réduite drastiquement. Pour cela, nous devons arrêter la course à la donnée (limiter les usages) et arrêter de renouveler notre parc de périphériques.
 
-Lire : [Des liens sur le numérique responsable](liens/numeriques-responsables/).
+Lire : [Des liens sur le numérique responsable](/liens/numeriques-responsables/).
