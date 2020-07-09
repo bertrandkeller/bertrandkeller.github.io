@@ -6,7 +6,7 @@
     {% if page.type != 'article' %}
     {% include_cached header.html %}
     {% endif %}
-    <main id="main" role="main">
+    <main id="main" {% if page.type == 'article' %}class="article"{% endif %} role="main">
       {% capture source %}
         {% comment %}Inspired by https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/{% endcomment %}
         {% assign temp1 = content | split: '<pre' %}
