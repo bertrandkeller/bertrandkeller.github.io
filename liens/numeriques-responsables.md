@@ -36,6 +36,7 @@ Pages de liens et de sources à ne pas oublier, à partager :
 -   [Climat : les entreprises sont tout sauf préparées au risque - Les échos](https://business-lesechos-fr.cdn.ampproject.org/c/s/business.lesechos.fr/amp/07/338707.php)
 -   [Climat : les entreprises sont tout sauf préparées au risque - Les échos](https://business-lesechos-fr.cdn.ampproject.org/c/s/business.lesechos.fr/amp/07/338707.php)
 -   <https://twitter.com/diana_nbd/status/1280177349582077952>
+-   [25 propositions pour une transition numérique écologique](https://www.senat.fr/fileadmin/Fichiers/Images/redaction_multimedia/2020/2020-Documents_pdf/20200624_Conf_presse_Dev_Dur/20200624_Conf_Dev_Dur_Infographie.pdf)
 
 ### Formations
 
