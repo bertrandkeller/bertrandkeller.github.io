@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr">
   {% include head.html %}
-
   <body class="page" itemscope itemtype="http://schema.org/WebPage">
-    {% if page.type != 'article' %}
+    {% if page.type != 'article'%}
     {% include_cached header.html %}
     {% endif %}
-    <main id="main" {% if page.type == 'article' %}class="article"{% endif %} role="main">
+    <main id="main" role="main">
       {% capture source %}
         {% comment %}Inspired by https://www.sylvaindurand.org/ameliorer-la-typographie-avec-jekyll/{% endcomment %}
         {% assign temp1 = content | split: '<pre' %}

@@ -2,8 +2,9 @@
 layout: page
 title: Des liens sur EleventyJS
 navigation: false
-type: article
 ---
+
+<p><a href="/liens/">Retour à la page de principale de liens</a></p>
 
 <style>
 ul a {
@@ -17,6 +18,9 @@ ul a {
 -   <https://www.npmjs.com/package/eleventy-plugin-helmet>
 -   <https://www.npmjs.com/package/@quasibit/eleventy-plugin-schema>
 -   <https://github.com/brob/eleventy-plugin-svg-contents>
+-   [Eleventy plugin blog](https://github.com/sielay/eleventy-plugin-blog/)
+-   [Eleventy svg contents](https://github.com/brob/eleventy-plugin-svg-contents)
+-   [Eleventy Mindmap](https://github.com/pdehaan/11ty-mindmap)
 
 ## Tips
 
@@ -52,3 +56,5 @@ ul a {
 -   <https://github.com/clenemt/eleventy-webpack>
 -   [How to Enable your Jamstack Site to have a "Rain Day"](https://www.raymondcamden.com/2020/07/06/how-to-enable-your-jamstack-site-to-have-a-rain-day)
 -   [How Paradigma Digital switched from Wordpress to Strapi and Eleventy](https://strapi.io/user-stories/paradigma-digital-brand)
+-   [Performant data fetching with promises and Eleventy](https://www.webstoemp.com/blog/performant-data-fetching-promises-eleventy/)
+-   [Do I Need a CDN for My Personal Website?](https://blr.design/blog/cdn-for-fast-static-website/)

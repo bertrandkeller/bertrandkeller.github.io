@@ -2,7 +2,6 @@
 layout: page
 title: Développeur éco-responsable de sites web et internet Low-Tech
 navigation: false
-type: article
 category: Low-Tech
 ---
 

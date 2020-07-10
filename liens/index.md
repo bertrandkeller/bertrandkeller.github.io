@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Des liens des sources
+title: Des liens, des sources
 navigation: false
-type: article
 ---
 
 <style>
@@ -18,4 +17,5 @@ Pages de liens et de sources à ne pas oublier, à partager :
  - [Numérique responsable](/liens/numeriques-responsables/)
  - [Territoires](/liens/territoires/)
  - [Eleventy JS](/liens/eleventy-js/)
+ - [Performances web](/liens/performances-web/)
 

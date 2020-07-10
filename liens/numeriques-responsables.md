@@ -2,8 +2,9 @@
 layout: page
 title: Des liens sur le numérique responsable
 navigation: false
-type: article
 ---
+
+<p><a href="/liens/">Retour à la page de principale de liens</a></p>
 
 <style>
 ul a {
@@ -11,11 +12,7 @@ ul a {
 }
 </style>
 
-Pages de liens et de sources à ne pas oublier, à partager :
-
-## Numérique responsable
-
-### Études
+## Études
 
 -   [Empreinte environnementale du numérique mondial - Green IT](https://www.greenit.fr/etude-empreinte-environnementale-du-numerique-mondial/)
 -   [L’Arcep se penche sur l’enjeu environnemental des réseaux - Green IT](https://www.greenit.fr/2020/07/07/larcep-se-penche-sur-lenjeu-environnemental-des-reseaux/)
@@ -26,8 +23,13 @@ Pages de liens et de sources à ne pas oublier, à partager :
 -   [Pour une transition numérique écologique - Sénat Français](http://www.senat.fr/fileadmin/Fichiers/Images/redaction_multimedia/2020/2020-Documents_pdf/20200624_Conf_presse_Dev_Dur/20200624_Conf_Dev_Dur_Synthese_du_rapport.pdf)
 -   [Large inequality in international and intranational energy footprints - Nature](https://www.nature.com/articles/s41560-020-0579-8)
 -   [Redresser le cap relancer la transition - Haut Conseil Climat](https://www.hautconseilclimat.fr/publications/rapport-annuel-2020/)
+-   [La controverse de la 5G](https://drive.infomaniak.com/app/share/128619/9e317de6-c376-46ed-80dc-20dccfbf4874/preview/pdf/7603)
+-   [Entreprises du Numérique : l'Urgence Carbone](https://www.linkedin.com/pulse/entreprises-du-num%25C3%25A9rique-lurgence-carbone-herv%25C3%25A9-collignon/?trackingId=j9XhLTbx2T8%2Br8J8Rx9Gzg%3D%3D)
+-   [Responsabilité numérique des entreprises : la Plateforme RSE publie un premier avis sur l’enjeu des données](https://www.strategie.gouv.fr/publications/responsabilite-numerique-entreprises-plateforme-rse-publie-un-premier-avis-lenjeu)
+-   [Publication des travaux sur l'environnement et le numérique - CNUM](https://cnnumerique.fr/environnement_numerique)
 
-### Articles/Refléxions
+
+## Articles/Refléxions
 
 -   [Les actions climatiques de la France ne sont pas à la hauteur - France Info](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/rechauffement-les-actions-climatiques-de-la-france-ne-sont-pas-a-la-hauteur-des-enjeux-ni-des-objectifs-qu-elle-s-est-donne-denonce-le-haut-conseil-pour-le-climat_4037945.html)
 -   [Œuvrer à l'émergence d'un « autre numérique » est-il une impasse ? - Usbek & Rika](https://usbeketrica.com/article/oeuvrer-emergence-autre-numerique-est-il-impasse)
@@ -38,7 +40,7 @@ Pages de liens et de sources à ne pas oublier, à partager :
 -   <https://twitter.com/diana_nbd/status/1280177349582077952>
 -   [25 propositions pour une transition numérique écologique](https://www.senat.fr/fileadmin/Fichiers/Images/redaction_multimedia/2020/2020-Documents_pdf/20200624_Conf_presse_Dev_Dur/20200624_Conf_Dev_Dur_Infographie.pdf)
 
-### Formations
+## Formations
 
 -   [MOOC Sensibilisation Numérique Responsable](https://institutnr.org/mooc-sensibilisation-numerique-responsable)
 -   [Initiez-vous à l'éthique de l'ingénierie dans le numérique](https://openclassrooms.com/fr/courses/6112876-initiez-vous-a-lethique-de-lingenierie-dans-le-numerique)
@@ -46,14 +48,16 @@ Pages de liens et de sources à ne pas oublier, à partager :
 -   [Analyse du cycle de vie de service numérique - DDemain](https://ddemain.com/formation/)
 -   [Optimisation Transformation numérique - Microfocus](https://www.microfocus.com/fr-fr/home)
 
-### Conférences
+## Conférences
 
 -   [DEVFEST Toulouse 2019 - "Numérique et environnement"](https://www.youtube.com/watch?v=jA8aHSMZ_DI)
 -   [Devops REX 2019 - Construire un site Low-Tech à faible consommation d’énergie ?](https://www.youtube.com/watch?v=C2Xr_R6D6MY)
 -   [BDX I/O 2019 - Green IT is the new web - Julie Guillerm](https://www.youtube.com/watch?v=SWVCmYGmTsE)
 -   [Interview de Jean Marc Jancovici - Rencontres d'Aix](https://www.youtube.com/watch?v=ZsMSF0l9kyM)
 
-### Indicateurs
+## Indicateurs
 
 -   [Marmelab est lauréat du Challenge Sobriété Numérique 2020](https://marmelab.com/blog/2020/06/22/sobriete-numerique.html)
 -   [Speedlab](https://www.browserstack.com/speedlab)
+-   [Website Carbon](https://www.websitecarbon.com/)
+-   [What does my Sitecost](https://whatdoesmysitecost.com/)
