@@ -1,16 +1,7 @@
 ---
-layout: page
 title: Des liens sur le territoire
 navigation: false
 ---
-
-<p><a href="/liens/">Retour à la page de principale de liens</a></p>
-
-<style>
-ul a {
-  font-size: 80%;
-}
-</style>
 
 ## Articles
 

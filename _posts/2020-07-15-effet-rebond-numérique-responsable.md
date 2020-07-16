@@ -55,4 +55,4 @@ La sobriété énergétique et numérique prend le parti non pas de calculer la 
 
 La sobriété énergétique consiste à se séparer de l’inutile pour se concentrer sur l’essentiel. S’arranger pour que l’essentiel soit toujours disponible et au plus grand nombre. Faire du numérique mais responsable.
 
-La réduction de notre empreinte ne passera donc pas par les High-Tech, mais plus dans notre capacité à réduire la voilure de nos systèmes. A être intelligent, mais sans machine/
+La réduction de notre empreinte ne passera donc pas par les High-Tech, mais plus dans notre capacité à réduire la voilure de nos systèmes. A être intelligent, mais sans machine.

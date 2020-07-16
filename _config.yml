@@ -71,6 +71,10 @@ defaults:
       type: casestudies
     values:
       layout: page
+  - scope:
+      path: "liens"
+    values:
+      layout: links
 
 # HTML Compression
 compress_html:

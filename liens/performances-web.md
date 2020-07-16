@@ -1,57 +1,64 @@
 ---
-layout: page
 title: Des liens sur la performance web
 navigation: false
 ---
 
-<p><a href="/liens/">Retour à la page de principale de liens</a></p>
+## Articles
 
-<style>
-ul a {
-  font-size: 80%;
-}
-</style>
+-   [Improving SVG Runtime Performance](https://codepen.io/tigt/post/improving-svg-rendering-performance)
+-   [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/)
+-   <https://www.digital113.fr/les-projets/the-green-it-day/>
+-   [Is it time for a Web Performance rebrand?](https://simonhearne.com/2020/web-performance-rebrand/)
+-   [Prioritizing users in a crisis: Building the California COVID-19 response site](https://news.alpha.ca.gov/prioritizing-users-in-a-crisis-building-covid19-ca-gov/)
+-   [Green code : écrivez du code vert !](https://institutnr.org/green-code-ecrivez-du-code-vert)
+-   [User-centric performance metrics - web.dev](https://web.dev/user-centric-performance-metrics/)
+-   [Testing Behind Consent](https://simonhearne.com/2020/testing-behind-consent/)
+-   [Everything You Have to Know About Core Web Vitals](https://calibreapp.com/blog/core-web-vitals)
+-   [Loading web pages fast on a $20 feature phone ](<https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6)
+-   [Visualising Front-End Performance Bottlenecks](https://medium.com/dazn-tech/visualising-front-end-performance-bottlenecks-4a0563407679)
+-   [Let's talk about TTFB, CrUX, and CMS + Hosting performance](https://docs.google.com/document/d/1i5VceKSoa95F2W1EZ_OenK0Hb1CeWv6osc2UX_E_qiQ/view?hss_channel=tw-338917394#heading=h.reqkd0ba58w7)
+-   [How to Add Web Vitals to Google Analytics and Reveal a New Search Ranking Signal](https://www.noisetosignal.io/2020/05/add-web-vitals-to-google-analytics/)
+-   [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
+-   [We need more inclusive web performance metrics](https://www.filamentgroup.com/lab/a11y-ready/)
 
--   <https://codepen.io/tigt/post/improving-svg-rendering-performance>
+
+## Ressources
+
+-   <https://boris.schapira.dev/assets/images/2020-06-04/synthese.png>
+-   <https://github.com/addyosmani/puppeteer-webperf#largest-contentful-paint>
+-   <https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/scripting>
+
+
+## Measure
+
+-   <https://web.dev/chrome-ux-report-data-studio-dashboard/>
+-   <https://css-tricks.com/recipes-for-performance-testing-single-page-applications-in-webpagetest>
+-   <https://dev.to/victormagarlamov/performance-measuring-12nj>
+-   <https://web.dev/chrome-ux-report-api/>
+-   <https://nextjs.org/docs/advanced-features/measuring-performance>
+
+## Tools
+
+-   [Perf Track](https://perf-track.web.app/)
+-   [Netlify-minutes](https://www.npmjs.com/package/netlify-minutes)
+-   [Security Headers](https://securityheaders.com/)
+-   <https://tools.keycdn.com/curl>
+-   [Crux Run](https://crux.run/report?domain=www.cnn.com)
+-   [Glyphhanger](https://www.filamentgroup.com/lab/glyphhanger/)
+-   [Fastorslow](https://www.fastorslow.com/app)
+-   [Crux benchmarking](https://developer.akamai.com/akamai-mpulse/crux-benchmarking)
+-   [Speedlab](https://www.browserstack.com/speedlab)
+
+## Github
+
 -   <https://github.com/pocketjoso/specificity-graph>
 -   <https://github.com/patrickhulce/third-party-web>
 -   <https://github.com/dwisiswant0/findom-xss>
 -   <https://github.com/remorses/actions-cli>
 -   <https://github.com/mandatoryprogrammer/CursedChrome>
--   <https://www.filamentgroup.com/lab/glyphhanger/>
--   <https://cobwwweb.com/building-static-api-eleventy>
--   <https://web.dev/optimize-cls/>
--   <https://www.digital113.fr/les-projets/the-green-it-day/>
+-   <https://github.com/Zizzamia/perfume.js>
+-   <https://github.com/GoogleChrome/web-vitals/>
 -   <https://github.com/WPTbot/WPTbot>
 -   <https://github.com/tsenart/vegeta>
--   <https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/scripting>
--   <https://simonhearne.com/2020/web-performance-rebrand/>
--   <https://news.alpha.ca.gov/prioritizing-users-in-a-crisis-building-covid19-ca-gov/>
--   <https://help.gumroad.com/article/82-membership-products>
--   <https://institutnr.org/green-code-ecrivez-du-code-vert>
--   <https://github.com/egoist/mordred>
--   <https://github.com/Zizzamia/perfume.js>
--   <https://www.fastorslow.com/app>
--   <https://github.com/GoogleChrome/web-vitals/>
--   <https://web.dev/user-centric-performance-metrics/#in-the-field>
--   <https://github.com/philhawksworth/virtual-lolly/blob/master/plugins/track-latest/index.js>
--   <https://tools.keycdn.com/curl>
--   <https://securityheaders.com/?q=https%3A%2F%2Flowtus.fr&followRedirects=on>
--   <https://github.com/DanCanetti/eleventy-plugin-monetization>
--   <https://nextjs.org/docs/advanced-features/measuring-performance>
--   <https://css-tricks.com/recipes-for-performance-testing-single-page-applications-in-webpagetest/>
--   <https://github.com/addyosmani/puppeteer-webperf#largest-contentful-paint>
--   <https://simonhearne.com/2020/testing-behind-consent/>
--   <https://web.dev/how-we-build-webdev-and-use-web-components/>
--   <https://crux.run/report?domain=www.cnn.com>
--   <https://developer.akamai.com/akamai-mpulse/crux-benchmarking>
--   <https://web.dev/chrome-ux-report-data-studio-dashboard/>
--   <https://calibreapp.com/blog/core-web-vitals>
--   <https://boris.schapira.dev/assets/images/2020-06-04/synthese.png>
--   <https://www.npmjs.com/package/netlify-minutes>
--   <https://web.dev/chrome-ux-report-api/>
--   <https://dev.to/victormagarlamov/performance-measuring-12nj>
--   <https://www.browserstack.com/speedlab>
 -   <https://github.com/treosh/web-vitals-reporter>
--   <https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6>
--   <https://perf-track.web.app/vue>
+-   <https://github.com/philhawksworth/virtual-lolly/blob/master/plugins/track-latest/index.js>

@@ -2,6 +2,7 @@
 layout: default
 ---
 <div class="wrapper">
+  {% if page.layout == 'links' %}<p><a href="/liens/">Retour à la liste de pages de liens</a></p>{% endif %}
   <h1>{{ page.title }}</h1>
   {{ content }}
 </div>
