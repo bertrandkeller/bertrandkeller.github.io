@@ -6,20 +6,18 @@ navigation: false
 ## Articles
 
 -   [Improving SVG Runtime Performance](https://codepen.io/tigt/post/improving-svg-rendering-performance)
--   [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/)
--   <https://www.digital113.fr/les-projets/the-green-it-day/>
--   [Is it time for a Web Performance rebrand?](https://simonhearne.com/2020/web-performance-rebrand/)
+-   [Optimize Cumulative Layout Shift - web.dev](https://web.dev/optimize-cls/)
+-   [Is it time for a Web Performance rebrand? - Simon Hearne](https://simonhearne.com/2020/web-performance-rebrand/)
 -   [Prioritizing users in a crisis: Building the California COVID-19 response site](https://news.alpha.ca.gov/prioritizing-users-in-a-crisis-building-covid19-ca-gov/)
--   [Green code : écrivez du code vert !](https://institutnr.org/green-code-ecrivez-du-code-vert)
 -   [User-centric performance metrics - web.dev](https://web.dev/user-centric-performance-metrics/)
--   [Testing Behind Consent](https://simonhearne.com/2020/testing-behind-consent/)
--   [Everything You Have to Know About Core Web Vitals](https://calibreapp.com/blog/core-web-vitals)
--   [Loading web pages fast on a $20 feature phone ](<https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6)
--   [Visualising Front-End Performance Bottlenecks](https://medium.com/dazn-tech/visualising-front-end-performance-bottlenecks-4a0563407679)
+-   [Testing Behind Consent - Simon Hearne](https://simonhearne.com/2020/testing-behind-consent/)
+-   [Everything You Have to Know About Core Web Vitals - Calibre](https://calibreapp.com/blog/core-web-vitals)
+-   [Loading web pages fast on a $20 feature phone - Addy Osmani](<https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6)
+-   [Visualising Front-End Performance Bottlenecks - Richie McColl](https://medium.com/dazn-tech/visualising-front-end-performance-bottlenecks-4a0563407679)
 -   [Let's talk about TTFB, CrUX, and CMS + Hosting performance](https://docs.google.com/document/d/1i5VceKSoa95F2W1EZ_OenK0Hb1CeWv6osc2UX_E_qiQ/view?hss_channel=tw-338917394#heading=h.reqkd0ba58w7)
--   [How to Add Web Vitals to Google Analytics and Reveal a New Search Ranking Signal](https://www.noisetosignal.io/2020/05/add-web-vitals-to-google-analytics/)
+-   [How to Add Web Vitals to Google Analytics and Reveal a New Search Ranking Signal - Noise to Signal](https://www.noisetosignal.io/2020/05/add-web-vitals-to-google-analytics/)
 -   [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
--   [We need more inclusive web performance metrics](https://www.filamentgroup.com/lab/a11y-ready/)
+-   [We need more inclusive web performance metrics - Filament Group](https://www.filamentgroup.com/lab/a11y-ready/)
 
 
 ## Ressources
