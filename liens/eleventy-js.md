@@ -14,12 +14,21 @@ navigation: false
 -   [Eleventy - Mindmap](https://github.com/pdehaan/11ty-mindmap)
 -   [Eleventy - Monetization](https://github.com/DanCanetti/eleventy-plugin-monetization)
 -   [Mordred - Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.](https://github.com/egoist/mordred)
+-   [Eleventy img](https://github.com/11ty/eleventy-img)
+-   [Eleventy - Drop Cap](https://www.npmjs.com/package/eleventy-plugin-dropcap)
 
-## Thèmes 
+=>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins)
+
+## Thèmes
 
 -   [Xity Starter](https://github.com/equinusocio/xity-starter)
 -   [Bymattlee](https://github.com/bymattlee/bymattlee-web-starter-files)
 -   [Eleventy - Webpack](https://github.com/clenemt/eleventy-webpack)
+-   [Eleventy high performance blog](https://github.com/google/eleventy-high-performance-blog)
+-   [Twelvety](https://github.com/gregives/twelvety)
+-   [Minimal 11ty Starter](https://github.com/tomreinert/minimal-11ty-tailwind-starter)
+-   [11ty Netlify Jumpstart](https://github.com/5t3ph/11ty-netlify-jumpstart/)
+-   [Fundamenty](https://github.com/creasoft-dev/fundamenty)
 
 ## Tips
 
@@ -28,6 +37,8 @@ navigation: false
 -   [Eleventy Error Overlay](https://github.com/stevenpetryk/eleventy-plugin-error-overlay)
 -   [Not found](https://www.11ty.dev/docs/quicktips/not-found/)
 -   [Nunjucks filter for img lowsrc](https://twitter.com/lasertarian/status/1279613206789599243)
+-   [Add a Static Directory to an Eleventy Project](https://cobwwweb.com/add-static-directory-to-eleventy)
+-   [11ty.recipes](https://11ty.recipes/)
 
 ## Ressources
 
@@ -54,3 +65,16 @@ navigation: false
 -   [How Paradigma Digital switched from Wordpress to Strapi and Eleventy](https://strapi.io/user-stories/paradigma-digital-brand)
 -   [Performant data fetching with promises and Eleventy](https://www.webstoemp.com/blog/performant-data-fetching-promises-eleventy/)
 -   [Do I Need a CDN for My Personal Website?](https://blr.design/blog/cdn-for-fast-static-website/)
+-   [Build An Eleventy (11ty) Site From Scratch](https://egghead.io/playlists/build-an-eleventy-11ty-site-from-scratch-bfd3)
+-   [Creating a production-ready Eleventy project with webpack, Babel and Sass ](https://dev.to/stowball/creating-a-production-ready-eleventy-project-with-webpack-babel-and-sass-35ep)
+-   [How to use 11ty with TakeShape ](https://www.takeshape.io/articles/how-to-use-11ty-with-takeshape/)
+-   [Collected notes as a CMS](https://collectednotes.com/jenaro/collected-notes-as-a-cms) 
+-   [How to get started with the 11ty (Eleventy) Blog Starter](https://www.sanity.io/guides/how-to-get-started-with-the-11ty-eleventy-blog-starter)
+-   [Building a Blog With 11ty and WordPress](https://martinschneider.me/articles/building-a-website-with-11ty-and-wordpress/)
+-   [Web components and eleventy](https://www.lafuente.me/posts/webcomponents-eleventy/)
+-   [Create a Plugin for 11ty](https://www.learnwithjason.dev/create-a-plugin-for-11ty)
+-   [How the heck do I use Eleventy? The intro guide I wish I had](https://www.notion.so/How-the-heck-do-I-use-Eleventy-The-intro-guide-I-wish-I-had-ef349def783247dca7f65e33b780288e)
+-   [Eleventy: RSS Feeds and Front Matter Data](http://dirtystylus.com/2020/09/03/eleventy-rss-feeds-and-front-matter-data/)
+-   [Eleventy and Vue, a match made to power Netlify.com ](https://www.netlify.com/blog/2020/09/18/eleventy-and-vue-a-match-made-to-power-netlify.com/)
+-   [Getting Started with Eleventy](https://www.sitepoint.com/getting-started-with-eleventy/)
+-   [How I got started with 11ty](https://griffa.dev/posts/how-i-got-started-with-11ty/)

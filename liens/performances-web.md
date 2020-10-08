@@ -18,6 +18,9 @@ navigation: false
 -   [How to Add Web Vitals to Google Analytics and Reveal a New Search Ranking Signal - Noise to Signal](https://www.noisetosignal.io/2020/05/add-web-vitals-to-google-analytics/)
 -   [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
 -   [We need more inclusive web performance metrics - Filament Group](https://www.filamentgroup.com/lab/a11y-ready/)
+-   [Why you should be testing your 404 pages web performance](https://nooshu.github.io/blog/2020/08/25/you-should-be-testing-your-404-pages-web-performance/)
+- [Quel type de contenu intégré sur une page ralentit le plus son chargement ?](https://www.humeurweb.com/contenu-integre-page-ralentit-chargement-lighthouse/)
+- [How to Improve Largest Contentful Paint (LCP) and SEO](https://www.webdesignerdepot.com/2020/07/how-to-improve-largest-contentful-paint-lcp-and-seo/)
 
 
 ## Ressources
@@ -25,6 +28,7 @@ navigation: false
 -   <https://boris.schapira.dev/assets/images/2020-06-04/synthese.png>
 -   <https://github.com/addyosmani/puppeteer-webperf#largest-contentful-paint>
 -   <https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/scripting>
+-   <https://blog.bitsrc.io/performance-analysis-tools-for-front-end-development-a7b3c1488876?gi=3ea70890bef2>
 
 
 ## Measure
