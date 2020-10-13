@@ -22,6 +22,7 @@ navigation: false
 -   [Investigating the Correlation between Performance Scores and Energy Consumption of Mobile Web Apps](https://www.researchgate.net/publication/341123776_Investigating_the_Correlation_between_Performance_Scores_and_Energy_Consumption_of_Mobile_Web_Apps)
 -   [Miam Miem kWH](https://pbs.twimg.com/media/EiXBDthX0AA3T3n?format=jpg&name=small)
 -   [Eco-conception de service numériqueNote de synthèse](https://www.eco-conception.fr/data/sources/users/2242/2019-note-de-synthese-numerique-abrezgeze-public.pdf)
+-   [Why do estimates for internet energy consumption vary so drastically?](https://www.wholegraindigital.com/blog/website-energy-consumption/)
 
 ## Articles/Refléxions
 
