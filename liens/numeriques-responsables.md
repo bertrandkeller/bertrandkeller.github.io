@@ -23,6 +23,10 @@ navigation: false
 -   [Miam Miem kWH](https://pbs.twimg.com/media/EiXBDthX0AA3T3n?format=jpg&name=small)
 -   [Eco-conception de service numériqueNote de synthèse](https://www.eco-conception.fr/data/sources/users/2242/2019-note-de-synthese-numerique-abrezgeze-public.pdf)
 -   [Why do estimates for internet energy consumption vary so drastically?](https://www.wholegraindigital.com/blog/website-energy-consumption/)
+-   [Pour une transition numérique écologique - Sénat France](http://www.senat.fr/rap/r19-555/r19-555_mono.html)
+-   [[Publication] Sobriété numérique : une démarche d’entreprise responsable](https://www.cigref.fr/publication-sobriete-numerique-une-demarche-d-entreprise-responsable)
+-   [Effets rebond du numérique](https://ecoinfo.cnrs.fr/effets-rebond-du-numerique/)
+-   [Situer le numerique](https://designcommun.fr/cahiers/situer-le-numerique/)
 
 ## Articles/Refléxions
 
@@ -47,6 +51,11 @@ navigation: false
 -   [Sustainable Web Design](https://sustainablewebdesign.org/)
 -   [Green IT : une démarche pour réduire l’impact environnemental du digital](https://mbamci.com/green-it-demarche-reduire-impact-environnemental-digital/)
 -   [How do we uncouple global development from resource use?](https://theconversation.com/how-do-we-uncouple-global-development-from-resource-use-62730)
+-   [« Il faut mettre en oeuvre la frugalité by design » ](https://usbeketrica.com/fr/article/il-faut-mettre-en-oeuvre-la-frugalite-by-design)
+-   [Sobriété numérique : les entreprises doivent s’organiser](https://www.alliancy.fr/dossier/sobriete-numerique-entreprises)
+-   [Référentiel de connaissances pour un numérique éco-responsable](https://ecoinfo.cnrs.fr/2020/09/30/referentiel-de-connaissances-pour-un-numerique-eco-responsable/)
+-   [Reflections on Running a Sustainable Digital Agency](https://branch.climateaction.tech/2020/09/28/running-a-sustainable-digital-agency/)
+-   [Pourquoi faire de la vraie contribution carbone, c’est compliqué](https://medium.com/inuk/pourquoi-faire-de-la-vraie-compensation-carbone-cest-compliqu%C3%A9-d953104457fe)
 
 ## Graphiques
 
@@ -57,6 +66,7 @@ navigation: false
 ## Formations
 
 -   [MOOC Sensibilisation Numérique Responsable - Institut Numérique Responsable](https://institutnr.org/mooc-sensibilisation-numerique-responsable)
+-   [MOOC Numérique Responsable - Institut Numérique Responsable](https://www.academie-nr.org/mooc-numerique-responsable/)
 -   [Initiez-vous à l'éthique de l’ingénierie dans le numérique - Open Classrooms](https://openclassrooms.com/fr/courses/6112876-initiez-vous-a-lethique-de-lingenierie-dans-le-numerique)
 -   [M.I.R Conseil & Formation](https://www.mir-cf.com/formations)
 -   [Analyse du cycle de vie de service numérique - DDemain](https://ddemain.com/formation/)
@@ -71,6 +81,9 @@ navigation: false
 -   [RemoteClazz : Le Low-Tech Web ? - Antoine Cailly](https://www.youtube.com/watch?v=w6BmIX564gk)
 -   [Laurent Castaignède : transports motorisés, pollutions et illusions](https://www.presages.fr/blog/2020/laurent-castaignede)
 -   [Numérique : peut-on passer de la gabegie à la sobriété ?](https://www.youtube.com/watch?v=09jCVwi40bY)
+-   [Internet et le climat : ça tourne mal ? - Monsieur Bidouille](https://www.youtube.com/watch?v=TFP3QqUapQo)
+-   [Server Infrastructure for Global Rebellion ](https://media.ccc.de/v/36c3-11008-server_infrastructure_for_global_rebellion)
+-   [The Green IT Day : découvrez les replays](https://www.digital113.fr/2020/10/15/the-green-it-day-les-replays/)
 
 ## Indicateurs
 
@@ -82,6 +95,7 @@ navigation: false
 -   [Improved Impact](https://www.improved-impact.com/#testez)
 -   [Ecoindex](http://www.ecoindex.fr/)
 -   [Simulateur d'ÉcoIndex](https://rachelwe.github.io/Simulateur-ecoindex/)
+-   [MyCO2](https://www.myco2.fr/)
 
 ## Agences
 
@@ -90,3 +104,4 @@ navigation: false
 -   <https://www.numerik-ea.fr/>
 -   <https://www.itsonus.fr/>
 -   <https://www.ey.com/fr_fr/government-public-sector/conseil-en-strategie-durable-et-numerique-responsable>
+-   <https://www.light-communication.fr/>

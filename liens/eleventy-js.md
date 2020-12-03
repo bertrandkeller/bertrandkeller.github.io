@@ -29,6 +29,8 @@ navigation: false
 -   [Minimal 11ty Starter](https://github.com/tomreinert/minimal-11ty-tailwind-starter)
 -   [11ty Netlify Jumpstart](https://github.com/5t3ph/11ty-netlify-jumpstart/)
 -   [Fundamenty](https://github.com/creasoft-dev/fundamenty)
+-   [Smix](https://github.com/hirusi/smix-eleventy-starter)
+-   [A high-performance blog template for 11ty](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/)
 
 ## Tips
 
@@ -39,6 +41,11 @@ navigation: false
 -   [Nunjucks filter for img lowsrc](https://twitter.com/lasertarian/status/1279613206789599243)
 -   [Add a Static Directory to an Eleventy Project](https://cobwwweb.com/add-static-directory-to-eleventy)
 -   [11ty.recipes](https://11ty.recipes/)
+-   [Customizing 11ty Blog](https://dev.to/xanderyzwich/customizing-11ty-blog-1hm8)
+-   [Keep data cache](https://github.com/zachleat/speedlify/blob/live/plugins/keep-data-cache/index.js)
+-   [Get Tag List](https://github.com/11ty/eleventy-base-blog/blob/1148b90e22851df01be3f6b8b9ee6522c0b0566b/_11ty/getTagList.js#L7)
+-   [Cache on netlify](https://github.com/zachleat/speedlify/blob/live/plugins/keep-data-cache/index.js)
+-   [Use Kirbt as CMS](https://github.com/getkirby/kql)
 
 ## Ressources
 
@@ -78,3 +85,5 @@ navigation: false
 -   [Eleventy and Vue, a match made to power Netlify.com ](https://www.netlify.com/blog/2020/09/18/eleventy-and-vue-a-match-made-to-power-netlify.com/)
 -   [Getting Started with Eleventy](https://www.sitepoint.com/getting-started-with-eleventy/)
 -   [How I got started with 11ty](https://griffa.dev/posts/how-i-got-started-with-11ty/)
+-   [Building a Blog with 11ty and Strapi](https://strapi.io/blog/building-a-blog-with-11ty-and-strapi?utm_content=140839616)
+-   [11ty Rocks!](https://11ty.rocks )

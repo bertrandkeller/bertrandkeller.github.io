@@ -16,6 +16,7 @@ navigation: false
 ## Thèmes
 
 -   <https://themes.gohugo.io/hugo-theme-fuji/>
+-   <https://stackrole.com/jamstack/influencer-hugo/>
 
 ## Modules
 

@@ -11,4 +11,7 @@ navigation: false
 -   [The unequal distribution of household carbon footprints in Europe and its link to sustainability](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F1ED4F705AF1C6C1FCAD477398353DC2/S2059479820000125a.pdf/unequal_distribution_of_household_carbon_footprints_in_europe_and_its_link_to_sustainability.pdf)
 -   [Une datavisualisation inédite pour mieux comprendre la ségrégation résidentielle](https://www.strategie.gouv.fr/actualites/une-datavisualisation-inedite-mieux-comprendre-segregation-residentielle)
 -   [Pourquoi arrêter l’avion ne devrait plus être un débat](https://bonpote.com/pourquoi-arreter-lavion-ne-devrait-plus-etre-un-debat/)
- - [Portail Collapsologie - Mieux comprendre les risques d'effondrements sociétaux et écologiques](https://www.collapsology.info/fr/)
+ -  [Portail Collapsologie - Mieux comprendre les risques d'effondrements sociétaux et écologiques](https://www.collapsology.info/fr/)
+-   [Le contrat de transition écologique](https://cte.ecologique-solidaire.gouv.fr/#)
+-   <https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-adapter-changement-climatique.pdf?fbclid=IwAR2647Ujh7OwxGJMUd8fSAcUNK5OhoQNPM7tkVMPmfy8HtaAbVXiFaiSo5w>
+-   [Le nouveau contrat écologique et social, une boussole pour l’avenir de la transformation publique ?](http://www.la27eregion.fr/le-nouveau-contrat-ecologique-et-social-une-boussole-pour-lavenir-de-la-transformation-publique/)

@@ -19,8 +19,11 @@ navigation: false
 -   [Is WebP really better than JPEG?](https://siipo.la/blog/is-webp-really-better-than-jpeg)
 -   [We need more inclusive web performance metrics - Filament Group](https://www.filamentgroup.com/lab/a11y-ready/)
 -   [Why you should be testing your 404 pages web performance](https://nooshu.github.io/blog/2020/08/25/you-should-be-testing-your-404-pages-web-performance/)
-- [Quel type de contenu intégré sur une page ralentit le plus son chargement ?](https://www.humeurweb.com/contenu-integre-page-ralentit-chargement-lighthouse/)
-- [How to Improve Largest Contentful Paint (LCP) and SEO](https://www.webdesignerdepot.com/2020/07/how-to-improve-largest-contentful-paint-lcp-and-seo/)
+-   [Quel type de contenu intégré sur une page ralentit le plus son chargement ?](https://www.humeurweb.com/contenu-integre-page-ralentit-chargement-lighthouse/)
+-   [How to Improve Largest Contentful Paint (LCP) and SEO](https://www.webdesignerdepot.com/2020/07/how-to-improve-largest-contentful-paint-lcp-and-seo/)
+-   [Strengthening the Link Between Site Speed and Business Outcomes](https://andydavies.me/blog/2020/10/12/strengthening-the-link-between-site-speed-and-business-outcomes/)
+-   [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice/)
+-   [The Core Web Vitals hype train](https://sylormiller.com/posts/2020/core-web-vitals/)
 
 
 ## Ressources
@@ -50,6 +53,7 @@ navigation: false
 -   [Fastorslow](https://www.fastorslow.com/app)
 -   [Crux benchmarking](https://developer.akamai.com/akamai-mpulse/crux-benchmarking)
 -   [Speedlab](https://www.browserstack.com/speedlab)
+-   [PageSpeed Compare](https://pagespeed.compare/)
 
 ## Github
 
@@ -64,3 +68,4 @@ navigation: false
 -   <https://github.com/tsenart/vegeta>
 -   <https://github.com/treosh/web-vitals-reporter>
 -   <https://github.com/philhawksworth/virtual-lolly/blob/master/plugins/track-latest/index.js>
+-   <https://lightest.app/c/moDs01S3Ng>
