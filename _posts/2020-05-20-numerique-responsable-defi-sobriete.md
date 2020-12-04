@@ -1,7 +1,7 @@
 ---
 title: Numérique responsable - le défi de la sobriété
 categories:
--   Eco-responsable
+  - Eco-responsable
 ---
 
 ## Être performant

@@ -1,7 +1,7 @@
 ---
 title: "Interview (fictive) de Stéphane et Richard Xavier Niel sur la 5G"
 categories:
--   Eco-responsable
+  -  Eco-responsable
 ---
 
 Voici, une interview fictive des gérants des entreprises Orange et Free, 2 géants monopolistiques, de l'accès aux réseaux mobile et internet.

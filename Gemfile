@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
 
 #gem 'jekyll', :git => 'https://github.com/jekyll/jekyll', :branch => 'master'
-gem 'liquid', :git => 'https://github.com/Shopify/liquid.git', branch: 'master'
+#gem 'liquid', :git => 'https://github.com/Shopify/liquid.git', branch: 'master'
 gem "liquid-c"
+gem "kramdown", '2.0'
 gem "kramdown-parser-gfm"
 
 group :development do
