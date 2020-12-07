@@ -77,6 +77,6 @@ Non, le niveau de connaissance partagé (par un groupe) concernant le milieu est
 
 On pense global, on pense le numérique en interaction avec le milieu entier.
 
-L’éco-conception n’est pas de l’optimisation mais bien une réflexion d’ordre stratégique sur l’outillage d’une organisation. C'est une manière de procéder qui tente permettre aux structures de s’adapter à cette situation d’urgence (climatique).
+L’éco-conception n’est pas de l’optimisation mais bien une réflexion d’ordre stratégique sur l’outillage d’une organisation. C'est une manière de procéder qui de tente permettre aux structures de s’adapter à cette situation d’urgence (climatique).
 
 Le partage des connaissances, les choix, les décisions viennent d’abord ; les outils et les indicateurs après.
