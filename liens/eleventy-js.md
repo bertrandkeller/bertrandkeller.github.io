@@ -13,11 +13,14 @@ navigation: false
 -   [Eleventy - Svg contents](https://github.com/brob/eleventy-plugin-svg-contents)
 -   [Eleventy - Mindmap](https://github.com/pdehaan/11ty-mindmap)
 -   [Eleventy - Monetization](https://github.com/DanCanetti/eleventy-plugin-monetization)
--   [Mordred - Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.](https://github.com/egoist/mordred)
--   [Eleventy img](https://github.com/11ty/eleventy-img)
--   [Eleventy - Drop Cap](https://www.npmjs.com/package/eleventy-plugin-dropcap)
+-   [Eleventy - Mordred - Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.](https://github.com/egoist/mordred)
+-   [Eleventy - img](https://github.com/11ty/eleventy-img)
+-   [Eleventy - Drop Cap](https://www.npmjs.com/package/elev[enty-plugin-dropcap)
+-   [Eleventy - Critical CSS](https://github.com/gregives/eleventy-critical-css)
+-   [Eleventy - SCSS](https://github.com/jamshop/eleventy-plugin-scss)
 
 =>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins)
+
 
 ## Thèmes
 
@@ -46,9 +49,11 @@ navigation: false
 -   [Get Tag List](https://github.com/11ty/eleventy-base-blog/blob/1148b90e22851df01be3f6b8b9ee6522c0b0566b/_11ty/getTagList.js#L7)
 -   [Cache on netlify](https://github.com/zachleat/speedlify/blob/live/plugins/keep-data-cache/index.js)
 -   [Use Kirbt as CMS](https://github.com/getkirby/kql)
+-   [Eleventy: Date Output](http://dirtystylus.com/2020/06/05/eleventy-date-output/)
 
 ## Ressources
 
+-   [11ty + Nunjucks](https://dinhanhthi.com/11ty-nunjucks/)
 -   [How we build the site and use Web Components - web.dev](https://web.dev/how-we-build-webdev-and-use-web-components/)
 -   [Architecting data in Eleventy - dev.to](https://dev.to/thegreengreek/architecting-data-in-eleventy-ek5)
 -   [Eleventy: Paired Shortcodes and Markdown Rendering - Dirtystylus](http://dirtystylus.com/2020/06/16/eleventy-paired-shortcodes-and-markdown-rendering/)

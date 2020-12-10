@@ -28,7 +28,7 @@ navigation: false
 -   [Effets rebond du numérique](https://ecoinfo.cnrs.fr/effets-rebond-du-numerique/)
 -   [Situer le numerique](https://designcommun.fr/cahiers/situer-le-numerique/)
 
-## Articles/Refléxions
+## Articles/Reflexions
 
 -   [Webwaste -  Gerry McGovern](https://alistapart.com/article/webwaste/)
 -   [Le monde du logiciel est en train de se détruire… Manifeste pour un développement plus durable - Olivier Philippot](https://greenspector.com/fr/le-monde-du-logiciel-est-en-train-de-se-detruire-manifeste-pour-un-developpement-plus-durable/)
@@ -56,6 +56,7 @@ navigation: false
 -   [Référentiel de connaissances pour un numérique éco-responsable](https://ecoinfo.cnrs.fr/2020/09/30/referentiel-de-connaissances-pour-un-numerique-eco-responsable/)
 -   [Reflections on Running a Sustainable Digital Agency](https://branch.climateaction.tech/2020/09/28/running-a-sustainable-digital-agency/)
 -   [Pourquoi faire de la vraie contribution carbone, c’est compliqué](https://medium.com/inuk/pourquoi-faire-de-la-vraie-compensation-carbone-cest-compliqu%C3%A9-d953104457fe)
+-   [RUPTUR chantier « Le Coup d’Après »](https://www.ruptur.fr/wp-content/uploads/2020/06/chantier-Ruptur-Numerique-1.pdf)
 
 ## Graphiques
 
@@ -84,6 +85,7 @@ navigation: false
 -   [Internet et le climat : ça tourne mal ? - Monsieur Bidouille](https://www.youtube.com/watch?v=TFP3QqUapQo)
 -   [Server Infrastructure for Global Rebellion ](https://media.ccc.de/v/36c3-11008-server_infrastructure_for_global_rebellion)
 -   [The Green IT Day : découvrez les replays](https://www.digital113.fr/2020/10/15/the-green-it-day-les-replays/)
+-   [Éco-conception numérique : c’est le moment !](https://alliancegreenit.org/eco-conception-numerique-c-est-le-moment)
 
 ## Indicateurs
 
@@ -96,6 +98,13 @@ navigation: false
 -   [Ecoindex](http://www.ecoindex.fr/)
 -   [Simulateur d'ÉcoIndex](https://rachelwe.github.io/Simulateur-ecoindex/)
 -   [MyCO2](https://www.myco2.fr/)
+-   [Scaphandre](https://github.com/hubblo-org/scaphandre/)
+-   [CodeCarbon](https://github.com/mlco2/codecarbon)
+
+## Jeux
+
+-   [Econ[u]m, Le jeu pour un numérique [+] responsable](https://ddemain.com/econum/jeu/)
+
 
 ## Agences
 
