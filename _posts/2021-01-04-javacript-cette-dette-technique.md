@@ -12,7 +12,7 @@ Il y quelques temps, je m'énervais sur un forum en disant texto : "C‘est du J
 
 En informatique, on utilise le terme de Stack pour désigner la liste des technologies qu'on utilise pour réaliser un programme.
 
-La particularité de ce domaine est que la stack évolue en permanence ; à telle point que s’investir dans une technologie qui ne sera pas demandée fréquemment (même si elle est meilleure) sur le marché peut vous ringardiser, voire ringardiser votre entreprise.
+La particularité de ce domaine est que la stack évolue en permanence ; à tel point que s’investir dans une technologie qui ne sera pas demandée fréquemment (même si elle est meilleure) sur le marché peut vous ringardiser, voire ringardiser votre entreprise.
 
 > « pile de technologies » ou « écosystème de données », est une liste de tous les outils technologiques utilisés pour développer et faire fonctionner un programme.
 
@@ -26,11 +26,11 @@ Pour être employable, il faut respecter le modèle de pensée des gens qui empl
 </div>
 <br>
 
-Ainsi ne vous demandez plus pourquoi un site réalisé par une entreprise côté avec des développeurs bien mieux payés que des agents publics bac+9 met plus de 10 secondes à se charger. Ces développeurs maîtrisent la complexité de la Stack. Stack nécessaire pour répondre à un (ou plusieurs) marchés. Mais ces développeurs ne maîtrisent pas la base du métier (le fonctionnement du navigateur et l‘hétérogénéité des cas de consultations).
+Ainsi ne vous demandez plus pourquoi un site réalisé par une entreprise côté avec des développeurs bien mieux payés que des agents publics bac+9 met plus de 10 secondes à se charger. Ces développeurs maîtrisent la complexité de la Stack. Stack nécessaire pour répondre à un (ou plusieurs) marché. Mais ces développeurs ne maîtrisent pas la base du métier (le fonctionnement du navigateur et l‘hétérogénéité des cas de consultations).
 
 ## JavaScript et dette technique
 
-Dans une vidéo Houssein Djirdeh et Jason Miller nous présentent [EStimator.dev](http://estimator.dev/) (voir [Transitioning to modern JavaScript](https://www.youtube.com/embed/cLxNdLK--yI>)). Ils travaillent chez Google et Google qui veut référencer le web pour que ça lui coûte le moins possible, s'est rendu compte que les développeurs JavaScript pouvaient faire télécharger plusieurs mégas aux utilisateurs pour garantir de la retro-compatibilité.
+Dans une vidéo Houssein Djirdeh et Jason Miller nous présentent [EStimator.dev](http://estimator.dev/) (voir [Transitioning to modern JavaScript](https://www.youtube.com/embed/cLxNdLK--yI>)). Ils travaillent chez Google ; Google qui veut référencer le web pour que ça lui coûte le moins possible, s'est rendu compte que les développeurs JavaScript pouvaient faire télécharger plusieurs mégas aux utilisateurs pour garantir de la retro-compatibilité.
 
 Garantir la retro-compatibilité ça sonne bien. Mais plutôt que de ne pas charger une effet un peu lourd (et non indispensable) à un utilisateur, on préférera lui appliquer la double peine : charger l'effet un peu lourd + du code pour que ça marche de manière rétro-compatible.
 
