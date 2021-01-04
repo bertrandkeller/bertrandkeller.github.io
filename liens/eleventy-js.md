@@ -18,6 +18,7 @@ navigation: false
 -   [Eleventy - Drop Cap](https://www.npmjs.com/package/elev[enty-plugin-dropcap)
 -   [Eleventy - Critical CSS](https://github.com/gregives/eleventy-critical-css)
 -   [Eleventy - SCSS](https://github.com/jamshop/eleventy-plugin-scss)
+-   [Eleventy - TOC](https://github.com/jdsteinbach/eleventy-plugin-toc)
 
 =>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins)
 
@@ -34,6 +35,7 @@ navigation: false
 -   [Fundamenty](https://github.com/creasoft-dev/fundamenty)
 -   [Smix](https://github.com/hirusi/smix-eleventy-starter)
 -   [A high-performance blog template for 11ty](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/)
+-   [Eleventy Duo](https://github.com/yinkakun/eleventy-duo)
 
 ## Tips
 
@@ -50,6 +52,7 @@ navigation: false
 -   [Cache on netlify](https://github.com/zachleat/speedlify/blob/live/plugins/keep-data-cache/index.js)
 -   [Use Kirbt as CMS](https://github.com/getkirby/kql)
 -   [Eleventy: Date Output](http://dirtystylus.com/2020/06/05/eleventy-date-output/)
+-   [Setup social sharing previews, SEO, and favicons on Eleventy](https://obsolete29.com/posts/ogp-seo-favicons-eleventy/)
 
 ## Ressources
 

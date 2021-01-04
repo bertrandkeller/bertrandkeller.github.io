@@ -32,7 +32,9 @@ navigation: false
 -   <https://github.com/addyosmani/puppeteer-webperf#largest-contentful-paint>
 -   <https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/scripting>
 -   <https://blog.bitsrc.io/performance-analysis-tools-for-front-end-development-a7b3c1488876?gi=3ea70890bef2>
-
+-   <https://almanac.httparchive.org/en/2020/>
+-   <https://www.voorhoede.nl/en/blog/building-a-client-side-proxy/>
+-   <https://web.dev/bfcache/>
 
 ## Measure
 
@@ -54,6 +56,8 @@ navigation: false
 -   [Crux benchmarking](https://developer.akamai.com/akamai-mpulse/crux-benchmarking)
 -   [Speedlab](https://www.browserstack.com/speedlab)
 -   [PageSpeed Compare](https://pagespeed.compare/)
+-   [Google Lighthouse Budget Generator](https://www.aymen-loukil.com/seo-tools/lighthouse-budget-generator)
+-   [EStimator](https://estimator.dev/)
 
 ## Github
 

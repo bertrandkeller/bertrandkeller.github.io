@@ -8,6 +8,7 @@ Les habitués de ce blog savent que j’ai l'habitude de développer des thèses
 
 ## La catastrophe managériale
 
+
 Le sociologue François Dupuy vient de publier un nouveau livre intitulé : "La faillite de la pensée managériale". Il développe ce concept :
 
 > A l'origine du phénomène, il y a la formation des managers encadrants. Un technicien qui a réussi dans sa fonction est nommé manager mais personne ne pense à le former, alors qu'il va avoir une tâche relativement complexe à réaliser, gérer des Hommes. Du côté des dirigeants, la pensée financière a tué toutes les autres formes de pensée.  
@@ -32,7 +33,7 @@ Dans certains référentiels, on parle de nomination d‘un référent "numériq
 
 ## La grande transformation
 
-Évidemment étant un adepte de la pensée complexe, formée et auto-formé à cette autonomie intrinsèque à la réalisation de projets numériques, les propos de François Dupuy me parlent.
+Évidemment étant un adepte de la pensée complexe, formé et auto-formé à cette autonomie intrinsèque à la réalisation de projets numériques, les propos de François Dupuy me parlent.
 
 Cependant, je vous invite à vous questionner sur les manières de s’organiser et peut-être admettre qu’à partir du moment où une structure ne permet pas d’aborder les problèmes complexes (afin de les simplifier), elle ne peut pas se qualifier d’organisation "éco-responsable".
 

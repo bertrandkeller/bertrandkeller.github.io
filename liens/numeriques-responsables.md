@@ -24,9 +24,11 @@ navigation: false
 -   [Eco-conception de service numériqueNote de synthèse](https://www.eco-conception.fr/data/sources/users/2242/2019-note-de-synthese-numerique-abrezgeze-public.pdf)
 -   [Why do estimates for internet energy consumption vary so drastically?](https://www.wholegraindigital.com/blog/website-energy-consumption/)
 -   [Pour une transition numérique écologique - Sénat France](http://www.senat.fr/rap/r19-555/r19-555_mono.html)
--   [[Publication] Sobriété numérique : une démarche d’entreprise responsable](https://www.cigref.fr/publication-sobriete-numerique-une-demarche-d-entreprise-responsable)
+-   [Sobriété numérique : une démarche d’entreprise responsable](https://www.cigref.fr/publication-sobriete-numerique-une-demarche-d-entreprise-responsable)
 -   [Effets rebond du numérique](https://ecoinfo.cnrs.fr/effets-rebond-du-numerique/)
 -   [Situer le numerique](https://designcommun.fr/cahiers/situer-le-numerique/)
+-   [Rapport 2020 sur l'écart entre les besoins et les perspectives en matière de réduction des émissions ](https://www.unep.org/fr/emissions-gap-report-2020)
+-   [Conception numérique responsable -Richard Hanna](https://speakerdeck.com/supertanuki/conception-numerique-responsable?)
 
 ## Articles/Reflexions
 
@@ -37,7 +39,6 @@ navigation: false
 -   [Œuvrer à l'émergence d'un « autre numérique » est-il une impasse ? - Usbek & Rika](https://usbeketrica.com/article/oeuvrer-emergence-autre-numerique-est-il-impasse)
 -   [Formation à l’écriture web pour avoir des sites web moins énergievores et plus résilients](https://contribuez.conventioncitoyennepourleclimat.fr/processes/travailler-produire/f/11/proposals/772)
 -   [L’analyse du trafic et le problème de la soif de données - Pikselkraft](https://www.pikselkraft.com/blog/repenser-nos-echanges-avec-les-utilisateurs-le-cafe-du-web/)
--   [Climat : les entreprises sont tout sauf préparées au risque - Les échos](https://business-lesechos-fr.cdn.ampproject.org/c/s/business.lesechos.fr/amp/07/338707.php)
 -   [Agir pour un numérique responsable, au service de la reprise - Les échos](https://www.lesechos.fr/idees-debats/cercle/opinion-agir-pour-un-numerique-responsable-au-service-de-la-reprise-1208731)
 -   [Et si l’avenir du travail résidait dans la low tech ? - Les échos](https://www.lesechos.fr/idees-debats/cercle/opinion-et-si-lavenir-du-travail-residait-dans-la-low-tech-1134402)
 -   [5G is just one connectivity option](https://urgentcomm.com/2020/07/06/5g-is-just-one-connectivity-option/?hsamp_network=twitter&hsamp=bYRnKYbpi2t63)
@@ -57,6 +58,8 @@ navigation: false
 -   [Reflections on Running a Sustainable Digital Agency](https://branch.climateaction.tech/2020/09/28/running-a-sustainable-digital-agency/)
 -   [Pourquoi faire de la vraie contribution carbone, c’est compliqué](https://medium.com/inuk/pourquoi-faire-de-la-vraie-compensation-carbone-cest-compliqu%C3%A9-d953104457fe)
 -   [RUPTUR chantier « Le Coup d’Après »](https://www.ruptur.fr/wp-content/uploads/2020/06/chantier-Ruptur-Numerique-1.pdf)
+-   [L’archipel low-tech en France illustré](https://lowtechlab.org/fr/actualites-blog/l-archipel-low-tech-en-france-illustre)
+-   [Situer le numérique - Gauthier Roussilhe](https://designcommun.fr/cahiers/situer-le-numerique/)
 
 ## Graphiques
 
