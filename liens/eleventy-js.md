@@ -36,6 +36,7 @@ navigation: false
 -   [Smix](https://github.com/hirusi/smix-eleventy-starter)
 -   [A high-performance blog template for 11ty](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/)
 -   [Eleventy Duo](https://github.com/yinkakun/eleventy-duo)
+-   [](https://www.youtube.com/watch?v=CL8LZaa_Qlk)
 
 ## Tips
 
@@ -53,6 +54,7 @@ navigation: false
 -   [Use Kirbt as CMS](https://github.com/getkirby/kql)
 -   [Eleventy: Date Output](http://dirtystylus.com/2020/06/05/eleventy-date-output/)
 -   [Setup social sharing previews, SEO, and favicons on Eleventy](https://obsolete29.com/posts/ogp-seo-favicons-eleventy/)
+-   [Accessible Emojis with 11ty](https://hugogiraudel.com/2021/01/02/accessible-emojis-with-11ty/)
 
 ## Ressources
 
