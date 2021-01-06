@@ -21,6 +21,9 @@ navigation: false
 -   [Effets rebond du numérique](https://ecoinfo.cnrs.fr/effets-rebond-du-numerique/)
 -   [Rapport 2020 sur l'écart entre les besoins et les perspectives en matière de réduction des émissions - UNEP](https://www.unep.org/fr/emissions-gap-report-2020)
 -   [Chiffres clés du climatFrance, Europe et Monde - 2021](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/datalab_81_chiffres_cles_du_climat_edition_2021.pdf)
+-   [Les data centers, ou l’impossible frugalité numérique ? - Caisse des Dépôts](https://www.caissedesdepots.fr/sites/default/files/2021-01/201210_Cahiers%20de%20recherche_2020_DATA_CENTERS_P.pdf)
+-   [Pour un numerique soutenable - ARCEP](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
+-   [Étude d’impact de la lecture d’une vidéo Canal+ - Greenspector](https://greenspector.com/fr/impact-video-canal/)
 
 ## Graphiques
 
@@ -37,6 +40,7 @@ navigation: false
 
 ## Articles/Reflexions
 
+-   [Pour un numérique soutenable, « des bonnes intentions […] ce n’est pas suffisant » - NextInpact](https://www.nextinpact.com/article/45093/pour-numerique-soutenable-bonnes-intentions-ce-nest-pas-suffisant)
 -   [Sobriété numérique : une démarche d’entreprise responsable - CIGREF](https://www.cigref.fr/publication-sobriete-numerique-une-demarche-d-entreprise-responsable)
 -   [Entreprises du Numérique : l'Urgence Carbone - Hervé Collignon](https://www.linkedin.com/pulse/entreprises-du-num%25C3%25A9rique-lurgence-carbone-herv%25C3%25A9-collignon/?trackingId=j9XhLTbx2T8%2Br8J8Rx9Gzg%3D%3D)
 -   [Webwaste -  Gerry McGovern](https://alistapart.com/article/webwaste/)
@@ -63,6 +67,7 @@ navigation: false
 -   [Pourquoi faire de la vraie contribution carbone, c’est compliqué](https://medium.com/inuk/pourquoi-faire-de-la-vraie-compensation-carbone-cest-compliqu%C3%A9-d953104457fe)
 -   [RUPTUR chantier « Le Coup d’Après »](https://www.ruptur.fr/wp-content/uploads/2020/06/chantier-Ruptur-Numerique-1.pdf)
 -   [Formation à l’écriture web pour avoir des sites web moins énergievores et plus résilients - Bertrand Keller](https://contribuez.conventioncitoyennepourleclimat.fr/processes/travailler-produire/f/11/proposals/772)
+-   [La collection numérique de l’Amue : Numérique responsable - Amue](http://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N12_Numerique-responsable_decembre2020.pdf)
 
 ## Le numérique en général
 

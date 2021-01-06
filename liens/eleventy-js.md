@@ -58,6 +58,7 @@ navigation: false
 
 ## Ressources
 
+-   [ Leveraging 11ty in Healthcare](https://speakerdeck.com/danfascia/leveraging-11ty-in-healthcare)
 -   [11ty + Nunjucks](https://dinhanhthi.com/11ty-nunjucks/)
 -   [How we build the site and use Web Components - web.dev](https://web.dev/how-we-build-webdev-and-use-web-components/)
 -   [Architecting data in Eleventy - dev.to](https://dev.to/thegreengreek/architecting-data-in-eleventy-ek5)
@@ -80,6 +81,7 @@ navigation: false
 -   [Adding Algolia Search to Eleventy and Netlify - Raymond Camden](https://www.raymondcamden.com/2020/06/24/adding-algolia-search-to-eleventy-and-netlify)
 -   [How to Enable your Jamstack Site to have a "Rain Day" - Raymond Camden](https://www.raymondcamden.com/2020/07/06/how-to-enable-your-jamstack-site-to-have-a-rain-day)
 -   [How Paradigma Digital switched from Wordpress to Strapi and Eleventy](https://strapi.io/user-stories/paradigma-digital-brand)
+-   [Building a Blog with 11ty and Strapi](https://strapi.io/blog/building-a-blog-with-11ty-and-strapi?utm_content=140839616)
 -   [Performant data fetching with promises and Eleventy](https://www.webstoemp.com/blog/performant-data-fetching-promises-eleventy/)
 -   [Do I Need a CDN for My Personal Website?](https://blr.design/blog/cdn-for-fast-static-website/)
 -   [Build An Eleventy (11ty) Site From Scratch](https://egghead.io/playlists/build-an-eleventy-11ty-site-from-scratch-bfd3)
@@ -95,5 +97,4 @@ navigation: false
 -   [Eleventy and Vue, a match made to power Netlify.com ](https://www.netlify.com/blog/2020/09/18/eleventy-and-vue-a-match-made-to-power-netlify.com/)
 -   [Getting Started with Eleventy](https://www.sitepoint.com/getting-started-with-eleventy/)
 -   [How I got started with 11ty](https://griffa.dev/posts/how-i-got-started-with-11ty/)
--   [Building a Blog with 11ty and Strapi](https://strapi.io/blog/building-a-blog-with-11ty-and-strapi?utm_content=140839616)
 -   [11ty Rocks!](https://11ty.rocks )
