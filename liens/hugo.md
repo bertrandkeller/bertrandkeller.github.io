@@ -12,6 +12,7 @@ navigation: false
 -   <https://ma.ttias.be/adding-a-sticky-table-of-contents-in-hugo-to-posts/#styling-the-table-of-contents>
 -   <https://jonyablonski.com/articles/2020/simplified-development-workflow/>
 -   <https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/>
+-   <https://pawelgrzybek.com/webp-and-avif-images-on-a-hugo-website/>
 
 ## Thèmes
 
