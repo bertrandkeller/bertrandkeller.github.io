@@ -58,7 +58,8 @@ navigation: false
 
 ## Ressources
 
--   [ Leveraging 11ty in Healthcare](https://speakerdeck.com/danfascia/leveraging-11ty-in-healthcare)
+-   [Running Staticman on Netlify Functions](https://eduardoboucas.com/posts/2020-12-23-staticman-netlify-functions/)
+-   [Leveraging 11ty in Healthcare](https://speakerdeck.com/danfascia/leveraging-11ty-in-healthcare)
 -   [11ty + Nunjucks](https://dinhanhthi.com/11ty-nunjucks/)
 -   [How we build the site and use Web Components - web.dev](https://web.dev/how-we-build-webdev-and-use-web-components/)
 -   [Architecting data in Eleventy - dev.to](https://dev.to/thegreengreek/architecting-data-in-eleventy-ek5)

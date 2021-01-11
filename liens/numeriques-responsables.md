@@ -15,7 +15,6 @@ navigation: false
 -   [Understanding the global threat of a rapidly warming Arctic - Wood Well Climate](https://www.woodwellclimate.org/research-area/arctic/)
 -   [A quick guide to your digital carbon footprint - Ericsson](https://www.ericsson.com/en/reports-and-papers/industrylab/reports/a-quick-guide-to-your-digital-carbon-footprint)
 -   [Investigating the Correlation between Performance Scores and Energy Consumption of Mobile Web Apps - Research Gate](https://www.researchgate.net/publication/341123776_Investigating_the_Correlation_between_Performance_Scores_and_Energy_Consumption_of_Mobile_Web_Apps)
--   [Miam Miem kWH](https://pbs.twimg.com/media/EiXBDthX0AA3T3n?format=jpg&name=small)
 -   [Eco-conception de service numériqueNote de synthèse - Eco-Conception](https://www.eco-conception.fr/data/sources/users/2242/2019-note-de-synthese-numerique-abrezgeze-public.pdf)
 -   [Why do estimates for internet energy consumption vary so drastically? -Wholegrain Digital](https://www.wholegraindigital.com/blog/website-energy-consumption/)
 -   [Effets rebond du numérique - CNRS](https://ecoinfo.cnrs.fr/effets-rebond-du-numerique/)
@@ -30,6 +29,7 @@ navigation: false
 -   [Growing Footprint Alexa](https://cdn.statcdn.com/Infographic/images/normal/22338.jpeg)
 -   [Le sujet environnemental le plus préoccupant pour les français interrogés par l'IRSN : (depuis 2014) le dérèglement climatique](https://twitter.com/PaulNeau/status/1284358266114514944/photo/1)
 -   <https://twitter.com/diana_nbd/status/1280177349582077952>
+-   [Miam Miem kWH](https://pbs.twimg.com/media/EiXBDthX0AA3T3n?format=jpg&name=small)
 
 ## Gouvernements
 
@@ -68,6 +68,9 @@ navigation: false
 -   [RUPTUR chantier « Le Coup d’Après »](https://www.ruptur.fr/wp-content/uploads/2020/06/chantier-Ruptur-Numerique-1.pdf)
 -   [Formation à l’écriture web pour avoir des sites web moins énergievores et plus résilients - Bertrand Keller](https://contribuez.conventioncitoyennepourleclimat.fr/processes/travailler-produire/f/11/proposals/772)
 -   [La collection numérique de l’Amue : Numérique responsable - Amue](http://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N12_Numerique-responsable_decembre2020.pdf)
+-   [Les enjeux du Numérique Responsable - Emmanuel Nurit](https://www.openstudio.fr/2020/12/16/les-enjeux-du-numerique-responsable/)
+-   [Bilan carbone façon OCTO : l’exploration continue et ça secoue ! - Alexis Nicolas et Charlotte Abdelnour](https://blog.octo.com/lexploration-continue-et-ca-secoue/)
+-   [L’ADEME publie le guide « d’un numérique plus responsable » - Bela Loto Hiffler](https://presse.ademe.fr/2020/12/lademe-publie-le-guide-dun-numerique-plus-responsable.html)
 
 ## Le numérique en général
 
@@ -109,6 +112,7 @@ navigation: false
 ## Podcasts
 
 -   [le RDV design - 02 Lowtech](https://podcast.ausha.co/le-rdv-design/02-lowtech)
+-   [Le numérique peut-il être écologique et responsable ?](https://www.franceculture.fr/emissions/de-cause-a-effets-le-magazine-de-lenvironnement/de-cause-a-effets-le-magazine-de-lenvironnement-du-mardi-05-janvier-2021)
 
 ## Indicateurs
 
