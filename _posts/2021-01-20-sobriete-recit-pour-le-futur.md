@@ -1,5 +1,5 @@
 ---
-title: "Sobriété un récit pour le futur"
+title: "Sobriété - un récit pour le futur"
 categories:
   -  Low-Tech
 ---
