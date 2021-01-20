@@ -82,6 +82,7 @@ navigation: false
 
 -   [La controverse de la 5G - Gauthier Roussilhe](https://drive.infomaniak.com/app/share/128619/9e317de6-c376-46ed-80dc-20dccfbf4874/preview/pdf/7603)
 -   [5G is just one connectivity option](https://urgentcomm.com/2020/07/06/5g-is-just-one-connectivity-option/?hsamp_network=twitter&hsamp=bYRnKYbpi2t63)
+-    [Déboulonnons la 5G - L’âge de faire](https://lagedefaire-lejournal.fr/deboulonnons-la-5g/)
 
 ## Formations
 
@@ -108,6 +109,7 @@ navigation: false
 -   [FrontSide - Ce qui consomme le plus et peut-on agir sur son code pour réduire son empreinte ?](https://www.youtube.com/watch?v=3QyphT6ba7M)
 -   [Conception numérique responsable - Richard Hanna](https://speakerdeck.com/supertanuki/conception-numerique-responsable?)
 -   [le numérique responsable : la convergence des transitions environnementales et digitales](https://observatoire-mobilites.fr/numerique-responsable/)
+-   [PS5 et Xbox Series X un désastre pour l'écologie ? ♻️ Comparatifs + chiffres édifiants](https://www.youtube.com/watch?v=QIbDxhjr7SA)
 
 ## Podcasts
 

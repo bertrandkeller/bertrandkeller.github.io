@@ -65,7 +65,6 @@ Au final, la numérisation augmente l’empreinte énergétique. On numérise ma
 
 ### Les questions que ça pose
 
-
 #### La révolution numérique
 
 Si le numérique est une révolution, il est probable qu'elle soit entamée mais absolument pas aboutie.
