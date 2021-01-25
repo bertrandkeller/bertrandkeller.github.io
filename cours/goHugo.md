@@ -1,3 +1,4 @@
+
 # Apprendre Hugo
 
 ### Préambule
@@ -89,7 +90,7 @@ Pour profiter d’une mise en page du contenu, il est nécessaire de créer des 
 <html>
   <body>
     <main>
-    {{ block "main" . }}   // Définition d’un `block` de contenu
+    {{- block "main" . -}}   // Définition d’un `block` de contenu
     {{- end -}}
     </main>
   </body>
@@ -536,10 +537,11 @@ Voir <https://forestry.io/docs/settings/config-files/> et <https://twitter.com/f
 
 ## Modules
 
-<https://www.hugofordevelopers.com/articles/master-hugo-modules-managing-themes-as-modules/>
-https://kodify.net/hugo-static-site-tutorials/#themes
+-   <https://www.hugofordevelopers.com/articles/master-hugo-modules-managing-themes-as-modules/>
+-   <https://kodify.net/hugo-static-site-tutorials/#themes>
 
+## Ressources :
 
-Ressources :
-https://themes.gohugo.io//theme/hugo-theme-color-your-world/posts/page/2/
-https://timmastny.rbind.io/blog/intro-hugo-blogdown-chef/
+-   <https://themes.gohugo.io//theme/hugo-theme-color-your-world/posts/page/2/>
+-   <https://timmastny.rbind.io/blog/intro-hugo-blogdown-chef/>
+-   <https://acanalis.github.io/post/concepts-of-hugo/>

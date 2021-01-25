@@ -18,11 +18,19 @@ navigation: false
 -   [Eco-conception de service numériqueNote de synthèse - Eco-Conception](https://www.eco-conception.fr/data/sources/users/2242/2019-note-de-synthese-numerique-abrezgeze-public.pdf)
 -   [Why do estimates for internet energy consumption vary so drastically? -Wholegrain Digital](https://www.wholegraindigital.com/blog/website-energy-consumption/)
 -   [Effets rebond du numérique - CNRS](https://ecoinfo.cnrs.fr/effets-rebond-du-numerique/)
--   [Rapport 2020 sur l'écart entre les besoins et les perspectives en matière de réduction des émissions - UNEP](https://www.unep.org/fr/emissions-gap-report-2020)
 -   [Chiffres clés du climatFrance, Europe et Monde - 2021](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/datalab_81_chiffres_cles_du_climat_edition_2021.pdf)
 -   [Les data centers, ou l’impossible frugalité numérique ? - Caisse des Dépôts](https://www.caissedesdepots.fr/sites/default/files/2021-01/201210_Cahiers%20de%20recherche_2020_DATA_CENTERS_P.pdf)
--   [Pour un numerique soutenable - ARCEP](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
 -   [Étude d’impact de la lecture d’une vidéo Canal+ - Greenspector](https://greenspector.com/fr/impact-video-canal/)
+-   [Carbon emissions fell across all sectors in 2020 except for one – SUVs](https://www.iea.org/commentaries/carbon-emissions-fell-across-all-sectors-in-2020-except-for-one-suvs)
+-   [Latest Game Consoles: Environmental Winners or Losers?](https://www.nrdc.org/experts/noah-horowitz/latest-game-consoles-environmental-winners-or-losers)
+-   [Report: Xbox’s “instant on” feature could consume 4 billion kWh by 2025 ](https://arstechnica.com/gaming/2021/01/how-the-xboxs-default-instant-on-feature-could-harm-the-environment/)
+
+## Rapports
+
+-   [Pour un numerique soutenable - ARCEP](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
+-   [Vers un numérique durable et soutenable](https://msfrstorage.blob.core.windows.net/cdn/azure/2020/Microsoft-Livre-Blanc-14122020.pdf)
+-   [Rapport 2020 sur l'écart entre les besoins et les perspectives en matière de réduction des émissions - UNEP](https://www.unep.org/fr/emissions-gap-report-2020)
+-   [FAQ - Numérique et Environnement](https://syntec-numerique.fr/faq-numerique-et-environnement)
 
 ## Graphiques
 
@@ -71,6 +79,7 @@ navigation: false
 -   [Les enjeux du Numérique Responsable - Emmanuel Nurit](https://www.openstudio.fr/2020/12/16/les-enjeux-du-numerique-responsable/)
 -   [Bilan carbone façon OCTO : l’exploration continue et ça secoue ! - Alexis Nicolas et Charlotte Abdelnour](https://blog.octo.com/lexploration-continue-et-ca-secoue/)
 -   [L’ADEME publie le guide « d’un numérique plus responsable » - Bela Loto Hiffler](https://presse.ademe.fr/2020/12/lademe-publie-le-guide-dun-numerique-plus-responsable.html)
+-   [Devenir un développeur green avec l’éco-conception web](https://alexsoyes.com/eco-conception-web/)
 
 ## Le numérique en général
 

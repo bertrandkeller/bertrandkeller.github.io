@@ -19,6 +19,7 @@ navigation: false
 -   [Eleventy - Critical CSS](https://github.com/gregives/eleventy-critical-css)
 -   [Eleventy - SCSS](https://github.com/jamshop/eleventy-plugin-scss)
 -   [Eleventy - TOC](https://github.com/jdsteinbach/eleventy-plugin-toc)
+-   [Eleventy Caniuse](https://github.com/KevinGimbel/eleventy-plugin-caniuse)
 
 =>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins)
 
@@ -36,7 +37,7 @@ navigation: false
 -   [Smix](https://github.com/hirusi/smix-eleventy-starter)
 -   [A high-performance blog template for 11ty](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/)
 -   [Eleventy Duo](https://github.com/yinkakun/eleventy-duo)
--   [](https://www.youtube.com/watch?v=CL8LZaa_Qlk)
+-   [11up](https://www.npmjs.com/package/11up)
 
 ## Tips
 
@@ -55,6 +56,9 @@ navigation: false
 -   [Eleventy: Date Output](http://dirtystylus.com/2020/06/05/eleventy-date-output/)
 -   [Setup social sharing previews, SEO, and favicons on Eleventy](https://obsolete29.com/posts/ogp-seo-favicons-eleventy/)
 -   [Accessible Emojis with 11ty](https://hugogiraudel.com/2021/01/02/accessible-emojis-with-11ty/)
+-   [Integrate Pocket in Eleventy](https://justmarkup.com/articles/2021-01-19-integrate-pocket-in-eleventy/)
+-   [Javascript Data Files and You by Bryan Robinson](https://www.youtube.com/watch?v=CL8LZaa_Qlk)
+-   [Building an Image Gallery with CSS Grid and PhotoSwipe](https://www.markllobrera.com/posts/eleventy-building-image-gallery-photoswipe/)
 
 ## Ressources
 
@@ -99,3 +103,4 @@ navigation: false
 -   [Getting Started with Eleventy](https://www.sitepoint.com/getting-started-with-eleventy/)
 -   [How I got started with 11ty](https://griffa.dev/posts/how-i-got-started-with-11ty/)
 -   [11ty Rocks!](https://11ty.rocks )
+-   [Add YouTube playlists to your Eleventy site](https://www.marclittlemore.com/add-youtube-playlists-to-eleventy-site/)

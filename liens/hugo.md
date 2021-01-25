@@ -13,6 +13,7 @@ navigation: false
 -   <https://jonyablonski.com/articles/2020/simplified-development-workflow/>
 -   <https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/>
 -   <https://pawelgrzybek.com/webp-and-avif-images-on-a-hugo-website/>
+-   <https://acanalis.github.io/post/concepts-of-hugo/>
 
 ## Thèmes
 
