@@ -58,6 +58,7 @@ navigation: false
 -   [PageSpeed Compare](https://pagespeed.compare/)
 -   [Google Lighthouse Budget Generator](https://www.aymen-loukil.com/seo-tools/lighthouse-budget-generator)
 -   [EStimator](https://estimator.dev/)
+-   [Layout Shift GIF Generator](https://defaced.dev/tools/layout-shift-gif-generator/)
 
 ## Github
 

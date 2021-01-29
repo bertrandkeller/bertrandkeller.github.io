@@ -28,9 +28,10 @@ navigation: false
 ## Rapports
 
 -   [Pour un numerique soutenable - ARCEP](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
--   [Vers un numérique durable et soutenable](https://msfrstorage.blob.core.windows.net/cdn/azure/2020/Microsoft-Livre-Blanc-14122020.pdf)
+-   [Vers un numérique durable et soutenable - Microsoft](https://msfrstorage.blob.core.windows.net/cdn/azure/2020/Microsoft-Livre-Blanc-14122020.pdf)
 -   [Rapport 2020 sur l'écart entre les besoins et les perspectives en matière de réduction des émissions - UNEP](https://www.unep.org/fr/emissions-gap-report-2020)
 -   [FAQ - Numérique et Environnement](https://syntec-numerique.fr/faq-numerique-et-environnement)
+-   [Chiffres clés du climat - France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/index)
 
 ## Graphiques
 
@@ -80,12 +81,15 @@ navigation: false
 -   [Bilan carbone façon OCTO : l’exploration continue et ça secoue ! - Alexis Nicolas et Charlotte Abdelnour](https://blog.octo.com/lexploration-continue-et-ca-secoue/)
 -   [L’ADEME publie le guide « d’un numérique plus responsable » - Bela Loto Hiffler](https://presse.ademe.fr/2020/12/lademe-publie-le-guide-dun-numerique-plus-responsable.html)
 -   [Devenir un développeur green avec l’éco-conception web](https://alexsoyes.com/eco-conception-web/)
+-   [Nouveau contrat écologique et social - Stéphane Vincent](http://www.la27eregion.fr/le-nouveau-contrat-ecologique-et-social-une-boussole-pour-lavenir-de-la-transformation-publique/)
+-   [Sous le capot de la mesure Ecoindex !](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
 
 ## Le numérique en général
 
 -   [Situer le numerique - Gauthier Roussilhe](https://designcommun.fr/cahiers/situer-le-numerique/)
 -   [Digital Divide - Fastly](https://www.fastly.com/blog/digital-divide)
 -   [L’archipel low-tech en France illustré - Low Tech Lab](https://lowtechlab.org/fr/actualites-blog/l-archipel-low-tech-en-france-illustre)
+-   [Consumer IoT Risk Repository](https://repo.revision.io/repository/)
 
 ## 5G
 
@@ -124,6 +128,7 @@ navigation: false
 
 -   [le RDV design - 02 Lowtech](https://podcast.ausha.co/le-rdv-design/02-lowtech)
 -   [Le numérique peut-il être écologique et responsable ?](https://www.franceculture.fr/emissions/de-cause-a-effets-le-magazine-de-lenvironnement/de-cause-a-effets-le-magazine-de-lenvironnement-du-mardi-05-janvier-2021)
+-   [Numérique & environnement, des optimisations aux effets rebonds](https://soundcloud.com/frictionsnumeriques)
 
 ## Indicateurs
 
@@ -138,6 +143,8 @@ navigation: false
 -   [MyCO2](https://www.myco2.fr/)
 -   [Scaphandre](https://github.com/hubblo-org/scaphandre/)
 -   [CodeCarbon](https://github.com/mlco2/codecarbon)
+-   [Mobile Efficiency Index](https://mobile-efficiency-index.com/)
+-   [Microsoft Sustainability Calculator](https://appsource.microsoft.com/fr-fr/product/power-bi/coi-sustainability.sustainability_dashboard)
 
 ## Jeux
 

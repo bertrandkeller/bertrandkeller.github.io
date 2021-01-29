@@ -59,6 +59,7 @@ navigation: false
 -   [Integrate Pocket in Eleventy](https://justmarkup.com/articles/2021-01-19-integrate-pocket-in-eleventy/)
 -   [Javascript Data Files and You by Bryan Robinson](https://www.youtube.com/watch?v=CL8LZaa_Qlk)
 -   [Building an Image Gallery with CSS Grid and PhotoSwipe](https://www.markllobrera.com/posts/eleventy-building-image-gallery-photoswipe/)
+-   [Don’t Shut Down Your Business! Instead Use Eleventy Image](https://www.zachleat.com/web/eleventy-image/)
 
 ## Ressources
 

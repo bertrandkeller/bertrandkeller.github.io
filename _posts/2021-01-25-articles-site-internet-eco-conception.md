@@ -21,6 +21,7 @@ Appréhender l’éco-conception par la pratique ? Je vous liste 3 articles parl
 - [Devenir un développeur green avec l’éco-conception web - Alex Soyes](https://alexsoyes.com/eco-conception-web/#developpeurs)
 - [Green by Default - Brian Louis Ramirez](https://blr.design/blog/green-by-default/)
 - [Sustainability in digital developments - Marc Radziwill](https://marcradziwill.com/blog/sustainability-in-digital-developments/)
+- [https://infogreenfactory.green/2021/01/ecoconception-et-wordpress-partie-1/](https://infogreenfactory.green/2021/01/ecoconception-et-wordpress-partie-1/)
 
 
 

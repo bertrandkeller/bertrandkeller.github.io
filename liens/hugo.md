@@ -14,6 +14,7 @@ navigation: false
 -   <https://sebastiandedeyne.com/how-to-schedule-posts-with-hugo-netlify-and-github-actions/>
 -   <https://pawelgrzybek.com/webp-and-avif-images-on-a-hugo-website/>
 -   <https://acanalis.github.io/post/concepts-of-hugo/>
+-   <https://blog.cavelab.dev/2021/01/hugo-aliases-to-firebase-redirects/>
 
 ## Thèmes
 
