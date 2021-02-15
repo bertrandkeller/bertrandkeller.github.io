@@ -145,6 +145,7 @@ navigation: false
 -   [CodeCarbon](https://github.com/mlco2/codecarbon)
 -   [Mobile Efficiency Index](https://mobile-efficiency-index.com/)
 -   [Microsoft Sustainability Calculator](https://appsource.microsoft.com/fr-fr/product/power-bi/coi-sustainability.sustainability_dashboard)
+-   [EcoPing](https://ecoping.earth/)
 
 ## Jeux
 
