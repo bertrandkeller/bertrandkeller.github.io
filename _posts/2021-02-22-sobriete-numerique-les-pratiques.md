@@ -30,7 +30,7 @@ On observe donc un double phénomène : dévalorisation des métiers dit "utiles
 
 La pensée libérale étant de mise et la notion de service publique ayant été dégradée depuis plusieurs décennies ; L’état est désormais perçu comme une entreprise ; entreprise avec des savoir-faire qui ne correspondent plus à la réalité du marché.
 
-Ainsi, comme pour toute entreprise qui génère plus de dettes que de bénéfices ; la solution des dirigeants, formés au modèle d‘optimisation des entreprises privées, est de rationaliser les pratiques (numériser) ainsiqe que se séparer du personnel devenu inutile et trop coûteux.
+Ainsi, comme pour toute entreprise qui génère plus de dettes que de bénéfices ; la solution des dirigeants, formés au modèle d‘optimisation des entreprises privées, est de rationaliser les pratiques (numériser) ainsi que que se séparer du personnel devenu inutile et trop coûteux.
 
 Sauf que, premièrement, l’État n’est pas une entreprise privée basée sur la rentabilité d’un service ; et que, deuxièmement, alors que des savoir-faire ont déjà disparu, on ne réfléchit pas à la valorisation de nouveau savoir-faire. On ne sait même plus ce qu’est un savoir-faire.
 
