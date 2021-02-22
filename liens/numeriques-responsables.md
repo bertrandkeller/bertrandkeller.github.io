@@ -28,7 +28,7 @@ navigation: false
 ## Rapports
 
 -   [Pour un numerique soutenable - ARCEP](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
--   [Vers un numérique durable et soutenable - Microsoft](https://msfrstorage.blob.core.windows.net/cdn/azure/2020/Microsoft-Livre-Blanc-14122020.pdf)
+-   [Vers un numérique durable et soutenable - Microsoft](https://msfrstorage.blob.core.windows.net/cdn/azure/2020/Microsoft-Livre-Blanc-14122020.pdf) et [Microsoft carbon removal](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MDlc)
 -   [Rapport 2020 sur l'écart entre les besoins et les perspectives en matière de réduction des émissions - UNEP](https://www.unep.org/fr/emissions-gap-report-2020)
 -   [FAQ - Numérique et Environnement](https://syntec-numerique.fr/faq-numerique-et-environnement)
 -   [Chiffres clés du climat - France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/index)
