@@ -32,6 +32,8 @@ navigation: false
 -   [Rapport 2020 sur l'écart entre les besoins et les perspectives en matière de réduction des émissions - UNEP](https://www.unep.org/fr/emissions-gap-report-2020)
 -   [FAQ - Numérique et Environnement](https://syntec-numerique.fr/faq-numerique-et-environnement)
 -   [Chiffres clés du climat - France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/index)
+-   [Responsabilité numérique et musées français](https://musees-responsables.karl-pineau.fr/index.html)
+-   [IBM s'engage à atteindre un niveau d'émissions de gaz à effet de serre de zéro net d'ici 2030](https://fr.newsroom.ibm.com/announcements?item=123442)
 
 ## Graphiques
 
@@ -46,9 +48,11 @@ navigation: false
 -   [Pour une transition numérique écologique - Sénat France](http://www.senat.fr/rap/r19-555/r19-555_mono.html)
 -   [25 propositions pour une transition numérique écologique - Sénat](https://www.senat.fr/fileadmin/Fichiers/Images/redaction_multimedia/2020/2020-Documents_pdf/20200624_Conf_presse_Dev_Dur/20200624_Conf_Dev_Dur_Infographie.pdf)
 -   [Responsabilité numérique des entreprises : la Plateforme RSE publie un premier avis sur l’enjeu des données - Stratégie Gouv](https://www.strategie.gouv.fr/publications/responsabilite-numerique-entreprises-plateforme-rse-publie-un-premier-avis-lenjeu)
+-   [La feuille de route - numérique environnement](https://www.economie.gouv.fr/files/files/PDF/2021/Feuille_de_route_Numerique_Environnement.pdf)
 
 ## Articles/Reflexions
 
+-   [Digital Declutter for Businesses](https://www.wholegraindigital.com/digitaldeclutter/)
 -   [Pour un numérique soutenable, « des bonnes intentions […] ce n’est pas suffisant » - NextInpact](https://www.nextinpact.com/article/45093/pour-numerique-soutenable-bonnes-intentions-ce-nest-pas-suffisant)
 -   [Sobriété numérique : une démarche d’entreprise responsable - CIGREF](https://www.cigref.fr/publication-sobriete-numerique-une-demarche-d-entreprise-responsable)
 -   [Entreprises du Numérique : l'Urgence Carbone - Hervé Collignon](https://www.linkedin.com/pulse/entreprises-du-num%25C3%25A9rique-lurgence-carbone-herv%25C3%25A9-collignon/?trackingId=j9XhLTbx2T8%2Br8J8Rx9Gzg%3D%3D)
@@ -83,6 +87,8 @@ navigation: false
 -   [Devenir un développeur green avec l’éco-conception web](https://alexsoyes.com/eco-conception-web/)
 -   [Nouveau contrat écologique et social - Stéphane Vincent](http://www.la27eregion.fr/le-nouveau-contrat-ecologique-et-social-une-boussole-pour-lavenir-de-la-transformation-publique/)
 -   [Sous le capot de la mesure Ecoindex !](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
+-   [Audits d'écoconception - Laurent Devernay](https://ldevernay.github.io/Audits.html)
+-   [Digital Declutter for Businesses](https://www.wholegraindigital.com/digitaldeclutter/)
 
 ## Le numérique en général
 
@@ -123,12 +129,16 @@ navigation: false
 -   [Conception numérique responsable - Richard Hanna](https://speakerdeck.com/supertanuki/conception-numerique-responsable?)
 -   [le numérique responsable : la convergence des transitions environnementales et digitales](https://observatoire-mobilites.fr/numerique-responsable/)
 -   [PS5 et Xbox Series X un désastre pour l'écologie ? ♻️ Comparatifs + chiffres édifiants](https://www.youtube.com/watch?v=QIbDxhjr7SA)
+-   [Réinventer le numérique face aux limites planétaires ? - Conférence de Gauthier Roussilhe](https://www.youtube.com/watch?v=QT2S9LV0Eh4&feature=youtu.be)
+-   ["Repenser le numérique dans les limites planétaires" - Gauthier Roussilhe](https://www.youtube.com/watch?v=pvl6QeeBOaU)
+-   [Les masterclasses GREEN IT - Société Générale](https://careers.societegenerale.com/green-it-program#masterclasses)
 
 ## Podcasts
 
 -   [le RDV design - 02 Lowtech](https://podcast.ausha.co/le-rdv-design/02-lowtech)
 -   [Le numérique peut-il être écologique et responsable ?](https://www.franceculture.fr/emissions/de-cause-a-effets-le-magazine-de-lenvironnement/de-cause-a-effets-le-magazine-de-lenvironnement-du-mardi-05-janvier-2021)
 -   [Numérique & environnement, des optimisations aux effets rebonds](https://soundcloud.com/frictionsnumeriques)
+-   [(Dé)clics responsables](https://podcast.ausha.co/responsables)
 
 ## Indicateurs
 

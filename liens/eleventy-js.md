@@ -64,6 +64,8 @@ navigation: false
 
 ## Ressources
 
+-   [Encapsulated Eleventy/Nunjucks components with macros](https://www.trysmudford.com/blog/encapsulated-11ty-components/)
+-   [I Finally Understand Eleventy's Data Cascade.](https://benmyers.dev/blog/eleventy-data-cascade/)
 -   [Running Staticman on Netlify Functions](https://eduardoboucas.com/posts/2020-12-23-staticman-netlify-functions/)
 -   [Leveraging 11ty in Healthcare](https://speakerdeck.com/danfascia/leveraging-11ty-in-healthcare)
 -   [11ty + Nunjucks](https://dinhanhthi.com/11ty-nunjucks/)

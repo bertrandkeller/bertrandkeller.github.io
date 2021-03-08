@@ -24,6 +24,9 @@ navigation: false
 -   [Strengthening the Link Between Site Speed and Business Outcomes](https://andydavies.me/blog/2020/10/12/strengthening-the-link-between-site-speed-and-business-outcomes/)
 -   [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice/)
 -   [The Core Web Vitals hype train](https://sylormiller.com/posts/2020/core-web-vitals/)
+-   [Testing priority hints with WebPageTest](https://nooshu.github.io/blog/2021/02/20/testing-priority-hints-with-webpagetest/)
+-   [Ecommerce Core Web Vitals Study](https://reddico.co.uk/news/ecommerce-core-web-vitals/)
+-   [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study)
 
 
 ## Ressources
@@ -59,6 +62,9 @@ navigation: false
 -   [Google Lighthouse Budget Generator](https://www.aymen-loukil.com/seo-tools/lighthouse-budget-generator)
 -   [EStimator](https://estimator.dev/)
 -   [Layout Shift GIF Generator](https://defaced.dev/tools/layout-shift-gif-generator/)
+-   [Pagespeed Compare](https://pagespeed.compare/)
+-   [Lighthouse Parade](https://github.com/cloudfour/lighthouse-parade)
+-   [GreenIT-Analysis](https://github.com/VM-Ullr/GreenIT-cli)
 
 ## Github
 
