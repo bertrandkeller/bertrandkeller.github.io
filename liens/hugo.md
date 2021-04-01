@@ -15,6 +15,7 @@ navigation: false
 -   <https://pawelgrzybek.com/webp-and-avif-images-on-a-hugo-website/>
 -   <https://acanalis.github.io/post/concepts-of-hugo/>
 -   <https://blog.cavelab.dev/2021/01/hugo-aliases-to-firebase-redirects/>
+-   <https://www.thenewdynamic.com/article/hugo-module-netlify-redirects/>
 
 ## Thèmes
 

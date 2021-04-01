@@ -24,6 +24,7 @@ navigation: false
 -   [Carbon emissions fell across all sectors in 2020 except for one – SUVs](https://www.iea.org/commentaries/carbon-emissions-fell-across-all-sectors-in-2020-except-for-one-suvs)
 -   [Latest Game Consoles: Environmental Winners or Losers?](https://www.nrdc.org/experts/noah-horowitz/latest-game-consoles-environmental-winners-or-losers)
 -   [Report: Xbox’s “instant on” feature could consume 4 billion kWh by 2025 ](https://arstechnica.com/gaming/2021/01/how-the-xboxs-default-instant-on-feature-could-harm-the-environment/)
+-   [Face à la pollution numérique : la sobriété](https://verdamano.com/ebook-face-a-la-pollution-numerique-la-sobriete/)
 
 ## Rapports
 
@@ -34,6 +35,9 @@ navigation: false
 -   [Chiffres clés du climat - France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/index)
 -   [Responsabilité numérique et musées français](https://musees-responsables.karl-pineau.fr/index.html)
 -   [IBM s'engage à atteindre un niveau d'émissions de gaz à effet de serre de zéro net d'ici 2030](https://fr.newsroom.ibm.com/announcements?item=123442)
+-   [Horizon TERRE - Tou.te.s Ensemble pour une Recherche Responsable et Engagée](https://decidim.sciencescitoyennes.ovh/uploads/decidim/attachment/file/27/Rapport_HorizonTERRE.pdf)
+-   [Sobriété numérique et collectivités territoriales : quels enjeux ?](https://www.espelia.fr/mediastore/fckEditor/file/Sobriété%20Numérique%20et%20collectivités%20territoriales%20-%20quels%20enjeux.pdf)
+-   [L’organisation responsable de 2021 - Relyance, 5plus, Capybara, Z’est](https://fr.calameo.com/read/00663963404ba49df6459)
 
 ## Graphiques
 
@@ -52,6 +56,7 @@ navigation: false
 
 ## Articles/Reflexions
 
+-   [Online permaculture - This is how sustainably websites can grow - allcodesarebeautiful](https://allcodesarebeautiful.com/en/permaculture-on-the-web/)
 -   [Digital Declutter for Businesses](https://www.wholegraindigital.com/digitaldeclutter/)
 -   [Pour un numérique soutenable, « des bonnes intentions […] ce n’est pas suffisant » - NextInpact](https://www.nextinpact.com/article/45093/pour-numerique-soutenable-bonnes-intentions-ce-nest-pas-suffisant)
 -   [Sobriété numérique : une démarche d’entreprise responsable - CIGREF](https://www.cigref.fr/publication-sobriete-numerique-une-demarche-d-entreprise-responsable)
@@ -62,6 +67,7 @@ navigation: false
 -   [Les actions climatiques de la France ne sont pas à la hauteur - France Info](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/rechauffement-les-actions-climatiques-de-la-france-ne-sont-pas-a-la-hauteur-des-enjeux-ni-des-objectifs-qu-elle-s-est-donne-denonce-le-haut-conseil-pour-le-climat_4037945.html)
 -   [Œuvrer à l'émergence d'un « autre numérique » est-il une impasse ? - Usbek & Rika](https://usbeketrica.com/article/oeuvrer-emergence-autre-numerique-est-il-impasse)
 -   [« Il faut mettre en oeuvre la frugalité by design » - Usbek & Rika](https://usbeketrica.com/fr/article/il-faut-mettre-en-oeuvre-la-frugalite-by-design)
+-   [Green IT : quel est le vrai impact du numérique sur l’environnement ? ](https://usbeketrica.com/fr/article/green-it-quel-est-le-vrai-impact-du-numerique-sur-l-environnement)
 -   [L’analyse du trafic et le problème de la soif de données - Pikselkraft](https://www.pikselkraft.com/blog/repenser-nos-echanges-avec-les-utilisateurs-le-cafe-du-web/)
 -   [Agir pour un numérique responsable, au service de la reprise - Les échos](https://www.lesechos.fr/idees-debats/cercle/opinion-agir-pour-un-numerique-responsable-au-service-de-la-reprise-1208731)
 -   [Et si l’avenir du travail résidait dans la low tech ? - Les échos](https://www.lesechos.fr/idees-debats/cercle/opinion-et-si-lavenir-du-travail-residait-dans-la-low-tech-1134402)
@@ -99,9 +105,11 @@ navigation: false
 
 ## 5G
 
+-   [Impact environnemental du numérique :tendances à 5 ans et gouvernance de la 5g](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)
 -   [La controverse de la 5G - Gauthier Roussilhe](https://drive.infomaniak.com/app/share/128619/9e317de6-c376-46ed-80dc-20dccfbf4874/preview/pdf/7603)
 -   [5G is just one connectivity option](https://urgentcomm.com/2020/07/06/5g-is-just-one-connectivity-option/?hsamp_network=twitter&hsamp=bYRnKYbpi2t63)
 -    [Déboulonnons la 5G - L’âge de faire](https://lagedefaire-lejournal.fr/deboulonnons-la-5g/)
+-    [Conférence "La 5G est-elle vraiment raisonnable ?", avec Stephen Kerckhove et Raphaël Lemaire](https://www.youtube.com/watch?v=rc3R0TMQ5z4)
 
 ## Formations
 
@@ -139,6 +147,9 @@ navigation: false
 -   [Le numérique peut-il être écologique et responsable ?](https://www.franceculture.fr/emissions/de-cause-a-effets-le-magazine-de-lenvironnement/de-cause-a-effets-le-magazine-de-lenvironnement-du-mardi-05-janvier-2021)
 -   [Numérique & environnement, des optimisations aux effets rebonds](https://soundcloud.com/frictionsnumeriques)
 -   [(Dé)clics responsables](https://podcast.ausha.co/responsables)
+-   [L’éco-conception de services numériques : rencontre avec Walter Bouvais et Thomas Lemaire](https://soundcloud.com/beapp_corp/eco-conception_numerique)
+-   [Épisode 3 - La sobriété numérique - SmartCity](http://www.smartcitymag.fr/podcast/6/la-sobriete-numerique)
+-   [Podcast Science 382 – Science en intraveineuse pour la rentrée !](https://www.podcastscience.fm/emission/2019/09/13/podcast-science-382-science-intraveineuse/)
 
 ## Indicateurs
 
@@ -170,3 +181,4 @@ navigation: false
 -   <https://www.itsonus.fr/>
 -   <https://www.ey.com/fr_fr/government-public-sector/conseil-en-strategie-durable-et-numerique-responsable>
 -   <https://www.light-communication.fr/>
+

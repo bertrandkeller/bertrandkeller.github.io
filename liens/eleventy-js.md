@@ -38,6 +38,7 @@ navigation: false
 -   [A high-performance blog template for 11ty](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/)
 -   [Eleventy Duo](https://github.com/yinkakun/eleventy-duo)
 -   [11up](https://www.npmjs.com/package/11up)
+-   [Adding SEO tags to Eleventy](https://www.larryhudson.io/seo-meta-tags-eleventy/)
 
 ## Tips
 
@@ -61,6 +62,7 @@ navigation: false
 -   [Building an Image Gallery with CSS Grid and PhotoSwipe](https://www.markllobrera.com/posts/eleventy-building-image-gallery-photoswipe/)
 -   [Don’t Shut Down Your Business! Instead Use Eleventy Image](https://www.zachleat.com/web/eleventy-image/)
 -   [Quick Tips](https://11ty.rocks/tips/)
+-   [11ty Web Component Generator](https://11ty-web-component-generator.netlify.app/)
 
 ## Ressources
 
