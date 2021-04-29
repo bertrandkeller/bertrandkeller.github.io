@@ -5,6 +5,7 @@ navigation: false
 
 ## Chiffres clés/Études
 
+-   [Plan de transformation de l’économie française : focus sur les usages numériques](https://theshiftproject.org/les-usages-numeriques/)
 -   [Empreinte environnementale du numérique mondial - Green IT](https://www.greenit.fr/etude-empreinte-environnementale-du-numerique-mondial/)
 -   [L’Arcep se penche sur l’enjeu environnemental des réseaux - Green IT](https://www.greenit.fr/2020/07/07/larcep-se-penche-sur-lenjeu-environnemental-des-reseaux/)
 -   [Anticiper la crise - McKinsey](https://www.mckinsey.com/fr/~/media/McKinsey/Locations/Europe%20and%20Middle%20East/France/Our%20Insights/Anticiper%20la%20crise%20dapres/Anticiper-la-crise.pdf)
@@ -95,6 +96,7 @@ navigation: false
 -   [Sous le capot de la mesure Ecoindex !](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
 -   [Audits d'écoconception - Laurent Devernay](https://ldevernay.github.io/Audits.html)
 -   [Digital Declutter for Businesses](https://www.wholegraindigital.com/digitaldeclutter/)
+-   [Quels outils pour mesurer la consommation énergétique de vos applications ?](https://glalloue.medium.com/quels-outils-pour-mesurer-la-consommation-%C3%A9nerg%C3%A9tique-de-vos-applications-c4d3bf434d7f)
 
 ## Le numérique en général
 
@@ -167,10 +169,13 @@ navigation: false
 -   [Mobile Efficiency Index](https://mobile-efficiency-index.com/)
 -   [Microsoft Sustainability Calculator](https://appsource.microsoft.com/fr-fr/product/power-bi/coi-sustainability.sustainability_dashboard)
 -   [EcoPing](https://ecoping.earth/)
+-   [GreenFrame](https://greenframe.io/)
+-   [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/)
 
-## Jeux
+## Jeux/Outils
 
 -   [Econ[u]m, Le jeu pour un numérique [+] responsable](https://ddemain.com/econum/jeu/)
+-   [Le numérique éducatif libre et responsable - LA DIGITALE](https://ladigitale.dev/#projet_ecoconception)
 
 ## Agences
 

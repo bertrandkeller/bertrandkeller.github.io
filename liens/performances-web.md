@@ -65,6 +65,8 @@ navigation: false
 -   [Pagespeed Compare](https://pagespeed.compare/)
 -   [Lighthouse Parade](https://github.com/cloudfour/lighthouse-parade)
 -   [GreenIT-Analysis](https://github.com/VM-Ullr/GreenIT-cli)
+-   [Site Speed](https://www.sitespeed.io/sitespeed.io-17.0-browsertime-12.0/)
+-   [Free Google Page Experience Checker - Cloudways](https://www.cloudways.com/en/google-page-experience-test.php)
 
 ## Github
 

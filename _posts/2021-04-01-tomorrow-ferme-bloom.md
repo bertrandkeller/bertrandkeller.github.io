@@ -31,11 +31,11 @@ En effet, on attend de la puissance publique qu’elle régule les échanges éc
 
 Or, avec les lobbies, la main mise sur les médias… un ensemble de chose est faite pour que la puissance publique soit… impuissante.
 
-A l’image de l’aventure **Bloom**, il n’y aura pas baisse des émissions et une transformation de l’économie, sans action de la puissance publique pour protéger et développer les savoir-faire humains dans la sobriété, la dénumérisation… 
+A l’image de l’aventure **Bloom**, il n’y aura pas baisse des émissions et une transformation de l’économie, sans action de la puissance publique pour protéger et développer les savoir-faire humains dans la sobriété, la dénumérisation…
 
-…un usage de la technique pour ce qu'elle nous apporte et non ce qu'elle nous rapporte. 
+…un usage de la technique pour ce qu'elle nous apporte et non ce qu'elle nous rapporte.
 
-Lire (Closing the Bloom chapter)[https://www.tmrow.com/blog/closing-down-the-bloom-chapter/].
+Lire [Closing the Bloom chapter](https://www.tmrow.com/blog/closing-down-the-bloom-chapter/).
 
 
 

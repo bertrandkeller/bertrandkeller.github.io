@@ -20,6 +20,8 @@ navigation: false
 -   [Eleventy - SCSS](https://github.com/jamshop/eleventy-plugin-scss)
 -   [Eleventy - TOC](https://github.com/jdsteinbach/eleventy-plugin-toc)
 -   [Eleventy Caniuse](https://github.com/KevinGimbel/eleventy-plugin-caniuse)
+-   [Eleventy external links transform](https://gist.github.com/jouni-kantola/a7ff2112544dd3e8beec8d6ee0aecb88)
+-   [Eleventy Prismic](https://github.com/prismicio-community/eleventy-plugin-prismic)
 
 =>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins)
 
@@ -42,6 +44,7 @@ navigation: false
 
 ## Tips
 
+-   [Cache busting in Eleventy](https://bnijenhuis.nl/notes/2021-04-23-cache-busting-in-eleventy/)
 -   [Eleventy Introduction](https://github.com/jeromecoupe/iad_eleventy_introduction/blob/master/eleventy_introduction_fr.md)
 -   [Generate Twitter cards automatically](https://fettblog.eu/11ty-automatic-twitter-cards/)
 -   [Eleventy Error Overlay](https://github.com/stevenpetryk/eleventy-plugin-error-overlay)
@@ -63,6 +66,7 @@ navigation: false
 -   [Don’t Shut Down Your Business! Instead Use Eleventy Image](https://www.zachleat.com/web/eleventy-image/)
 -   [Quick Tips](https://11ty.rocks/tips/)
 -   [11ty Web Component Generator](https://11ty-web-component-generator.netlify.app/)
+-   [Use Eleventy Templating To Include Static Code Demos](https://11ty.rocks/posts/eleventy-templating-static-code-demos/)
 
 ## Ressources
 
