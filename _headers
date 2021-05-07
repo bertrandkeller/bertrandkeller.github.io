@@ -27,3 +27,7 @@
 
 /assets/*
   Cache-Control: public,max-age=990000
+
+/assets/fonts/*.woff2
+  Access-Control-Allow-Origin: *
+  Content-Type: font/woff2
