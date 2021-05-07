@@ -40,7 +40,7 @@ Face à ce constat, Fatih Biro directeur exécutif de l’IEA ne semble par pour
 
 Mais si on regarde les choses les choses en face. On se retrouve encore avec un discours du chemin de crête où il faudrait qu’il existe un alignement improbable des planètes. L’International Energy Agency préconise que les acteurs prennent en compte le développement durable dans toute leur chaîne de production et jouent la transparence.
 
-Chose qui n'existe pas, qu’on est pas prêt de voir et que les entreprises ne veulent pas faire, sachant qu’il n'y a aucun cadre global contraignant, lire : [/2021/04/29/survente-rapports-developpement-durable/](Survente des rapports de développement durable).
+Chose qui n'existe pas, qu’on est pas prêt de voir et que les entreprises ne veulent pas faire, sachant qu’il n'y a aucun cadre global contraignant, lire : [Survente des rapports de développement durable](/2021/04/29/survente-rapports-developpement-durable/).
 
 ## La roue libre
 
