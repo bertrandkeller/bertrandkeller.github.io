@@ -67,6 +67,7 @@ navigation: false
 -   [GreenIT-Analysis](https://github.com/VM-Ullr/GreenIT-cli)
 -   [Site Speed](https://www.sitespeed.io/sitespeed.io-17.0-browsertime-12.0/)
 -   [Free Google Page Experience Checker - Cloudways](https://www.cloudways.com/en/google-page-experience-test.php)
+-   [Lighthouse Metrics](https://lighthouse-metrics.com/)
 
 ## Github
 

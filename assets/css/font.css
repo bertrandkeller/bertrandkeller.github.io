@@ -2,27 +2,31 @@
 	font-family: Overpass;
 	font-style: normal;
 	font-weight: 400;
-	src: url("/assets/fonts/Overpass-Regular.woff2") format("woff2"),
+	src: url("/assets/fonts/Overpass-Light.woff2") format("woff2");
+  display: swap;
 }
 
 @font-face {
 	font-family: Overpass;
-	font-style: normal;
-	font-weight: 200;
-	src: url("/assets/fonts/Overpass-Light.woff2") format("woff2"),
+	font-style: italic;
+  font-weight: 400;
+	src: url("/assets/fonts/Overpass-Light-Italic.woff2") format("woff2");
+  display: swap;
 }
 
 @font-face {
 	font-family: Overpass;
 	font-style: normal;
 	font-weight: 500;
-	src: url("/assets/fonts/Overpass-Bold.woff2") format("woff2"),
+	src: url("/assets/fonts/Overpass-Bold.woff2") format("woff2");
+  display: swap;
 }
 
 @font-face {
 	font-family: Chivo;
 	font-style: normal;
 	font-weight: 500;
-	src: url("/assets/fonts/Chivo-Regular.woff2") format("woff2"),
+	src: url("/assets/fonts/Chivo-Regular.woff2") format("woff2");
+  display: swap;
 }
 

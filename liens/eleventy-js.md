@@ -67,6 +67,7 @@ navigation: false
 -   [Quick Tips](https://11ty.rocks/tips/)
 -   [11ty Web Component Generator](https://11ty-web-component-generator.netlify.app/)
 -   [Use Eleventy Templating To Include Static Code Demos](https://11ty.rocks/posts/eleventy-templating-static-code-demos/)
+-   [Image plugin for easy optimization](https://twitter.com/BHolmesDev/status/1389579991634124800)
 
 ## Ressources
 

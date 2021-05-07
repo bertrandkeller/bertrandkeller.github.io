@@ -152,6 +152,7 @@ navigation: false
 -   [L’éco-conception de services numériques : rencontre avec Walter Bouvais et Thomas Lemaire](https://soundcloud.com/beapp_corp/eco-conception_numerique)
 -   [Épisode 3 - La sobriété numérique - SmartCity](http://www.smartcitymag.fr/podcast/6/la-sobriete-numerique)
 -   [Podcast Science 382 – Science en intraveineuse pour la rentrée !](https://www.podcastscience.fm/emission/2019/09/13/podcast-science-382-science-intraveineuse/)
+-   [« Un numérique vert est-il possible ? » - Usbek & Rika](https://usbeketrica.com/fr/article/un-numerique-vert-est-il-possible)
 
 ## Indicateurs
 
