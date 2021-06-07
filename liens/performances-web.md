@@ -27,6 +27,8 @@ navigation: false
 -   [Testing priority hints with WebPageTest](https://nooshu.github.io/blog/2021/02/20/testing-priority-hints-with-webpagetest/)
 -   [Ecommerce Core Web Vitals Study](https://reddico.co.uk/news/ecommerce-core-web-vitals/)
 -   [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study)
+-   [Measuring Web Performance in 2021: The Definitive Guide](https://requestmetrics.com/web-performance/measure-web-performance)
+-   [Optimizing Web Vitals using Lighthouse](https://web.dev/optimize-vitals-lighthouse/)
 
 
 ## Ressources

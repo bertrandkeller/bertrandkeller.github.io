@@ -68,6 +68,8 @@ navigation: false
 -   [11ty Web Component Generator](https://11ty-web-component-generator.netlify.app/)
 -   [Use Eleventy Templating To Include Static Code Demos](https://11ty.rocks/posts/eleventy-templating-static-code-demos/)
 -   [Image plugin for easy optimization](https://twitter.com/BHolmesDev/status/1389579991634124800)
+-   [Using 11ty JavaScript Data files to mix Markdown and CMS content into one collection](https://bryanlrobinson.com/blog/using-11ty-javascript-data-files-to-mix-markdown-and-cms-content-into-one-collection/)
+-   [Binding behaviour to HTML with Web Components as Progressive Enhancement](https://www.petergoes.nl/blog/binding-behaviour-to-html-with-web-components-as-progressive-enhancement/)
 
 ## Ressources
 

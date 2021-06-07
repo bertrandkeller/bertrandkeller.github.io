@@ -26,6 +26,8 @@ navigation: false
 -   [Latest Game Consoles: Environmental Winners or Losers?](https://www.nrdc.org/experts/noah-horowitz/latest-game-consoles-environmental-winners-or-losers)
 -   [Report: Xbox’s “instant on” feature could consume 4 billion kWh by 2025 ](https://arstechnica.com/gaming/2021/01/how-the-xboxs-default-instant-on-feature-could-harm-the-environment/)
 -   [Face à la pollution numérique : la sobriété](https://verdamano.com/ebook-face-a-la-pollution-numerique-la-sobriete/)
+-   [Net Zero Initiative  - Carbone 4](http://www.carbone4.com/publication-referentiel-nzi/)
+-   [Climate summit momentum - Climate Action Tracker](https://climateactiontracker.org/documents/853/CAT_2021-05-04_Briefing_Global-Update_Climate-Summit-Momentum.pdf)
 
 ## Rapports
 
@@ -104,6 +106,8 @@ navigation: false
 -   [Digital Divide - Fastly](https://www.fastly.com/blog/digital-divide)
 -   [L’archipel low-tech en France illustré - Low Tech Lab](https://lowtechlab.org/fr/actualites-blog/l-archipel-low-tech-en-france-illustre)
 -   [Consumer IoT Risk Repository](https://repo.revision.io/repository/)
+-   [101 actions pour changer la tech](https://airtable.com/shrNdk5glMysV4FYQ/tblfqQ5zcjwrTiqxB)
+-   [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
 ## 5G
 
@@ -121,6 +125,7 @@ navigation: false
 -   [M.I.R Conseil & Formation](https://www.mir-cf.com/formations)
 -   [Analyse du cycle de vie de service numérique - DDemain](https://ddemain.com/formation/)
 -   [Optimisation Transformation numérique - Microfocus](https://www.microfocus.com/fr-fr/home)
+-   [Les principes de l’ingénierie logicielle durable - Microsoft](https://docs.microsoft.com/fr-fr/learn/modules/sustainable-software-engineering-overview/2-overview)
 
 ## Conférences
 
