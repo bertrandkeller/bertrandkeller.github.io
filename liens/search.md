@@ -9,3 +9,4 @@ navigation: false
 - [Adding search to a JAMstack site](https://www.hawksworx.com/blog/adding-search-to-a-jamstack-site/)
 - <https://typesense.org/>
 - <https://infinitysearch.co>
+- <https://github.com/nextapps-de/flexsearch>

@@ -5,6 +5,8 @@ navigation: false
 
 ## Chiffres clés/Études
 
+-   [Face au poids croissant du numérique : l’impératif de  sobriété - Institut Rousseau](https://www.institut-rousseau.fr/face-au-poids-croissant-du-numerique-limperatif-de-sobriete/)
+-   [Low tech : la sobriété numérique au service de l’expérience utilisateur - Fairness](https://blog.link-value.fr/low-tech-et-sobriete-numerique-ed98bb02ea70?gi=d014a1802b2d)
 -   [Plan de transformation de l’économie française : focus sur les usages numériques](https://theshiftproject.org/les-usages-numeriques/)
 -   [Empreinte environnementale du numérique mondial - Green IT](https://www.greenit.fr/etude-empreinte-environnementale-du-numerique-mondial/)
 -   [L’Arcep se penche sur l’enjeu environnemental des réseaux - Green IT](https://www.greenit.fr/2020/07/07/larcep-se-penche-sur-lenjeu-environnemental-des-reseaux/)
@@ -28,6 +30,7 @@ navigation: false
 -   [Face à la pollution numérique : la sobriété](https://verdamano.com/ebook-face-a-la-pollution-numerique-la-sobriete/)
 -   [Net Zero Initiative  - Carbone 4](http://www.carbone4.com/publication-referentiel-nzi/)
 -   [Climate summit momentum - Climate Action Tracker](https://climateactiontracker.org/documents/853/CAT_2021-05-04_Briefing_Global-Update_Climate-Summit-Momentum.pdf)
+-   [L’impact environnemental du numérique en santé](https://esante.gouv.fr/sites/default/files/media_entity/documents/rapport_gt6_210517-2.pdf)
 
 ## Rapports
 
@@ -177,11 +180,13 @@ navigation: false
 -   [EcoPing](https://ecoping.earth/)
 -   [GreenFrame](https://greenframe.io/)
 -   [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/)
+-   [Nuts calculatrice digitale co2eq](https://nuts.be-ma.fr/calculator.php#)
 
 ## Jeux/Outils
 
 -   [Econ[u]m, Le jeu pour un numérique [+] responsable](https://ddemain.com/econum/jeu/)
 -   [Le numérique éducatif libre et responsable - LA DIGITALE](https://ladigitale.dev/#projet_ecoconception)
+-   [Présentation du ClimaKit élémentaire d'EduClimat](https://www.youtube.com/watch?v=uSzlgUVhygg)
 
 ## Agences
 

@@ -15,3 +15,5 @@ navigation: false
 -   [Le contrat de transition écologique](https://cte.ecologique-solidaire.gouv.fr/#)
 -   <https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-adapter-changement-climatique.pdf?fbclid=IwAR2647Ujh7OwxGJMUd8fSAcUNK5OhoQNPM7tkVMPmfy8HtaAbVXiFaiSo5w>
 -   [Le nouveau contrat écologique et social, une boussole pour l’avenir de la transformation publique ?](http://www.la27eregion.fr/le-nouveau-contrat-ecologique-et-social-une-boussole-pour-lavenir-de-la-transformation-publique/)
+-   [Un écosystème de solutions d'adaptation au changement climatique pour la ville de demain](https://www.adaptaville.fr/alea-climatique/canicules)
+-   [Rafraîchir les villes, des solutions variées - Adème](https://presse.ademe.fr/2021/06/lademe-publie-le-guide-rafraichir-les-villes-des-solutions-variees-19-solutions-pour-lutter-contre-le-rechauffement-urbain.html)

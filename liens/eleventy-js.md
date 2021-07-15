@@ -70,6 +70,7 @@ navigation: false
 -   [Image plugin for easy optimization](https://twitter.com/BHolmesDev/status/1389579991634124800)
 -   [Using 11ty JavaScript Data files to mix Markdown and CMS content into one collection](https://bryanlrobinson.com/blog/using-11ty-javascript-data-files-to-mix-markdown-and-cms-content-into-one-collection/)
 -   [Binding behaviour to HTML with Web Components as Progressive Enhancement](https://www.petergoes.nl/blog/binding-behaviour-to-html-with-web-components-as-progressive-enhancement/)
+-   [11ty IIIF Manifest Generator tool](https://meyerhofer.wordpress.com/2021/03/10/11ty-iiif-manifest-generator-tool/)
 
 ## Ressources
 
