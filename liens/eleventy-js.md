@@ -15,13 +15,16 @@ navigation: false
 -   [Eleventy - Monetization](https://github.com/DanCanetti/eleventy-plugin-monetization)
 -   [Eleventy - Mordred - Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.](https://github.com/egoist/mordred)
 -   [Eleventy - img](https://github.com/11ty/eleventy-img)
--   [Eleventy - Drop Cap](https://www.npmjs.com/package/elev[enty-plugin-dropcap)
+-   [Eleventy - Drop Cap](https://www.npmjs.com/package/eleventy-plugin-dropcap)
 -   [Eleventy - Critical CSS](https://github.com/gregives/eleventy-critical-css)
 -   [Eleventy - SCSS](https://github.com/jamshop/eleventy-plugin-scss)
 -   [Eleventy - TOC](https://github.com/jdsteinbach/eleventy-plugin-toc)
 -   [Eleventy Caniuse](https://github.com/KevinGimbel/eleventy-plugin-caniuse)
 -   [Eleventy external links transform](https://gist.github.com/jouni-kantola/a7ff2112544dd3e8beec8d6ee0aecb88)
 -   [Eleventy Prismic](https://github.com/prismicio-community/eleventy-plugin-prismic)
+-   [Eleventy Plugin SEO](https://github.com/artstorm/eleventy-plugin-seo)
+-   [Eleventy Copy local assets](https://github.com/chriskirknielsen/eleventy-plugin-copy-local-assets)
+-   [Eleventy SVG sprite](https://www.npmjs.com/package/eleventy-plugin-svg-sprite)
 
 =>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins)
 
@@ -56,7 +59,7 @@ navigation: false
 -   [Keep data cache](https://github.com/zachleat/speedlify/blob/live/plugins/keep-data-cache/index.js)
 -   [Get Tag List](https://github.com/11ty/eleventy-base-blog/blob/1148b90e22851df01be3f6b8b9ee6522c0b0566b/_11ty/getTagList.js#L7)
 -   [Cache on netlify](https://github.com/zachleat/speedlify/blob/live/plugins/keep-data-cache/index.js)
--   [Use Kirbt as CMS](https://github.com/getkirby/kql)
+-   [Use Kirby as CMS](https://github.com/getkirby/kql)
 -   [Eleventy: Date Output](http://dirtystylus.com/2020/06/05/eleventy-date-output/)
 -   [Setup social sharing previews, SEO, and favicons on Eleventy](https://obsolete29.com/posts/ogp-seo-favicons-eleventy/)
 -   [Accessible Emojis with 11ty](https://hugogiraudel.com/2021/01/02/accessible-emojis-with-11ty/)
@@ -71,9 +74,13 @@ navigation: false
 -   [Using 11ty JavaScript Data files to mix Markdown and CMS content into one collection](https://bryanlrobinson.com/blog/using-11ty-javascript-data-files-to-mix-markdown-and-cms-content-into-one-collection/)
 -   [Binding behaviour to HTML with Web Components as Progressive Enhancement](https://www.petergoes.nl/blog/binding-behaviour-to-html-with-web-components-as-progressive-enhancement/)
 -   [11ty IIIF Manifest Generator tool](https://meyerhofer.wordpress.com/2021/03/10/11ty-iiif-manifest-generator-tool/)
+-   [Structuring Eleventy projects](https://www.webstoemp.com/blog/eleventy-projects-structure/)
 
 ## Ressources
 
+-   [Building a notification thingamajig with Eleventy data](https://multiline.co/mment/2021/07/building-notification-thingamajig-eleventy-data/)
+-   [Architecting data in Eleventy](https://sia.codes/posts/architecting-data-in-eleventy/)
+-   [How I Create an Article Series in Eleventy](https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/)
 -   [Encapsulated Eleventy/Nunjucks components with macros](https://www.trysmudford.com/blog/encapsulated-11ty-components/)
 -   [I Finally Understand Eleventy's Data Cascade.](https://benmyers.dev/blog/eleventy-data-cascade/)
 -   [Running Staticman on Netlify Functions](https://eduardoboucas.com/posts/2020-12-23-staticman-netlify-functions/)

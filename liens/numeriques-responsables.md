@@ -31,9 +31,11 @@ navigation: false
 -   [Net Zero Initiative  - Carbone 4](http://www.carbone4.com/publication-referentiel-nzi/)
 -   [Climate summit momentum - Climate Action Tracker](https://climateactiontracker.org/documents/853/CAT_2021-05-04_Briefing_Global-Update_Climate-Summit-Momentum.pdf)
 -   [L’impact environnemental du numérique en santé](https://esante.gouv.fr/sites/default/files/media_entity/documents/rapport_gt6_210517-2.pdf)
+-   [État des lieux de la compensation carbone en France](https://www.info-compensation-carbone.com/titre-actu-5/)
 
 ## Rapports
 
+-   [Panorama sur la notion de sobriété](https://librairie.ademe.fr/cadic/491/synthese-etat-lieux-notion-sobriete-2019.pdf)
 -   [Pour un numerique soutenable - ARCEP](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
 -   [Vers un numérique durable et soutenable - Microsoft](https://msfrstorage.blob.core.windows.net/cdn/azure/2020/Microsoft-Livre-Blanc-14122020.pdf) et [Microsoft carbon removal](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MDlc)
 -   [Rapport 2020 sur l'écart entre les besoins et les perspectives en matière de réduction des émissions - UNEP](https://www.unep.org/fr/emissions-gap-report-2020)
@@ -44,6 +46,8 @@ navigation: false
 -   [Horizon TERRE - Tou.te.s Ensemble pour une Recherche Responsable et Engagée](https://decidim.sciencescitoyennes.ovh/uploads/decidim/attachment/file/27/Rapport_HorizonTERRE.pdf)
 -   [Sobriété numérique et collectivités territoriales : quels enjeux ?](https://www.espelia.fr/mediastore/fckEditor/file/Sobriété%20Numérique%20et%20collectivités%20territoriales%20-%20quels%20enjeux.pdf)
 -   [L’organisation responsable de 2021 - Relyance, 5plus, Capybara, Z’est](https://fr.calameo.com/read/00663963404ba49df6459)
+-   [Pour un Numérique Responsable à Nantes](https://dialoguecitoyen.metropole.nantes.fr/media/default/0001/01/f14d8863d8bb6a36024dfd58c2cf029700511d36.pdf)
+-   [Le référentiel du label numérique responsable](https://label-nr.fr/referentiel-numerique-responsable/)
 
 ## Graphiques
 
@@ -60,8 +64,14 @@ navigation: false
 -   [Responsabilité numérique des entreprises : la Plateforme RSE publie un premier avis sur l’enjeu des données - Stratégie Gouv](https://www.strategie.gouv.fr/publications/responsabilite-numerique-entreprises-plateforme-rse-publie-un-premier-avis-lenjeu)
 -   [La feuille de route - numérique environnement](https://www.economie.gouv.fr/files/files/PDF/2021/Feuille_de_route_Numerique_Environnement.pdf)
 
+## RSE
+
+-   [Boom des initiatives RSE en entreprise : les chartes et labels à connaître](https://blog.link-value.fr/rse-entreprise-chartes-et-labels-a-connaitre-8fd3316ce627?gi=73ed1d4755dc)
+-   [Le baromètre open source de la RSE 2021](https://ressources.vendredi.cc/hubfs/Barome%CC%80tre%20RSE%202021.pdf)
+
 ## Articles/Reflexions
 
+-   [3 bonnes raisons de surveiller la taille des applications Android et surtout comment le faire ?](https://blog.octo.com/3-bonnes-raisons-de-surveiller-la-taille-des-applications-android-et-surtout-comment-le-faire/)
 -   [Online permaculture - This is how sustainably websites can grow - allcodesarebeautiful](https://allcodesarebeautiful.com/en/permaculture-on-the-web/)
 -   [Digital Declutter for Businesses](https://www.wholegraindigital.com/digitaldeclutter/)
 -   [Pour un numérique soutenable, « des bonnes intentions […] ce n’est pas suffisant » - NextInpact](https://www.nextinpact.com/article/45093/pour-numerique-soutenable-bonnes-intentions-ce-nest-pas-suffisant)
@@ -161,6 +171,8 @@ navigation: false
 -   [Épisode 3 - La sobriété numérique - SmartCity](http://www.smartcitymag.fr/podcast/6/la-sobriete-numerique)
 -   [Podcast Science 382 – Science en intraveineuse pour la rentrée !](https://www.podcastscience.fm/emission/2019/09/13/podcast-science-382-science-intraveineuse/)
 -   [« Un numérique vert est-il possible ? » - Usbek & Rika](https://usbeketrica.com/fr/article/un-numerique-vert-est-il-possible)
+-   [Contre le totalitarisme numérique (avec François Jarrige, Matthieu Amiech, Célia Izoard)](https://floraisons.blog/contre-le-totalitarisme-numerique)
+-   [« Démystifier la croissance pour répondre aux enjeux sociétaux » (avec Timothée Parrique)](https://www.cddd.fr/demystifier-croissance-pour-repondre-enjeux-societaux-timothee-parrique-economie-podcast-c3d/)
 
 ## Indicateurs
 
