@@ -10,7 +10,7 @@ Pourtant, ces deux disciplines s’attachent au même domaine d’application le
 
 L’Accessibilité est une discipline du web perçue comme contraignante. Contraignante car elle oblige à présenter l‘information de manière à ce qu’elle soit lisible (accessible) à un usager mais sans forcément qu’une modification visuelle soit opérée.
 
-Contraignante, aussi, parce qu'elle demande à des personnes de modifier leur manière de travailler. D’une manière plus exigeant que ce qu'il ont l’habitude de faire au quotidien.
+Contraignante, aussi, parce qu'elle demande à des personnes de modifier leur manière de travailler. D’une manière plus exigeante que ce qu'il ont l’habitude de faire au quotidien.
 
 L’amélioration ne provoque aucun avantage concurrentiel, visuel, de perception sur un site web sur le très court terme. L’apport se mesure par l’audience, en faisant des tests utilisateurs, en observant une baisse de réclamations…
 
@@ -24,7 +24,7 @@ Le principe de base de l’Éco-conception est de s’intéresser à l’usage, 
 
 Sauf qu’à partir du moment où on aborde l’évolution de notre système industriel par une possible "transition", on s’intéresse plutôt à l’optimisation de l’existant et pas à l’usage de ce qu’on développe.
 
-Pourquoi ? On le sait, car il faudrait se poser des questions complexes, travailler en groupe (faiblement hiérarchisée), et admettre une série d’échecs successifs pour arriver à une solution, pas forcément génératrice de profit (maudite feuille de papier).
+Pourquoi ? On le sait, car il faudrait se poser des questions complexes, travailler en groupe (faiblement hiérarchisée), et admettre une série d’échecs successifs pour arriver à une solution, pas forcément génératrice de profits (maudite feuille de papier).
 
 ## L’intérêt de l’accessibilité
 
@@ -36,7 +36,7 @@ L’Accessibilité c’est contraignant et tant mieux. C'est même hyper contrai
 
 Ce que permet l’Accessibilité c’est de mettre sur la table un grand ensemble de choses qui ont été mal codées/pensées sur le site. On peut le voir avec un œil purement technique ; mais quand on déroule la pelote, on touche directement au niveau de maturité des équipes en ce qui concerne la conception de projets web.
 
-Un auditeur web est un "lettré" du web, une personne pas forcément spécialiste technique mais assis sur une expérience du web conséquente. Un audit va mettre en valeur un grand ensemble de problèmes techniques, mais qu’il n’est souvent possible de résoudre qu’en remettant en cause des choses qui ne sont pas d’ordre purement technique.
+Un auditeur web est un "lettré" du web, une personne pas forcément spécialiste technique mais assit sur une expérience du web conséquente. Un audit va mettre en valeur un grand ensemble de problèmes techniques, mais qu’il n’est souvent possible de résoudre qu’en remettant en cause des choses qui ne sont pas d’ordre purement technique.
 
 Sachant que l’audit d’accessibilité est sensé collé à la réalité d'un site dans le temps et que le taux de conformité attendu est 100% (RGAA). Une équipe n’a pas d’autre choix que de s’adapter et de prendre ne compte les usages des utilisateurs qui est la seule solution pour répondre à la demande.
 
