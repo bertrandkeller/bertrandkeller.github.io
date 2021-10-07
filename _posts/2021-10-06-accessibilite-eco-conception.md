@@ -20,7 +20,7 @@ Contrairement à une activité d’amélioration de la performance (ce à quoi o
 
 Ce qui pêche dans le domaine de l’Éco-conception, c’est qu’on applique qu’une partie de la logique sous entendue par la discipline.
 
-Le principe de base de l’Éco-conception est de s’intéresser à l’usage, puis de développer le système technique le moins énergivore et le plus performant par rapport à ce même usages. Si une feuille de papier répond à la problématique pas besoin d’un intranet complexe avec un parc de tablettes.
+Le principe de base de l’Éco-conception est de s’intéresser à l’usage, puis de développer le système technique le moins énergivore et le plus performant par rapport à ce même usage. Si une feuille de papier répond à la problématique pas besoin d’un intranet complexe avec un parc de tablettes.
 
 Sauf qu’à partir du moment où on aborde l’évolution de notre système industriel par une possible "transition", on s’intéresse plutôt à l’optimisation de l’existant et pas à l’usage de ce qu’on développe.
 
