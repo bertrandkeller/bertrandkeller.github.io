@@ -62,5 +62,6 @@ Si on analyse la situation générale de manière pragmatique. On désire avoir 
 
 L’utilisation des FrameWorks JS n’apportent vraiment satisfaction que dans un cas réduit de cas. Et dans un nombre de cas quasi nul, si on prend en compte les contraintes présentes dans la phrase précédente.
 
-Pour éviter de courir après la dette technique et des services conçus avec une démarche industrielle, une approche globale est nécessaire pour embrasser un ensemble de sujet et choisir des architectures adaptées pour un service (et pas seulement adaptées aux personnes qui la code).
+Pour éviter de courir après la dette technique et des services conçus avec une démarche industrielle, une approche globale est nécessaire pour embrasser un ensemble de sujets et choisir des architectures adaptées pour un service (et pas seulement adaptées aux personnes qui la code).
 
+Nous avons une question fondamentale sur la complexité de nos systèmes techniques et l’énergie nécessaire pour les maintenir dans le temps dans un avenir proche. Pour les 10 années à venir, les choix que nous faisons aujourd’hui sont cruciaux, mais à condition de bien comprendre ce que sera la réalité de la disponibilité énergétique du monde de demain.
