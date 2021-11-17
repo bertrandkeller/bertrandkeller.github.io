@@ -25,6 +25,8 @@ navigation: false
 -   [Eleventy Plugin SEO](https://github.com/artstorm/eleventy-plugin-seo)
 -   [Eleventy Copy local assets](https://github.com/chriskirknielsen/eleventy-plugin-copy-local-assets)
 -   [Eleventy SVG sprite](https://www.npmjs.com/package/eleventy-plugin-svg-sprite)
+-   [Eleventy MDX](https://github.com/jamshop/eleventy-plugin-mdx)
+-   [Eleventy Footnotes](https://github.com/KittyGiraudel/eleventy-plugin-footnotes)
 
 =>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins)
 
@@ -47,6 +49,9 @@ navigation: false
 
 ## Tips
 
+-   [Configuring Web Fonts in 11ty with Global Data](https://www.aleksandrhovhannisyan.com/blog/configuring-web-fonts-in-11ty-with-global-data/)
+-   [Eleventy 1.0 - Dynamic Ignores](https://www.raymondcamden.com/2021/10/15/eleventy-10-dynamic-ignores)
+-   [Lazily Loading Images with the 11ty Image Plugin](https://www.aleksandrhovhannisyan.com/blog/eleventy-image-lazy-loading/)
 -   [Cache busting in Eleventy](https://bnijenhuis.nl/notes/2021-04-23-cache-busting-in-eleventy/)
 -   [Eleventy Introduction](https://github.com/jeromecoupe/iad_eleventy_introduction/blob/master/eleventy_introduction_fr.md)
 -   [Generate Twitter cards automatically](https://fettblog.eu/11ty-automatic-twitter-cards/)
@@ -78,6 +83,8 @@ navigation: false
 
 ## Ressources
 
+-   [demo-eleventy-serverless-oauth](https://github.com/11ty/demo-eleventy-serverless-oauth)
+-   [Eleventy 1.0 - Upgrading Experience](https://www.raymondcamden.com/2021/10/08/eleventy-10-upgrading-experience)
 -   [Building a notification thingamajig with Eleventy data](https://multiline.co/mment/2021/07/building-notification-thingamajig-eleventy-data/)
 -   [Architecting data in Eleventy](https://sia.codes/posts/architecting-data-in-eleventy/)
 -   [How I Create an Article Series in Eleventy](https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/)

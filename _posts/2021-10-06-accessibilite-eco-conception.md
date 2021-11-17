@@ -38,7 +38,7 @@ Ce que permet l’Accessibilité c’est de mettre sur la table un grand ensembl
 
 Un auditeur web est un "lettré" du web, une personne pas forcément spécialiste technique mais assit sur une expérience du web conséquente. Un audit va mettre en valeur un grand ensemble de problèmes techniques, mais qu’il n’est souvent possible de résoudre qu’en remettant en cause des choses qui ne sont pas d’ordre purement technique.
 
-Sachant que l’audit d’accessibilité est sensé collé à la réalité d'un site dans le temps et que le taux de conformité attendu est 100% (RGAA). Une équipe n’a pas d’autre choix que de s’adapter et de prendre ne compte les usages des utilisateurs qui est la seule solution pour répondre à la demande.
+Sachant que l’audit d’accessibilité est sensé collé à la réalité d'un site dans le temps et que le taux de conformité attendu est 100% (RGAA). Une équipe n’a pas d’autre choix que de s’adapter et de prendre en compte les usages des utilisateurs qui est la seule solution pour répondre à la demande.
 
 ## Les usages
 

@@ -32,9 +32,11 @@ navigation: false
 -   [Climate summit momentum - Climate Action Tracker](https://climateactiontracker.org/documents/853/CAT_2021-05-04_Briefing_Global-Update_Climate-Summit-Momentum.pdf)
 -   [L’impact environnemental du numérique en santé](https://esante.gouv.fr/sites/default/files/media_entity/documents/rapport_gt6_210517-2.pdf)
 -   [État des lieux de la compensation carbone en France](https://www.info-compensation-carbone.com/titre-actu-5/)
+-   [Calculating Digital Emissions](https://sustainablewebdesign.org/calculating-digital-emissions/)
 
 ## Rapports
 
+-   [La transition énergétique au cœur d’une transition sociétale - négaWatt](https://vert.eco/wp-content/uploads/2021/10/synthese-negawatt.pdf)
 -   [Panorama sur la notion de sobriété](https://librairie.ademe.fr/cadic/491/synthese-etat-lieux-notion-sobriete-2019.pdf)
 -   [Pour un numerique soutenable - ARCEP](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
 -   [Vers un numérique durable et soutenable - Microsoft](https://msfrstorage.blob.core.windows.net/cdn/azure/2020/Microsoft-Livre-Blanc-14122020.pdf) et [Microsoft carbon removal](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MDlc)
@@ -71,6 +73,8 @@ navigation: false
 
 ## Articles/Reflexions
 
+-   [Résumé spécial sud de la France du rapport du GIEC](https://polomarcus.github.io/blog/article/r%C3%A9sum%C3%A9-du-resum%C3%A9-ar6-sud-france/)
+-   [Comprendre le cycle de vie des terminaux en 5 minutes](https://betoobe.fr/comprendre-le-cycle-de-vie-des-terminaux-en-5-minutes-et-comment-le-mettre-au-service-de-votre-demarche-rse/)
 -   [3 bonnes raisons de surveiller la taille des applications Android et surtout comment le faire ?](https://blog.octo.com/3-bonnes-raisons-de-surveiller-la-taille-des-applications-android-et-surtout-comment-le-faire/)
 -   [Online permaculture - This is how sustainably websites can grow - allcodesarebeautiful](https://allcodesarebeautiful.com/en/permaculture-on-the-web/)
 -   [Digital Declutter for Businesses](https://www.wholegraindigital.com/digitaldeclutter/)
@@ -160,6 +164,7 @@ navigation: false
 -   [Réinventer le numérique face aux limites planétaires ? - Conférence de Gauthier Roussilhe](https://www.youtube.com/watch?v=QT2S9LV0Eh4&feature=youtu.be)
 -   ["Repenser le numérique dans les limites planétaires" - Gauthier Roussilhe](https://www.youtube.com/watch?v=pvl6QeeBOaU)
 -   [Les masterclasses GREEN IT - Société Générale](https://careers.societegenerale.com/green-it-program#masterclasses)
+-   [Conférence - ESN : comment prendre le virage du Numérique Responsable ? - PRODURABLE 2021](https://www.youtube.com/watch?v=jO9_mxiaLQw)
 
 ## Podcasts
 
