@@ -113,7 +113,7 @@ Cette réflexion me fait dire que nous essayons toujours d’aller vite. Et pour
 
 La pratique de l’accessibilité et de la formation au numérique nous montre que nous perdons des gens. La liste des personas (usagers liés à un site) est beaucoup plus variée que ce qu’on est en capacité de traiter avec cette méthode.
 
-Se pose de la question de quelle bureaucratie numérisée nous voulons.
+Se pose la question : **quelle bureaucratie numérisée nous voulons ?**
 
 Voulons nous d’une bureaucratie automatisée qui à la manière d’un Dieu tout puissant pourrait résoudre tous vos problèmes, comme ParcoursSup par exemple ; ou voulons d‘une bureaucratie d’érudits consciente des biais de la réalisation de services numériques.
 
