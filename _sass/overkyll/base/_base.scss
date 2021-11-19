@@ -131,7 +131,19 @@ dd {
 blockquote,
 blockquote p,
 q {
-  color: $color-grey;
+  color: $color-grey-dark;
+}
+
+q {
+  background-color: $color-grey-light;
+}
+
+q::before {
+  margin-right: 5px;
+}
+
+q::after {
+  margin-left: 5px;
 }
 
 blockquote {
