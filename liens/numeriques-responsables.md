@@ -34,6 +34,10 @@ navigation: false
 -   [État des lieux de la compensation carbone en France](https://www.info-compensation-carbone.com/titre-actu-5/)
 -   [Calculating Digital Emissions](https://sustainablewebdesign.org/calculating-digital-emissions/)
 
+## Bonnes pratiques / référentiels
+
+-   [L'impact des bonnes pratiques numériques écoresponsables au sein de votre organisation](https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/)
+
 ## Rapports
 
 -   [La transition énergétique au cœur d’une transition sociétale - négaWatt](https://vert.eco/wp-content/uploads/2021/10/synthese-negawatt.pdf)
@@ -73,6 +77,7 @@ navigation: false
 
 ## Articles/Reflexions
 
+-   [Environnement, cybersécurité et open-source](http://adrien.demarez.free.fr/Pub/Environment/IT_env.html)
 -   [Résumé spécial sud de la France du rapport du GIEC](https://polomarcus.github.io/blog/article/r%C3%A9sum%C3%A9-du-resum%C3%A9-ar6-sud-france/)
 -   [Comprendre le cycle de vie des terminaux en 5 minutes](https://betoobe.fr/comprendre-le-cycle-de-vie-des-terminaux-en-5-minutes-et-comment-le-mettre-au-service-de-votre-demarche-rse/)
 -   [3 bonnes raisons de surveiller la taille des applications Android et surtout comment le faire ?](https://blog.octo.com/3-bonnes-raisons-de-surveiller-la-taille-des-applications-android-et-surtout-comment-le-faire/)
@@ -165,6 +170,7 @@ navigation: false
 -   ["Repenser le numérique dans les limites planétaires" - Gauthier Roussilhe](https://www.youtube.com/watch?v=pvl6QeeBOaU)
 -   [Les masterclasses GREEN IT - Société Générale](https://careers.societegenerale.com/green-it-program#masterclasses)
 -   [Conférence - ESN : comment prendre le virage du Numérique Responsable ? - PRODURABLE 2021](https://www.youtube.com/watch?v=jO9_mxiaLQw)
+-   [“Fake” Green Tech : comprendre l'intérêt d'un Numérique Responsable](https://www.paris-web.fr/2020/conferences/fake-green-tech-comprendre-linteret-dun-numerique-responsable.php)
 
 ## Podcasts
 
@@ -198,6 +204,7 @@ navigation: false
 -   [GreenFrame](https://greenframe.io/)
 -   [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/)
 -   [Nuts calculatrice digitale co2eq](https://nuts.be-ma.fr/calculator.php#)
+-   [CarbonViz](https://chrome.google.com/webstore/detail/carbonviz/lieikallcilhkihohkajnhmhkiipaaaf)
 
 ## Jeux/Outils
 

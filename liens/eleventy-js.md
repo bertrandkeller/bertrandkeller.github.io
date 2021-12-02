@@ -49,6 +49,7 @@ navigation: false
 
 ## Tips
 
+-   [Dynamically choosing a data file to use in Eleventy templates](https://www.cassey.dev/posts/2021-11-17-switching-data-file-with-env-11ty/)
 -   [Configuring Web Fonts in 11ty with Global Data](https://www.aleksandrhovhannisyan.com/blog/configuring-web-fonts-in-11ty-with-global-data/)
 -   [Eleventy 1.0 - Dynamic Ignores](https://www.raymondcamden.com/2021/10/15/eleventy-10-dynamic-ignores)
 -   [Lazily Loading Images with the 11ty Image Plugin](https://www.aleksandrhovhannisyan.com/blog/eleventy-image-lazy-loading/)
@@ -83,6 +84,7 @@ navigation: false
 
 ## Ressources
 
+-   [Eleventy 1.0 - Global Data via Plugins Example](https://www.raymondcamden.com/2021/11/07/eleventy-10-global-data-via-plugins-example)
 -   [demo-eleventy-serverless-oauth](https://github.com/11ty/demo-eleventy-serverless-oauth)
 -   [Eleventy 1.0 - Upgrading Experience](https://www.raymondcamden.com/2021/10/08/eleventy-10-upgrading-experience)
 -   [Building a notification thingamajig with Eleventy data](https://multiline.co/mment/2021/07/building-notification-thingamajig-eleventy-data/)
