@@ -14,4 +14,3 @@ Pages de liens et de sources à ne pas oublier, à partager :
  - [Territoires](/liens/territoires/)
  - [Eleventy JS](/liens/eleventy-js/)
  - [Performances web](/liens/performances-web/)
-
