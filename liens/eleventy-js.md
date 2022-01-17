@@ -84,6 +84,7 @@ navigation: false
 
 ## Ressources
 
+-   [Eleventy and Github pages](https://lea-tortay.com/content/writings/github-pages-eleventy/)
 -   [Eleventy 1.0 - Global Data via Plugins Example](https://www.raymondcamden.com/2021/11/07/eleventy-10-global-data-via-plugins-example)
 -   [demo-eleventy-serverless-oauth](https://github.com/11ty/demo-eleventy-serverless-oauth)
 -   [Eleventy 1.0 - Upgrading Experience](https://www.raymondcamden.com/2021/10/08/eleventy-10-upgrading-experience)

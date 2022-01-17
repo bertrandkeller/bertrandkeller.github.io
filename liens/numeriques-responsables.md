@@ -5,6 +5,8 @@ navigation: false
 
 ## Chiffres clés/Études
 
+-   [Le numérique en Europe : une approche des impacts environnementaux par l’analyse du cycle de vie (NumEU)](https://www.greenit.fr/le-numerique-en-europe-une-approche-des-impacts-environnementaux-par-lanalyse-du-cycle-de-vie/)
+-   [World Wide Waste](https://www.dropbox.com/s/q2e93acrrgqjopl/User%20experience%20to%20earth%20experience.pdf?dl=0)
 -   [Face au poids croissant du numérique : l’impératif de  sobriété - Institut Rousseau](https://www.institut-rousseau.fr/face-au-poids-croissant-du-numerique-limperatif-de-sobriete/)
 -   [Low tech : la sobriété numérique au service de l’expérience utilisateur - Fairness](https://blog.link-value.fr/low-tech-et-sobriete-numerique-ed98bb02ea70?gi=d014a1802b2d)
 -   [Plan de transformation de l’économie française : focus sur les usages numériques](https://theshiftproject.org/les-usages-numeriques/)
@@ -33,13 +35,16 @@ navigation: false
 -   [L’impact environnemental du numérique en santé](https://esante.gouv.fr/sites/default/files/media_entity/documents/rapport_gt6_210517-2.pdf)
 -   [État des lieux de la compensation carbone en France](https://www.info-compensation-carbone.com/titre-actu-5/)
 -   [Calculating Digital Emissions](https://sustainablewebdesign.org/calculating-digital-emissions/)
+-   [Numérique et environnement : Comment évaluer l’empreinte de la fabrication d’un serveur, au-delà des émissions de gaz à effet de serre ?](https://boavizta.org/blog/empreinte-de-la-fabrication-d-un-serveur)
 
 ## Bonnes pratiques / référentiels
 
 -   [L'impact des bonnes pratiques numériques écoresponsables au sein de votre organisation](https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/)
+-   [Comparaison des outils](https://docs.google.com/spreadsheets/d/1T6XuO7A3gE9vncafu8POfPpI9yfaBk2xXHhM-cQB5jo/edit#gid=0)
 
 ## Rapports
 
+-   [Sobriété numérique : piloter l’empreinte environnementale du numérique par la mesure](https://www.cigref.fr/sobriete-numerique-piloter-lempreinte-environnementale-du-numerique-par-la-mesure)
 -   [La transition énergétique au cœur d’une transition sociétale - négaWatt](https://vert.eco/wp-content/uploads/2021/10/synthese-negawatt.pdf)
 -   [Panorama sur la notion de sobriété](https://librairie.ademe.fr/cadic/491/synthese-etat-lieux-notion-sobriete-2019.pdf)
 -   [Pour un numerique soutenable - ARCEP](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
@@ -77,6 +82,11 @@ navigation: false
 
 ## Articles/Reflexions
 
+-   [Qu'est-ce qu'un site web écoresponsable ?](https://awebsome.fr/blog-awebsome/qu-est-ce-qu-un-site-web-ecoresponsable/)
+-   [How to Stop 30 Years of Failing to Cut Emissions](https://www.bloomberg.com/graphics/2021-emissions-turning-point/?srnd=green)
+-   [Balancing Digitalization and Sustainability](https://medium.com/postgrowth/digitalization-and-environmental-sustainability-64a8bfaa8724)
+-   [Le désenchantement du logiciel](https://tonsky.me/blog/disenchantment/fr/)
+-   [Panorama des acteurs Numérique Responsable - 1ère édition](https://aelan.fr/posts/panorama-des-acteurs-numerique-responsable-1ere-edition)
 -   [Environnement, cybersécurité et open-source](http://adrien.demarez.free.fr/Pub/Environment/IT_env.html)
 -   [Résumé spécial sud de la France du rapport du GIEC](https://polomarcus.github.io/blog/article/r%C3%A9sum%C3%A9-du-resum%C3%A9-ar6-sud-france/)
 -   [Comprendre le cycle de vie des terminaux en 5 minutes](https://betoobe.fr/comprendre-le-cycle-de-vie-des-terminaux-en-5-minutes-et-comment-le-mettre-au-service-de-votre-demarche-rse/)
@@ -171,6 +181,13 @@ navigation: false
 -   [Les masterclasses GREEN IT - Société Générale](https://careers.societegenerale.com/green-it-program#masterclasses)
 -   [Conférence - ESN : comment prendre le virage du Numérique Responsable ? - PRODURABLE 2021](https://www.youtube.com/watch?v=jO9_mxiaLQw)
 -   [“Fake” Green Tech : comprendre l'intérêt d'un Numérique Responsable](https://www.paris-web.fr/2020/conferences/fake-green-tech-comprendre-linteret-dun-numerique-responsable.php)
+-   [B-Boost 2021 : Conférence - Le numérique peut-il être responsable ?](https://www.youtube.com/watch?v=OFCQXGRRaHg)
+-   [Webinaire "Améliorer l'impact de l'IT en entreprise"](https://www.youtube.com/watch?v=E0FIcc-09jo)
+-   [Top Tasks for Service Transformation' with Gerry McGovern & Ulla Devitt](https://www.thisishcd.com/event-videos/top-tasks-for-service-transformation-with-gerry-mcgovern-ulla-devitt)
+-   [Automatisation et GreenIT](https://smatechnologies.wistia.com/medias/9pjuj5m2t0?wtime=0)
+-   [The GREEN IT Day 2021](https://www.youtube.com/watch?v=EYpBcPpyT_4)
+-   [Stratégie numérique responsable: Quelles opportunités pour les PME ? Pourquoi et comment devenir un entrepreneur numériquement responsable ?](https://www.ge.ch/document/enregistrement-video-du-forum-economie-numerique-2021)
+-   [Webinaire rentrée 2021 LowTRE [23 novembre 2021]](https://videos.univ-grenoble-alpes.fr/video/21766-webinaire-rentree-2021-lowtre/)
 
 ## Podcasts
 
