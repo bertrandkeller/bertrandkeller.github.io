@@ -105,8 +105,8 @@ Pour qu’un site web soit considéré comme Low-Tech (Utile, Accessible, Durabl
 ### Design Low-Tech et éco-conception
 
 **Lire :**
- * <https://graphism.fr/quel-avenir-pour-les-sites-low-tech/>
- * <https://www.lunaweb.fr/blog/atelier-ideation-eco-conception/>
+ * **Avenir site Low-Tech** <https://graphism.fr/quel-avenir-pour-les-sites-low-tech/>
+ * **La méthode C.O.E.U.R.** <https://www.lunaweb.fr/blog/atelier-ideation-eco-conception/>
  * **Designer éthiques :** <https://static1.squarespace.com/static/6071fa745947937fc933ecbb/t/60a02725893d22758a6207c5/1621108519636/Giving-a-damn-about-accessibility.pdf>
 
 ### Exemples
@@ -117,5 +117,6 @@ Consulter :
  * <https://lte.fairness.dev/>
  * <https://www.pikselkraft.com/en>
  * <https://homebrewserver.club/low-tech-website-howto.html#software>
-
-## Comment faire de la Low-Tech
+ * <https://lowww.directory/>
+ * <https://www.f-f-p.org/>
+ * <https://www.dalkia.fr/>
