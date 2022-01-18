@@ -39,8 +39,10 @@ Seulement, il faut aussi considérer en pratique, la consommation du serveur et 
 _Elle est mesurée en équivalent CO2. L’équivalent CO2 est, pour un gaz à effet de serre, la quantité de dioxyde de carbone (CO2) qui aurait la même capacité à retenir le rayonnement solaire._
 
 **Lire :**
+
   * <https://www.greenit.fr/etude-empreinte-environnementale-du-numerique-mondial/>
-  * <http://gauthierroussilhe.com/post/explication-empreinte.html>
+  * <http://gauthierroussilhe.com/post/explication-empreinte.html> - <http://gauthierroussilhe.com/img/blog-ecoconception-01.svg>
+  * <https://climateactiontracker.org/media/images/CAT-2100WarmingProjectionsGraph-PNG-2021.11.original.png>
 
 **Ce qui faut retenir :**
 
@@ -48,9 +50,12 @@ Il est possible de faire des estimations au niveau mondial sur l’empreinte car
 
 Seulement, le modèle marchand tentant de maximiser les profits, nous observons la mise en pratique du paradoxe de Jevons (effet rebond). Pour limiter l’impact, il convient donc de se poser la question de l’intérêt des outils, dans le temps, que nous produisons pour les sociétés humaines.
 
-### Référentiels
+### Référentiels d’éco-conception
 
 **Lire :**
+
+  * <https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/>
+  * <https://institutnr.org/le-referentiel>
   * <https://www.24joursdeweb.fr/2021/le-rgesn-rejoint-le-rgaa-et-le-rgpd-pour-un-numerique-responsable/>
 
 ## Notion de Low-Tech web
@@ -68,10 +73,18 @@ Seulement, le modèle marchand tentant de maximiser les profits, nous observons 
 
 ### Web Low-Tech 
 
+3 pistes sur l’écoconception de Gauthier Roussilhe <http://gauthierroussilhe.com/post/ecoconception-critique.html> : 
+
+  1. On doit réduire l’empreinte environnementale du service, qu’il soit numérique ou non ;
+  2. On doit répondre avec pertinence aux besoins exprimés par les usagers ;
+  3. Il faut partir du principe que la numérisation n’est pas forcément la meilleure option pour répondre aux deux premiers points.
+
 **Lire :**
+
 * <https://solar.lowtechmagazine.com/fr/2015/10/how-to-build-a-low-tech-internet.html>
-* <https://solar.lowtechmagazine.com/fr/2018/09/how-to-build-a-lowtech-website.html>
+* <https://solar.lowtechmagazine.com/fr/2018/09/how-to-build-a-lowtech-website.html> - <https://zestedesavoir.com/billets/2839/comment-fabriquer-un-site-internet-a-basse-technologie/>
 * <https://opensourcelowtech.org/tutorials.html>
+* <https://usbeketrica.com/fr/quelles-sont-les-meilleures-solutions-pour-un-site-web-low-tech>
 
 **Ce qui faut retenir :**
 
@@ -80,6 +93,7 @@ La Low-tech web ne peut pas se dissocier d’une prise en compte de l’ACV du s
 ### Internet Low-Tech
 
 **Lire :**
+
  * <https://journals.openedition.org/tc/8489>
  * <https://usbeketrica.com/fr/article/internet-est-mort-vive-l-internet-low-tech>
  * <https://www.le-projet-olduvai.com/t10293-comment-construire-un-internet-low-tech>
