@@ -3,8 +3,7 @@ title: Des liens sur l’accessibilité
 navigation: false
 ---
 
-
-Ce que ce document veut montrer : L'accessibilité est au centre de la conception web.
+**Ce que ce document veut montrer :** L’accessibilité est au centre de la conception web car elle touche à la manière avec laquelle dont on considère les besoins  d’un utilisateur.
 
 > L’accessibilité du web signifie que les personnes handicapées peuvent l'utiliser. Plus spécifiquement, elle signifie que ces gens peuvent percevoir, comprendre, naviguer, interagir avec le web, et y contribuer. L'accessibilité du web bénéficie également à d'autres, notamment les personnes âgées ayant des capacités diminuées dues au vieillissement.
 
@@ -64,6 +63,7 @@ Pour le _RGAA_, on vérifie si un critère est : conforme (c), non conforme (NC)
 **Lire :**
 
   * <https://www.numerique.gouv.fr/publications/rgaa-accessibilite/documentation-rgaa/methodologie-test/#contenu>
+  * <https://bertrandkeller.github.io/conference-osxp-outil-accessibilite-open-source-etat/>
 
 **Ce qui faut retenir :**
 
@@ -83,6 +83,7 @@ Voici une liste de ressources qui montrent comment aborder l’accessibilité
  * <https://www.a11yproject.com/checklist/>
  * <https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/>
  * <https://css-tricks.com/html-inputs-and-labels-a-love-story/>
+ * <https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/>
 
 ### Exemples
 
@@ -114,15 +115,12 @@ L’accessibilité est une compétence générale à une équipe chargée de dé
 
 ### Design
 
+L’accessibilité concerne souvent particulièrement la validée du code HTML ; les ressources design existent mais ne sont pas forcément fréquente. Pourtant, c’est bien en amont que les sujets d’accessibilité se décident. L’accessibilité doit être intégré au processus de design d’un service web. C'est une compétence qui se forge avec l’expérience.
+
 **Lire :**
 
 * <https://fr.slides.access42.net/uxrennes2017/> - <https://fr.slides.access42.net/uxrennes2017/slides/>
 * <https://newflux.fr/2016/11/05/les-bonnes-pratiques-pour-concevoir-pour-laccessibilite/>
 * <https://stephaniewalter.design/fr/blog/accessibilite-et-couleurs-outils-et-ressources-pour-concevoir-des-produits-accessible/>
-
-### Inclusion
-
-**Lire :**
-
- * <https://apf-conseil.com/good-design-playbook/>
- * <https://www.pierrelaine.fr/articles-ux-ui-design/design-inclusif-definition-principes.html>
+* <https://apf-conseil.com/good-design-playbook/>
+* <https://www.pierrelaine.fr/articles-ux-ui-design/design-inclusif-definition-principes.html>

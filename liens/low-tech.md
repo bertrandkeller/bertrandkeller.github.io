@@ -84,7 +84,6 @@ Seulement, le modèle marchand tentant de maximiser les profits, nous observons 
 * <https://solar.lowtechmagazine.com/fr/2015/10/how-to-build-a-low-tech-internet.html>
 * <https://solar.lowtechmagazine.com/fr/2018/09/how-to-build-a-lowtech-website.html> - <https://zestedesavoir.com/billets/2839/comment-fabriquer-un-site-internet-a-basse-technologie/>
 * <https://opensourcelowtech.org/tutorials.html>
-* <https://usbeketrica.com/fr/quelles-sont-les-meilleures-solutions-pour-un-site-web-low-tech>
 
 **Ce qui faut retenir :**
 
