@@ -27,8 +27,10 @@ navigation: false
 -   [Eleventy SVG sprite](https://www.npmjs.com/package/eleventy-plugin-svg-sprite)
 -   [Eleventy MDX](https://github.com/jamshop/eleventy-plugin-mdx)
 -   [Eleventy Footnotes](https://github.com/KittyGiraudel/eleventy-plugin-footnotes)
+-   [Eleventy Shopify](https://github.com/dleatherman/eleventy-plugin-shopify)
+-   [Eleventy Vite](https://github.com/Snugug/vite-plugin-eleventy)
 
-=>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins)
+=>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins) - [All the Eleventy things by David Darnes](https://github.com/stars/daviddarnes/lists/11ty)
 
 
 ## Thèmes

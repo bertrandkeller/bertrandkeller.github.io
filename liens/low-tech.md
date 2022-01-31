@@ -43,6 +43,7 @@ _Elle est mesurée en équivalent CO2. L’équivalent CO2 est, pour un gaz à e
   * <https://www.greenit.fr/etude-empreinte-environnementale-du-numerique-mondial/>
   * <http://gauthierroussilhe.com/post/explication-empreinte.html> - <http://gauthierroussilhe.com/img/blog-ecoconception-01.svg>
   * <https://climateactiontracker.org/media/images/CAT-2100WarmingProjectionsGraph-PNG-2021.11.original.png>
+  * <https://www.materialepyramiden.dk/#>
 
 **Ce qui faut retenir :**
 
@@ -71,7 +72,7 @@ Seulement, le modèle marchand tentant de maximiser les profits, nous observons 
   2. **Accessible :** La low-tech doit être appropriable par le plus grand nombre.
   3. **Durable :** Éco-conçue, résiliente, robuste, réparable, recyclable, agile, fonctionnelle.
 
-### Web Low-Tech 
+### Web Low-Tech
 
 3 pistes sur l’écoconception de Gauthier Roussilhe <http://gauthierroussilhe.com/post/ecoconception-critique.html> : 
 
@@ -84,6 +85,7 @@ Seulement, le modèle marchand tentant de maximiser les profits, nous observons 
 * <https://solar.lowtechmagazine.com/fr/2015/10/how-to-build-a-low-tech-internet.html>
 * <https://solar.lowtechmagazine.com/fr/2018/09/how-to-build-a-lowtech-website.html> - <https://zestedesavoir.com/billets/2839/comment-fabriquer-un-site-internet-a-basse-technologie/>
 * <https://opensourcelowtech.org/tutorials.html>
+* <https://acailly.github.io/confs/low-tech-web/lowtechweb-remoteclazz.pdf>
 
 **Ce qui faut retenir :**
 
@@ -96,22 +98,30 @@ La Low-tech web ne peut pas se dissocier d’une prise en compte de l’ACV du s
  * <https://journals.openedition.org/tc/8489>
  * <https://usbeketrica.com/fr/article/internet-est-mort-vive-l-internet-low-tech>
  * <https://www.le-projet-olduvai.com/t10293-comment-construire-un-internet-low-tech>
+ * <https://longuevieauxobjets.gouv.fr/>
 
  **Ce qui faut retenir :**
 
-Pour qu’un site web soit considéré comme Low-Tech (Utile, Accessible, Durable), il convient de prendre en compte un grand ensemble de conditions, de consultations : faible réseau, intermittence électrique, périphériques peu puissants, ressources financières faibles pour la maintenance… 
+Pour qu’un site web soit considéré comme Low-Tech (Utile, Accessible, Durable), il convient de prendre en compte un grand ensemble de conditions, de consultations : faible réseau, intermittence électrique, périphériques peu puissants, ressources financières faibles pour la maintenance…
 
 ### Design Low-Tech et éco-conception
+
+Pour le moment, les grands exemples de sites sobres se démarquent pas une interface typée Low-tech : images dégradées, couleurs passées, peu d'illustrations.
+
+Pourtant, un site peu avoir une très faible empreinte et avoir un aspect
 
 **Lire :**
  * **Avenir site Low-Tech** <https://graphism.fr/quel-avenir-pour-les-sites-low-tech/>
  * **La méthode C.O.E.U.R.** <https://www.lunaweb.fr/blog/atelier-ideation-eco-conception/>
  * **Designer éthiques :** <https://static1.squarespace.com/static/6071fa745947937fc933ecbb/t/60a02725893d22758a6207c5/1621108519636/Giving-a-damn-about-accessibility.pdf>
+ * https://www.webdesignfortheplanet.com/eco-conception-web-3-exemples-de-pros/
+
 
 ### Exemples
 
 Consulter :
 
+ * <https://design.numerique.gouv.fr/>
  * <https://commown.coop/>
  * <https://lte.fairness.dev/>
  * <https://www.pikselkraft.com/en>
@@ -119,3 +129,16 @@ Consulter :
  * <https://lowww.directory/>
  * <https://www.f-f-p.org/>
  * <https://www.dalkia.fr/>
+
+### Tour d'horizon de la Low-Tech
+
+Pour aller plus loin sur le sujet, voici des ressources sur la dynamique Low-Tech
+
+ * **Une climatisation écolo :** <https://www.franceculture.fr/economie/leviathan-dynamics-une-climatisation-ecolo-sans-gaz-fluore>
+ * **Récupérateur de chaleur :** <https://wiki.enerlog.fr/doku.php?id=espace_public:chauffage_solaire:tuto_csa:etape_3>
+ * **Tierce forêt :** <https://www.youtube.com/watch?v=KE-hSk5K0Co>
+ * **Adiabatic urban cooling :** <https://www.designboom.com/technology/arep-adiabatic-urban-cooling-system-12-05-2021/>
+ * **La ville Low Tech (Adème) :** <https://librairie.ademe.fr/urbanisme-et-batiment/5219-la-ville-low-tech.html>
+ * **La méthode Miyawaki (végétation) :** <https://vert.eco/articles/en-jordanie-la-methode-miyawaki-senracine-pour-reverdir-le-moyen-orient>
+ * **La ville low tech :** <https://www.bouygues-construction.com/blog/fr/dossier-special/ville-low-tech/>
+ * **Low-tech en rénovation énergétique (BD) :** <https://programmeprofeel.fr/ressources/low-tech-en-renovation-energetique-la-bande-dessinee/>
