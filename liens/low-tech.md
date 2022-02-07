@@ -11,7 +11,7 @@ Pour introduire la Low-tech, intéressons nous à la question de l’ACV.
 
 **Lire :** <https://www.ademe.fr/expertises/consommer-autrement/passer-a-laction/dossier/lanalyse-cycle-vie/quest-lacv>
 
-**Ce qui faut retenir :** 
+**Ce qui faut retenir :**
 
 L’empreinte d’un site web n’est pas déconnecté du monde matériel. Son existence se justifie à condition de s’inscrire dans un circuit complet en relation avec un service, un usage…
 
@@ -27,7 +27,7 @@ L’empreinte d’un site web n’est pas déconnecté du monde matériel. Son e
   * <https://github.com/Boavizta/environmental-footprint-data/blob/main/boavizta-data-us.csv>
   * <https://www.boavizta.org/media/pages/blog/empreinte-de-la-fabrication-d-un-serveur/36488b4bfa-1637600134/acvademe.jpeg>
 
-**Ce qui faut retenir :** 
+**Ce qui faut retenir :**
 
 Les notions d’empreinte d’un service web s’attachent le plus souvent au _Scope 1_ (la consommation d’électricité pour lire le site web).
 
