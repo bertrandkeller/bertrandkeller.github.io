@@ -50,7 +50,7 @@ Le _RGAA_ définit une **méthode technique** et propose un cadre opérationnel 
 
 **Ce qui faut retenir :**
 
-Il existe beaucoup de documentations différentes concernant l’accessibilité. Les _WCAG_ sont des normes recommandations internationales, le _RGAA_ est une méthode qui s’appliquent aux sites français principalement. Le respect du _RGAA_ permet d’améliorer le niveau d’accessibilité d'un service numérique et d’être conforme à la loi si nécessaire.
+Il existe beaucoup de documentations différentes concernant l’accessibilité. Les _WCAG_ sont des normes internationales, le _RGAA_ est une méthode qui s’appliquent aux sites français principalement. Le respect du _RGAA_ permet d’améliorer le niveau d’accessibilité d'un service numérique et d’être conforme à la loi si nécessaire.
 
 ## Tester l’accessibilité
 

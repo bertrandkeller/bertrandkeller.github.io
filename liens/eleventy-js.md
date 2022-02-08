@@ -29,6 +29,7 @@ navigation: false
 -   [Eleventy Footnotes](https://github.com/KittyGiraudel/eleventy-plugin-footnotes)
 -   [Eleventy Shopify](https://github.com/dleatherman/eleventy-plugin-shopify)
 -   [Eleventy Vite](https://github.com/Snugug/vite-plugin-eleventy)
+-   [Eleventy Lit Web Component](https://lit.dev/blog/2022-02-07-eleventy/)
 
 =>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins) - [All the Eleventy things by David Darnes](https://github.com/stars/daviddarnes/lists/11ty)
 

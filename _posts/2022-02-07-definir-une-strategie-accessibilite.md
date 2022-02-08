@@ -2,7 +2,7 @@
 title: Définir une stratégie pour l’amélioration de l’accessibilité
 ---
 
-Le saviez vous ? L’europe a imposé des objectifs très contraignants concernant l’accessibilité à chaque pays membre de l’union européenne (lois contre la discrimination). 
+Le saviez vous ? L’europe a imposé des objectifs très contraignants concernant l’accessibilité à chaque pays membre de l’union européenne (lois contre la discrimination).
 
 Savez vous que concernant les rapports à rendre pour décembre 2021 à l’Europe, la France est un des seul pays a… n’avoir rien rendu : [Web Accessibility Directive - Monitoring reports](https://digital-strategy.ec.europa.eu/en/library/web-accessibility-directive-monitoring-reports).
 
@@ -44,7 +44,7 @@ Bien sûr, la conformité est une partie très importante du puzzle, mais pour �
 Il vous sera impossible de mettre en place une stratégie si vous ne traitez pas de manière simultanée : **conformité**, **culture** et **éducation**.
 
 <div class="center">
-<img src="https://www.craigabbott.co.uk/images/a11y-strategy-3-pillars.jpg" alt="Les 3 piliers de l’accessibilité" />
+<img src="/assets/a11y-strategy-3-pillars.jpg" alt="Les 3 piliers de l’accessibilité" />
 </div>
 
 ### La conformité
@@ -79,7 +79,7 @@ En faisant correspondre ces besoins à un planning prévisionnel, vous pouvez co
 Par exemple :
 
 <div class="center">
-<img src="https://www.craigabbott.co.uk/images/a11y-strategy-roadmap.jpg" alt="Feuille de route pour l’amélioration de l’accessibilité" />
+<img src="/assets/a11y-strategy-roadmap.jpg" alt="Feuille de route pour l’amélioration de l’accessibilité" />
 </div>
 
 ### Orientation et formation - éducation
