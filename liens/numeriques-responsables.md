@@ -82,6 +82,11 @@ navigation: false
 
 ## Articles/Reflexions
 
+-   [Sobriété décroissance quels imaginaires désirables](https://www.isige.minesparis.psl.eu/sobriete-decroissance-quels-imaginaires-desirables/)
+-   [Les « neutralités carbone » des entreprises du numérique - CNRS](https://ecoinfo.cnrs.fr/2022/03/17/les-neutralites-carbone-des-entreprises-du-numerique/)
+-   [Vers un numérique plus responsable ?](https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/ressources-en-ligne/vers-un-numerique-plus-responsable/)
+-   [Etude numérique et environnement (1/7). Principaux constats](https://www.digitalwallonia.be/fr/publications/dossier-numerique-environnement-1)
+-   [Causes et impacts du changement climatique](https://librairie.ademe.fr/cadic/6748/exposition_changement_climatique_rac_ademe_web.pdf)
 -   [Qu'est-ce qu'un site web écoresponsable ?](https://awebsome.fr/blog-awebsome/qu-est-ce-qu-un-site-web-ecoresponsable/)
 -   [How to Stop 30 Years of Failing to Cut Emissions](https://www.bloomberg.com/graphics/2021-emissions-turning-point/?srnd=green)
 -   [Balancing Digitalization and Sustainability](https://medium.com/postgrowth/digitalization-and-environmental-sustainability-64a8bfaa8724)
@@ -141,6 +146,10 @@ navigation: false
 -   [101 actions pour changer la tech](https://airtable.com/shrNdk5glMysV4FYQ/tblfqQ5zcjwrTiqxB)
 -   [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
+## Low-Tech
+
+-   [Vers une culture low-tech ?](https://librairie.ademe.fr/consommer-autrement/5306-vers-une-culture-low-tech-.html)
+
 ## 5G
 
 -   [Impact environnemental du numérique :tendances à 5 ans et gouvernance de la 5g](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)
@@ -188,6 +197,7 @@ navigation: false
 -   [The GREEN IT Day 2021](https://www.youtube.com/watch?v=EYpBcPpyT_4)
 -   [Stratégie numérique responsable: Quelles opportunités pour les PME ? Pourquoi et comment devenir un entrepreneur numériquement responsable ?](https://www.ge.ch/document/enregistrement-video-du-forum-economie-numerique-2021)
 -   [Webinaire rentrée 2021 LowTRE [23 novembre 2021]](https://videos.univ-grenoble-alpes.fr/video/21766-webinaire-rentree-2021-lowtre/)
+-   [Sobriété numérique : les clés pour comprendre et agir avec Frédéric Bordage - GreenIT.fr](https://www.youtube.com/watch?v=GB7MeJziYNY)
 
 ## Podcasts
 
@@ -228,6 +238,7 @@ navigation: false
 -   [Econ[u]m, Le jeu pour un numérique [+] responsable](https://ddemain.com/econum/jeu/)
 -   [Le numérique éducatif libre et responsable - LA DIGITALE](https://ladigitale.dev/#projet_ecoconception)
 -   [Présentation du ClimaKit élémentaire d'EduClimat](https://www.youtube.com/watch?v=uSzlgUVhygg)
+-   [Application mobile ECOIST CLUB](http://ecoistclub.com/)
 
 ## Agences
 

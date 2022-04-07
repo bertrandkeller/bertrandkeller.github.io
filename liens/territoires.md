@@ -17,3 +17,4 @@ navigation: false
 -   [Le nouveau contrat écologique et social, une boussole pour l’avenir de la transformation publique ?](http://www.la27eregion.fr/le-nouveau-contrat-ecologique-et-social-une-boussole-pour-lavenir-de-la-transformation-publique/)
 -   [Un écosystème de solutions d'adaptation au changement climatique pour la ville de demain](https://www.adaptaville.fr/alea-climatique/canicules)
 -   [Rafraîchir les villes, des solutions variées - Adème](https://presse.ademe.fr/2021/06/lademe-publie-le-guide-rafraichir-les-villes-des-solutions-variees-19-solutions-pour-lutter-contre-le-rechauffement-urbain.html)
+-   [Quelle nouvelle organisation du territoire pour la transition écologique ?](https://www.youtube.com/watch?v=o56OIVYHR5c)

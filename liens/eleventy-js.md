@@ -19,17 +19,19 @@ navigation: false
 -   [Eleventy - Critical CSS](https://github.com/gregives/eleventy-critical-css)
 -   [Eleventy - SCSS](https://github.com/jamshop/eleventy-plugin-scss)
 -   [Eleventy - TOC](https://github.com/jdsteinbach/eleventy-plugin-toc)
--   [Eleventy Caniuse](https://github.com/KevinGimbel/eleventy-plugin-caniuse)
--   [Eleventy external links transform](https://gist.github.com/jouni-kantola/a7ff2112544dd3e8beec8d6ee0aecb88)
--   [Eleventy Prismic](https://github.com/prismicio-community/eleventy-plugin-prismic)
--   [Eleventy Plugin SEO](https://github.com/artstorm/eleventy-plugin-seo)
--   [Eleventy Copy local assets](https://github.com/chriskirknielsen/eleventy-plugin-copy-local-assets)
--   [Eleventy SVG sprite](https://www.npmjs.com/package/eleventy-plugin-svg-sprite)
--   [Eleventy MDX](https://github.com/jamshop/eleventy-plugin-mdx)
--   [Eleventy Footnotes](https://github.com/KittyGiraudel/eleventy-plugin-footnotes)
--   [Eleventy Shopify](https://github.com/dleatherman/eleventy-plugin-shopify)
--   [Eleventy Vite](https://github.com/Snugug/vite-plugin-eleventy)
--   [Eleventy Lit Web Component](https://lit.dev/blog/2022-02-07-eleventy/)
+-   [Eleventy - Caniuse](https://github.com/KevinGimbel/eleventy-plugin-caniuse)
+-   [Eleventy - external links transform](https://gist.github.com/jouni-kantola/a7ff2112544dd3e8beec8d6ee0aecb88)
+-   [Eleventy - Prismic](https://github.com/prismicio-community/eleventy-plugin-prismic)
+-   [Eleventy - Plugin SEO](https://github.com/artstorm/eleventy-plugin-seo)
+-   [Eleventy - Copy local assets](https://github.com/chriskirknielsen/eleventy-plugin-copy-local-assets)
+-   [Eleventy - SVG sprite](https://www.npmjs.com/package/eleventy-plugin-svg-sprite)
+-   [Eleventy - MDX](https://github.com/jamshop/eleventy-plugin-mdx)
+-   [Eleventy - Footnotes](https://github.com/KittyGiraudel/eleventy-plugin-footnotes)
+-   [Eleventy - Shopify](https://github.com/dleatherman/eleventy-plugin-shopify)
+-   [Eleventy - Vite](https://github.com/Snugug/vite-plugin-eleventy)
+-   [Eleventy - Lit Web Component](https://lit.dev/blog/2022-02-07-eleventy/)
+-   [Eleventy - Clean urls](https://www.npmjs.com/package/@inframanufaktur/eleventy-plugin-clean-urls)
+-   [Eleventy - unfurl](https://github.com/daviddarnes/eleventy-plugin-unfurl)
 
 =>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins) - [All the Eleventy things by David Darnes](https://github.com/stars/daviddarnes/lists/11ty)
 
@@ -52,6 +54,9 @@ navigation: false
 
 ## Tips
 
+-   [Including RSS Content in your Eleventy Site](https://www.raymondcamden.com/2022/03/08/including-rss-content-in-your-eleventy-site)
+-   [Customizing File Structure, URLs and Browsersync](https://jec.fyi/blog/customizing-file-structure-urls-browsersync)
+-   [Generate Social Image Covers With Eleventy And Node-Canvas](https://pqina.nl/blog/generate-social-image-covers-with-eleventy-and-node-canvas/)
 -   [Dynamically choosing a data file to use in Eleventy templates](https://www.cassey.dev/posts/2021-11-17-switching-data-file-with-env-11ty/)
 -   [Configuring Web Fonts in 11ty with Global Data](https://www.aleksandrhovhannisyan.com/blog/configuring-web-fonts-in-11ty-with-global-data/)
 -   [Eleventy 1.0 - Dynamic Ignores](https://www.raymondcamden.com/2021/10/15/eleventy-10-dynamic-ignores)
@@ -87,6 +92,12 @@ navigation: false
 
 ## Ressources
 
+-   [Nord](https://github.com/marianoviola/nord)
+-   [Creating Both HTML and API with Pipedream](https://www.raymondcamden.com/2020/04/14/creating-both-html-and-api-with-pipedream)
+-   [Show off your Lighthouse scores as static HTML in Eleventy with the PageSpeed Insights API ](https://dev.to/philw_/show-off-your-lighthouse-scores-in-eleventy-with-the-pagespeed-insights-api-1cpp)
+-   [A Google Static Maps Eleventy Plugin](https://www.raymondcamden.com/2022/02/02/a-google-static-maps-eleventy-plugin)
+-   [Show off your Lighthouse scores as static HTML in Eleventy with the PageSpeed Insights API](https://dev.to/philw_/show-off-your-lighthouse-scores-in-eleventy-with-the-pagespeed-insights-api-1cpp)
+-   [Eleventy For IndieWeb Enthusiasts - Basic Setup And Post Organization](https://desmondrivet.com/2022/03/09/eleventy-post-type)
 -   [Eleventy and Github pages](https://lea-tortay.com/content/writings/github-pages-eleventy/)
 -   [Eleventy 1.0 - Global Data via Plugins Example](https://www.raymondcamden.com/2021/11/07/eleventy-10-global-data-via-plugins-example)
 -   [demo-eleventy-serverless-oauth](https://github.com/11ty/demo-eleventy-serverless-oauth)
