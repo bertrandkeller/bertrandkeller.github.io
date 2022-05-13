@@ -44,6 +44,8 @@ navigation: false
 
 ## Rapports
 
+-   [Analyse de cycle de vie de la messagerie Treebal](https://gauthierroussilhe.com/book/treebal/)
+-   [Etude numérique et environnement - Digital Wallonia](https://www.digitalwallonia.be/fr/publications/dossier-numerique-environnement-1)
 -   [Sobriété numérique : piloter l’empreinte environnementale du numérique par la mesure](https://www.cigref.fr/sobriete-numerique-piloter-lempreinte-environnementale-du-numerique-par-la-mesure)
 -   [La transition énergétique au cœur d’une transition sociétale - négaWatt](https://vert.eco/wp-content/uploads/2021/10/synthese-negawatt.pdf)
 -   [Panorama sur la notion de sobriété](https://librairie.ademe.fr/cadic/491/synthese-etat-lieux-notion-sobriete-2019.pdf)
@@ -82,6 +84,8 @@ navigation: false
 
 ## Articles/Reflexions
 
+-   [Mobile phone metals](https://www.nhm.ac.uk/discover/your-mobile-phone-is-powered-by-precious-metals-and-minerals.html)
+-   [E-waste, tech’s big dirty secret](https://www.itworldcanada.com/article/e-waste-techs-big-dirty-secret/481142)
 -   [Sobriété décroissance quels imaginaires désirables](https://www.isige.minesparis.psl.eu/sobriete-decroissance-quels-imaginaires-desirables/)
 -   [Les « neutralités carbone » des entreprises du numérique - CNRS](https://ecoinfo.cnrs.fr/2022/03/17/les-neutralites-carbone-des-entreprises-du-numerique/)
 -   [Vers un numérique plus responsable ?](https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/ressources-en-ligne/vers-un-numerique-plus-responsable/)

@@ -32,6 +32,8 @@ navigation: false
 -   [Eleventy - Lit Web Component](https://lit.dev/blog/2022-02-07-eleventy/)
 -   [Eleventy - Clean urls](https://www.npmjs.com/package/@inframanufaktur/eleventy-plugin-clean-urls)
 -   [Eleventy - unfurl](https://github.com/daviddarnes/eleventy-plugin-unfurl)
+-   [Eleventy - Metagen](https://github.com/tannerdolby/eleventy-plugin-metagen)
+
 
 =>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins) - [All the Eleventy things by David Darnes](https://github.com/stars/daviddarnes/lists/11ty)
 
@@ -51,9 +53,11 @@ navigation: false
 -   [Eleventy Duo](https://github.com/yinkakun/eleventy-duo)
 -   [11up](https://www.npmjs.com/package/11up)
 -   [Adding SEO tags to Eleventy](https://www.larryhudson.io/seo-meta-tags-eleventy/)
+-   [News-Blog template](https://github.com/zuixjs/news-blog)
 
 ## Tips
 
+-   [Youtube Code fo Eleventty for Netlify](https://gist.github.com/MWDelaney/b62f95a6fec2e6f2ff60d31b12e0b174)
 -   [Including RSS Content in your Eleventy Site](https://www.raymondcamden.com/2022/03/08/including-rss-content-in-your-eleventy-site)
 -   [Customizing File Structure, URLs and Browsersync](https://jec.fyi/blog/customizing-file-structure-urls-browsersync)
 -   [Generate Social Image Covers With Eleventy And Node-Canvas](https://pqina.nl/blog/generate-social-image-covers-with-eleventy-and-node-canvas/)
@@ -62,6 +66,7 @@ navigation: false
 -   [Eleventy 1.0 - Dynamic Ignores](https://www.raymondcamden.com/2021/10/15/eleventy-10-dynamic-ignores)
 -   [Lazily Loading Images with the 11ty Image Plugin](https://www.aleksandrhovhannisyan.com/blog/eleventy-image-lazy-loading/)
 -   [Cache busting in Eleventy](https://bnijenhuis.nl/notes/2021-04-23-cache-busting-in-eleventy/)
+-   [Simple 11ty cache busting](https://rob.cogit8.org/posts/2020-10-28-simple-11ty-cache-busting/)
 -   [Eleventy Introduction](https://github.com/jeromecoupe/iad_eleventy_introduction/blob/master/eleventy_introduction_fr.md)
 -   [Generate Twitter cards automatically](https://fettblog.eu/11ty-automatic-twitter-cards/)
 -   [Eleventy Error Overlay](https://github.com/stevenpetryk/eleventy-plugin-error-overlay)
@@ -92,6 +97,7 @@ navigation: false
 
 ## Ressources
 
+-   [](https://desmondrivet.com/2022/04/04/eleventy-previews)
 -   [Nord](https://github.com/marianoviola/nord)
 -   [Creating Both HTML and API with Pipedream](https://www.raymondcamden.com/2020/04/14/creating-both-html-and-api-with-pipedream)
 -   [Show off your Lighthouse scores as static HTML in Eleventy with the PageSpeed Insights API ](https://dev.to/philw_/show-off-your-lighthouse-scores-in-eleventy-with-the-pagespeed-insights-api-1cpp)
