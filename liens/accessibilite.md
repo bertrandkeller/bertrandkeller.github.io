@@ -87,6 +87,7 @@ Voici une liste de ressources qui montrent comment aborder l’accessibilité
  * <https://a11y-tools.com/bookmarklets/>
  * <https://choblab.com/gestion-projets/produire-du-contenu-web-accessible-20-regles-faciles-a-appliquer-13389.html>
  * <https://www.accede-web.com/notices/>
+ * <http://pauljadam.github.io/a11y-standards/index.html>
 
 ### Exemples
 

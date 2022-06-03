@@ -202,6 +202,8 @@ navigation: false
 -   [Stratégie numérique responsable: Quelles opportunités pour les PME ? Pourquoi et comment devenir un entrepreneur numériquement responsable ?](https://www.ge.ch/document/enregistrement-video-du-forum-economie-numerique-2021)
 -   [Webinaire rentrée 2021 LowTRE [23 novembre 2021]](https://videos.univ-grenoble-alpes.fr/video/21766-webinaire-rentree-2021-lowtre/)
 -   [Sobriété numérique : les clés pour comprendre et agir avec Frédéric Bordage - GreenIT.fr](https://www.youtube.com/watch?v=GB7MeJziYNY)
+-   [Webinaire : mettre en place une stratégie numérique responsable](https://goodwill-management.com/wp-content/uploads/2022/04/presentation-webinaire-NRLD.pdf)
+-   [REPLAY - Webinar NegaOctet du 14 avril 2022](https://www.youtube.com/watch?v=y4uP68LexBo)
 
 ## Podcasts
 

@@ -28,30 +28,6 @@ type: website
     {% endif %}
     {{ post.content | markdownify }}
   </section>
-
-  <div class="pagination--prevnext" role="navigation">
-    {% if post.previous %}
-    <div class="pagination--prev">
-      <a class="pagination--item" href="{{ post.previous.url }}">
-        {{ post.previous.title }}
-      </a>
-    </div>
-    {% endif %}
-    {% if post.title == 'Transmutation' %}
-    <div class="pagination--prev">
-      <a class="pagination--item" href="/2015/10/03/parisweb-cest-quoi-les-metiers-du-web">
-        ParisWeb - c'est quoi les métiers du web ?
-      </a>
-    </div>
-    {% endif %}
-    {% if post.next %}
-    <div class="pagination--next">
-      <a class="pagination--item" href="{{ post.next.url }}">
-        {{ post.next.title }}
-      </a>
-    </div>
-    {% endif %}
-  </div>
   <section class="posts">
     <h2>Derniers articles</h2>
     <ul class="posts-list">

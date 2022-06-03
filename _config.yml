@@ -96,22 +96,22 @@ text:
 
 
 # Webmention
-webmentions:
-  debug: true
-  username: bertrandkeller
-  cache_folder: _data/webmentions
-  cache_bad_uris_for: 5
-  pause_lookups: false
-  collections:
-    - links
-  js: false
-  legacy_domains:
-    - http://bertrandkeller.info
-  throttle_lookups:
-    #   last_week: daily
-    last_month: daily
-    last_year: weekly
-    older: every 2 weeks
+# webmentions:
+#   debug: true
+#   username: bertrandkeller
+#   cache_folder: _data/webmentions
+#   cache_bad_uris_for: 5
+#   pause_lookups: false
+#   collections:
+#     - links
+#   js: false
+#   legacy_domains:
+#     - http://bertrandkeller.info
+#   throttle_lookups:
+#     #   last_week: daily
+#     last_month: daily
+#     last_year: weekly
+#     older: every 2 weeks
 
 plugins:
   - jekyll-sitemap

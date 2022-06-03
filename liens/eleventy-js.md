@@ -33,6 +33,7 @@ navigation: false
 -   [Eleventy - Clean urls](https://www.npmjs.com/package/@inframanufaktur/eleventy-plugin-clean-urls)
 -   [Eleventy - unfurl](https://github.com/daviddarnes/eleventy-plugin-unfurl)
 -   [Eleventy - Metagen](https://github.com/tannerdolby/eleventy-plugin-metagen)
+    [Eleventy - Navigation](https://github.com/11ty/eleventy-navigation/)
 
 
 =>  [Eleventy Plugins list](https://11ty-universe.ryanccn.dev/plugins) - [All the Eleventy things by David Darnes](https://github.com/stars/daviddarnes/lists/11ty)

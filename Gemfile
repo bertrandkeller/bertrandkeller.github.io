@@ -26,5 +26,5 @@ group :jekyll_plugins do
     gem "autoprefixer-rails"
     gem 'jekyll-twitter-plugin'
     gem 'jekyll-commonmark'
-    gem 'jekyll-webmention_io'
+    # gem 'jekyll-webmention_io'
 end
