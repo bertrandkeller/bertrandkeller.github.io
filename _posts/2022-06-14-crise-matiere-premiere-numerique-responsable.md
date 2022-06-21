@@ -84,7 +84,7 @@ C’est-à-dire, créer des filières de reconditionnement localement et optimis
 
 Quand les matières premières deviennent onéreuses, le temps passé à faire fonctionner la matière grise l’est moins.
 
-Nous entrons dans une aire l’**inventaire**. Certains pensent que le numérique et les intelligences artificielles nous sauverons… mais elles (les IA) ne sont rien si elles calculent sur des données incomplètes ou fausses. La première chose à faire est de valoriser les stocks et d’avoir des **inventaires** les plus précis possibles.
+Nous entrons dans une aire de l’**inventaire**. Certains pensent que le numérique et les intelligences artificielles nous sauverons… mais elles (les IA) ne sont rien si elles calculent sur des données incomplètes ou fausses. La première chose à faire est de valoriser les stocks et d’avoir des **inventaires** les plus précis possibles.
 
 Il faut évaluer sa richesse au plus juste. Savoir ce qui marche et ce qui pêche.
 
