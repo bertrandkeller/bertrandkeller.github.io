@@ -56,7 +56,4 @@ Pour des puristes, je donne une interprétation toute personnelle à l’**acces
 
 Accessibilité numérique : **discipline visant à garantir l'écosystème relationnel, à travers une ou plusieurs interfaces numériques, entre une organisation et ses usagers (interne ou externe)**.
 
-Je vous laisse avec mes réflexions de cette nuit, en espérant que ce retour permettra de mieux considérer l’accessibilité numérique comme une discipline vertueuse pour notre industrie et notre société. En espérant que dans la situation d’urgence, dans laquelle nous sommes, fasse qu’on s’intéresse plus aux gens qu’aux machines
-
-
-
+Je vous laisse avec mes réflexions de cette nuit, en espérant que ce retour permettra de mieux considérer l’accessibilité numérique comme une discipline vertueuse pour notre industrie et notre société. En espérant que dans la situation d’urgence, dans laquelle nous sommes, fasse qu’on s’intéresse plus aux gens qu’aux machines.
