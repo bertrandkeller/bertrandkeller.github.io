@@ -98,7 +98,8 @@ navigation: false
 
 ## Ressources
 
--   [](https://desmondrivet.com/2022/04/04/eleventy-previews)
+-   [Building a design system with Eleventy](https://www.trysmudford.com/blog/eleventy-design-system/)
+-   [Eleventy Previews](https://desmondrivet.com/2022/04/04/eleventy-previews)
 -   [Nord](https://github.com/marianoviola/nord)
 -   [Creating Both HTML and API with Pipedream](https://www.raymondcamden.com/2020/04/14/creating-both-html-and-api-with-pipedream)
 -   [Show off your Lighthouse scores as static HTML in Eleventy with the PageSpeed Insights API ](https://dev.to/philw_/show-off-your-lighthouse-scores-in-eleventy-with-the-pagespeed-insights-api-1cpp)

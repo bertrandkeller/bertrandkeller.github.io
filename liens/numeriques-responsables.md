@@ -5,6 +5,7 @@ navigation: false
 
 ## Chiffres clés/Études
 
+-   [Mieux respecter l’eau, un défi pour le numérique et les centres de données](https://advaes.fr/2022/07/18/mieux-respecter-leau-un-defi-pour-le-numerique-et-les-centres-de-donnees/)
 -   [Le numérique en Europe : une approche des impacts environnementaux par l’analyse du cycle de vie (NumEU)](https://www.greenit.fr/le-numerique-en-europe-une-approche-des-impacts-environnementaux-par-lanalyse-du-cycle-de-vie/)
 -   [World Wide Waste](https://www.dropbox.com/s/q2e93acrrgqjopl/User%20experience%20to%20earth%20experience.pdf?dl=0)
 -   [Face au poids croissant du numérique : l’impératif de  sobriété - Institut Rousseau](https://www.institut-rousseau.fr/face-au-poids-croissant-du-numerique-limperatif-de-sobriete/)
@@ -174,6 +175,7 @@ navigation: false
 
 ## Conférences
 
+-   [Compte Rendu : Comment rendre nos pratiques numériques davantage durables ?](https://www.apres-vd.ch/blog/l-actualite-de-la-chambre-apres-vd-1/compte-rendu-comment-rendre-nos-pratiques-numeriques-davantage-durables-19#scrollTop=0)
 -   [DEVFEST Toulouse 2019 - "Numérique et environnement"](https://www.youtube.com/watch?v=jA8aHSMZ_DI)
 -   [Devops REX 2019 - Construire un site Low-Tech à faible consommation d’énergie ? - Bertrand Keller](https://www.youtube.com/watch?v=C2Xr_R6D6MY)
 -   [BDX I/O 2019 - Green IT is the new web - Julie Guillerm](https://www.youtube.com/watch?v=SWVCmYGmTsE)
