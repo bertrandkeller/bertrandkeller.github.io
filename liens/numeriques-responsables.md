@@ -3,6 +3,12 @@ title: Des liens sur le numérique responsable
 navigation: false
 ---
 
+
+## Ressources clefs
+
+-   [Ressources de Gauthier](https://drive.infomaniak.com/app/share/128619/19bfd618-bb09-4129-8795-3c6d1b873208/files/32068)
+
+
 ## Chiffres clés/Études
 
 -   [Mieux respecter l’eau, un défi pour le numérique et les centres de données](https://advaes.fr/2022/07/18/mieux-respecter-leau-un-defi-pour-le-numerique-et-les-centres-de-donnees/)
@@ -206,6 +212,7 @@ navigation: false
 -   [Sobriété numérique : les clés pour comprendre et agir avec Frédéric Bordage - GreenIT.fr](https://www.youtube.com/watch?v=GB7MeJziYNY)
 -   [Webinaire : mettre en place une stratégie numérique responsable](https://goodwill-management.com/wp-content/uploads/2022/04/presentation-webinaire-NRLD.pdf)
 -   [REPLAY - Webinar NegaOctet du 14 avril 2022](https://www.youtube.com/watch?v=y4uP68LexBo)
+-   [Outils d'empreinte carbone des cloud public : comparer des pommes et des oranges - Pierre Rust](https://www.youtube.com/watch?v=vUbhNL-so7Q)
 
 ## Podcasts
 

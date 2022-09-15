@@ -33,7 +33,7 @@ On peut donc considérer qu’en ordre de grandeur le nombre d’élèves qui on
 
 Prenons, pour l’exemple, un chiffre au doigt mouillé de **20%**.
 
-## Pourquoi l’accessibilité est un objectif numéro 1 pour la transition économique ?
+## Pourquoi l’accessibilité est un objectif numéro 1 pour la transition écologique ?
 
 Imaginons que nous aillons un besoin urgent de modifier l’ensemble des programmes scolaires des grandes écoles dans notre pays.
 
