@@ -1,5 +1,5 @@
 ---
-title: "Numrérique responsable, la charge du développeur Front"
+title: "Numérique responsable, la charge du développeur Front"
 categories:
   -  Accessibilité
 ---
