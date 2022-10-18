@@ -11,6 +11,7 @@ navigation: false
 
 ## Chiffres clés/Études
 
+-   [Redirecting Technologies for the Deep Sustainability Transformation - DIGITALRESET](https://digitalization-for-sustainability.com/wp-content/uploads/D4S_DigitalReset_Web-1.pdf)
 -   [Mieux respecter l’eau, un défi pour le numérique et les centres de données](https://advaes.fr/2022/07/18/mieux-respecter-leau-un-defi-pour-le-numerique-et-les-centres-de-donnees/)
 -   [Le numérique en Europe : une approche des impacts environnementaux par l’analyse du cycle de vie (NumEU)](https://www.greenit.fr/le-numerique-en-europe-une-approche-des-impacts-environnementaux-par-lanalyse-du-cycle-de-vie/)
 -   [World Wide Waste](https://www.dropbox.com/s/q2e93acrrgqjopl/User%20experience%20to%20earth%20experience.pdf?dl=0)
@@ -91,6 +92,7 @@ navigation: false
 
 ## Articles/Reflexions
 
+-   [« La dématérialisation des services publics est très défavorable aux classes populaires »](https://www.alternatives-economiques.fr/dematerialisation-services-publics-tres-defavorable-aux-class/00104473?)
 -   [Mobile phone metals](https://www.nhm.ac.uk/discover/your-mobile-phone-is-powered-by-precious-metals-and-minerals.html)
 -   [E-waste, tech’s big dirty secret](https://www.itworldcanada.com/article/e-waste-techs-big-dirty-secret/481142)
 -   [Sobriété décroissance quels imaginaires désirables](https://www.isige.minesparis.psl.eu/sobriete-decroissance-quels-imaginaires-desirables/)
@@ -160,6 +162,7 @@ navigation: false
 ## Low-Tech
 
 -   [Vers une culture low-tech ?](https://librairie.ademe.fr/consommer-autrement/5306-vers-une-culture-low-tech-.html)
+-   [Avec la low-tech, penser et agir par-delà la technique](https://theconversation.com/avec-la-low-tech-penser-et-agir-par-dela-la-technique-185184#Echobox=1665087524)
 
 ## 5G
 
@@ -213,6 +216,8 @@ navigation: false
 -   [Webinaire : mettre en place une stratégie numérique responsable](https://goodwill-management.com/wp-content/uploads/2022/04/presentation-webinaire-NRLD.pdf)
 -   [REPLAY - Webinar NegaOctet du 14 avril 2022](https://www.youtube.com/watch?v=y4uP68LexBo)
 -   [Outils d'empreinte carbone des cloud public : comparer des pommes et des oranges - Pierre Rust](https://www.youtube.com/watch?v=vUbhNL-so7Q)
+-   [Vers un numérique du service public écoresponsable - Richard Hanna](https://www.librealire.org/vers-un-numerique-du-service-public-ecoresponsable-richard-hanna)
+-   [Vers la sobriété numérique -  François ZANINOTTO](https://afup.org/talks/3741-vers-la-sobriete-numerique)
 
 ## Podcasts
 
