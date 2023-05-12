@@ -52,6 +52,7 @@ navigation: false
 
 ## Rapports
 
+-   [The world wide web of carbon: Toward a relational footprinting of information and communications technology's climate impacts](https://journals.sagepub.com/doi/10.1177/20539517231158994)
 -   [Analyse de cycle de vie de la messagerie Treebal](https://gauthierroussilhe.com/book/treebal/)
 -   [Etude numérique et environnement - Digital Wallonia](https://www.digitalwallonia.be/fr/publications/dossier-numerique-environnement-1)
 -   [Sobriété numérique : piloter l’empreinte environnementale du numérique par la mesure](https://www.cigref.fr/sobriete-numerique-piloter-lempreinte-environnementale-du-numerique-par-la-mesure)
@@ -92,6 +93,8 @@ navigation: false
 
 ## Articles/Reflexions
 
+-   [Reality of digitalization](https://mastodon.design/@gauthier/109553088250633998)
+-   [Eco-conception web : les leviers pour un site plus responsable](https://mbamci.com/eco-conception-web-les-leviers-pour-un-site-plus-responsable/)
 -   [« La dématérialisation des services publics est très défavorable aux classes populaires »](https://www.alternatives-economiques.fr/dematerialisation-services-publics-tres-defavorable-aux-class/00104473?)
 -   [Mobile phone metals](https://www.nhm.ac.uk/discover/your-mobile-phone-is-powered-by-precious-metals-and-minerals.html)
 -   [E-waste, tech’s big dirty secret](https://www.itworldcanada.com/article/e-waste-techs-big-dirty-secret/481142)
@@ -218,9 +221,12 @@ navigation: false
 -   [Outils d'empreinte carbone des cloud public : comparer des pommes et des oranges - Pierre Rust](https://www.youtube.com/watch?v=vUbhNL-so7Q)
 -   [Vers un numérique du service public écoresponsable - Richard Hanna](https://www.librealire.org/vers-un-numerique-du-service-public-ecoresponsable-richard-hanna)
 -   [Vers la sobriété numérique -  François ZANINOTTO](https://afup.org/talks/3741-vers-la-sobriete-numerique)
+-   [“Plus que de réemployer, il faudrait surtout chercher à moins produire.”](https://podcast.[ausha.co/declic-ou-des-claques/episode1)
+-   [Green IT : comment construire une roadmap structurée et pragmatique ?](https://app.livestorm.co/atoutdsi/green-it-comment-construire-une-roadmap-structuree-et-pragmatique/live?s=677ddee8-721e-4f9a-b488-7b1131d9dc11#/chat)
 
 ## Podcasts
 
+-   [Minerais et métaux : un enjeu stratégique - EMMANUEL HACHE](https://www.sismique.fr/post/103-extraire-a-tout-prix-emmanuel-hache)
 -   [le RDV design - 02 Lowtech](https://podcast.ausha.co/le-rdv-design/02-lowtech)
 -   [Le numérique peut-il être écologique et responsable ?](https://www.franceculture.fr/emissions/de-cause-a-effets-le-magazine-de-lenvironnement/de-cause-a-effets-le-magazine-de-lenvironnement-du-mardi-05-janvier-2021)
 -   [Numérique & environnement, des optimisations aux effets rebonds](https://soundcloud.com/frictionsnumeriques)
@@ -231,6 +237,7 @@ navigation: false
 -   [« Un numérique vert est-il possible ? » - Usbek & Rika](https://usbeketrica.com/fr/article/un-numerique-vert-est-il-possible)
 -   [Contre le totalitarisme numérique (avec François Jarrige, Matthieu Amiech, Célia Izoard)](https://floraisons.blog/contre-le-totalitarisme-numerique)
 -   [« Démystifier la croissance pour répondre aux enjeux sociétaux » (avec Timothée Parrique)](https://www.cddd.fr/demystifier-croissance-pour-repondre-enjeux-societaux-timothee-parrique-economie-podcast-c3d/)
+-   [Comprendre les enjeux des métaux - avec Thomas Lemaire](https://smartlink.ausha.co/declicsresponsables/21-comprendre-les-enjeux-des-metaux-avec-thomas-lemaire)
 
 ## Indicateurs
 
@@ -259,6 +266,7 @@ navigation: false
 -   [Le numérique éducatif libre et responsable - LA DIGITALE](https://ladigitale.dev/#projet_ecoconception)
 -   [Présentation du ClimaKit élémentaire d'EduClimat](https://www.youtube.com/watch?v=uSzlgUVhygg)
 -   [Application mobile ECOIST CLUB](http://ecoistclub.com/)
+-   [Awesome Green Extensions](https://github.com/Adora-Foundation/awesome-green-extensions)
 
 ## Agences
 

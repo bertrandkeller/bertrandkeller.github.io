@@ -29,3 +29,8 @@ force=true
   from = "/*"
   to = "/404.html"
   status = 404
+
+# https://dev.to/philw_/using-a-netlify-edge-worker-to-cut-down-on-header-bloat-by-removing-html-only-headers-from-your-static-assets-3nh9
+[[edge_functions]]
+  path = "/*"
+  function = "strip-non-html-headers"

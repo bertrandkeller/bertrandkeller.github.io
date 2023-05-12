@@ -18,3 +18,4 @@ navigation: false
 -   [Un écosystème de solutions d'adaptation au changement climatique pour la ville de demain](https://www.adaptaville.fr/alea-climatique/canicules)
 -   [Rafraîchir les villes, des solutions variées - Adème](https://presse.ademe.fr/2021/06/lademe-publie-le-guide-rafraichir-les-villes-des-solutions-variees-19-solutions-pour-lutter-contre-le-rechauffement-urbain.html)
 -   [Quelle nouvelle organisation du territoire pour la transition écologique ?](https://www.youtube.com/watch?v=o56OIVYHR5c)
+-   [S’adapter à +2 °C ou +4 °C ? Scénarios, projections et politiques d’adaptation](https://climatanthropocene.com/2023/02/28/sadapter-a-2-c-ou-4-c-scenarios-projections-et-politiques-dadaptation/)

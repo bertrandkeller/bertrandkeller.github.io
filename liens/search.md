@@ -10,3 +10,4 @@ navigation: false
 - <https://typesense.org/>
 - <https://infinitysearch.co>
 - <https://github.com/nextapps-de/flexsearch>
+- <https://lucaong.github.io/minisearch/>

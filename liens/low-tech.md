@@ -142,4 +142,6 @@ Pour aller plus loin sur le sujet, voici des ressources sur la dynamique Low-Tec
  * **La méthode Miyawaki (végétation) :** <https://vert.eco/articles/en-jordanie-la-methode-miyawaki-senracine-pour-reverdir-le-moyen-orient>
  * **La ville low tech :** <https://www.bouygues-construction.com/blog/fr/dossier-special/ville-low-tech/>
  * **Low-tech en rénovation énergétique (BD) :** <https://programmeprofeel.fr/ressources/low-tech-en-renovation-energetique-la-bande-dessinee/>
- * **Pour des métropoles low-tech et solidaires** https://www.lelabo-ess.org/system/files/2022-02/2022%20-%20Low-tech_WEB.pdf
+ * **Pour des métropoles low-tech et solidaires** <https://www.lelabo-ess.org/system/files/2022-02/2022%20-%20Low-tech_WEB.pdf>
+ * **Avec la low-tech, penser et agir par-delà la technique** <https://theconversation.com/avec-la-low-tech-penser-et-agir-par-dela-la-technique-185184#Echobox=1665087524>
+
