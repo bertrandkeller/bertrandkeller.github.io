@@ -267,6 +267,7 @@ navigation: false
 -   [Présentation du ClimaKit élémentaire d'EduClimat](https://www.youtube.com/watch?v=uSzlgUVhygg)
 -   [Application mobile ECOIST CLUB](http://ecoistclub.com/)
 -   [Awesome Green Extensions](https://github.com/Adora-Foundation/awesome-green-extensions)
+-   [Digital service carbon footprint modeling](https://vincentvillet-footprint-model-gith-interfacestreamlit-1-zfz2hc.streamlit.app/)
 
 ## Agences
 
