@@ -13,16 +13,16 @@ L'étude semble dire que notre cerveau est programmé pour enregistrer des chant
 
 Une autre étude suggère que les oiseaux auraient la capacité de communiquer entre eux avec des stimuli pouvant être considérés comme des mots : [Le langage des oiseaux est plus proche du langage humain que celui des autres animaux](https://www.visiontimes.fr/savoir/nature/langage-oiseaux-plus-proche-langage-humain-que-autres-animaux).
 
-Si des stimuli auditifs sont en capacité de d’augmenter nos capacités de mémorisation, nous pouvons nous demander si :
+Si des stimuli auditifs sont en capacité d’augmenter nos capacités de mémorisation, nous pouvons nous demander si :
 
- * Une partie de notre manière de communiquer se fait à travers des stimuli auditifs ?
+ * Une partie de notre manière de communiquer ne se fait pas à travers des stimuli auditifs ?
  * Si le développement de notre langage n’est pas dépendant de l’existence ou la maîtrise de ces stimuli ?
 
 ## Lecture/Écriture
 
 Attention, notre gouvernement a un plan génial pour l’éducation des plus jeunes pour la maîtrise du langage : [Le quart d’heure lecture](https://eduscol.education.fr/3757/le-quart-d-heure-lecture).
 
-En soit, c'est positif. On autorise les élèves à accéder à la lecture dans le calme sans être dérangés. Personnellement, je reste réservé par cette idée que la lecture de livres seraient le point d’entrée pour le développement du vocabulaire et de l’expression de concept à l’âge adulte.
+En soit, c'est positif. On autorise les élèves à accéder à la lecture dans le calme sans être dérangés, 15 minutes sur le temps scolaire. Personnellement, je reste réservé par cette idée que la lecture de livres seraient le point d’entrée pour le développement du vocabulaire et de l’expression de concept à l’âge adulte.
 
 Je ne suis pas un spécialiste du sujet, mais si on part du principe que l’humanité a vécu sans savoir lire en masse jusqu’au début du 19ème siècle. Alors on peut échafauder l’hypothèse que la lecture de livres ne seraient que le prétexte pour l’apprentissage des stimuli de son groupe social. Et qu’au plus jeune âge, la lecture des parents remplace les veillées de contes.
 
@@ -32,19 +32,19 @@ On sait que les oiseaux disparaissent non pas parce que les tuent directement, m
 
 Imaginons maintenant que l’humain développe d’autant plus son langage qu’il est exposé aux stimuli (ex. des oiseaux) en allant jouer dehors.
 
-Alors, on aurait une explication directe de la baisse des capacités d’exprimer des concepts chez les humains (militons pour la classe dehors).
+Alors, on aurait une explication directe de la baisse des capacités d’exprimer des concepts chez les humains ; manque de stimulation, plus "bruit important", plus adultes peu présents donne : mauvais apprentissage du langage (militons pour la classe dehors).
 
 ## Accessibilité numérique
 
-La particularité de l’accessibilité numérique est que, même si la discipline ne concerne pas exclusivement le numérique, elle s’intéresse avant tout à ce média qu’on parcours hors du monde réel, hors des stimuli de la nature.
+La particularité de l’accessibilité numérique est que, même si la discipline ne concerne pas exclusivement le numérique, elle s’intéresse avant tout à ce média qu’on parcourt hors du monde réel, hors des stimuli de la nature.
 
 Maintenant, si le langage s’appauvrit (et à condition que la théorie de l’exposition à un univers sonore du dehors tient). Je me demande bien ce qu’on échange réellement entre nous. Je me pose des questions sur la perspicacité des échanges écrits à travers nos réseaux sociaux. Je me pose des questions sur la qualité de notre grand jeu de Lecture/Écriture numérique.
 
 *Je me demande même si le jeu de "L’Intelligence Artificielle" n’est pas une croyance en sa capacité à compenser cette perte de langage et de discussion. Pour finalement ne mener nul part.*
 
-Ainsi, quand l’oiseau tente de communiquer à ses semblables qu’un serpent approche à travers des stimuli ; n’est-il pas dans la situation humaine la plus basique d’une personne en situation de handicap en train d’expliquer sa situation.
+Ainsi, quand l’oiseau tente de communiquer à ses semblables qu’un serpent approche à travers des stimuli ; n’est-il pas dans la situation humaine la plus basique d’une personne en situation de handicap en train d’expliquer sa situation. Des signes, expressions… qui montrent que ça va pas du tout.
 
-Allons plus loin, soyons fous, si ces stimuli étaient à la base du développement et l’expression de l’allocentrisme. Notre société computationnelle de l’algorithme froid fait tout pour supprimer son existence.
+Allons plus loin, soyons fous, si ces stimuli étaient à la base du développement et l’expression de l’allocentrisme (Tendance à centrer son attention ou ses activités sur autrui plutôt que sur soi-même). Notre société computationnelle de l’algorithme froid fait tout pour supprimer son existence.
 
 Comment espérer alors que l’accessibilité numérique soit prise en compte si d’un côté le monde numérique ne considère pas ce type de communication dans sa conception, et si en plus les personnes qui le construisent n’ont pas été exposées à une grande variété de stimuli dans leur jeunesse.
 
@@ -58,9 +58,9 @@ La perte de ces stimuli n’est pas perçue car en parallèle de leur passage da
 
 Ainsi comment espérer la prise en compte d’autrui dans le numérique, la compréhension des enjeux de l'accessibilité, si la réussite dans le monde (informatique) est basée sur la perpétuation d’un système qui le détruit ?
 
-Ainsi, il est possible que l’accessibilité numérique ait pour but de faire (re)considérer le langage non verbal dans le numérique entre les personnes qui conçoivent, aussi bien qu’avec les usagers ; arriver ainsi à mettre du sens dans les activités des organisations pour les humains sous toutes leurs formes soient considérés.
+Ainsi, il est possible que l’accessibilité numérique ait pour but de faire (re)considérer le langage non verbal dans le numérique aussi bien entre les personnes qui conçoivent, qu’avec les usagers ; arriver ainsi à mettre du sens dans les activités des organisations pour les humains sous toutes leurs formes soient considérés.
 
-Mais pour cela, il va falloir s’intéresser de plus près à la préservation d’une nature riche et variée car sans cela ce ne sera pas seulement nos paysages qui seront désertiques mais aussi toute notre culture.
+Mais pour cela, il va falloir s’intéresser de plus près à la préservation d’une nature riche et variée car sans cela ce ne sera pas seulement nos paysages qui seront désertiques mais aussi la solidarité qui caractérise notre espèce.
 
 
 
