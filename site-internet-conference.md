@@ -18,7 +18,7 @@ permalink: /site-internet-conference-bourg-en-bresse/
 <section class="panel panel-first bg-black">
   <a href="/" class="nav-back">Accueil</a>
   <div class="panel_int">
-    <h1>bertrand keller<br><small>Sites Web & audits accessibilité à Bourg-en-Bresse</small></h1>
+    <h1>bertrand keller<br><small>Référents Accessibilité à Bourg-en-Bresse</small></h1>
     <p>bertrand.keller(@)gmail.com</p>
     <p class="anchor"><a href="#id-presentation">Conférences</a></p>
     <p class="anchor arrow">
