@@ -1,3 +1,19 @@
+- name: Accessibilite Vs WebPerf - Webperformance We Love Speed Paris 2023
+  url: https://bertrandkeller.github.io/conference-welovespeed-2023-accessibilityVSwebperf/
+  video: https://www.youtube.com/watch?v=_llRQk3-yXg
+  image: presentation-we-love-speed-2023.png
+- name: Les déchets du numérique - Semaine européenne des déchets Beaujolais 2022
+  url: https://bertrandkeller.github.io/conference-serd-beaujolais/
+  image: presentation-serd-2022.png
+- name: Accessibilite pourquoi démarrer un audit - Agile Tour Montepellier2022
+  url: https://bertrandkeller.github.io/conference-audit-rapide-agile-tour-montpellier-2022/
+  image: presentation-agile-tour-2022.png
+- name: Un outil d’audit pour l’accessibilité Open Sourcé par l’État - Open Source Expérience 2021
+  url: https://bertrandkeller.github.io/conference-osxp-outil-accessibilite-open-source-etat/
+  image: presentation-opensourceexperience-2021.png
+- name: Accessibilité au cœur des développements - DevFest Strasbourg 2021
+  url: https://bertrandkeller.github.io/conference-devfest-accessibilite-coeur-developpement/
+  image: presentation-devfest-strasbourg-2021.png
 - name: Surface d’attaque et sites statiques - Construire un site Low-Tech - NetSecureDay 2019
   url: https://bertrandkeller.github.io/conference-netsecure-day-surface-attaque-site-low-tech/
   image: presentation-netsecure-day-site-map-surface.png

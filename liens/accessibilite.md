@@ -93,13 +93,14 @@ Voici une liste de ressources qui montrent comment aborder l’accessibilité
 
 **Télécharger :**
 
-  * <https://github.com/DISIC/frago/blob/master/static/grille-criteres-rgaa.csv>
+  * <https://github.com/lowdit/frago/blob/master/static/grille-criteres-rgaa.csv>
   * <https://chrome.google.com/webstore/detail/assistant-rgaa/cgpmofepeeiaaljkcclfldhaalfpcand?hl=fr>
 
 **Ressources :**
 
   * <https://www.getstark.co/blog/accessible-contrast-ratios-and-a-levels-explained>
   * <https://html5accessibility.com/stuff/2022/01/10/alt-tag-emptiness/>
+  * <https://slides.com/doc_roms/accessibility-a11y/fullscreen>
 
 **Consulter :**
 

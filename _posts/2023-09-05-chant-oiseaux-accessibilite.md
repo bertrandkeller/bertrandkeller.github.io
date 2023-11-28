@@ -9,7 +9,7 @@ Y-a-t-il un lien entre la diversité de notre langage et la biodiversité dans l
 ## Les stimuli auditifs
 
 Au niveau scientifique, j’ai trouvé une étude qui établie que notre mémoire de travail est plus performante si le cerveau reçoit des stimuli au moment de l’écoute : [Des chants d'oiseaux pour étudier le langage humain](https://www.techno-science.net/actualite/chants-oiseaux-etudier-langage-humain-N20131.html).
-L'étude semble dire que notre cerveau est programmé pour enregistrer des chants (comme celui des oiseaux - sans sens verbale évident) et que cette mise en mémoire est favorisée par l’existence de stimuli… sachant qu’un chant d’oiseaux peut lui même être considéré comme un stimuli.
+L'étude semble dire que notre cerveau est programmé pour enregistrer des chants (comme celui des oiseaux - sans sens verbal évident) et que cette mise en mémoire est favorisée par l’existence de stimuli… sachant qu’un chant d’oiseaux peut lui même être considéré comme un stimuli.
 
 Une autre étude suggère que les oiseaux auraient la capacité de communiquer entre eux avec des stimuli pouvant être considérés comme des mots : [Le langage des oiseaux est plus proche du langage humain que celui des autres animaux](https://www.visiontimes.fr/savoir/nature/langage-oiseaux-plus-proche-langage-humain-que-autres-animaux).
 
@@ -28,7 +28,7 @@ Je ne suis pas un spécialiste du sujet, mais si on part du principe que l’hum
 
 La maîtrise du langage pourrait être dépendante de la connaissance des intonations, relations et autres structures de phrases. Indépendamment du sens premier des mots.
 
-On sait que les oiseaux disparaissent non pas parce que les tuent directement, mais parce qu'on divise leur habitat. Exposé au bruit, les oisillons entendent moins leurs parents (trop de bruit ambiant). Ils sont donc moins bien préparés aux dangers et peuvent donc mourir plus vite.
+On sait que les oiseaux disparaissent non pas parce que les tuent directement, mais parce qu'on divise leur habitat. Exposés au bruit, les oisillons entendent moins leurs parents (trop de bruit ambiant). Ils sont donc moins bien préparés aux dangers et peuvent donc mourir plus vite.
 
 Imaginons maintenant que l’humain développe d’autant plus son langage qu’il est exposé aux stimuli (ex. des oiseaux) en allant jouer dehors.
 
@@ -40,7 +40,7 @@ La particularité de l’accessibilité numérique est que, même si la discipli
 
 Maintenant, si le langage s’appauvrit (et à condition que la théorie de l’exposition à un univers sonore du dehors tient). Je me demande bien ce qu’on échange réellement entre nous. Je me pose des questions sur la perspicacité des échanges écrits à travers nos réseaux sociaux. Je me pose des questions sur la qualité de notre grand jeu de Lecture/Écriture numérique.
 
-*Je me demande même si le jeu de "L’Intelligence Artificielle" n’est pas une croyance en sa capacité à compenser cette perte de langage et de discussion. Pour finalement ne mener nul part.*
+*Je me demande même si le jeu de "L’Intelligence Artificielle" n’est pas une croyance en sa capacité à compenser cette perte de langage et de discussion. Pour finalement ne mener nulle part.*
 
 Ainsi, quand l’oiseau tente de communiquer à ses semblables qu’un serpent approche à travers des stimuli ; n’est-il pas dans la situation humaine la plus basique d’une personne en situation de handicap en train d’expliquer sa situation. Des signes, expressions… qui montrent que ça va pas du tout.
 

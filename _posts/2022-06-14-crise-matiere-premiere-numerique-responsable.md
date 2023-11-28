@@ -92,7 +92,7 @@ Les **inventaires** concernent bien entendu des produits matériels, des ressour
 
 Pour le numérique, les référentiels (comme le RGAA, le RGS ou le REGESN) permettent de faire l’inventaire de l’état de fonctionnement d’un service. Ces référentiels ne sont composés de tests non automatisables, il s’agit de vérification humaine.
 
-Dans le prochain article, je pourrai introduire l’outil [Frago](https://github.com/DISIC/frago). Il permet d’avoir une démarche unifiée pour la gestion de différents **inventaires** et de proposer des synthèses afin de suivre le niveau de conformité multi-démarche.
+Dans le prochain article, je pourrai introduire l’outil [Frago](https://github.com/lowdit/frago/). Il permet d’avoir une démarche unifiée pour la gestion de différents **inventaires** et de proposer des synthèses afin de suivre le niveau de conformité multi-démarche.
 
 Il est propulsé par goHugo un Générateur de Site Statique (GSS) pour des sites sobres et Low-Tech.
 

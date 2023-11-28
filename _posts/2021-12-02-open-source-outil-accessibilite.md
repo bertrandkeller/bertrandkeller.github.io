@@ -25,7 +25,7 @@ Ainsi, mon intervention consiste à montrer que le plus souvent la bureaucratie 
 
 ## L’outil
 
-Pour donner un exemple de numérisation possible de ce processus, j’ai créé un outil Open Source hébergé à la DINUM : [FRAGO](https://github.com/DISIC/frago/).
+Pour donner un exemple de numérisation possible de ce processus, j’ai créé un outil Open Source hébergé à la DINUM : [FRAGO](https://github.com/lowdit/frago/).
 
 Cet outil permet de résoudre plusieurs problèmes que j’ai identifié :
 

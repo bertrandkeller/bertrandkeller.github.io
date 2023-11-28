@@ -4,7 +4,7 @@ categories:
   -  Eco-responsable
 ---
 
-Actuellement, je me passionne pour la mesure. J'ai conçu [Lowtus](https://lowtus.fr) pour faire des comparatifs de performances de pages web (dans le temps). Et je travaille sur ma nouvelle fierté [Frago](https://github.com/DISIC/frago) (French governemental Reports for Accessibility compliance with goHugo) ; un outil pour générer des synthèses d’audits RGAA (à partir d’un fichier `csv`).
+Actuellement, je me passionne pour la mesure. J'ai conçu [Lowtus](https://lowtus.fr) pour faire des comparatifs de performances de pages web (dans le temps). Et je travaille sur ma nouvelle fierté [Frago](https://github.com/lowdit/frago/) (French governemental Reports for Accessibility compliance with goHugo) ; un outil pour générer des synthèses d’audits RGAA (à partir d’un fichier `csv`).
 
 J’avais évoqué le sujet de la mesure dans l’article [L’éco-conception et la mesure](https://bertrandkeller.info/2020/12/04/eco-conception-et-mesure/). Notre monde moderne a été construit sur un principe social basé sur la croyance que l’homme éduqué est en capacité de comprendre le monde en l’étudiant ; et de le transformer en conséquence.
 

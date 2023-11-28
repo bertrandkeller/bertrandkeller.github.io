@@ -105,7 +105,7 @@ type: article
 </svg>
 Audit accessibilité (RGAA) - Frago</h2>
         <p>J'ai travaillé 2 ans pour le Ministère de l’Économie et des Finances (en collaboration avec la DINUM). J'ai pu me forger une forte expérience sur les questions de conformité légale.</p>
-        <p>C’est dans ce cadre que <a href="https://disic.github.io/frago/docs/">FRAGO</a> est né. Il s’agit d’un outil, utilisé dans les ministères, pour générer des synthèses d’audit et des déclarations (à partir du fichier d’audit).</p>
+        <p>C’est dans ce cadre que <a href="https://github.com/lowdit/frago/">FRAGO</a> est né (Site de la documentation : <a href="https://lowdit.github.io/frago/">Documentation de FRAGO</a> ). Il s’agit d’un outil, utilisé dans les ministères, pour générer des synthèses d’audit et des déclarations (à partir du fichier d’audit).</p>
         <ol class="panel-list">
             <li><span>Audit RGAA</span></li>
             <li><span>Recommandations mise en conformité</span></li>

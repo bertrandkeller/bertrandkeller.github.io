@@ -47,7 +47,7 @@ GoHugo a évidemment beaucoup de défauts, ses difficultés d’usage… mais at
 
 ## Architecture de Frago
 
-Ainsi pour utiliser `Frago`, il faut avant tout construire son architecture de contenu ([comme le propose la documentation](https://disic.github.io/frago/docs/demarrer/configurer-frago/)) et se connecter au thème ([dépôt du thème](https://github.com/DISIC/frago))
+Ainsi pour utiliser `Frago`, il faut avant tout construire son architecture de contenu ([comme le propose la documentation](https://lowdit.github.io/frago/demarrer/configurer-frago/)) et se connecter au thème ([dépôt du thème](https://github.com/lowdit/frago/))
 
 ### Principe
 
