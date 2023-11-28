@@ -17,7 +17,7 @@ type: article
 <section class="panel panel-first bg-black">
   <a href="/" class="nav-back">Accueil</a>
   <div class="panel_int">
-  <h1>bertrand keller<br><small>Sites Web à Bourg-en-Bresse</small></h1>
+  <h1>bertrand keller<br><small>Référents Accessibilité et Éco-Conception à Bourg-en-Bresse</small></h1>
   <p>bertrand.keller(@)gmail.com</p>
   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
@@ -192,7 +192,7 @@ Audit accessibilité (RGAA) - Frago</h2>
 </svg>
 Actions bénévoles</h2>
         <p>Agir fait partie de mon quotidien. J’ai fait partie du staff pour l’organisation de 2 conférences web importantes au niveau national : <a href="http://codeursenseine.com">Codeurs en Seine</a> et <a href="https://sudweb.fr">Sud-Web</a>. Cette action permet de rester au plus près des problématiques technologiques, mais aussi de préserver les valeurs de partage propres au web.</p>
-        <p>Je m’implique dans des projets citoyens comme <a href="https://hopdurable.fr">Hop!Durable</a> (culture de l’aménagement durable), <a href="https://www.fne-aura.org/ain/">France Nature Environnement Ain</a>, les conseils de quartier de ma ville, les jardins partagés.</p>
+        <p>Je m’implique dans des projets citoyens comme <a href="https://hopdurable.fr">Hop!Durable</a> (culture de l’aménagement durable), <a href="https://www.fne-aura.org/ain/">France Nature Environnement Ain</a>, les conseils de quartier de ma ville, les jardins partagés, <a href="https://asso.greenit.fr/">Association GreenIT</a>.</p>
         <ol class="panel-list">
             <li><span>Prendre du plaisir</span></li>
             <li><span>Aller vers les autres</span></li>
