@@ -2,14 +2,14 @@
   url: https://bertrandkeller.github.io/conference-welovespeed-2023-accessibilityVSwebperf/
   video: https://www.youtube.com/watch?v=_llRQk3-yXg
   image: presentation-we-love-speed-2023.png
-- name: Les déchets du numérique - Semaine européenne des déchets Beaujolais 2022
+- name: Les déchets du numérique - Semaine européenne des déchets - Beaujolais 2022
   url: https://bertrandkeller.github.io/conference-serd-beaujolais/
   image: presentation-serd-2022.png
 - name: Frago, outil pour suivre l'accessibilité… mais pas que - Breizh Camp 2022
   url: https://bertrandkeller.github.io/frago-outil-de-suivi-de-conformite/
   video: https://www.youtube.com/watch?v=rFhLkdKTXSI
   image: presentation-frago-breizh-camp-2022.png
-- name: Accessibilite pourquoi démarrer un audit - Agile Tour Montepellier 2022
+- name: Accessibilite pourquoi démarrer un audit - Agile Tour Montpellier 2022
   url: https://bertrandkeller.github.io/conference-audit-rapide-agile-tour-montpellier-2022/
   image: presentation-agile-tour-2022.png
 - name: Un outil d’audit pour l’accessibilité Open Sourcé par l’État - Open Source Expérience 2021
@@ -32,10 +32,10 @@
 - name: Les sites statiques en 2018 - Présentation entreprise
   url: https://bertrandkeller.github.io/Gss-en-2018/
   image: presentation-gss-en-2018.png
-- name: Atelier Paris Web 2018 - Le formulaire parfait - Paris Web 2018
+- name: Atelier - Le formulaire parfait - Paris Web 2018
   url: https://bertrandkeller.github.io/perfect-form/
   image: presentation-formulaire-parfait.png
-- name: Atelier Paris Web 2017 - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)
+- name: Atelier - Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…) - Paris Web 2017
   url: https://bertrandkeller.github.io/conference-decliner-des-sites-statiques-performants/
   image: presentation-atelier-generateur-site-statique-paris-web.png
 - name: Ne passons pas à côté des choses simples - Paris Web 2016
