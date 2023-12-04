@@ -5,7 +5,11 @@
 - name: Les déchets du numérique - Semaine européenne des déchets Beaujolais 2022
   url: https://bertrandkeller.github.io/conference-serd-beaujolais/
   image: presentation-serd-2022.png
-- name: Accessibilite pourquoi démarrer un audit - Agile Tour Montepellier2022
+- name: Frago, outil pour suivre l'accessibilité… mais pas que - Breizh Camp 2022
+  url: https://bertrandkeller.github.io/frago-outil-de-suivi-de-conformite/
+  video: https://www.youtube.com/watch?v=rFhLkdKTXSI
+  image: presentation-frago-breizh-camp-2022.png
+- name: Accessibilite pourquoi démarrer un audit - Agile Tour Montepellier 2022
   url: https://bertrandkeller.github.io/conference-audit-rapide-agile-tour-montpellier-2022/
   image: presentation-agile-tour-2022.png
 - name: Un outil d’audit pour l’accessibilité Open Sourcé par l’État - Open Source Expérience 2021
