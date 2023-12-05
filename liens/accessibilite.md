@@ -89,12 +89,14 @@ Voici une liste de ressources qui montrent comment aborder l’accessibilité
  * <https://www.accede-web.com/notices/>
  * <http://pauljadam.github.io/a11y-standards/index.html>
 
+
 ### Exemples
 
 **Télécharger :**
 
   * <https://github.com/lowdit/frago/blob/master/static/grille-criteres-rgaa.csv>
   * <https://chrome.google.com/webstore/detail/assistant-rgaa/cgpmofepeeiaaljkcclfldhaalfpcand?hl=fr>
+  * <https://lowdit.github.io/frago/>
 
 **Ressources :**
 
@@ -124,10 +126,11 @@ L’accessibilité est une compétence générale à une équipe chargée de dé
 
 ### Design
 
-L’accessibilité concerne souvent particulièrement la validée du code HTML ; les ressources design existent mais ne sont pas forcément fréquente. Pourtant, c’est bien en amont que les sujets d’accessibilité se décident. L’accessibilité doit être intégré au processus de design d’un service web. C'est une compétence qui se forge avec l’expérience.
+L’accessibilité concerne souvent particulièrement la validée du code HTML ; les ressources design existent mais ne sont pas forcément fréquentes. Pourtant, c’est bien en amont que les sujets d’accessibilité se décident. L’accessibilité doit être intégré au processus de design d’un service web. C'est une compétence qui se forge avec l’expérience.
 
 **Lire :**
 
+* <https://design-accessible.fr/>
 * <https://fr.slides.access42.net/uxrennes2017/> - <https://fr.slides.access42.net/uxrennes2017/slides/>
 * <https://newflux.fr/2016/11/05/les-bonnes-pratiques-pour-concevoir-pour-laccessibilite/>
 * <https://stephaniewalter.design/fr/blog/accessibilite-et-couleurs-outils-et-ressources-pour-concevoir-des-produits-accessible/>
