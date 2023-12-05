@@ -6,7 +6,7 @@ categories:
 
 Nous confondons cela avec la valeur, et nous le confondons avec la vérité… nous dit [Chamath Palihapitiya](https://www.linkedin.com/in/chamath/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BWqA8so4pQUGXiyCX61O9pQ%3D%3D). Max Weber affirme lui que nous avons tendance à confondre les valeurs et les faits, et cela constitue un obstacle à la pensée rigoureuse. Quel rapport avec l’hashtag#accessibilité ?
 
-Je suis en train d’écrire un article pour [24joursdeweb](https://www.24joursdeweb.fr/) sur l’ccessibilité de combat. J’ouvre des lignes. Récemment on vient de me dire que l’accessibilité était un sujet qui me tenait à cœur et que je ne devais pas demander à d’autres personnes de le porter (chez les développeurs).
+Je suis en train d’écrire un article pour [24joursdeweb](https://www.24joursdeweb.fr/) sur l’accessibilité de combat. J’ouvre des lignes. Récemment on vient de me dire que l’accessibilité était un sujet qui me tenait à cœur et que je ne devais pas demander à d’autres personnes de le porter (chez les développeurs).
 
 Ça ne me tient pas à cœur du tout. La discrimination me tient à cœur. L’accessibilité c’est un moyen.
 

@@ -20,7 +20,7 @@ permalink: /site-internet-conference-bourg-en-bresse/
   <div class="panel_int">
     <h1>bertrand keller<br><small>Référents Accessibilité à Bourg-en-Bresse</small></h1>
     <p>bertrand.keller(@)gmail.com</p>
-    <p class="anchor"><a href="#id-presentation">Conférences</a></p>
+    <p class="anchor"><a href="#conference">Conférences</a></p>
     <p class="anchor arrow">
       <a href="#id-portfolio">Accéder aux panneaux<br>
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
@@ -59,7 +59,7 @@ permalink: /site-internet-conference-bourg-en-bresse/
     Présentations</h2>
   <p>Présentations que j'ai pu donner lors de conférences francophones aux 4 coins de France.</p>
   <br>
-  <div class="gallery">
+  <div id="conference" class="gallery">
     {% for project in site.data.talks %}
     <div class="gallery-module">
       <h3>{{ project.name }}</h3>
