@@ -28,7 +28,7 @@ navigation: false
 -   [Understanding the global threat of a rapidly warming Arctic - Wood Well Climate](https://www.woodwellclimate.org/research-area/arctic/)
 -   [A quick guide to your digital carbon footprint - Ericsson](https://www.ericsson.com/en/reports-and-papers/industrylab/reports/a-quick-guide-to-your-digital-carbon-footprint)
 -   [Investigating the Correlation between Performance Scores and Energy Consumption of Mobile Web Apps - Research Gate](https://www.researchgate.net/publication/341123776_Investigating_the_Correlation_between_Performance_Scores_and_Energy_Consumption_of_Mobile_Web_Apps)
--   [Eco-conception de service numériqueNote de synthèse - Eco-Conception](https://www.eco-conception.fr/data/sources/users/2242/2019-note-de-synthese-numerique-abrezgeze-public.pdf)
+-   [Eco-conception de service numérique - Note de synthèse - Eco-Conception](https://www.eco-conception.fr/data/sources/users/2242/2019-note-de-synthese-numerique-abrezgeze-public.pdf)
 -   [Why do estimates for internet energy consumption vary so drastically? -Wholegrain Digital](https://www.wholegraindigital.com/blog/website-energy-consumption/)
 -   [Effets rebond du numérique - CNRS](https://ecoinfo.cnrs.fr/effets-rebond-du-numerique/)
 -   [Chiffres clés du climatFrance, Europe et Monde - 2021](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/datalab_81_chiffres_cles_du_climat_edition_2021.pdf)
@@ -172,8 +172,8 @@ navigation: false
 -   [Impact environnemental du numérique :tendances à 5 ans et gouvernance de la 5g](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)
 -   [La controverse de la 5G - Gauthier Roussilhe](https://drive.infomaniak.com/app/share/128619/9e317de6-c376-46ed-80dc-20dccfbf4874/preview/pdf/7603)
 -   [5G is just one connectivity option](https://urgentcomm.com/2020/07/06/5g-is-just-one-connectivity-option/?hsamp_network=twitter&hsamp=bYRnKYbpi2t63)
--    [Déboulonnons la 5G - L’âge de faire](https://lagedefaire-lejournal.fr/deboulonnons-la-5g/)
--    [Conférence "La 5G est-elle vraiment raisonnable ?", avec Stephen Kerckhove et Raphaël Lemaire](https://www.youtube.com/watch?v=rc3R0TMQ5z4)
+-   [Déboulonnons la 5G - L’âge de faire](https://lagedefaire-lejournal.fr/deboulonnons-la-5g/)
+-   [Conférence "La 5G est-elle vraiment raisonnable ?", avec Stephen Kerckhove et Raphaël Lemaire](https://www.youtube.com/watch?v=rc3R0TMQ5z4)
 
 ## Formations
 
