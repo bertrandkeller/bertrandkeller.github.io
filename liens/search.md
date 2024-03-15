@@ -11,3 +11,4 @@ navigation: false
 - <https://infinitysearch.co>
 - <https://github.com/nextapps-de/flexsearch>
 - <https://lucaong.github.io/minisearch/>
+- <https://github.com/m31coding/fuzzy-search>
